@@ -1,5 +1,37 @@
 ---
-{"dg-publish":true,"permalink":"/02-projects/the-recursive-garden/the-recursive-garden/","tags":["gardenEntry"]}
+{"dg-publish":true,"dg-home":true,"permalink":"/02-projects/the-recursive-garden/the-recursive-garden/","tags":["gardenEntry"],"dgPassFrontmatter":true}
 ---
 
-Welcome to The Recursive Garden
+# The Recursive Garden
+
+A procedural environment for cultivating ideas through **aesthetic recursion**—publishing notes that are meant to be revised, tested, and sometimes replaced.
+
+## Orientation
+This is a public working system by **Seth Robins**. The intent is to **explore and formalize** a philosophical framework (RDD) while developing related work: PKM methods, book-derived syntheses, critical reviews, and fiction. Notes are hypotheses and draftable artifacts, not final statements.
+
+## Working Definition (RDD)
+> **Recursive Distinction Dynamics (RDD)** is a **working framework**: reality is modeled as distinctions that recursively feed their outputs into the next round of boundary-making. Time, causality, coherence, and agency are treated as **consequences** of that process.  
+> This definition is provisional and will evolve as the formalism improves.
+
+## Paths
+Curated entry points. Hubs favor stable/canonical notes; drafts remain visible but de-emphasized.
+- [[02-Projects/Recursive Distinction Dynamics\|Recursive Distinction Dynamics (Hub)]]
+- [[Open PKM\|Open PKM (Hub)]]
+- [[Reading Notes\|Reading Notes (Hub)]]
+- [[Reviews & Insights\|Reviews & Insights (Hub)]]
+- [[Fiction Projects\|Fiction Projects (Hub)]]
+- [[About\|About]]
+## Working Rules
+- Publish early; mark status: `seed | draft | stable | canonical`.
+- Prefer atoms (definitions) and molecules (syntheses) over long unstructured prose.
+- Link only when the link clarifies an argument or formal dependency.
+- Revise or retire notes when better formalizations emerge.
+
+## Latest Growth
+Recent public changes across the garden.
+
+- [[02-Projects/The Recursive Garden/The Recursive Garden\|The Recursive Garden]]
+- [[04-Resources/Atoms/RDD – Distinction (Definition)\|RDD – Distinction (Definition)]]
+
+{ .block-language-dataview}
+
