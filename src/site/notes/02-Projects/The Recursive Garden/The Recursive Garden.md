@@ -17,10 +17,10 @@ This is a public working system by **Seth Robins**. The intent is to **explore a
 Curated entry points. Hubs favor stable/canonical notes; drafts remain visible but de-emphasized.
 - [[02-Projects/Recursive Distinction Dynamics\|Recursive Distinction Dynamics (Hub)]]
 - [[Open PKM\|Open PKM (Hub)]]
-- [[Reading Notes\|Reading Notes (Hub)]]
+- [[04-Resources/Reading Notes\|Reading Notes (Hub)]]
 - [[Reviews & Insights\|Reviews & Insights (Hub)]]
 - [[Fiction Projects\|Fiction Projects (Hub)]]
-- [[About\|About]]
+- [[02-Projects/The Recursive Garden/About\|About]]
 ## Working Rules
 - Publish early; mark status: `seed | draft | stable | canonical`.
 - Prefer atoms (definitions) and molecules (syntheses) over long unstructured prose.
@@ -30,8 +30,16 @@ Curated entry points. Hubs favor stable/canonical notes; drafts remain visible b
 ## Latest Growth
 Recent public changes across the garden.
 
-- [[02-Projects/The Recursive Garden/The Recursive Garden\|The Recursive Garden]]
-- [[04-Resources/Atoms/RDD – Distinction (Definition)\|RDD – Distinction (Definition)]]
+| Note                                                                                                                                             | Updated              |
+| ------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------- |
+| [[04-Resources/Reading Notes\|Reading Notes]]                                                                                                 | Oct 27, 2025 7:27 PM |
+| [[04-Resources/Books/A Brief History of Thought_A Philosophical Guide to Living\|A Brief History of Thought_A Philosophical Guide to Living]] | Oct 27, 2025 7:26 PM |
+| [[02-Projects/Recursive Distinction Dynamics\|Recursive Distinction Dynamics]]                                                                | Oct 27, 2025 7:20 PM |
+| [[02-Projects/The Recursive Garden/About\|About]]                                                                                             | Oct 27, 2025 7:05 PM |
+| [[02-Projects/The Recursive Garden/The Recursive Garden\|The Recursive Garden]]                                                               | Oct 27, 2025 6:41 PM |
+| [[04-Resources/Books/Consciousness in Practice\|Consciousness in Practice]]                                                                   | Oct 27, 2025 6:35 PM |
+| [[04-Resources/Atoms/RDD – Distinction (Definition)\|RDD – Distinction (Definition)]]                                                         | Oct 26, 2025 9:31 PM |
 
 { .block-language-dataview}
-
+---
+[![Buy Me A Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://buymeacoffee.com/sethrobinsw)
