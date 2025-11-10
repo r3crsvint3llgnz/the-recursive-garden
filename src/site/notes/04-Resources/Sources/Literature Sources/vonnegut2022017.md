@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"title":"2 B R 0 2 B | The Pink Classics","authors":"","year":"1483250400000","status":"reading","summary":"","themes":[],"citekey":"vonnegut2022017","zotero_uri":"","doi":"","isbn":"978-3-96255-212-1","url":"","cover":"","garden_note":"[[../../Books/vonnegut2022017\|2 B R 0 2 B ]]","created":null,"updated":null,"permalink":"/04-resources/sources/literature-sources/vonnegut2022017/","dgPassFrontmatter":true}
+{"dg-publish":true,"title":"2 B R 0 2 B | The Pink Classics","authors":"","year":"1483250400000","status":"reading","summary":"","themes":[],"citekey":"vonnegut2022017","zotero_uri":"","doi":"","isbn":"978-3-96255-212-1","url":"","cover":"","created":null,"updated":null,"permalink":"/04-resources/sources/literature-sources/vonnegut2022017/","dgPassFrontmatter":true}
 ---
 
 
@@ -30,6 +30,6 @@
 > - …
 
 > [!info]- Links
-> - Garden note (if exists): [[../../Books/vonnegut2022017|2 B R 0 2 B | The Pink Classics]]
+> - Garden note (if exists): [[../../Books/vonnegut2022017\|2 B R 0 2 B ]]
 > - Open in Zotero: 
 > - External link: 

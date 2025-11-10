@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"title":"Laws of Form","authors":"","year":"757404000000","status":"reading","summary":"","themes":[],"citekey":"spencer-brownLawsForm1994","zotero_uri":"","doi":"","isbn":"978-0-9639899-0-1","url":"","cover":"","garden_note":"[[../../Books/spencer-brownLawsForm1994\|Laws of Form]]","created":null,"updated":null,"permalink":"/04-resources/sources/literature-sources/spencer-brown-laws-form1994/","dgPassFrontmatter":true}
+{"dg-publish":true,"title":"Laws of Form","authors":"","year":"757404000000","status":"reading","summary":"","themes":[],"citekey":"spencer-brownLawsForm1994","zotero_uri":"","doi":"","isbn":"978-0-9639899-0-1","url":"","cover":"","created":null,"updated":null,"permalink":"/04-resources/sources/literature-sources/spencer-brown-laws-form1994/","dgPassFrontmatter":true}
 ---
 
 
@@ -30,6 +30,6 @@
 > - …
 
 > [!info]- Links
-> - Garden note (if exists): [[../../Books/spencer-brownLawsForm1994|Laws of Form]]
+> - Garden note (if exists): [[../../Books/spencer-brownLawsForm1994\|Laws of Form]]
 > - Open in Zotero: 
 > - External link: 
