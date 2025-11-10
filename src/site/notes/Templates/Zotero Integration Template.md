@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"title":"{{title}}","authors":"{{authorString}}","year":"{{date}}","status":"reading","summary":"","themes":[],"citekey":"{{citekey}}","zotero_uri":"{{link}}","doi":"{{DOI}}","isbn":"{{ISBN}}","url":"{{url}}","cover":"","garden_note":"[[../../Books/{{citekey}}\|{{title}}]]","created":null,"updated":null,"permalink":"/templates/zotero-integration-template/","dgPassFrontmatter":true}
+{"dg-publish":true,"title":"{{title}}","authors":"{{authorString}}","year":"{{date}}","status":"reading","summary":"","themes":[],"citekey":"{{citekey}}","zotero_uri":"{{link}}","doi":"{{DOI}}","isbn":"{{ISBN}}","url":"{{url}}","cover":"","created":null,"updated":null,"permalink":"/templates/zotero-integration-template/","dgPassFrontmatter":true}
 ---
 
 
@@ -30,6 +30,6 @@
 > - …
 
 > [!info]- Links
-> - Garden note (if exists): [[../../Books/{{citekey}}|{{title}}]]
+> - Book Note (if exists): [[../../Books/{{citekey}}\|{{title}}]]
 > - Open in Zotero: {{link}}
 > - External link: {{url}}
