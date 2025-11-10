@@ -19,9 +19,8 @@
 ---
 
 > [!example]+ Last finishes
->  |                                                                                                                                                                                                                                  | Book                                                                           | Author                       | Year | Finished | ★  | Summary |
-> | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------ | ---------------------------- | ---- | -------- | -- | ------- |
-> | <a href='[[04-Resources/Books/Consciousness in Practice\|Consciousness in Practice]]'><img src='https://m.media-amazon.com/images/I/81SyhHiY-kL._SL1500_.jpg' height='120' style='border-radius:6px;object-fit:contain'/></a> | [[04-Resources/Books/Consciousness in Practice\|Consciousness in Practice]] | [[Brian Heath\|Brian Heath]] | 2025 |          | \- |         |
+>  |  | Book | Author | Year | Finished | ★ | Summary |
+> |  | ---- | ------ | ---- | -------- | - | ------- |
 > 
 { .block-language-dataview}
 ---
