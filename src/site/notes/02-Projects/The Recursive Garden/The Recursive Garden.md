@@ -53,6 +53,7 @@
 >
 >  | Note                                                                                                                                         | Updated              |
 > | -------------------------------------------------------------------------------------------------------------------------------------------- | -------------------- |
+> | [[04-Resources/Books/The Skeptics' Guide to the Universe\|The Skeptics' Guide to the Universe]]                                           | Nov 09, 2025 9:19 PM |
 > | [[Templates/Zotero Integration Template\|Zotero Integration Template]]                                                                    | Nov 09, 2025 9:15 PM |
 > | [[04-Resources/Authors/David Deutsch\|David Deutsch]]                                                                                     | Nov 09, 2025 9:04 PM |
 > | [[04-Resources/Prompts/The Meeting-to-Action Framework\|The Meeting-to-Action Framework]]                                                 | Nov 09, 2025 8:58 PM |
@@ -64,7 +65,6 @@
 > | [[04-Resources/Prompts/Pareto Project Filter (80_20)\|Pareto Project Filter (80_20)]]                                                     | Nov 09, 2025 8:35 PM |
 > | [[04-Resources/Prompts/Learn a topic via the 80_20 pass (Pareto learning)\|Learn a topic via the 80_20 pass (Pareto learning)]]           | Nov 09, 2025 8:35 PM |
 > | [[04-Resources/Prompts/Absurdly useful micro-prompts (grab-bag; pick per need)\|Absurdly useful micro-prompts (grab-bag; pick per need)]] | Nov 09, 2025 8:32 PM |
-> | [[04-Resources/Prompts/Ultimate team of experts (multi-role reasoning)\|Ultimate team of experts (multi-role reasoning)]]                 | Nov 09, 2025 8:30 PM |
 > 
 { .block-language-dataview}
 ---
