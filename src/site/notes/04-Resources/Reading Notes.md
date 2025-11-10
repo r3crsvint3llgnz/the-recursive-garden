@@ -4,52 +4,57 @@
 
 # Reading Notes
 
-Scope: public book notes in `04-Resources/Books/` created via **Citations**. Source cards in `04-Resources/Sources/Literature Sources/` from **Zotero Integration**.
+> [!note]+ Active shelf
+>  |  | Title | Author | Year |
+> |  | ----- | ------ | ---- |
+> 
+{ .block-language-dataview}
+ ---
 
-### Fields expected (books)
-`dg-publish: true` · `reading_status: queued|reading|finished|abandoned` · `summary:` (one line) · `started:` · `finished:` · `cover:` (optional) · `citekey:`
-
+> [!tip]+ Up next
+>  |  | Queued | Author | Year | Summary |
+> |  | ------ | ------ | ---- | ------- |
+> 
+{ .block-language-dataview}
 ---
 
-## Currently reading
-| Book                                                                                                                                             | Author                   | Year | Started | Summary                         |
-| ------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------ | ---- | ------- | ------------------------------- |
-| [[04-Resources/Books/A Brief History of Thought_A Philosophical Guide to Living\|A Brief History of Thought_A Philosophical Guide to Living]] | [[Luc Ferry\|Luc Ferry]] | 2011 | \-      | Concise survey of major schools |
-
-{ .block-language-dataview}`
-
-## Queue
-
-| Queued | Author | Year | Summary |
-| ------ | ------ | ---- | ------- |
-
+> [!example]+ Last finishes
+>  |                                                                                                                                                                                                                                  | Book                                                                           | Author                       | Year | Finished | ★  | Summary |
+> | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------ | ---------------------------- | ---- | -------- | -- | ------- |
+> | <a href='[[04-Resources/Books/Consciousness in Practice\|Consciousness in Practice]]'><img src='https://m.media-amazon.com/images/I/81SyhHiY-kL._SL1500_.jpg' height='120' style='border-radius:6px;object-fit:contain'/></a> | [[04-Resources/Books/Consciousness in Practice\|Consciousness in Practice]] | [[Brian Heath\|Brian Heath]] | 2025 |          | \- |         |
+> 
 { .block-language-dataview}
+---
 
-## Finished (latest)
-
-| Book | Author | Year | Finished | Summary |
-| ---- | ------ | ---- | -------- | ------- |
-
+> [!success]+ Finished in the last 6 months
+>  |  | Book | Author | Year | Summary |
+> |  | ---- | ------ | ---- | ------- |
+> 
 { .block-language-dataview}
+---
 
-## Reviews
-
-| Review | Book | ★ | Updated |
-| ------ | ---- | - | ------- |
-
+> [!info]+ Reviews & ratings
+>  | Review | Book | ★ | Updated |
+> | ------ | ---- | - | ------- |
+> 
 { .block-language-dataview}
+---
 
-## Covers
-
-|                                                                                                                                                                                                                      |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [![](https://m.media-amazon.com/images/I/717UINP2RSL._SY342_.jpg)]([[04-Resources/Books/A Brief History of Thought_A Philosophical Guide to Living\|A Brief History of Thought_A Philosophical Guide to Living]]) |
-
+> [!abstract]+ Literature sources
+>  - [[04-Resources/Sources/Literature Sources/volodith1000HoursPrompt2025\|volodith1000HoursPrompt2025]]
+> - [[04-Resources/Sources/Literature Sources/ferryBriefHistoryThought2011\|ferryBriefHistoryThought2011]]
+> - [[04-Resources/Sources/Literature Sources/newportSlowProductivityLost2024\|newportSlowProductivityLost2024]]
+> - [[04-Resources/Sources/Literature Sources/vonnegut2022017\|vonnegut2022017]]
+> - [[04-Resources/Sources/Literature Sources/hofstadterGodelEscherBach\|hofstadterGodelEscherBach]]
+> - [[04-Resources/Sources/Literature Sources/deutschBeginningInfinityExplanations2012\|deutschBeginningInfinityExplanations2012]]
+> - [[04-Resources/Sources/Literature Sources/popperObjectiveKnowledgeEvolutionary1995\|popperObjectiveKnowledgeEvolutionary1995]]
+> - [[04-Resources/Sources/Literature Sources/bohmWholenessImplicateOrder2002\|bohmWholenessImplicateOrder2002]]
+> - [[04-Resources/Sources/Literature Sources/batesonStepsEcologyMind1978\|batesonStepsEcologyMind1978]]
+> - [[04-Resources/Sources/Literature Sources/AIAgentsVsAgentic2025\|AIAgentsVsAgentic2025]]
+> - [[04-Resources/Sources/Literature Sources/woodillUnderstandingUnderstandingEssays2005\|woodillUnderstandingUnderstandingEssays2005]]
+> - [[04-Resources/Sources/Literature Sources/spencer-brownLawsForm1994\|spencer-brownLawsForm1994]]
+> - [[04-Resources/Sources/Literature Sources/maturanaAutopoiesisCognitionRealization1980\|maturanaAutopoiesisCognitionRealization1980]]
+> - [[04-Resources/Sources/Literature Sources/heathConsciousnessPractice2025\|heathConsciousnessPractice2025]]
+> 
 { .block-language-dataview}
-
-## Source cards (bridge to Zotero)
-
-
-{ .block-language-dataview}
-
 ---
