@@ -51,20 +51,20 @@
 > [!example]+ Latest Growth
 > Recent public changes across the garden.
 >
->  | Note                                                                                                                                         | Updated              |
-> | -------------------------------------------------------------------------------------------------------------------------------------------- | -------------------- |
-> | [[04-Resources/Prompts/The Meeting-to-Action Framework\|The Meeting-to-Action Framework]]                                                 | Nov 09, 2025 8:58 PM |
-> | [[04-Resources/Prompts/The Daily Focus Framework\|The Daily Focus Framework]]                                                             | Nov 09, 2025 8:47 PM |
-> | [[04-Resources/Prompts/The Task-to-Plan Framework\|The Task-to-Plan Framework]]                                                           | Nov 09, 2025 8:45 PM |
-> | [[04-Resources/Prompts/Decision filter (pros_cons_framework; no advice)\|Decision filter (pros_cons_framework; no advice)]]               | Nov 09, 2025 8:42 PM |
-> | [[04-Resources/Prompts/Three-pass self-refine (interpret → answer → critique)\|Three-pass self-refine (interpret → answer → critique)]]   | Nov 09, 2025 8:39 PM |
-> | [[04-Resources/Prompts/Critical-thinking challenger (break status quo)\|Critical-thinking challenger (break status quo)]]                 | Nov 09, 2025 8:36 PM |
-> | [[04-Resources/Prompts/Pareto Project Filter (80_20)\|Pareto Project Filter (80_20)]]                                                     | Nov 09, 2025 8:35 PM |
-> | [[04-Resources/Prompts/Learn a topic via the 80_20 pass (Pareto learning)\|Learn a topic via the 80_20 pass (Pareto learning)]]           | Nov 09, 2025 8:35 PM |
-> | [[04-Resources/Prompts/Absurdly useful micro-prompts (grab-bag; pick per need)\|Absurdly useful micro-prompts (grab-bag; pick per need)]] | Nov 09, 2025 8:32 PM |
-> | [[04-Resources/Prompts/Ultimate team of experts (multi-role reasoning)\|Ultimate team of experts (multi-role reasoning)]]                 | Nov 09, 2025 8:30 PM |
-> | [[04-Resources/Molecules/KERNEL — prompt pattern (molecule)\|KERNEL — prompt pattern (molecule)]]                                         | Nov 09, 2025 8:04 PM |
-> | [[04-Resources/Atoms/KERNEL is model-agnostic\|KERNEL is model-agnostic]]                                                                 | Nov 09, 2025 8:02 PM |
+>  | Note                                                                                                         | Updated               |
+> | ------------------------------------------------------------------------------------------------------------ | --------------------- |
+> | [[04-Resources/Atoms/KERNEL is model-agnostic\|KERNEL is model-agnostic]]                                 | Nov 09, 2025 10:30 PM |
+> | [[04-Resources/Atoms/KERNEL — Reproducible results\|KERNEL — Reproducible results]]                       | Nov 09, 2025 10:30 PM |
+> | [[04-Resources/Atoms/KERNEL — Narrow scope\|KERNEL — Narrow scope]]                                       | Nov 09, 2025 10:30 PM |
+> | [[04-Resources/Atoms/KERNEL — measurable impact\|KERNEL — measurable impact]]                             | Nov 09, 2025 10:30 PM |
+> | [[04-Resources/Atoms/KERNEL — Logical structure (CTCF)\|KERNEL — Logical structure (CTCF)]]               | Nov 09, 2025 10:30 PM |
+> | [[04-Resources/Atoms/KERNEL — Keep it simple\|KERNEL — Keep it simple]]                                   | Nov 09, 2025 10:30 PM |
+> | [[04-Resources/Atoms/KERNEL — Explicit constraints\|KERNEL — Explicit constraints]]                       | Nov 09, 2025 10:30 PM |
+> | [[04-Resources/Atoms/KERNEL — Easy to verify\|KERNEL — Easy to verify]]                                   | Nov 09, 2025 10:30 PM |
+> | [[04-Resources/Atoms/Chain simple prompts; one complex prompt\|Chain simple prompts; one complex prompt]] | Nov 09, 2025 10:30 PM |
+> | [[04-Resources/Prompts/The Meeting-to-Action Framework\|The Meeting-to-Action Framework]]                 | Nov 09, 2025 8:58 PM  |
+> | [[04-Resources/Prompts/The Daily Focus Framework\|The Daily Focus Framework]]                             | Nov 09, 2025 8:47 PM  |
+> | [[04-Resources/Prompts/The Task-to-Plan Framework\|The Task-to-Plan Framework]]                           | Nov 09, 2025 8:45 PM  |
 > 
 { .block-language-dataview}
 ---

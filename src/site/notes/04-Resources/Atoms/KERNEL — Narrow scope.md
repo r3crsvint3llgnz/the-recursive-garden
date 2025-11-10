@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"kind":"atom","tags":["atom"],"topics":["Prompting","KERNEL","Scope"],"source":"https://www.reddit.com/r/PromptEngineering/comments/1nt7x7v/after_1000_hours_of_prompt_engineering_i_found/","page":"","citekey":"volodith1000HoursPrompt2025","created":"2025-11-09T20:02:00","updated":"2025-11-09T20:02:00","permalink":"/04-resources/atoms/kernel-narrow-scope/","dgPassFrontmatter":true}
+{"dg-publish":true,"kind":"atom","tags":["atom"],"topics":["Prompting","KERNEL","Scope"],"source":"https://www.reddit.com/r/PromptEngineering/comments/1nt7x7v/after_1000_hours_of_prompt_engineering_i_found/","pages":"","citekey":"volodith1000HoursPrompt2025","created":"2025-11-09T20:02:00","updated":"2025-11-09T20:02:00","permalink":"/04-resources/atoms/kernel-narrow-scope/","dgPassFrontmatter":true}
 ---
 
 # KERNEL — Narrow scope
