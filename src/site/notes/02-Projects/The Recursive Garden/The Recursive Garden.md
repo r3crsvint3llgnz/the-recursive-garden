@@ -53,7 +53,6 @@
 >
 >  | Note                                                                                                                                         | Updated              |
 > | -------------------------------------------------------------------------------------------------------------------------------------------- | -------------------- |
-> | [[04-Resources/Authors/David Deutsch\|David Deutsch]]                                                                                     | Nov 09, 2025 9:04 PM |
 > | [[04-Resources/Prompts/The Meeting-to-Action Framework\|The Meeting-to-Action Framework]]                                                 | Nov 09, 2025 8:58 PM |
 > | [[04-Resources/Prompts/The Daily Focus Framework\|The Daily Focus Framework]]                                                             | Nov 09, 2025 8:47 PM |
 > | [[04-Resources/Prompts/The Task-to-Plan Framework\|The Task-to-Plan Framework]]                                                           | Nov 09, 2025 8:45 PM |
@@ -64,7 +63,8 @@
 > | [[04-Resources/Prompts/Learn a topic via the 80_20 pass (Pareto learning)\|Learn a topic via the 80_20 pass (Pareto learning)]]           | Nov 09, 2025 8:35 PM |
 > | [[04-Resources/Prompts/Absurdly useful micro-prompts (grab-bag; pick per need)\|Absurdly useful micro-prompts (grab-bag; pick per need)]] | Nov 09, 2025 8:32 PM |
 > | [[04-Resources/Prompts/Ultimate team of experts (multi-role reasoning)\|Ultimate team of experts (multi-role reasoning)]]                 | Nov 09, 2025 8:30 PM |
-> | [[04-Resources/Authors/Luc Ferry\|Luc Ferry]]                                                                                             | Nov 09, 2025 8:13 PM |
+> | [[04-Resources/Molecules/KERNEL — prompt pattern (molecule)\|KERNEL — prompt pattern (molecule)]]                                         | Nov 09, 2025 8:04 PM |
+> | [[04-Resources/Atoms/KERNEL is model-agnostic\|KERNEL is model-agnostic]]                                                                 | Nov 09, 2025 8:02 PM |
 > 
 { .block-language-dataview}
 ---
