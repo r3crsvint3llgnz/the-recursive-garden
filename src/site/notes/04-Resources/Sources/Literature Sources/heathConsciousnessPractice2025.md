@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"title":"Consciousness in Practice","authors":["Brian Heath"],"year":2025,"status":"reading","summary":"","themes":["cognition","philosophy"],"citekey":"heathConsciousnessPractice2025","zotero_uri":"zotero://select/items/@heathConsciousnessPractice2025","doi":null,"isbn":null,"url":"https://www.amazon.com/Consciousness-Practice-Brian-Heath-ebook/dp/B0FP44VM19","cover":null,"book_note":"[[04-Resources/Books/Consciousness in Practice\|Consciousness in Practice]]","created":null,"updated":null,"permalink":"/04-resources/sources/literature-sources/heath-consciousness-practice2025/","dgPassFrontmatter":true}
+{"dg-publish":true,"title":"Consciousness in Practice","authors":["Brian Heath"],"year":2025,"status":"reading","summary":"","themes":["cognition","philosophy"],"citekey":"heathConsciousnessPractice2025","zotero_uri":"zotero://select/items/@heathConsciousnessPractice2025","doi":null,"isbn":null,"url":"https://www.amazon.com/Consciousness-Practice-Brian-Heath-ebook/dp/B0FP44VM19","cover":null,"created":null,"updated":null,"permalink":"/04-resources/sources/literature-sources/heath-consciousness-practice2025/","dgPassFrontmatter":true}
 ---
-
 
 # Consciousness in Practice
 
@@ -31,5 +30,5 @@
 > - …
 
 > [!info]- Links
-> - Garden note: [[Consciousness in Practice]]  
+> - Garden note: [[04-Resources/Books/Consciousness in Practice\|Consciousness in Practice]]  
 > - Open in Zotero: zotero://select/items/@heathConsciousnessPractice2025
