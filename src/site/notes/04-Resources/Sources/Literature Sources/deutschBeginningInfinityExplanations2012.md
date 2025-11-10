@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"title":"The beginning of infinity: explanations that transform the world","authors":"","year":"1325397600000","status":"reading","summary":"","themes":[],"citekey":"deutschBeginningInfinityExplanations2012","zotero_uri":"","doi":"","isbn":"978-0-670-02275-5 978-0-14-312135-0","url":"","cover":"","garden_note":"[[../../Books/deutschBeginningInfinityExplanations2012\|The beginning of infinity: explanations that transform the world]]","created":null,"updated":null,"permalink":"/04-resources/sources/literature-sources/deutsch-beginning-infinity-explanations2012/","dgPassFrontmatter":true}
+{"dg-publish":true,"title":"The beginning of infinity: explanations that transform the world","authors":"","year":"1325397600000","status":"reading","summary":"","themes":[],"citekey":"deutschBeginningInfinityExplanations2012","zotero_uri":"","doi":"","isbn":"978-0-670-02275-5 978-0-14-312135-0","url":"","cover":"","created":null,"updated":null,"permalink":"/04-resources/sources/literature-sources/deutsch-beginning-infinity-explanations2012/","dgPassFrontmatter":true}
 ---
 
 
@@ -30,6 +30,6 @@
 > - …
 
 > [!info]- Links
-> - Garden note (if exists): [[../../Books/deutschBeginningInfinityExplanations2012|The beginning of infinity: explanations that transform the world]]
+> - Garden note (if exists): [[../../Books/deutschBeginningInfinityExplanations2012\|The beginning of infinity: explanations that transform the world]]
 > - Open in Zotero: 
 > - External link: 

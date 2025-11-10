@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"title":"AI Agents vs. Agentic AI: A Conceptual Taxonomy, Applications and Challenges","authors":"","year":"","status":"reading","summary":"","themes":[],"citekey":"AIAgentsVsAgentic2025","zotero_uri":"","doi":"","isbn":"","url":"https://arxiv.org/html/2505.10468v1","cover":"","garden_note":"[[../../Books/AIAgentsVsAgentic2025\|AI Agents vs. Agentic AI: A Conceptual Taxonomy, Applications and Challenges]]","created":null,"updated":null,"permalink":"/04-resources/sources/literature-sources/ai-agents-vs-agentic2025/","dgPassFrontmatter":true}
+{"dg-publish":true,"title":"AI Agents vs. Agentic AI: A Conceptual Taxonomy, Applications and Challenges","authors":"","year":"","status":"reading","summary":"","themes":[],"citekey":"AIAgentsVsAgentic2025","zotero_uri":"","doi":"","isbn":"","url":"https://arxiv.org/html/2505.10468v1","cover":"","created":null,"updated":null,"permalink":"/04-resources/sources/literature-sources/ai-agents-vs-agentic2025/","dgPassFrontmatter":true}
 ---
 
 
@@ -30,6 +30,6 @@
 > - …
 
 > [!info]- Links
-> - Garden note (if exists): [[../../Books/AIAgentsVsAgentic2025|AI Agents vs. Agentic AI: A Conceptual Taxonomy, Applications and Challenges]]
+> - Garden note (if exists): [[../../Books/AIAgentsVsAgentic2025\|AI Agents vs. Agentic AI: A Conceptual Taxonomy, Applications and Challenges]]
 > - Open in Zotero: 
 > - External link: https://arxiv.org/html/2505.10468v1

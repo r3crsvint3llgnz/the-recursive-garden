@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"title":"Steps to an ecology of mind: a revolutionary approach to man's understanding of himself","authors":"","year":"252482400000","status":"reading","summary":"","themes":[],"citekey":"batesonStepsEcologyMind1978","zotero_uri":"","doi":"","isbn":"978-0-345-27370-3","url":"","cover":"","garden_note":"[[../../Books/batesonStepsEcologyMind1978\|Steps to an ecology of mind: a revolutionary approach to man's understanding of himself]]","created":null,"updated":null,"permalink":"/04-resources/sources/literature-sources/bateson-steps-ecology-mind1978/","dgPassFrontmatter":true}
+{"dg-publish":true,"title":"Steps to an ecology of mind: a revolutionary approach to man's understanding of himself","authors":"","year":"252482400000","status":"reading","summary":"","themes":[],"citekey":"batesonStepsEcologyMind1978","zotero_uri":"","doi":"","isbn":"978-0-345-27370-3","url":"","cover":"","created":null,"updated":null,"permalink":"/04-resources/sources/literature-sources/bateson-steps-ecology-mind1978/","dgPassFrontmatter":true}
 ---
 
 
@@ -30,6 +30,6 @@
 > - …
 
 > [!info]- Links
-> - Garden note (if exists): [[../../Books/batesonStepsEcologyMind1978|Steps to an ecology of mind: a revolutionary approach to man's understanding of himself]]
+> - Garden note (if exists): [[../../Books/batesonStepsEcologyMind1978\|Steps to an ecology of mind: a revolutionary approach to man's understanding of himself]]
 > - Open in Zotero: 
 > - External link: 

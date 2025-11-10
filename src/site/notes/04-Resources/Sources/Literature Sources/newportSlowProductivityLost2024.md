@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"title":"Slow productivity: the lost art of accomplishment without burnout","authors":"","year":"1704088800000","status":"reading","summary":"","themes":[],"citekey":"newportSlowProductivityLost2024","zotero_uri":"","doi":"","isbn":"978-0-593-54485-3 978-0-593-71943-5","url":"","cover":"","garden_note":"[[../../Books/newportSlowProductivityLost2024\|Slow productivity: the lost art of accomplishment without burnout]]","created":null,"updated":null,"permalink":"/04-resources/sources/literature-sources/newport-slow-productivity-lost2024/","dgPassFrontmatter":true}
+{"dg-publish":true,"title":"Slow productivity: the lost art of accomplishment without burnout","authors":"","year":"1704088800000","status":"reading","summary":"","themes":[],"citekey":"newportSlowProductivityLost2024","zotero_uri":"","doi":"","isbn":"978-0-593-54485-3 978-0-593-71943-5","url":"","cover":"","created":null,"updated":null,"permalink":"/04-resources/sources/literature-sources/newport-slow-productivity-lost2024/","dgPassFrontmatter":true}
 ---
 
 
@@ -30,6 +30,6 @@
 > - …
 
 > [!info]- Links
-> - Garden note (if exists): [[../../Books/newportSlowProductivityLost2024|Slow productivity: the lost art of accomplishment without burnout]]
+> - Garden note (if exists): [[../../Books/newportSlowProductivityLost2024\|Slow productivity: the lost art of accomplishment without burnout]]
 > - Open in Zotero: 
 > - External link: 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"title":"Objective knowledge: an evolutionary approach","authors":"","year":"788940000000","status":"reading","summary":"","themes":[],"citekey":"popperObjectiveKnowledgeEvolutionary1995","zotero_uri":"","doi":"","isbn":"978-0-19-875024-6","url":"","cover":"","garden_note":"[[../../Books/popperObjectiveKnowledgeEvolutionary1995\|Objective knowledge: an evolutionary approach]]","created":null,"updated":null,"permalink":"/04-resources/sources/literature-sources/popper-objective-knowledge-evolutionary1995/","dgPassFrontmatter":true}
+{"dg-publish":true,"title":"Objective knowledge: an evolutionary approach","authors":"","year":"788940000000","status":"reading","summary":"","themes":[],"citekey":"popperObjectiveKnowledgeEvolutionary1995","zotero_uri":"","doi":"","isbn":"978-0-19-875024-6","url":"","cover":"","created":null,"updated":null,"permalink":"/04-resources/sources/literature-sources/popper-objective-knowledge-evolutionary1995/","dgPassFrontmatter":true}
 ---
 
 
@@ -30,6 +30,6 @@
 > - …
 
 > [!info]- Links
-> - Garden note (if exists): [[../../Books/popperObjectiveKnowledgeEvolutionary1995|Objective knowledge: an evolutionary approach]]
+> - Garden note (if exists): [[../../Books/popperObjectiveKnowledgeEvolutionary1995\|Objective knowledge: an evolutionary approach]]
 > - Open in Zotero: 
 > - External link: 
