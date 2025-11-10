@@ -31,9 +31,9 @@
 ---
 
 > [!info]+ Books in vault
->  | File                                                           | Title               | Year              | Status                    | Rating |
-> | -------------------------------------------------------------- | ------------------- | ----------------- | ------------------------- | ------ |
-> | [[04-Resources/Books/Slow Productivity\|Slow Productivity]] | "Slow Productivity" | November 09, 2025 | <ul><li>reading</li></ul> | \-     |
+>  | File                                                           | Title             | Year              | Status                    | Rating |
+> | -------------------------------------------------------------- | ----------------- | ----------------- | ------------------------- | ------ |
+> | [[04-Resources/Books/Slow Productivity\|Slow Productivity]] | Slow Productivity | November 09, 2025 | <ul><li>reading</li></ul> | \-     |
 > 
 { .block-language-dataview}
 ---
