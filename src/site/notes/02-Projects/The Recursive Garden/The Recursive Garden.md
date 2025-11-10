@@ -53,6 +53,7 @@
 >
 >  | Note                                                                                                                                    | Updated              |
 > | --------------------------------------------------------------------------------------------------------------------------------------- | -------------------- |
+> | [[04-Resources/Sources/Literature Sources/heathConsciousnessPractice2025\|heathConsciousnessPractice2025]]                           | Nov 09, 2025 9:31 PM |
 > | [[04-Resources/Sources/Literature Sources/woodillUnderstandingUnderstandingEssays2005\|woodillUnderstandingUnderstandingEssays2005]] | Nov 09, 2025 9:25 PM |
 > | [[04-Resources/Sources/Literature Sources/vonnegut2022017\|vonnegut2022017]]                                                         | Nov 09, 2025 9:25 PM |
 > | [[04-Resources/Sources/Literature Sources/volodith1000HoursPrompt2025\|volodith1000HoursPrompt2025]]                                 | Nov 09, 2025 9:25 PM |
@@ -61,7 +62,6 @@
 > | [[04-Resources/Sources/Literature Sources/newportSlowProductivityLost2024\|newportSlowProductivityLost2024]]                         | Nov 09, 2025 9:25 PM |
 > | [[04-Resources/Sources/Literature Sources/maturanaAutopoiesisCognitionRealization1980\|maturanaAutopoiesisCognitionRealization1980]] | Nov 09, 2025 9:25 PM |
 > | [[04-Resources/Sources/Literature Sources/hofstadterGodelEscherBach\|hofstadterGodelEscherBach]]                                     | Nov 09, 2025 9:25 PM |
-> | [[04-Resources/Sources/Literature Sources/heathConsciousnessPractice2025\|heathConsciousnessPractice2025]]                           | Nov 09, 2025 9:25 PM |
 > | [[04-Resources/Sources/Literature Sources/ferryBriefHistoryThought2011\|ferryBriefHistoryThought2011]]                               | Nov 09, 2025 9:25 PM |
 > | [[04-Resources/Sources/Literature Sources/deutschBeginningInfinityExplanations2012\|deutschBeginningInfinityExplanations2012]]       | Nov 09, 2025 9:25 PM |
 > | [[04-Resources/Sources/Literature Sources/bohmWholenessImplicateOrder2002\|bohmWholenessImplicateOrder2002]]                         | Nov 09, 2025 9:25 PM |
