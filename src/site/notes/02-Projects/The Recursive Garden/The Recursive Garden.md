@@ -51,20 +51,20 @@
 > [!example]+ Latest Growth
 > Recent public changes across the garden.
 >
->  | Note                                                                                                                                    | Updated              |
-> | --------------------------------------------------------------------------------------------------------------------------------------- | -------------------- |
-> | [[04-Resources/Books/The Beginning of Infinity\|The Beginning of Infinity]]                                                          | Nov 09, 2025 9:54 PM |
-> | [[04-Resources/Books/Slow Productivity\|Slow Productivity]]                                                                          | Nov 09, 2025 9:53 PM |
-> | [[04-Resources/Books/Freethinkers\|Freethinkers]]                                                                                    | Nov 09, 2025 9:52 PM |
-> | [[04-Resources/Books/1776\|1776]]                                                                                                    | Nov 09, 2025 9:52 PM |
-> | [[04-Resources/Books/2001 A Space Odyssey\|2001 A Space Odyssey]]                                                                    | Nov 09, 2025 9:50 PM |
-> | [[04-Resources/Books/A Brief History of Thought\|A Brief History of Thought]]                                                        | Nov 09, 2025 9:49 PM |
-> | [[Templates/Book Note Template\|Book Note Template]]                                                                                 | Nov 09, 2025 9:47 PM |
-> | [[04-Resources/Sources/Literature Sources/heathConsciousnessPractice2025\|heathConsciousnessPractice2025]]                           | Nov 09, 2025 9:35 PM |
-> | [[04-Resources/Sources/Literature Sources/woodillUnderstandingUnderstandingEssays2005\|woodillUnderstandingUnderstandingEssays2005]] | Nov 09, 2025 9:25 PM |
-> | [[04-Resources/Sources/Literature Sources/vonnegut2022017\|vonnegut2022017]]                                                         | Nov 09, 2025 9:25 PM |
-> | [[04-Resources/Sources/Literature Sources/volodith1000HoursPrompt2025\|volodith1000HoursPrompt2025]]                                 | Nov 09, 2025 9:25 PM |
-> | [[04-Resources/Sources/Literature Sources/spencer-brownLawsForm1994\|spencer-brownLawsForm1994]]                                     | Nov 09, 2025 9:25 PM |
+>  | Note                                                                                                                                         | Updated              |
+> | -------------------------------------------------------------------------------------------------------------------------------------------- | -------------------- |
+> | [[04-Resources/Authors/David Deutsch\|David Deutsch]]                                                                                     | Nov 09, 2025 9:04 PM |
+> | [[04-Resources/Prompts/The Meeting-to-Action Framework\|The Meeting-to-Action Framework]]                                                 | Nov 09, 2025 8:58 PM |
+> | [[04-Resources/Prompts/The Daily Focus Framework\|The Daily Focus Framework]]                                                             | Nov 09, 2025 8:47 PM |
+> | [[04-Resources/Prompts/The Task-to-Plan Framework\|The Task-to-Plan Framework]]                                                           | Nov 09, 2025 8:45 PM |
+> | [[04-Resources/Prompts/Decision filter (pros_cons_framework; no advice)\|Decision filter (pros_cons_framework; no advice)]]               | Nov 09, 2025 8:42 PM |
+> | [[04-Resources/Prompts/Three-pass self-refine (interpret → answer → critique)\|Three-pass self-refine (interpret → answer → critique)]]   | Nov 09, 2025 8:39 PM |
+> | [[04-Resources/Prompts/Critical-thinking challenger (break status quo)\|Critical-thinking challenger (break status quo)]]                 | Nov 09, 2025 8:36 PM |
+> | [[04-Resources/Prompts/Pareto Project Filter (80_20)\|Pareto Project Filter (80_20)]]                                                     | Nov 09, 2025 8:35 PM |
+> | [[04-Resources/Prompts/Learn a topic via the 80_20 pass (Pareto learning)\|Learn a topic via the 80_20 pass (Pareto learning)]]           | Nov 09, 2025 8:35 PM |
+> | [[04-Resources/Prompts/Absurdly useful micro-prompts (grab-bag; pick per need)\|Absurdly useful micro-prompts (grab-bag; pick per need)]] | Nov 09, 2025 8:32 PM |
+> | [[04-Resources/Prompts/Ultimate team of experts (multi-role reasoning)\|Ultimate team of experts (multi-role reasoning)]]                 | Nov 09, 2025 8:30 PM |
+> | [[04-Resources/Authors/Luc Ferry\|Luc Ferry]]                                                                                             | Nov 09, 2025 8:13 PM |
 > 
 { .block-language-dataview}
 ---
