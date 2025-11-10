@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"Type":["book"],"tags":["book","booknotes","#source"],"title":"\"Freethinkers\"","author":"[[Susan Jacoby]]","category":"[[Religion]]","publisher":"Macmillan + ORM","publish":"2025-10-16","year":"2025-11-09","pages":"452","isbn":"1429934751 9781429934756","cover":"http://books.google.com/books/content?id=dj_BPwOrOn8C&printsec=frontcover&img=1&zoom=1&source=gbs_api","localCover":"","status":["unread"],"rating":null,"citekey":"","zotero_uri":"https://play.google.com/store/books/details?id=dj_BPwOrOn8C","doi":"","url":"","created":null,"updated":null,"in_kindle":null,"in_library":true,"permalink":"/04-resources/books/freethinkers/","dgPassFrontmatter":true}
+{"dg-publish":true,"Type":["book"],"tags":["book","booknotes","#source"],"title":"Freethinkers","author":"[[Susan Jacoby]]","category":"[[Religion]]","publisher":"Macmillan + ORM","publish":"2025-10-16","year":"2025-11-09","pages":"452","isbn":"1429934751 9781429934756","cover":"http://books.google.com/books/content?id=dj_BPwOrOn8C&printsec=frontcover&img=1&zoom=1&source=gbs_api","localCover":"","status":["unread"],"rating":null,"citekey":"","zotero_uri":"https://play.google.com/store/books/details?id=dj_BPwOrOn8C","doi":"","url":"","created":null,"updated":null,"in_kindle":null,"in_library":true,"permalink":"/04-resources/books/freethinkers/","dgPassFrontmatter":true}
 ---
 
 

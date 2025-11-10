@@ -53,18 +53,18 @@
 >
 >  | Note                                                                                                                                    | Updated              |
 > | --------------------------------------------------------------------------------------------------------------------------------------- | -------------------- |
+> | [[04-Resources/Books/The Beginning of Infinity\|The Beginning of Infinity]]                                                          | Nov 09, 2025 9:54 PM |
+> | [[04-Resources/Books/Slow Productivity\|Slow Productivity]]                                                                          | Nov 09, 2025 9:53 PM |
+> | [[04-Resources/Books/Freethinkers\|Freethinkers]]                                                                                    | Nov 09, 2025 9:52 PM |
+> | [[04-Resources/Books/1776\|1776]]                                                                                                    | Nov 09, 2025 9:52 PM |
+> | [[04-Resources/Books/2001 A Space Odyssey\|2001 A Space Odyssey]]                                                                    | Nov 09, 2025 9:50 PM |
+> | [[04-Resources/Books/A Brief History of Thought\|A Brief History of Thought]]                                                        | Nov 09, 2025 9:49 PM |
+> | [[Templates/Book Note Template\|Book Note Template]]                                                                                 | Nov 09, 2025 9:47 PM |
 > | [[04-Resources/Sources/Literature Sources/heathConsciousnessPractice2025\|heathConsciousnessPractice2025]]                           | Nov 09, 2025 9:35 PM |
 > | [[04-Resources/Sources/Literature Sources/woodillUnderstandingUnderstandingEssays2005\|woodillUnderstandingUnderstandingEssays2005]] | Nov 09, 2025 9:25 PM |
 > | [[04-Resources/Sources/Literature Sources/vonnegut2022017\|vonnegut2022017]]                                                         | Nov 09, 2025 9:25 PM |
 > | [[04-Resources/Sources/Literature Sources/volodith1000HoursPrompt2025\|volodith1000HoursPrompt2025]]                                 | Nov 09, 2025 9:25 PM |
 > | [[04-Resources/Sources/Literature Sources/spencer-brownLawsForm1994\|spencer-brownLawsForm1994]]                                     | Nov 09, 2025 9:25 PM |
-> | [[04-Resources/Sources/Literature Sources/popperObjectiveKnowledgeEvolutionary1995\|popperObjectiveKnowledgeEvolutionary1995]]       | Nov 09, 2025 9:25 PM |
-> | [[04-Resources/Sources/Literature Sources/newportSlowProductivityLost2024\|newportSlowProductivityLost2024]]                         | Nov 09, 2025 9:25 PM |
-> | [[04-Resources/Sources/Literature Sources/maturanaAutopoiesisCognitionRealization1980\|maturanaAutopoiesisCognitionRealization1980]] | Nov 09, 2025 9:25 PM |
-> | [[04-Resources/Sources/Literature Sources/hofstadterGodelEscherBach\|hofstadterGodelEscherBach]]                                     | Nov 09, 2025 9:25 PM |
-> | [[04-Resources/Sources/Literature Sources/ferryBriefHistoryThought2011\|ferryBriefHistoryThought2011]]                               | Nov 09, 2025 9:25 PM |
-> | [[04-Resources/Sources/Literature Sources/deutschBeginningInfinityExplanations2012\|deutschBeginningInfinityExplanations2012]]       | Nov 09, 2025 9:25 PM |
-> | [[04-Resources/Sources/Literature Sources/bohmWholenessImplicateOrder2002\|bohmWholenessImplicateOrder2002]]                         | Nov 09, 2025 9:25 PM |
 > 
 { .block-language-dataview}
 ---

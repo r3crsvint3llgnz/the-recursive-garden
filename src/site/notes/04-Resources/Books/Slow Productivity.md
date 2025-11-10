@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"Type":["book"],"tags":["book","booknotes","#source"],"title":"\"Slow Productivity\"","author":"[[Cal Newport]]","category":"[[Business & Economics]]","publisher":"Penguin","publish":"2024-03-05","year":"2025-11-09","pages":"257","isbn":"0593544854 9780593544853","cover":"http://books.google.com/books/content?id=IV_DEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api","localCover":"","status":["reading"],"rating":null,"citekey":"","zotero_uri":"https://books.google.com/books/about/Slow_Productivity.html?hl=&id=IV_DEAAAQBAJ","doi":"","url":"","created":null,"updated":null,"in_kindle":true,"in_library":null,"dg_publish":true,"permalink":"/04-resources/books/slow-productivity/","dgPassFrontmatter":true}
+{"dg-publish":true,"Type":["book"],"tags":["book","booknotes","#source"],"title":"Slow Productivity","author":"[[Cal Newport]]","category":"[[Business & Economics]]","publisher":"Penguin","publish":"2024-03-05","year":"2025-11-09","pages":"257","isbn":"0593544854 9780593544853","cover":"http://books.google.com/books/content?id=IV_DEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api","localCover":"","status":["reading"],"rating":null,"citekey":"","zotero_uri":"https://books.google.com/books/about/Slow_Productivity.html?hl=&id=IV_DEAAAQBAJ","doi":"","url":"","created":"2025-11-09T21:53:00","updated":"2025-11-09T21:53:00","in_kindle":true,"in_library":null,"dg_publish":true,"permalink":"/04-resources/books/slow-productivity/","dgPassFrontmatter":true}
 ---
 
 # Slow Productivity
@@ -8,7 +8,7 @@
 <img src="https://books.google.com/books/content?id=IV_DEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover" style="max-width: 440px; max-height: 640px; width: auto; height: auto; object-fit: contain; border-radius: 6px; display: block;">
 
 > [!quote]- Citation  
-> [[04-Resources/Authors/Cal Newport\|Cal Newport]] (November 09, 2025). *"Slow Productivity"*. Penguin.
+> [[04-Resources/Authors/Cal Newport\|Cal Newport]] (November 09, 2025). *Slow Productivity*. Penguin.
 ---
 
 > [!abstract]- Summary

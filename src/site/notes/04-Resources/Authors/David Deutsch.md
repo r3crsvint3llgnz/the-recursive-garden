@@ -31,9 +31,9 @@
 ---
 
 > [!info]+ Books in vault
->  | File                                                                           | Title                       | Year              | Status                 | Rating |
-> | ------------------------------------------------------------------------------ | --------------------------- | ----------------- | ---------------------- | ------ |
-> | [[04-Resources/Books/The Beginning of Infinity\|The Beginning of Infinity]] | "The Beginning of Infinity" | November 09, 2025 | <ul><li>read</li></ul> | \-     |
+>  | File                                                                           | Title                     | Year              | Status                 | Rating |
+> | ------------------------------------------------------------------------------ | ------------------------- | ----------------- | ---------------------- | ------ |
+> | [[04-Resources/Books/The Beginning of Infinity\|The Beginning of Infinity]] | The Beginning of Infinity | November 09, 2025 | <ul><li>read</li></ul> | \-     |
 > 
 { .block-language-dataview}
 ---
