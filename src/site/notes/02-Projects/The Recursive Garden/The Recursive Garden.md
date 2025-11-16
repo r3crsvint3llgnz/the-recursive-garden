@@ -53,7 +53,8 @@
 >
 >  | Note                                                                                                                                    | Updated              |
 > | --------------------------------------------------------------------------------------------------------------------------------------- | -------------------- |
-> | [[04-Resources/Reading Notes\|Reading Notes]]                                                                                        | Nov 15, 2025 9:09 PM |
+> | [[02-Projects/The Recursive Garden/About\|About]]                                                                                    | Nov 15, 2025 9:24 PM |
+> | [[04-Resources/Reading Notes\|Reading Notes]]                                                                                        | Nov 15, 2025 9:23 PM |
 > | [[04-Resources/Books/Consciousness in Practice\|Consciousness in Practice]]                                                          | Nov 15, 2025 8:39 PM |
 > | [[04-Resources/Books/The Skeptics' Guide to the Universe\|The Skeptics' Guide to the Universe]]                                      | Nov 15, 2025 8:24 PM |
 > | [[Templates/Zotero Integration Template\|Zotero Integration Template]]                                                               | Nov 15, 2025 8:01 PM |
@@ -64,7 +65,6 @@
 > | [[04-Resources/Sources/Literature Sources/spencer-brownLawsForm1994\|spencer-brownLawsForm1994]]                                     | Nov 15, 2025 8:01 PM |
 > | [[04-Resources/Books/Slow Productivity\|Slow Productivity]]                                                                          | Nov 15, 2025 8:01 PM |
 > | [[04-Resources/Sources/Literature Sources/popperObjectiveKnowledgeEvolutionary1995\|popperObjectiveKnowledgeEvolutionary1995]]       | Nov 15, 2025 8:01 PM |
-> | [[04-Resources/Sources/Literature Sources/newportSlowProductivityLost2024\|newportSlowProductivityLost2024]]                         | Nov 15, 2025 8:01 PM |
 > 
 { .block-language-dataview}
 ---
