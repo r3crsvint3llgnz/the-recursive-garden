@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"title":"Recursive Distinction Dynamics — Project Hub","section":"hubs","kind_pm":["Project"],"project":"Recursive Distinction Dynamics (RDD)","status":"Active","priority":"High","tags":["rdd","philosophy","formalism","project"],"cover":null,"description":"Formalize RDD: precise atoms (definitions), molecules (syntheses), constraints, examples.","topics":["distinctions","recursion","time","coherence","causality","agency"],"summary":"Working project hub for defining and testing RDD.","permalink":"/02-projects/recursive-distinction-dynamics/recursive-distinction-dynamics/","dgPassFrontmatter":true}
+{"dg-publish":true,"title":"Recursive Distinction Dynamics — Project Hub","section":"hubs","kind_pm":["Project"],"project":"Recursive Distinction Dynamics (RDD)","status":"Active","priority":"High","tags":["rdd","philosophy","formalism","project"],"cover":"02-Projects/The Recursive Garden/_assets/rdd.png","description":"Formalize RDD: precise atoms (definitions), molecules (syntheses), constraints, examples.","topics":["distinctions","recursion","time","coherence","causality","agency"],"summary":"Working project hub for defining and testing RDD.","permalink":"/02-projects/recursive-distinction-dynamics/recursive-distinction-dynamics/","dgPassFrontmatter":true}
 ---
 
-
-# Recursive Distinction Dynamics — Project Hub
+![rdd.png](/img/user/02-Projects/The%20Recursive%20Garden/_assets/rdd.png)
+[[02-Projects/The Recursive Garden/The Recursive Garden\|🏠 Home]] · [[02-Projects/The Recursive Garden/About\|ℹ️ About]]
 
 > [!abstract]+ Objective
 > Define RDD as a **usable formalism**: minimal primitives, falsifiable claims, examples, counterexamples.
