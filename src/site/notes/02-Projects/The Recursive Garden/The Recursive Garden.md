@@ -51,20 +51,20 @@
 > [!example]+ Latest Growth
 > Recent public changes across the garden.
 >
->  | Note                                                                                                         | Updated               |
-> | ------------------------------------------------------------------------------------------------------------ | --------------------- |
-> | [[04-Resources/Atoms/KERNEL is model-agnostic\|KERNEL is model-agnostic]]                                 | Nov 09, 2025 10:30 PM |
-> | [[04-Resources/Atoms/KERNEL — Reproducible results\|KERNEL — Reproducible results]]                       | Nov 09, 2025 10:30 PM |
-> | [[04-Resources/Atoms/KERNEL — Narrow scope\|KERNEL — Narrow scope]]                                       | Nov 09, 2025 10:30 PM |
-> | [[04-Resources/Atoms/KERNEL — measurable impact\|KERNEL — measurable impact]]                             | Nov 09, 2025 10:30 PM |
-> | [[04-Resources/Atoms/KERNEL — Logical structure (CTCF)\|KERNEL — Logical structure (CTCF)]]               | Nov 09, 2025 10:30 PM |
-> | [[04-Resources/Atoms/KERNEL — Keep it simple\|KERNEL — Keep it simple]]                                   | Nov 09, 2025 10:30 PM |
-> | [[04-Resources/Atoms/KERNEL — Explicit constraints\|KERNEL — Explicit constraints]]                       | Nov 09, 2025 10:30 PM |
-> | [[04-Resources/Atoms/KERNEL — Easy to verify\|KERNEL — Easy to verify]]                                   | Nov 09, 2025 10:30 PM |
-> | [[04-Resources/Atoms/Chain simple prompts; one complex prompt\|Chain simple prompts; one complex prompt]] | Nov 09, 2025 10:30 PM |
-> | [[04-Resources/Prompts/The Meeting-to-Action Framework\|The Meeting-to-Action Framework]]                 | Nov 09, 2025 8:58 PM  |
-> | [[04-Resources/Prompts/The Daily Focus Framework\|The Daily Focus Framework]]                             | Nov 09, 2025 8:47 PM  |
-> | [[04-Resources/Prompts/The Task-to-Plan Framework\|The Task-to-Plan Framework]]                           | Nov 09, 2025 8:45 PM  |
+>  | Note                                                                                                                                    | Updated              |
+> | --------------------------------------------------------------------------------------------------------------------------------------- | -------------------- |
+> | [[Templates/Zotero Integration Template\|Zotero Integration Template]]                                                               | Nov 15, 2025 8:01 PM |
+> | [[04-Resources/Sources/Literature Sources/woodillUnderstandingUnderstandingEssays2005\|woodillUnderstandingUnderstandingEssays2005]] | Nov 15, 2025 8:01 PM |
+> | [[04-Resources/Sources/Literature Sources/vonnegut2022017\|vonnegut2022017]]                                                         | Nov 15, 2025 8:01 PM |
+> | [[04-Resources/Sources/Literature Sources/volodith1000HoursPrompt2025\|volodith1000HoursPrompt2025]]                                 | Nov 15, 2025 8:01 PM |
+> | [[04-Resources/Books/The Skeptics' Guide to the Universe\|The Skeptics' Guide to the Universe]]                                      | Nov 15, 2025 8:01 PM |
+> | [[04-Resources/Books/The Beginning of Infinity\|The Beginning of Infinity]]                                                          | Nov 15, 2025 8:01 PM |
+> | [[04-Resources/Sources/Literature Sources/spencer-brownLawsForm1994\|spencer-brownLawsForm1994]]                                     | Nov 15, 2025 8:01 PM |
+> | [[04-Resources/Books/Slow Productivity\|Slow Productivity]]                                                                          | Nov 15, 2025 8:01 PM |
+> | [[04-Resources/Sources/Literature Sources/popperObjectiveKnowledgeEvolutionary1995\|popperObjectiveKnowledgeEvolutionary1995]]       | Nov 15, 2025 8:01 PM |
+> | [[04-Resources/Sources/Literature Sources/newportSlowProductivityLost2024\|newportSlowProductivityLost2024]]                         | Nov 15, 2025 8:01 PM |
+> | [[Templates/Molecule (Permanent Note) Template\|Molecule (Permanent Note) Template]]                                                 | Nov 15, 2025 8:01 PM |
+> | [[04-Resources/Sources/Literature Sources/maturanaAutopoiesisCognitionRealization1980\|maturanaAutopoiesisCognitionRealization1980]] | Nov 15, 2025 8:01 PM |
 > 
 { .block-language-dataview}
 ---
