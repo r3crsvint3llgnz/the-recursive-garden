@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"Type":["book"],"tags":["book","booknotes","#source"],"title":"The Skeptics' Guide to the Universe","author":"[[Steven Novella]]","category":"[[Science]]","publisher":"Hachette+ORM","publish":"2018-10-02","year":"2025-11-09","pages":"508","isbn":"1538760517 9781538760512","cover":"http://books.google.com/books/content?id=6aNKDwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api","localCover":"","status":["reading"],"rating":5,"citekey":"","zotero_uri":"https://play.google.com/store/books/details?id=6aNKDwAAQBAJ","doi":"","url":"","created":"2025-11-09T20:18:00","updated":"2025-11-09T20:18:00","in_kindle":null,"in_library":true,"in_audible":true,"permalink":"/04-resources/books/the-skeptics-guide-to-the-universe/","dgPassFrontmatter":true}
+{"dg-publish":true,"Type":"book","section":"books","tags":["book","booknotes","#source"],"title":"The Skeptics' Guide to the Universe","author":"[[Steven Novella]]","category":"[[Science]]","publisher":"Hachette+ORM","publish":"2018-10-02","year":"2025-11-09","pages":"508","isbn":"1538760517 9781538760512","cover":"https://books.google.com/books/content?id=6aNKDwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api","localCover":"","status":["reading"],"rating":5,"citekey":"","zotero_uri":"https://play.google.com/store/books/details?id=6aNKDwAAQBAJ","doi":"","url":"","created":"2025-11-09T20:18:00","updated":"2025-11-09T20:18:00","started":null,"finished":null,"in_kindle":null,"in_library":true,"in_audible":true,"permalink":"/04-resources/books/the-skeptics-guide-to-the-universe/","dgPassFrontmatter":true}
 ---
 
 # The Skeptics' Guide to the Universe
@@ -7,15 +7,17 @@
 
 <img src="https://books.google.com/books/content?id=6aNKDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover" style="max-width: 440px; max-height: 640px; width: auto; height: auto; object-fit: contain; border-radius: 6px; display: block;">
 
+<p><span>★★★★★</span></p>
+
 > [!quote]- Citation  
-> [[Steven Novella\|Steven Novella]] (November 09, 2025). *The Skeptics' Guide to the Universe*. Hachette+ORM.
+> [[01-Inbox/Steven Novella\|Steven Novella]] (November 09, 2025). *The Skeptics' Guide to the Universe*. Hachette+ORM.
 ---
 
 > [!abstract]- Summary
 > *1–2 sentences in your words.*
 ---
 
-
+_The Skeptics’ Guide to the Universe_ is a field manual for critical thinking in a noisy information environment. Novella and co-authors walk through logical fallacies, cognitive biases, and classic pseudoscience case studies, equipping readers with habits and tools to evaluate extraordinary claims without becoming cynics.
 
 ---
 > [!note]- Notes
@@ -43,7 +45,7 @@
 ---
 > [!info]- Links
 > - Source card: [[../../Sources/Literature Sources/\|Zotero source card]]
-> - Open in Zotero: 
+> - Open in Zotero: https://play.google.com/store/books/details?id=6aNKDwAAQBAJ
 > - External: 
 ---
 

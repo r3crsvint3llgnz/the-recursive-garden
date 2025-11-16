@@ -1,81 +1,45 @@
 ---
-{"dg-publish":true,"dg-home":true,"permalink":"/02-projects/the-recursive-garden/the-recursive-garden/","tags":["gardenEntry"],"dgPassFrontmatter":true}
+{"dg-home":true,"dg-publish":true,"title":"The Recursive Garden","dg-content-classes":"home-hero","dg-metatags":{"description":"A live digital garden exploring Recursive Distinction Dynamics, AI practice, and experimental fiction.","og:title":"The Recursive Garden","og:image":"https://therecursivegarden.netlify.app/_assets/recursive-garden-hero.png"},"permalink":"/02-projects/the-recursive-garden/the-recursive-garden/","metatags":{"description":"A live digital garden exploring Recursive Distinction Dynamics, AI practice, and experimental fiction.","og:title":"The Recursive Garden","og:image":"https://therecursivegarden.netlify.app/_assets/recursive-garden-hero.png"},"contentClasses":"home-hero","tags":["gardenEntry"],"dgPassFrontmatter":true}
 ---
 
-# The Recursive Garden
+![Gemini_Generated_Image_lwf17llwf17llwf1.png](/img/user/Gemini_Generated_Image_lwf17llwf17llwf1.png)
 
- A field guide to a **live inquiry at the confluence** of science, technology, and philosophy. This garden hosts notes, models, and stories that test how new tools and old questions reshape one another. I’m Seth Robins; you’re invited to explore, critique, and build alongside me.
-
- > [!quote]+ Why this space exists
-> We’re living through overlapping breakthroughs in AI, information theory, and cognitive science.  
-> This garden treats their **convergence** as an experimental landscape: ideas are seeded, tested, revised, or retired.  
-> **Rigor matters; curiosity is welcome.** — *Seth Robins*
----
-
-> [!abstract]+ Orientation
-> This is a public working system. You’ll find:
-> - **Open PKM** methods & research workflows
-> - **Book syntheses** and critical reviews
-> - **Applied AI** notes from industry
-> - **Fiction sandboxes** that pressure-test concepts
-> - One formal thread: **Recursive Distinction Dynamics (RDD)**
+> [!abstract] A live research garden
+> I'm Seth. I'm autistic and I understand things by taking them apart into **atoms** (small distinctions) and **molecules** (how those pieces interact), then rebuilding them into working systems.
 >
-> *Notes are hypotheses and draftable artifacts, not final statements.*
+> This garden is where I do that work in public.
+>
+> I’m exploring:
+> - **Philosophy & RDD** – what reality looks like if you start from distinctions and recursion  
+> - **Applied AI in industry** – pushing industrial manufacturing toward safer, more autonomous operation  
+> - **PKM & writing** – turning messy notes into tools, prompts, and stories  
+> - **Fiction** – worlds that pressure-test these ideas in human lives
+>
+> I share what I’m reading, researching, the notes I take, and the experiments that work (and the ones that don’t).
 ---
 
-> [!info]+ Choose your on-ramp
-> **Survey (2–5 min)** · skim light notes  
-> → [[04-Resources/Reading Notes\|Reading Notes (Hub)]] · [[Reviews & Insights\|Reviews & Insights (Hub)]]
->
-> **Tools & practice (10–20 min)** · templates & workflows  
-> → [[Open PKM\|Open PKM (Hub)]] · [[Fiction Projects\|Fiction Projects (Hub)]]
->
-> **Formal thread (deep dive)** · definitions, claims, tests  
-> → [[02-Projects/Recursive Distinction Dynamics/Recursive Distinction Dynamics\|Recursive Distinction Dynamics (Hub)]]
----
-
-> [!abstract]+ Working Definition (RDD) — one thread among many
-> **RDD (working):** model reality as **distinctions** that feed their outputs into the **next round** of boundary-making; treat time, causality, coherence, and agency as **consequences** of that recursion.
->
-> **Plain gloss.** Make a cut (this | that). Feed it forward. Repeat.  
-> Patterns like time, cause, and choice appear—and can be tested.
----
-
-> [!tip]+ How to read this garden
-> - **Statuses:** `seed | draft | stable | canonical`
-> - **Atoms vs molecules:** tight definitions vs syntheses/claims
-> - **Evidence beats vibes:** important claims get a toy model, failure case, or cost/constraint
-> - **Versioning:** replaced notes keep pointers to successors; dead ends stay visible
----
-
-> [!example]+ Latest Growth
-> Recent public changes across the garden.
->
->  | Note                                                                                                                                    | Updated              |
-> | --------------------------------------------------------------------------------------------------------------------------------------- | -------------------- |
-> | [[02-Projects/The Recursive Garden/About\|About]]                                                                                    | Nov 15, 2025 9:24 PM |
-> | [[04-Resources/Reading Notes\|Reading Notes]]                                                                                        | Nov 15, 2025 9:23 PM |
-> | [[04-Resources/Books/Consciousness in Practice\|Consciousness in Practice]]                                                          | Nov 15, 2025 8:39 PM |
-> | [[04-Resources/Books/The Skeptics' Guide to the Universe\|The Skeptics' Guide to the Universe]]                                      | Nov 15, 2025 8:24 PM |
-> | [[Templates/Zotero Integration Template\|Zotero Integration Template]]                                                               | Nov 15, 2025 8:01 PM |
-> | [[04-Resources/Sources/Literature Sources/woodillUnderstandingUnderstandingEssays2005\|woodillUnderstandingUnderstandingEssays2005]] | Nov 15, 2025 8:01 PM |
-> | [[04-Resources/Sources/Literature Sources/vonnegut2022017\|vonnegut2022017]]                                                         | Nov 15, 2025 8:01 PM |
-> | [[04-Resources/Sources/Literature Sources/volodith1000HoursPrompt2025\|volodith1000HoursPrompt2025]]                                 | Nov 15, 2025 8:01 PM |
-> | [[04-Resources/Books/The Beginning of Infinity\|The Beginning of Infinity]]                                                          | Nov 15, 2025 8:01 PM |
-> | [[04-Resources/Sources/Literature Sources/spencer-brownLawsForm1994\|spencer-brownLawsForm1994]]                                     | Nov 15, 2025 8:01 PM |
-> | [[04-Resources/Books/Slow Productivity\|Slow Productivity]]                                                                          | Nov 15, 2025 8:01 PM |
-> | [[04-Resources/Sources/Literature Sources/popperObjectiveKnowledgeEvolutionary1995\|popperObjectiveKnowledgeEvolutionary1995]]       | Nov 15, 2025 8:01 PM |
+> [!abstract] Pick a path
+>  |                                                                                                                               | Area                                                                                                             | What lives here                                                                                         |
+> | ----------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- |
+> | <img src='02-Projects/The Recursive Garden/_assets/sethrobins.jpg' height='80' style='border-radius:6px;object-fit:cover'/>   | [[02-Projects/The Recursive Garden/About\|About]]                                                             | What this garden is, what I'm exploring, and where to look.                                             |
+> | <img src='02-Projects/The Recursive Garden/_assets/readingnotes.png' height='80' style='border-radius:6px;object-fit:cover'/> | [[04-Resources/Reading Notes\|Reading Notes]]                                                                 | Active shelf, queue, finished, and reviews. Books from Citations; source cards from Zotero Integration. |
+> | <img src='02-Projects/The Recursive Garden/_assets/rdd.png' height='80' style='border-radius:6px;object-fit:cover'/>          | [[02-Projects/Recursive Distinction Dynamics/Recursive Distinction Dynamics\|Recursive Distinction Dynamics]] | Working project hub for defining and testing RDD.                                                       |
 > 
 { .block-language-dataview}
 ---
 
-> [!note]+ Paths (all hubs)
-> - [[02-Projects/Recursive Distinction Dynamics/Recursive Distinction Dynamics\|Recursive Distinction Dynamics (Hub)]]
-> - [[Open PKM\|Open PKM (Hub)]]
-> - [[04-Resources/Reading Notes\|Reading Notes (Hub)]]
-> - [[Reviews & Insights\|Reviews & Insights (Hub)]]
-> - [[Fiction Projects\|Fiction Projects (Hub)]]
-> - [[02-Projects/The Recursive Garden/About\|About]]
----
+> [!summary]+ Now Reading
+>  |                                                                                                                                                                               | Title                                                                                              | Author                                               | Year |
+> | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- | ---------------------------------------------------- | ---- |
+> | <img src='https://books.google.com/books/content?id=6aNKDwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api' height='120' style='border-radius:6px;object-fit:contain'/> | [[04-Resources/Books/The Skeptics' Guide to the Universe\|The Skeptics' Guide to the Universe]] | [[01-Inbox/Steven Novella\|Steven Novella]]       | 2018 |
+> | <img src='https://books.google.com/books/content?id=IV_DEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api' height='120' style='border-radius:6px;object-fit:contain'/> | [[04-Resources/Books/Slow Productivity\|Slow Productivity]]                                     | [[04-Resources/Authors/Cal Newport\|Cal Newport]] | 2024 |
+> | <img src='https://books.google.com/books/content?id=QJI3jvh8S30C&printsec=frontcover&img=1&zoom=1&source=gbs_api' height='120' style='border-radius:6px;object-fit:contain'/> | [[04-Resources/Books/A Brief History of Thought\|A Brief History of Thought]]                   | [[04-Resources/Authors/Luc Ferry\|Luc Ferry]]     | 2011 |
+> 
+{ .block-language-dataview}
+ ---
+
+> [!info] Obsidian Community Vaults
+> The Recursive Garden is part of the  
+> [Obsidian Community Vaults](https://vaults.obsidian-community.com/).
 
 [![Buy Me A Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://buymeacoffee.com/sethrobinsw)
