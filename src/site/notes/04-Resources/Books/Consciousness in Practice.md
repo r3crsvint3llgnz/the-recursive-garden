@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"section":"books","title":"Consciousness in Practice","author":"[[Brian Heath]]","year":"2025","reading_status":"finished","started":null,"finished":null,"summary":"","categories":["Nonfiction"],"tags":["book","booknotes"],"isbn":"","pages":"","citekey":"heathConsciousnessPractice2025","zotero_uri":"zotero://select/items/@heathConsciousnessPractice2025","cover":"https://m.media-amazon.com/images/I/81SyhHiY-kL._SL1500_.jpg","permalink":"/04-resources/books/consciousness-in-practice/","dgPassFrontmatter":true}
+{"dg-publish":true,"section":"books","title":"Consciousness in Practice","author":"[[Brian Heath]]","year":"2025","status":["read"],"started":null,"finished":"2025-08-15","summary":"","categories":["Nonfiction"],"tags":["book","booknotes"],"isbn":"","pages":"","citekey":"heathConsciousnessPractice2025","zotero_uri":"zotero://select/items/@heathConsciousnessPractice2025","cover":"https://m.media-amazon.com/images/I/81SyhHiY-kL._SL1500_.jpg","permalink":"/04-resources/books/consciousness-in-practice/","dgPassFrontmatter":true}
 ---
 
 
