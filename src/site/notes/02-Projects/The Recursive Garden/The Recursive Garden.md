@@ -2,7 +2,7 @@
 {"dg-home":true,"dg-publish":true,"title":"The Recursive Garden","dg-content-classes":"home-hero","dg-metatags":{"description":"A live digital garden exploring Recursive Distinction Dynamics, AI practice, and experimental fiction.","og:title":"The Recursive Garden","og:image":"https://therecursivegarden.netlify.app/_assets/recursive-garden-hero.png"},"permalink":"/02-projects/the-recursive-garden/the-recursive-garden/","metatags":{"description":"A live digital garden exploring Recursive Distinction Dynamics, AI practice, and experimental fiction.","og:title":"The Recursive Garden","og:image":"https://therecursivegarden.netlify.app/_assets/recursive-garden-hero.png"},"contentClasses":"home-hero","tags":["gardenEntry"],"dgPassFrontmatter":true}
 ---
 
-![Gemini_Generated_Image_lwf17llwf17llwf1.png](/img/user/Gemini_Generated_Image_lwf17llwf17llwf1.png)
+![therecursivegarden.png](/img/user/02-Projects/The%20Recursive%20Garden/_assets/therecursivegarden.png)
 
 > [!abstract] A live research garden
 > I'm Seth. I'm autistic and I understand things by taking them apart into **atoms** (small distinctions) and **molecules** (how those pieces interact), then rebuilding them into working systems.
