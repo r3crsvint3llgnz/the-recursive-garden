@@ -2,6 +2,7 @@
 {"dg-publish":true,"title":"Reading Notes (Hub)","section":"hubs","tags":["hub","books","reviews"],"summary":"Active shelf, queue, finished, and reviews. Books from Citations; source cards from Zotero Integration.","permalink":"/04-resources/reading-notes/","dgPassFrontmatter":true}
 ---
 
+[[02-Projects/The Recursive Garden/The Recursive Garden\|🏠 Home]] · [[02-Projects/The Recursive Garden/About\|ℹ️ About]]
 # Reading Notes
 
 > [!note]+ Active shelf

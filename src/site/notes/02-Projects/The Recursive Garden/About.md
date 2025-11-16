@@ -2,6 +2,7 @@
 {"dg-publish":true,"title":"About","section":"site","tags":["about","profile"],"summary":"What this garden is, what I'm exploring, and where to look.","permalink":"/02-projects/the-recursive-garden/about/","dgPassFrontmatter":true}
 ---
 
+[[02-Projects/The Recursive Garden/The Recursive Garden\|🏠 Home]]  · [[04-Resources/Reading Notes\|📚 Reading Notes]]
 # About this garden
 
 > [!abstract]+ What this is
