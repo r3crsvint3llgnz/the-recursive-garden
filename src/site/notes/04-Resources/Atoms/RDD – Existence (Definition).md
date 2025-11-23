@@ -1,14 +1,12 @@
 ---
-{"dg-publish":true,"aliases":"Distinction","tags":["#atom","#RDD","#foundational","atom"],"Reference Link":null,"topics":["Recursive Distinction Dynamics","Philosophy"],"Page Number":null,"kind":"atom","source":"","pages":"","citekey":"","created":"2025-11-22T20:09:00","updated":"2025-11-22T20:10:00","molecule":"[[What is Reality under RDD]]","permalink":"/04-resources/atoms/rdd-distinction-definition/","dgPassFrontmatter":true}
+{"dg-publish":true,"kind":"atom","tags":["atom"],"topics":["Recursive Distinction Dynamics","Philosophy"],"source":"","pages":"","citekey":"","created":"2025-11-22T20:21:00","updated":"2025-11-22T20:21:00","molecule":["[[What is Reality under RDD]]"],"permalink":"/04-resources/atoms/rdd-existence-definition/","dgPassFrontmatter":true}
 ---
 
-# **Distinction ($\mathcal{D}$)**
+# **Existence ($E$)**
 
-- **Definition:** A perspective-indexed carving of [[04-Resources/Atoms/RDD – Potential (Definition)\|potential]].
+- **Definition:** The state of a stabilized [[04-Resources/Atoms/RDD – Distinction (Definition)\|distinction]] currently undergoing recursive update through interaction.
     
-- **Formalism:** $\mathcal{D} = (\Omega, P, C)$, where $\Omega$ is potential, $P$ is perspective, and $C$ is the specific cut/partition.
-    
-- **Contextual Anchor:** **G. Spencer-Brown’s _Laws of Form_** (The Mark); **Shannon Information** (Resolution of uncertainty).
+- **Boolean Logic:** IF $R > 0$ THEN $E = 1$ ELSE $E = 0$.
 
 > [!tip]- Distillation — one idea, in my words
 > - Write the irreducible insight. 50–120 words.

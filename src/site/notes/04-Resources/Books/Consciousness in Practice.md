@@ -10,7 +10,7 @@
 <p><span>★★★★</span></p>
 
 > [!quote]- Citation  
-> [[01-Inbox/Brian Heath\|Brian Heath]] (2025). *Consciousness in Practice*.
+> [[04-Resources/Authors/Brian Heath\|Brian Heath]] (2025). *Consciousness in Practice*.
 ---
 
 > [!abstract]+ Summary  

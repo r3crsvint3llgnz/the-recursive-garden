@@ -29,19 +29,20 @@
 ---
 
 > [!example]+ Latest Changes
->  | Note                                                                                                         | status | Updated    |
-> | ------------------------------------------------------------------------------------------------------------ | ------ | ---------- |
-> | [[04-Resources/Atoms/KERNEL is model-agnostic\|KERNEL is model-agnostic]]                                 | \-     | 2025-11-09 |
-> | [[04-Resources/Atoms/KERNEL — Reproducible results\|KERNEL — Reproducible results]]                       | \-     | 2025-11-09 |
-> | [[04-Resources/Atoms/KERNEL — Narrow scope\|KERNEL — Narrow scope]]                                       | \-     | 2025-11-09 |
-> | [[04-Resources/Atoms/KERNEL — measurable impact\|KERNEL — measurable impact]]                             | \-     | 2025-11-09 |
-> | [[04-Resources/Atoms/KERNEL — Logical structure (CTCF)\|KERNEL — Logical structure (CTCF)]]               | \-     | 2025-11-09 |
-> | [[04-Resources/Atoms/KERNEL — Keep it simple\|KERNEL — Keep it simple]]                                   | \-     | 2025-11-09 |
-> | [[04-Resources/Atoms/KERNEL — Explicit constraints\|KERNEL — Explicit constraints]]                       | \-     | 2025-11-09 |
-> | [[04-Resources/Atoms/KERNEL — Easy to verify\|KERNEL — Easy to verify]]                                   | \-     | 2025-11-09 |
-> | [[04-Resources/Atoms/Chain simple prompts; one complex prompt\|Chain simple prompts; one complex prompt]] | \-     | 2025-11-09 |
-> | [[04-Resources/Molecules/KERNEL — prompt pattern (molecule)\|KERNEL — prompt pattern (molecule)]]         | draft  | 2025-11-09 |
-> | [[04-Resources/Atoms/RDD – Distinction (Definition)\|RDD – Distinction (Definition)]]                     | \-     | 2025-11-09 |
+>  | Note                                                                                     | status | Updated    |
+> | ---------------------------------------------------------------------------------------- | ------ | ---------- |
+> | [[04-Resources/Atoms/RDD – Persistence (Definition)\|RDD – Persistence (Definition)]] | \-     | 2025-11-22 |
+> | [[04-Resources/Atoms/RDD – Entropy (Definition)\|RDD – Entropy (Definition)]]         | \-     | 2025-11-22 |
+> | [[04-Resources/Atoms/RDD – Gravity (Definition)\|RDD – Gravity (Definition)]]         | \-     | 2025-11-22 |
+> | [[04-Resources/Atoms/RDD – Distinction (Definition)\|RDD – Distinction (Definition)]] | \-     | 2025-11-22 |
+> | [[04-Resources/Molecules/Qualia\|Qualia]]                                             | draft  | 2025-11-22 |
+> | [[04-Resources/Atoms/RDD – Time (Definition)\|RDD – Time (Definition)]]               | \-     | 2025-11-22 |
+> | [[04-Resources/Molecules/What is Reality under RDD\|What is Reality under RDD]]       | draft  | 2025-11-22 |
+> | [[04-Resources/Atoms/RDD – Existence (Definition)\|RDD – Existence (Definition)]]     | \-     | 2025-11-22 |
+> | [[04-Resources/Atoms/RDD – Recursion (Definition)\|RDD – Recursion (Definition)]]     | \-     | 2025-11-22 |
+> | [[04-Resources/Atoms/RDD – Perspective (Definition)\|RDD – Perspective (Definition)]] | \-     | 2025-11-22 |
+> | [[04-Resources/Atoms/RDD – Potential (Definition)\|RDD – Potential (Definition)]]     | \-     | 2025-11-22 |
+> | [[04-Resources/Atoms/KERNEL is model-agnostic\|KERNEL is model-agnostic]]             | \-     | 2025-11-09 |
 > 
 { .block-language-dataview}
 ---
@@ -57,12 +58,22 @@
 > - [[04-Resources/Atoms/KERNEL — Reproducible results\|KERNEL — Reproducible results]]
 > - [[04-Resources/Atoms/KERNEL is model-agnostic\|KERNEL is model-agnostic]]
 > - [[04-Resources/Atoms/RDD – Distinction (Definition)\|RDD – Distinction (Definition)]]
+> - [[04-Resources/Atoms/RDD – Entropy (Definition)\|RDD – Entropy (Definition)]]
+> - [[04-Resources/Atoms/RDD – Existence (Definition)\|RDD – Existence (Definition)]]
+> - [[04-Resources/Atoms/RDD – Gravity (Definition)\|RDD – Gravity (Definition)]]
+> - [[04-Resources/Atoms/RDD – Persistence (Definition)\|RDD – Persistence (Definition)]]
+> - [[04-Resources/Atoms/RDD – Perspective (Definition)\|RDD – Perspective (Definition)]]
+> - [[04-Resources/Atoms/RDD – Potential (Definition)\|RDD – Potential (Definition)]]
+> - [[04-Resources/Atoms/RDD – Recursion (Definition)\|RDD – Recursion (Definition)]]
+> - [[04-Resources/Atoms/RDD – Time (Definition)\|RDD – Time (Definition)]]
 > 
 { .block-language-dataview}
 ---
 
 > [!example]+ Molecules (short syntheses)
->  - [[04-Resources/Molecules/KERNEL — prompt pattern (molecule)\|KERNEL — prompt pattern (molecule)]]
+>  - [[04-Resources/Molecules/Qualia\|Qualia]]
+> - [[04-Resources/Molecules/What is Reality under RDD\|What is Reality under RDD]]
+> - [[04-Resources/Molecules/KERNEL — prompt pattern (molecule)\|KERNEL — prompt pattern (molecule)]]
 > 
 { .block-language-dataview}
 ---
@@ -97,19 +108,23 @@
 
 
 ## Changelog
-| Changed                                                                                                      | When             |
-| ------------------------------------------------------------------------------------------------------------ | ---------------- |
-| [[04-Resources/Atoms/KERNEL is model-agnostic\|KERNEL is model-agnostic]]                                 | 2025-11-09 22:30 |
-| [[04-Resources/Atoms/KERNEL — Reproducible results\|KERNEL — Reproducible results]]                       | 2025-11-09 22:30 |
-| [[04-Resources/Atoms/KERNEL — Narrow scope\|KERNEL — Narrow scope]]                                       | 2025-11-09 22:30 |
-| [[04-Resources/Atoms/KERNEL — measurable impact\|KERNEL — measurable impact]]                             | 2025-11-09 22:30 |
-| [[04-Resources/Atoms/KERNEL — Logical structure (CTCF)\|KERNEL — Logical structure (CTCF)]]               | 2025-11-09 22:30 |
-| [[04-Resources/Atoms/KERNEL — Keep it simple\|KERNEL — Keep it simple]]                                   | 2025-11-09 22:30 |
-| [[04-Resources/Atoms/KERNEL — Explicit constraints\|KERNEL — Explicit constraints]]                       | 2025-11-09 22:30 |
-| [[04-Resources/Atoms/KERNEL — Easy to verify\|KERNEL — Easy to verify]]                                   | 2025-11-09 22:30 |
-| [[04-Resources/Atoms/Chain simple prompts; one complex prompt\|Chain simple prompts; one complex prompt]] | 2025-11-09 22:30 |
-| [[04-Resources/Molecules/KERNEL — prompt pattern (molecule)\|KERNEL — prompt pattern (molecule)]]         | 2025-11-09 20:04 |
-| [[04-Resources/Atoms/RDD – Distinction (Definition)\|RDD – Distinction (Definition)]]                     | 2025-11-09 17:11 |
+| Changed                                                                                  | When             |
+| ---------------------------------------------------------------------------------------- | ---------------- |
+| [[04-Resources/Atoms/RDD – Persistence (Definition)\|RDD – Persistence (Definition)]] | 2025-11-22 21:07 |
+| [[04-Resources/Atoms/RDD – Entropy (Definition)\|RDD – Entropy (Definition)]]         | 2025-11-22 20:59 |
+| [[04-Resources/Atoms/RDD – Gravity (Definition)\|RDD – Gravity (Definition)]]         | 2025-11-22 20:59 |
+| [[04-Resources/Atoms/RDD – Distinction (Definition)\|RDD – Distinction (Definition)]] | 2025-11-22 20:59 |
+| [[04-Resources/Molecules/Qualia\|Qualia]]                                             | 2025-11-22 20:59 |
+| [[04-Resources/Atoms/RDD – Time (Definition)\|RDD – Time (Definition)]]               | 2025-11-22 20:59 |
+| [[04-Resources/Molecules/What is Reality under RDD\|What is Reality under RDD]]       | 2025-11-22 20:58 |
+| [[04-Resources/Atoms/RDD – Existence (Definition)\|RDD – Existence (Definition)]]     | 2025-11-22 20:57 |
+| [[04-Resources/Atoms/RDD – Recursion (Definition)\|RDD – Recursion (Definition)]]     | 2025-11-22 20:57 |
+| [[04-Resources/Atoms/RDD – Perspective (Definition)\|RDD – Perspective (Definition)]] | 2025-11-22 20:48 |
+| [[04-Resources/Atoms/RDD – Potential (Definition)\|RDD – Potential (Definition)]]     | 2025-11-22 20:18 |
+| [[04-Resources/Atoms/KERNEL is model-agnostic\|KERNEL is model-agnostic]]             | 2025-11-09 22:30 |
+| [[04-Resources/Atoms/KERNEL — Reproducible results\|KERNEL — Reproducible results]]   | 2025-11-09 22:30 |
+| [[04-Resources/Atoms/KERNEL — Narrow scope\|KERNEL — Narrow scope]]                   | 2025-11-09 22:30 |
+| [[04-Resources/Atoms/KERNEL — measurable impact\|KERNEL — measurable impact]]         | 2025-11-09 22:30 |
 
 { .block-language-dataview}
 ---

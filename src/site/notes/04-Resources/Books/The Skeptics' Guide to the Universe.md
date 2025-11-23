@@ -10,7 +10,7 @@
 <p><span>★★★★★</span></p>
 
 > [!quote]- Citation  
-> [[01-Inbox/Steven Novella\|Steven Novella]] (November 09, 2025). *The Skeptics' Guide to the Universe*. Hachette+ORM.
+> [[04-Resources/Authors/Steven Novella\|Steven Novella]] (November 09, 2025). *The Skeptics' Guide to the Universe*. Hachette+ORM.
 ---
 
 > [!abstract]- Summary

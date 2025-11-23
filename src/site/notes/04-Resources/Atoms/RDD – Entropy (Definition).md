@@ -1,14 +1,12 @@
 ---
-{"dg-publish":true,"aliases":"Distinction","tags":["#atom","#RDD","#foundational","atom"],"Reference Link":null,"topics":["Recursive Distinction Dynamics","Philosophy"],"Page Number":null,"kind":"atom","source":"","pages":"","citekey":"","created":"2025-11-22T20:09:00","updated":"2025-11-22T20:10:00","molecule":"[[What is Reality under RDD]]","permalink":"/04-resources/atoms/rdd-distinction-definition/","dgPassFrontmatter":true}
+{"dg-publish":true,"kind":"atom","tags":["atom"],"topics":["Recursive Distinction Dynamics","Philosophy"],"source":"","pages":"","citekey":"","created":"2025-11-22T20:22:00","updated":"2025-11-22T20:22:00","molecule":"[[What is Reality under RDD]]","permalink":"/04-resources/atoms/rdd-entropy-definition/","dgPassFrontmatter":true}
 ---
 
-# **Distinction ($\mathcal{D}$)**
+# **Entropy ($H_{RDD}$)**
 
-- **Definition:** A perspective-indexed carving of [[04-Resources/Atoms/RDD – Potential (Definition)\|potential]].
+- **Definition:** The decoherence of [[04-Resources/Atoms/RDD – Potential (Definition)\|potential]]. It is not just energy loss, but **Rigidity**. High entropy means the system has made so many rigid [[04-Resources/Atoms/RDD – Distinction (Definition)\|distinctions]] that it has lost access to the superposition field (Potential).
     
-- **Formalism:** $\mathcal{D} = (\Omega, P, C)$, where $\Omega$ is potential, $P$ is perspective, and $C$ is the specific cut/partition.
-    
-- **Contextual Anchor:** **G. Spencer-Brown’s _Laws of Form_** (The Mark); **Shannon Information** (Resolution of uncertainty).
+- **Contextual Anchor:** **Thermodynamic Entropy** vs. **Logical Depth**.
 
 > [!tip]- Distillation — one idea, in my words
 > - Write the irreducible insight. 50–120 words.
