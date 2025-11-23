@@ -1,63 +1,69 @@
 ---
-{"dg-publish":true,"title":"Recursive Distinction Dynamics — Project Hub","section":"hubs","kind_pm":["Project"],"project":"Recursive Distinction Dynamics (RDD)","status":"Active","priority":"High","tags":["rdd","philosophy","formalism","project"],"cover":"02-Projects/The Recursive Garden/_assets/rdd.png","description":"Formalize RDD: precise atoms (definitions), molecules (syntheses), constraints, examples.","topics":["distinctions","recursion","time","coherence","causality","agency"],"summary":"Working project hub for defining and testing RDD.","permalink":"/02-projects/recursive-distinction-dynamics/recursive-distinction-dynamics/","dgPassFrontmatter":true}
+{"dg-publish":true,"title":"Recursive Distinction Dynamics — Project Hub","section":"hubs","kind_pm":["Project"],"project":["[[Recursive Distinction Dynamics]]"],"status":"Active","priority":"High","tags":["rdd","philosophy","formalism","project"],"cover":"02-Projects/The Recursive Garden/_assets/rdd.png","description":"A computational ontology defining reality via Potential, Distinction, and Recursion.","topics":["distinctions","recursion","entropy","gravity","perspective","consciousness","Philosophy","Recursive Distinction Dynamics"],"summary":"Central command for the RDD framework and its axiomatic definitions.","permalink":"/02-projects/recursive-distinction-dynamics/recursive-distinction-dynamics/","dgPassFrontmatter":true}
 ---
 
 ![rdd.png](/img/user/02-Projects/The%20Recursive%20Garden/_assets/rdd.png)
 [[02-Projects/The Recursive Garden/The Recursive Garden\|🏠 Home]] · [[02-Projects/The Recursive Garden/About\|ℹ️ About]]
 
 > [!abstract]+ Objective
-> Define RDD as a **usable formalism**: minimal primitives, falsifiable claims, examples, counterexamples.
+> To formalize a **constructivist physics of existence** where "Reality" is not made of matter, but of persistent information structures defined by:
+> 1.  **Perspective** (The Subject)
+> 2.  **Distinction** (The Act)
+> 3.  **Recursion** (The Engine)
 ---
 
-> [!note]+ Scope
-> - **Atoms (definitions):** Distinction, 𝓓 (operator), Π (persistence), Φ (coherence field), Pₜ (partition state), Lₜ (graph geometry), 𝓒 (complexity cost).  
-> - **Molecules (syntheses):** time-as-recursion-index, decoherence-as-rejoin, gravity-as-coherence, determinism vs agency under Π − λ𝓒.  
-> - **Evidence:** toy models, worked examples, reading tie-ins.  
-> - **Exclusions:** metaphysical guarantees; claims without operational tests.
+> [!note]+ Scope: The RDD Ontology
+> **The Atoms (Primitives):**
+> - **$\Omega$ (Potential):** The superposition field; infinite capacity for form.
+> - **$\mathcal{D}$ (Distinction):** The fundamental cut $(\Omega, P, C)$.
+> - **$P$ (Perspective):** The locus of distinction; structural identity.
+> - **$R$ (Recursion):** The update loop driving the system.
+> - **$t$ (Time):** The recursion index ($R_i$).
+> - **$\Phi$ (Qualia):** Structural history embedded in time.
+> - **$H$ (Entropy):** Loss of potential; decoherence.
+> - **$G$ (Gravity):** Persistence pressure; resistance to entropy.
+> 
+> **The Molecules (Syntheses):**
+> - **Reality:** Survivorship bias of distinctions under Gravity.
+> - **The Distinction Engine:** Any system ($P + R$) generating cuts.
+> - **Subjective Continuity:** The impossibility of experiencing non-existence.
 ---
 
-> [!tip]+ Start here
-> - [[RDD — Distinction (Definition)\|RDD — Distinction (Definition)]]  
-> - [[RDD — Distinction Operator (𝓓)\|RDD — Distinction Operator (𝓓)]]  
-> - [[RDD — Persistence (Π)\|RDD — Persistence (Π)]]  
-> - [[RDD — Coherence Field (Φ)\|RDD — Coherence Field (Φ)]]  
-> - [[RDD — Open Questions\|RDD — Open Questions]]
+> [!tip]+ Start here (The Core Loop)
+> 1. [[04-Resources/Atoms/RDD – Potential (Definition)\|RDD – Potential (Definition)]]
+> 2. [[04-Resources/Atoms/RDD – Perspective (Definition)\|RDD – Perspective (Definition)]]
+> 3. [[04-Resources/Atoms/RDD – Distinction (Definition)\|RDD – Distinction (Definition)]]
+> 4. [[04-Resources/Atoms/RDD – Recursion (Definition)\|RDD – Recursion (Definition)]]
+> 5. [[04-Resources/Atoms/RDD – Gravity (Definition)\|RDD – Gravity (Definition)]]
 ---
 
-> [!info]+ How RDD is tested (evidence & method)
-> See: [[RDD — Evidence & Method\|RDD — Evidence & Method]] — toy protocols, counterexample search, and cost/constraint (𝓒) checks.
+> [!info]+ Methodology
+> RDD is tested via **Logic Gates** and **Phenomenological Fit**.
+> * *Does it solve the Double Slit?* (Yes, via Interaction of Potentials).
+> * *Does it explain Death?* (Yes, via Subjective Continuity).
+> * *Does it explain Matter?* (Yes, via Recursive Gravity/Persistence).
 ---
 
 > [!example]+ Latest Changes
->  | Note                                                                                     | status | Updated    |
-> | ---------------------------------------------------------------------------------------- | ------ | ---------- |
-> | [[04-Resources/Atoms/RDD – Persistence (Definition)\|RDD – Persistence (Definition)]] | \-     | 2025-11-22 |
-> | [[04-Resources/Atoms/RDD – Entropy (Definition)\|RDD – Entropy (Definition)]]         | \-     | 2025-11-22 |
-> | [[04-Resources/Atoms/RDD – Gravity (Definition)\|RDD – Gravity (Definition)]]         | \-     | 2025-11-22 |
-> | [[04-Resources/Atoms/RDD – Distinction (Definition)\|RDD – Distinction (Definition)]] | \-     | 2025-11-22 |
-> | [[04-Resources/Molecules/Qualia\|Qualia]]                                             | draft  | 2025-11-22 |
-> | [[04-Resources/Atoms/RDD – Time (Definition)\|RDD – Time (Definition)]]               | \-     | 2025-11-22 |
-> | [[04-Resources/Molecules/What is Reality under RDD\|What is Reality under RDD]]       | draft  | 2025-11-22 |
-> | [[04-Resources/Atoms/RDD – Existence (Definition)\|RDD – Existence (Definition)]]     | \-     | 2025-11-22 |
-> | [[04-Resources/Atoms/RDD – Recursion (Definition)\|RDD – Recursion (Definition)]]     | \-     | 2025-11-22 |
-> | [[04-Resources/Atoms/RDD – Perspective (Definition)\|RDD – Perspective (Definition)]] | \-     | 2025-11-22 |
-> | [[04-Resources/Atoms/RDD – Potential (Definition)\|RDD – Potential (Definition)]]     | \-     | 2025-11-22 |
-> | [[04-Resources/Atoms/KERNEL is model-agnostic\|KERNEL is model-agnostic]]             | \-     | 2025-11-09 |
+>  | Note                                                                                     | status                  | Updated    |
+> | ---------------------------------------------------------------------------------------- | ----------------------- | ---------- |
+> | [[04-Resources/Atoms/RDD – Entropy (Definition)\|RDD – Entropy (Definition)]]         | <ul><li>draft</li></ul> | 2025-11-22 |
+> | [[04-Resources/Atoms/RDD – Persistence (Definition)\|RDD – Persistence (Definition)]] | <ul><li>draft</li></ul> | 2025-11-22 |
+> | [[04-Resources/Atoms/RDD – Gravity (Definition)\|RDD – Gravity (Definition)]]         | \-                      | 2025-11-22 |
+> | [[04-Resources/Atoms/RDD – Distinction (Definition)\|RDD – Distinction (Definition)]] | \-                      | 2025-11-22 |
+> | [[04-Resources/Molecules/Qualia\|Qualia]]                                             | draft                   | 2025-11-22 |
+> | [[04-Resources/Atoms/RDD – Time (Definition)\|RDD – Time (Definition)]]               | \-                      | 2025-11-22 |
+> | [[04-Resources/Molecules/What is Reality under RDD\|What is Reality under RDD]]       | draft                   | 2025-11-22 |
+> | [[04-Resources/Atoms/RDD – Existence (Definition)\|RDD – Existence (Definition)]]     | \-                      | 2025-11-22 |
+> | [[04-Resources/Atoms/RDD – Recursion (Definition)\|RDD – Recursion (Definition)]]     | \-                      | 2025-11-22 |
+> | [[04-Resources/Atoms/RDD – Perspective (Definition)\|RDD – Perspective (Definition)]] | \-                      | 2025-11-22 |
+> | [[04-Resources/Atoms/RDD – Potential (Definition)\|RDD – Potential (Definition)]]     | \-                      | 2025-11-22 |
 > 
 { .block-language-dataview}
 ---
 
-> [!note]+ Atoms (definitions)
->  - [[04-Resources/Atoms/Chain simple prompts; one complex prompt\|Chain simple prompts; one complex prompt]]
-> - [[04-Resources/Atoms/KERNEL — Easy to verify\|KERNEL — Easy to verify]]
-> - [[04-Resources/Atoms/KERNEL — Explicit constraints\|KERNEL — Explicit constraints]]
-> - [[04-Resources/Atoms/KERNEL — Keep it simple\|KERNEL — Keep it simple]]
-> - [[04-Resources/Atoms/KERNEL — Logical structure (CTCF)\|KERNEL — Logical structure (CTCF)]]
-> - [[04-Resources/Atoms/KERNEL — measurable impact\|KERNEL — measurable impact]]
-> - [[04-Resources/Atoms/KERNEL — Narrow scope\|KERNEL — Narrow scope]]
-> - [[04-Resources/Atoms/KERNEL — Reproducible results\|KERNEL — Reproducible results]]
-> - [[04-Resources/Atoms/KERNEL is model-agnostic\|KERNEL is model-agnostic]]
-> - [[04-Resources/Atoms/RDD – Distinction (Definition)\|RDD – Distinction (Definition)]]
+> [!note]+ Atoms (Definitions)
+>  - [[04-Resources/Atoms/RDD – Distinction (Definition)\|RDD – Distinction (Definition)]]
 > - [[04-Resources/Atoms/RDD – Entropy (Definition)\|RDD – Entropy (Definition)]]
 > - [[04-Resources/Atoms/RDD – Existence (Definition)\|RDD – Existence (Definition)]]
 > - [[04-Resources/Atoms/RDD – Gravity (Definition)\|RDD – Gravity (Definition)]]
@@ -70,32 +76,27 @@
 { .block-language-dataview}
 ---
 
-> [!example]+ Molecules (short syntheses)
+> [!example]+ Molecules (Syntheses)
 >  - [[04-Resources/Molecules/Qualia\|Qualia]]
 > - [[04-Resources/Molecules/What is Reality under RDD\|What is Reality under RDD]]
-> - [[04-Resources/Molecules/KERNEL — prompt pattern (molecule)\|KERNEL — prompt pattern (molecule)]]
 > 
 { .block-language-dataview}
 ---
 
-> [!warning]+ Claims under test
+> [!warning]+ Claims & Hypotheses
 >  | Claim | status | Updated |
 > | ----- | ------ | ------- |
 > 
 { .block-language-dataview}
 ---
 
-## Experiments / examples
+## Experiments / Examples
 
 
-{ .block-language-dataview}
+{ .block-language-dataview}`
 
-## Genealogy / context
+## Reading Tie-ins
 
-
-{ .block-language-dataview}
-
-## Reading tie-ins
 | Book | summary | year |
 | ---- | ------- | ---- |
 
@@ -106,12 +107,12 @@
 
 { .block-language-dataview}
 
-
 ## Changelog
+
 | Changed                                                                                  | When             |
 | ---------------------------------------------------------------------------------------- | ---------------- |
-| [[04-Resources/Atoms/RDD – Persistence (Definition)\|RDD – Persistence (Definition)]] | 2025-11-22 21:07 |
-| [[04-Resources/Atoms/RDD – Entropy (Definition)\|RDD – Entropy (Definition)]]         | 2025-11-22 20:59 |
+| [[04-Resources/Atoms/RDD – Entropy (Definition)\|RDD – Entropy (Definition)]]         | 2025-11-22 21:30 |
+| [[04-Resources/Atoms/RDD – Persistence (Definition)\|RDD – Persistence (Definition)]] | 2025-11-22 21:29 |
 | [[04-Resources/Atoms/RDD – Gravity (Definition)\|RDD – Gravity (Definition)]]         | 2025-11-22 20:59 |
 | [[04-Resources/Atoms/RDD – Distinction (Definition)\|RDD – Distinction (Definition)]] | 2025-11-22 20:59 |
 | [[04-Resources/Molecules/Qualia\|Qualia]]                                             | 2025-11-22 20:59 |
@@ -121,29 +122,12 @@
 | [[04-Resources/Atoms/RDD – Recursion (Definition)\|RDD – Recursion (Definition)]]     | 2025-11-22 20:57 |
 | [[04-Resources/Atoms/RDD – Perspective (Definition)\|RDD – Perspective (Definition)]] | 2025-11-22 20:48 |
 | [[04-Resources/Atoms/RDD – Potential (Definition)\|RDD – Potential (Definition)]]     | 2025-11-22 20:18 |
-| [[04-Resources/Atoms/KERNEL is model-agnostic\|KERNEL is model-agnostic]]             | 2025-11-09 22:30 |
-| [[04-Resources/Atoms/KERNEL — Reproducible results\|KERNEL — Reproducible results]]   | 2025-11-09 22:30 |
-| [[04-Resources/Atoms/KERNEL — Narrow scope\|KERNEL — Narrow scope]]                   | 2025-11-09 22:30 |
-| [[04-Resources/Atoms/KERNEL — measurable impact\|KERNEL — measurable impact]]         | 2025-11-09 22:30 |
 
 { .block-language-dataview}
----
+-----
 
-> [!hint]- Working rules
-> 
-> - One **atom** = one definition + a tiny test or counterexample.
->     
-> - One **molecule** = one claim with assumptions and failure cases.
->     
-> - Tag with `atom`, `molecule`, or `claim`; set `status: seed | draft | stable | canonical`.
->     
-> - Record changes in-note; don’t delete—**deprecate** and point to the replacement.
->     
-> - Keep assumptions visible; separate **facts** (tested) from **guesses** (working theory).
->     
----
-
-> [!faq]- Quick FAQ  
-> **Is RDD metaphysics?** No. Claims live or die by tests and counterexamples.  
-> **Where do I start without math?** Read the first two atoms, then the “Evidence & Method” page.  
-> **How can I contribute?** Try to break a claim: add a counterexample or a cheaper boundary that beats it on 𝓒.
+> [!hint]- Working Rules
+> - **Atom:** An irreducible definition. Must connect to at least one other atom.
+> - **Molecule:** An emergent property derived from the interaction of Atoms.
+> - **The "Realness" Test:** If a concept cannot be described as a manipulation of Potential via Recursion, it is likely a linguistic illusion, not a metaphysical reality.
+> - **Gravity Check:** Does this concept explain why it persists? If not, it is Entropy.

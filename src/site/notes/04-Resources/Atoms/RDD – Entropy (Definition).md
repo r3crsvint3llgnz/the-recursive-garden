@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"kind":"atom","tags":["atom"],"topics":["Recursive Distinction Dynamics","Philosophy"],"source":"","pages":"","citekey":"","created":"2025-11-22T20:22:00","updated":"2025-11-22T20:22:00","molecule":"[[What is Reality under RDD]]","permalink":"/04-resources/atoms/rdd-entropy-definition/","dgPassFrontmatter":true}
+{"dg-publish":true,"kind":"atom","tags":["atom"],"topics":["Recursive Distinction Dynamics","Philosophy"],"source":"","pages":"","citekey":"","created":"2025-11-22T20:22:00","updated":"2025-11-22T20:22:00","molecule":"[[What is Reality under RDD]]","status":["draft"],"permalink":"/04-resources/atoms/rdd-entropy-definition/","dgPassFrontmatter":true}
 ---
 
 # **Entropy ($H_{RDD}$)**
