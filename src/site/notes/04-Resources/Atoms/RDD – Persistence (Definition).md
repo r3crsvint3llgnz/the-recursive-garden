@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"aliases":"Persistence","tags":["#atom","#RDD","#foundational","atom"],"Reference Link":null,"topics":["Recursive Distinction Dynamics","Cybernetics","Thermodynamics"],"Page Number":null,"kind":"atom","source":"User/RDD Session","pages":"","citekey":"","created":"2025-11-22T21:10:00","updated":"2025-11-22T21:10:00","molecule":"[[What is Reality under RDD]]","permalink":"/04-resources/atoms/rdd-persistence-definition/","dgPassFrontmatter":true}
+{"dg-publish":true,"aliases":"Persistence","tags":["#atom","#RDD","#foundational","atom"],"Reference Link":null,"topics":["Recursive Distinction Dynamics","Cybernetics","Thermodynamics"],"Page Number":null,"kind":"atom","source":"User/RDD Session","pages":"","citekey":"","created":"2025-11-22T21:10:00","updated":"2025-11-22T21:10:00","molecule":"[[What is Reality under RDD]]","status":["draft"],"permalink":"/04-resources/atoms/rdd-persistence-definition/","dgPassFrontmatter":true}
 ---
 
 # **Persistence ($\Pi$)**
