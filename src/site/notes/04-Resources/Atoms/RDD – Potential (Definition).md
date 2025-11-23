@@ -1,14 +1,12 @@
 ---
-{"dg-publish":true,"aliases":"Distinction","tags":["#atom","#RDD","#foundational","atom"],"Reference Link":null,"topics":["Recursive Distinction Dynamics","Philosophy"],"Page Number":null,"kind":"atom","source":"","pages":"","citekey":"","created":"2025-11-22T20:09:00","updated":"2025-11-22T20:10:00","molecule":"[[What is Reality under RDD]]","permalink":"/04-resources/atoms/rdd-distinction-definition/","dgPassFrontmatter":true}
+{"dg-publish":true,"kind":"atom","tags":["atom"],"topics":["Recursive Distinction Dynamics","Philosophy"],"source":"","pages":"","citekey":"","created":"2025-11-22T20:17:00","updated":"2025-11-22T20:17:00","molecule":null,"permalink":"/04-resources/atoms/rdd-potential-definition/","dgPassFrontmatter":true}
 ---
 
-# **Distinction ($\mathcal{D}$)**
+# **Underlying Potential ($\Omega$)**
 
-- **Definition:** A perspective-indexed carving of [[04-Resources/Atoms/RDD – Potential (Definition)\|potential]].
+- **Definition:** The pre-[[04-Resources/Atoms/RDD – Distinction (Definition)\|distinction]] field. A superposition field of mutually exclusive possibilities. It is not "void" or "nothingness," but the infinite capacity for form (Information Capacity $\to \infty$).
     
-- **Formalism:** $\mathcal{D} = (\Omega, P, C)$, where $\Omega$ is potential, $P$ is perspective, and $C$ is the specific cut/partition.
-    
-- **Contextual Anchor:** **G. Spencer-Brown’s _Laws of Form_** (The Mark); **Shannon Information** (Resolution of uncertainty).
+- **Contextual Anchor:** Similar to the **Quantum Wave Function** ($\Psi$) before collapse, or the **Bohmian Implicate Order**.
 
 > [!tip]- Distillation — one idea, in my words
 > - Write the irreducible insight. 50–120 words.

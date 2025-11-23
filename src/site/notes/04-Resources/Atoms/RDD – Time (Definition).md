@@ -1,14 +1,14 @@
 ---
-{"dg-publish":true,"aliases":"Distinction","tags":["#atom","#RDD","#foundational","atom"],"Reference Link":null,"topics":["Recursive Distinction Dynamics","Philosophy"],"Page Number":null,"kind":"atom","source":"","pages":"","citekey":"","created":"2025-11-22T20:09:00","updated":"2025-11-22T20:10:00","molecule":"[[What is Reality under RDD]]","permalink":"/04-resources/atoms/rdd-distinction-definition/","dgPassFrontmatter":true}
+{"aliases":["Time"],"tags":["#atom","RDD","foundational","atom"],"Reference Link":null,"topics":["Recursive Distinction Dynamics","Philosophy"],"Page Number":null,"dg-publish":true,"kind":"atom","source":"","pages":"","citekey":"","created":"2025-11-22T20:13:00","updated":"2025-11-22T20:13:00","molecule":"[[Qualia]]","permalink":"/04-resources/atoms/rdd-time-definition/","dgPassFrontmatter":true}
 ---
 
-# **Distinction ($\mathcal{D}$)**
+# **Time ($t$)**
 
-- **Definition:** A perspective-indexed carving of [[04-Resources/Atoms/RDD – Potential (Definition)\|potential]].
+- **Definition:** The index of [[04-Resources/Atoms/RDD – Recursion (Definition)\|recursion]]. Time is discrete and local to a [[04-Resources/Atoms/RDD – Perspective (Definition)\|perspective]]. It is not a container dimensions; it is a sequence of updates.
     
-- **Formalism:** $\mathcal{D} = (\Omega, P, C)$, where $\Omega$ is potential, $P$ is perspective, and $C$ is the specific cut/partition.
+- **Formalism:** $t = R_i$ (The $i$-th iteration of the loop).
     
-- **Contextual Anchor:** **G. Spencer-Brown’s _Laws of Form_** (The Mark); **Shannon Information** (Resolution of uncertainty).
+- **Contextual Anchor:** **Loop Quantum Gravity** (Rovelli); **Julian Barbour’s _The End of Time_** (Time as change-state).
 
 > [!tip]- Distillation — one idea, in my words
 > - Write the irreducible insight. 50–120 words.

@@ -1,14 +1,14 @@
 ---
-{"dg-publish":true,"aliases":"Distinction","tags":["#atom","#RDD","#foundational","atom"],"Reference Link":null,"topics":["Recursive Distinction Dynamics","Philosophy"],"Page Number":null,"kind":"atom","source":"","pages":"","citekey":"","created":"2025-11-22T20:09:00","updated":"2025-11-22T20:10:00","molecule":"[[What is Reality under RDD]]","permalink":"/04-resources/atoms/rdd-distinction-definition/","dgPassFrontmatter":true}
+{"dg-publish":true,"kind":"atom","tags":["atom"],"topics":["Recursive Distinction Dynamics","Philosophy"],"source":"","pages":"","citekey":"","created":"2025-11-22T20:14:00","updated":"2025-11-22T20:14:00","molecule":"[[Qualia]]","permalink":"/04-resources/atoms/rdd-perspective-definition/","dgPassFrontmatter":true}
 ---
 
-# **Distinction ($\mathcal{D}$)**
+# **Perspective ($P$)**
 
-- **Definition:** A perspective-indexed carving of [[04-Resources/Atoms/RDD – Potential (Definition)\|potential]].
+- **Definition:** A stabilized locus of [[04-Resources/Atoms/RDD – Distinction (Definition)\|distinctions]]. It is the "Knower" in the system. $P$ is not necessarily biological consciousness; it is any structural identity that provides a reference frame for a cut.
     
-- **Formalism:** $\mathcal{D} = (\Omega, P, C)$, where $\Omega$ is potential, $P$ is perspective, and $C$ is the specific cut/partition.
+- **Formalism:** $P$ is the constraint that necessitates _where_ a distinction is made.
     
-- **Contextual Anchor:** **G. Spencer-Brown’s _Laws of Form_** (The Mark); **Shannon Information** (Resolution of uncertainty).
+- **Contextual Anchor:** **QBism (Quantum Bayesianism)** agent; **Von Uexküll’s _Umwelt_**.
 
 > [!tip]- Distillation — one idea, in my words
 > - Write the irreducible insight. 50–120 words.
