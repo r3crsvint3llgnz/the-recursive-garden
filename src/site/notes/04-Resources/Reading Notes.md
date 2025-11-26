@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"title":"Reading Notes (Hub)","section":"hubs","tags":["hub","books","reviews"],"summary":"Active shelf, queue, finished, and reviews. Books from Citations; source cards from Zotero Integration.","cover":"02-Projects/The Recursive Garden/_assets/readingnotes.png","permalink":"/04-resources/reading-notes/","dgPassFrontmatter":true}
+{"dg-publish":true,"title":"Reading Notes (Hub)","section":"hubs","tags":["hub","books","reviews"],"summary":"Active shelf, queue, finished, and reviews. Books from Citations; source cards from Zotero Integration.","cover":"![readingnotes.png|80](/img/user/02-Projects/The%20Recursive%20Garden/_assets/readingnotes.png)","permalink":"/04-resources/reading-notes/","dgPassFrontmatter":true}
 ---
 
 ![readingnotes.png](/img/user/02-Projects/The%20Recursive%20Garden/_assets/readingnotes.png)

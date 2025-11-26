@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"title":"About","section":"hubs","tags":["about","profile"],"summary":"What this garden is, what I'm exploring, and where to look.","cover":"02-Projects/The Recursive Garden/_assets/sethrobins.jpg","permalink":"/02-projects/the-recursive-garden/about/","dgPassFrontmatter":true}
+{"dg-publish":true,"title":"About","section":"hubs","tags":["about","profile"],"summary":"What this garden is, what I'm exploring, and where to look.","cover":"![sethrobins.jpg|80](/img/user/02-Projects/The%20Recursive%20Garden/_assets/sethrobins.jpg)","permalink":"/02-projects/the-recursive-garden/about/","dgPassFrontmatter":true}
 ---
 
 [[02-Projects/The Recursive Garden/The Recursive Garden\|🏠 Home]]  · [[04-Resources/Reading Notes\|📚 Reading Notes]]
