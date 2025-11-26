@@ -19,11 +19,11 @@
 ---
 
 > [!abstract] Pick a path
->  |                                                                                                                               | Area                                                                                                             | What lives here                                                                                         |
-> | ----------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- |
-> | <img src='02-Projects/The Recursive Garden/_assets/sethrobins.jpg' height='80' style='border-radius:6px;object-fit:cover'/>   | [[02-Projects/The Recursive Garden/About\|About]]                                                             | What this garden is, what I'm exploring, and where to look.                                             |
-> | <img src='02-Projects/The Recursive Garden/_assets/readingnotes.png' height='80' style='border-radius:6px;object-fit:cover'/> | [[04-Resources/Reading Notes\|Reading Notes]]                                                                 | Active shelf, queue, finished, and reviews. Books from Citations; source cards from Zotero Integration. |
-> | <img src='02-Projects/The Recursive Garden/_assets/rdd.png' height='80' style='border-radius:6px;object-fit:cover'/>          | [[02-Projects/Recursive Distinction Dynamics/Recursive Distinction Dynamics\|Recursive Distinction Dynamics]] | Central command for the RDD framework and its axiomatic definitions.                                    |
+>  |                                                                    | Area                                                                                                             | What lives here                                                                                         |
+> | ------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- |
+> | ![[02-Projects/The Recursive Garden/_assets/sethrobins.jpg\|80]]   | [[02-Projects/The Recursive Garden/About\|About]]                                                             | What this garden is, what I'm exploring, and where to look.                                             |
+> | ![[02-Projects/The Recursive Garden/_assets/readingnotes.png\|80]] | [[04-Resources/Reading Notes\|Reading Notes]]                                                                 | Active shelf, queue, finished, and reviews. Books from Citations; source cards from Zotero Integration. |
+> | ![[02-Projects/The Recursive Garden/_assets/rdd.png\|80]]          | [[02-Projects/Recursive Distinction Dynamics/Recursive Distinction Dynamics\|Recursive Distinction Dynamics]] | Central command for the RDD framework and its axiomatic definitions.                                    |
 > 
 { .block-language-dataview}
 ---
