@@ -11,7 +11,11 @@
         "build:eleventy": "cross-env ELEVENTY_ENV=prod NODE_OPTIONS=--max-old-space-size=4096 eleventy",
         "build:sass": "sass src/site/styles:dist/styles --style compressed",
         "get-theme": "node src/site/get-theme.js",
-        "build": "npm-run-all get-theme build:*"
+        "build": "npm-run-all get-theme build:*",
+        "lint": "eslint .",
+        "lint:fix": "eslint . --fix",
+        "format": "prettier --write \"**/*.{js,json,md}\"",
+        "test": "vitest run"
     },
     "keywords": [],
     "author": "",
@@ -20,9 +24,14 @@
         "@11ty/eleventy": "^3.1.2",
         "@11ty/eleventy-plugin-rss": "^1.2.0",
         "cross-env": "^7.0.3",
+        "eslint": "^9.39.1",
+        "eslint-config-prettier": "^10.1.8",
+        "eslint-plugin-import": "^2.32.0",
         "html-minifier-terser": "^7.2.0",
         "node-html-parser": "^6.1.13",
-        "sass": "^1.49.9"
+        "prettier": "^3.6.2",
+        "sass": "^1.49.9",
+        "vitest": "^4.0.14"
     },
     "dependencies": {
         "@11ty/eleventy-img": "^4.0.2",

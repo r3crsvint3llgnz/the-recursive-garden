@@ -30,11 +30,6 @@ function extractLinks(content) {
   ];
 }
 
-function extractLinks(content) {
-  // ⬅ keep whatever implementation you already have for extractLinks
-  // I'm just reminding you not to delete it accidentally.
-}
-
 async function getGraph(data) {
   let nodes = {};
   let links = [];
