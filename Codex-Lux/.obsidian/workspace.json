@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04-Resources/Atoms/Medallion Architecture Layer - Gold 1.md",
+                "file": "01-Inbox/LLMs do make distinctions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Medallion Architecture Layer - Gold 1"
+              "title": "LLMs do make distinctions"
             }
           }
         ],
@@ -146,8 +146,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "a736a0b8602a78e4",
@@ -168,8 +167,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 345.5,
-    "collapsed": true
+    "width": 508.5
   },
   "right": {
     "id": "988de0a5e0eba3bb",
@@ -320,11 +318,11 @@
   },
   "active": "d92c763f18d6db8f",
   "lastOpenFiles": [
+    "04-Resources/Atoms/Medallion Architecture Layer - Gold 1.md",
     "01-Inbox/LLMs do make distinctions.md",
     "04-Resources/resources_index.md",
     "04-Resources/Sources/Literature Sources/woodillUnderstandingUnderstandingEssays2005.md",
     "04-Resources/Sources/Literature Sources/vonnegut2022017.md",
-    "04-Resources/Atoms/Medallion Architecture Layer - Gold 1.md",
     "04-Resources/Sources/Literature Sources/volodith1000HoursPrompt2025.md",
     "04-Resources/Sources/Literature Sources/spencer-brownLawsForm1994.md",
     "04-Resources/Sources/Literature Sources/popperObjectiveKnowledgeEvolutionary1995.md",
