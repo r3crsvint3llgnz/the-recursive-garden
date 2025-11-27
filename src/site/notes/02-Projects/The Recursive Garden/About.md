@@ -2,7 +2,7 @@
 {"dg-publish":true,"title":"About","section":"hubs","tags":["about","profile"],"summary":"What this garden is, what I'm exploring, and where to look.","cover":"https://raw.githubusercontent.com/r3crsvint3llgnz/the-recursive-garden/main/src/site/img/user/02-Projects/The%20Recursive%20Garden/_assets/sethrobins.jpg","permalink":"/02-projects/the-recursive-garden/about/","dgPassFrontmatter":true}
 ---
 
-[[02-Projects/The Recursive Garden/The Recursive Garden\|🏠 Home]]  · [[04-Resources/Reading Notes\|📚 Reading Notes]]
+[[02-Projects/The Recursive Garden/The Recursive Garden\|🏠 Home]] · [[04-Resources/Reading Notes\|📚 Reading Notes]] · [[04-Resources/Articles/Articles\|📝 Articles]]
 # About this garden
 
 > [!abstract]+ What this is
@@ -94,9 +94,9 @@
 ---
 
 > [!success]+ Contact & elsewhere
+> - Linktree: https://linktr.ee/r3crsvint3llgnz
 > - Website: [recursiveintelligence.io](https://recursiveintelligence.io/)  
 > - Email: <seth.robins@recursiveintelligence.io>  
 > - LinkedIn: [linkedin.com/in/sethrobins1010](https://www.linkedin.com/in/sethrobins1010/)  
 > - GitHub: [r3crsvint3llgnz/recursive-prompting](https://github.com/r3crsvint3llgnz/recursive-prompting)  
 > - Support: [buymeacoffee.com/sethrobinsw](https://buymeacoffee.com/sethrobinsw)
-
