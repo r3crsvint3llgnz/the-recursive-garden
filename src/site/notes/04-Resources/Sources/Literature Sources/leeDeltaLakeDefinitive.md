@@ -30,6 +30,6 @@
 > - …
 
 > [!info]- Links
-> - Book Note (if exists): [[../../Books/leeDeltaLakeDefinitive\|Delta Lake: The Definitive Guide]]
+> - Book Note (if exists): [[../../Books/leeDeltaLakeDefinitive|Delta Lake: The Definitive Guide]]
 > - Open in Zotero: 
 > - External link: 

@@ -51,6 +51,6 @@ In the **Silver layer** of the lakehouse, the data from the Bronze layer is matc
 > **Source:** {{source}} • **Page:** {{page}} • **Key:** {{citekey}}
 ---
 
-**Source:** https://delta.io/pdfs/dldg_databricks.pdf • **Page:** 205 • **Key:** [[04-Resources/Sources/Literature Sources/leeDeltaLakeDefinitive\|leeDeltaLakeDefinitive]]
+**Source:** https://delta.io/pdfs/dldg_databricks.pdf • **Page:** 205 • **Key:** [[04-Resources/Sources/Literature Sources/leeDeltaLakeDefinitive|leeDeltaLakeDefinitive]]
 
 ---
