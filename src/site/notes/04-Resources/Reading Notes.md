@@ -52,7 +52,8 @@
 ---
 
 > [!abstract]+ Literature sources
->  - [[04-Resources/Sources/Literature Sources/woodillUnderstandingUnderstandingEssays2005\|woodillUnderstandingUnderstandingEssays2005]]
+>  - [[04-Resources/Sources/Literature Sources/leeDeltaLakeDefinitive\|leeDeltaLakeDefinitive]]
+> - [[04-Resources/Sources/Literature Sources/woodillUnderstandingUnderstandingEssays2005\|woodillUnderstandingUnderstandingEssays2005]]
 > - [[04-Resources/Sources/Literature Sources/vonnegut2022017\|vonnegut2022017]]
 > - [[04-Resources/Sources/Literature Sources/volodith1000HoursPrompt2025\|volodith1000HoursPrompt2025]]
 > - [[04-Resources/Sources/Literature Sources/spencer-brownLawsForm1994\|spencer-brownLawsForm1994]]
