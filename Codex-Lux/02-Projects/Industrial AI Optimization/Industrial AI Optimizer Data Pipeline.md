@@ -3,6 +3,7 @@ dg-publish: true
 kind: article
 tags:
   - ai
+  - article
 topics:
   -  AI 
   - AI Optimizer

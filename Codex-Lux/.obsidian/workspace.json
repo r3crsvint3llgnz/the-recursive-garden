@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-Inbox/LLMs do make distinctions.md",
+                "file": "04-Resources/Articles/Articles.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "LLMs do make distinctions"
+              "title": "Articles"
             }
           }
         ],
@@ -167,7 +167,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 508.5
+    "width": 227.5
   },
   "right": {
     "id": "988de0a5e0eba3bb",
@@ -318,8 +318,12 @@
   },
   "active": "d92c763f18d6db8f",
   "lastOpenFiles": [
-    "04-Resources/Atoms/Medallion Architecture Layer - Gold 1.md",
+    "02-Projects/Industrial AI Optimization/Industrial AI Optimizer Data Pipeline.md",
+    "04-Resources/Articles/Articles.md",
+    "02-Projects/The Recursive Garden/The Recursive Garden.md",
+    "02-Projects/The Recursive Garden/About.md",
     "01-Inbox/LLMs do make distinctions.md",
+    "04-Resources/Atoms/Medallion Architecture Layer - Gold 1.md",
     "04-Resources/resources_index.md",
     "04-Resources/Sources/Literature Sources/woodillUnderstandingUnderstandingEssays2005.md",
     "04-Resources/Sources/Literature Sources/vonnegut2022017.md",
@@ -340,11 +344,7 @@
     "04-Resources/Books/The Time Machine.md",
     "04-Resources/Books/The Time Machine The Invisible Man.md",
     "04-Resources/Books/The Third Chimpanzee The Evolution and Future of the Human Animal.md",
-    "04-Resources/Books/The Things They Carried.md",
-    "04-Resources/Books/The Templar Salvation (Templar, #2).md",
     "01-Inbox/C06FBDFC-8593-42A7-A1AB-8132A2FF332E.jpg",
-    "04-Resources/Books/The Tale of the Body Thief (The Vampire Chronicles, #4).md",
-    "04-Resources/Books/The Tale of Peter Rabbit (World of Beatrix Potter, #1).md",
     "copilot/copilot-custom-prompts",
     "copilot",
     "Templates",

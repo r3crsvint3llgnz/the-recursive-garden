@@ -6,7 +6,7 @@ summary: Drafts in progress and published work across Substack, LinkedIn, and th
 cover: https://raw.githubusercontent.com/r3crsvint3llgnz/the-recursive-garden/main/src/site/img/user/02-Projects/The%20Recursive%20Garden/_assets/articles.png
 ---
 ![[articles.png]]
-[[The Recursive Garden|🏠 Home]] · [[Reading Notes|📚 Reading Notes]] · [[Articles|📝 Articles]] · [[About|ℹ️ About]]
+[[The Recursive Garden|🏠 Home]] · [[Reading Notes|📚 Reading Notes]] · [[About|ℹ️ About]]
 
 > [!note]+ Drafts in progress
 > ```dataview
