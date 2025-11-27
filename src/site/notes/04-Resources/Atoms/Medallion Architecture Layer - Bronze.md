@@ -51,6 +51,6 @@ The **Bronze layer** is where we land all the data from external source systems.
 > **Source:** {{source}} • **Page:** {{page}} • **Key:** {{citekey}}
 ---
 
-**Source:** https://delta.io/pdfs/dldg_databricks.pdf • **Page:** 202 • **Key:** [[04-Resources/Sources/Literature Sources/leeDeltaLakeDefinitive\|leeDeltaLakeDefinitive]]
+**Source:** https://delta.io/pdfs/dldg_databricks.pdf • **Page:** 202 • **Key:** [[04-Resources/Sources/Literature Sources/leeDeltaLakeDefinitive|leeDeltaLakeDefinitive]]
 
 ---

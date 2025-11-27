@@ -51,6 +51,6 @@ Data in the **Gold layer** of the lakehouse is typically organized in consumptio
 > **Source:** {{source}} • **Page:** {{page}} • **Key:** {{citekey}}
 ---
 
-**Source:** https://delta.io/pdfs/dldg_databricks.pdf • **Page:** 208 • **Key:** [[04-Resources/Sources/Literature Sources/leeDeltaLakeDefinitive\|leeDeltaLakeDefinitive]]
+**Source:** https://delta.io/pdfs/dldg_databricks.pdf • **Page:** 208 • **Key:** [[04-Resources/Sources/Literature Sources/leeDeltaLakeDefinitive|leeDeltaLakeDefinitive]]
 
 ---
