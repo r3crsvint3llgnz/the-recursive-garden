@@ -3,7 +3,7 @@
 ---
 
 ![rdd.png](/img/user/02-Projects/The%20Recursive%20Garden/_assets/rdd.png)
-[[02-Projects/The Recursive Garden/The Recursive Garden\|🏠 Home]] · [[02-Projects/The Recursive Garden/About\|ℹ️ About]]
+[[02-Projects/The Recursive Garden/The Recursive Garden\|🏠 Home]] · [[04-Resources/Reading Notes\|📚 Reading Notes]] · [[04-Resources/Articles/Articles\|📝 Articles]] · [[02-Projects/The Recursive Garden/About\|ℹ️ About]]
 
 > [!abstract]+ Objective
 > To formalize a **constructivist physics of existence** where "Reality" is not made of matter, but of persistent information structures defined by:

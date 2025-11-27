@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"kind":"atom","tags":["atom","data"],"topics":[" AI ","AI Optimizer","Data Quality","Data Governance","Industrial AI"],"source":"https://delta.io/pdfs/dldg_databricks.pdf","pages":"11, 12, 19","citekey":"leeDeltaLakeDefinitive","created":"2025-11-26T21:41:00","updated":"2025-11-26T21:41:00","molecule":["[[04-Resources/Molecules/ACID Transactions|ACID Transactions]]"],"permalink":"/04-resources/atoms/acid-atomicity/","dgPassFrontmatter":true}
+{"dg-publish":true,"kind":"atom","tags":["atom","data"],"topics":[" AI ","AI Optimizer","Data Quality","Data Governance","Industrial AI"],"source":"https://delta.io/pdfs/dldg_databricks.pdf","pages":"11, 12, 19","citekey":"[[04-Resources/Sources/Literature Sources/leeDeltaLakeDefinitive\|leeDeltaLakeDefinitive]]","created":"2025-11-26T21:41:00","updated":"2025-11-26T21:41:00","molecule":["[[04-Resources/Molecules/ACID Transactions|ACID Transactions]]"],"permalink":"/04-resources/atoms/acid-atomicity/","dgPassFrontmatter":true}
 ---
 
 # ACID - Atomicity
@@ -53,6 +53,6 @@ If a process fails during a data modification, the transaction must be rolled ba
 > **Source:** {{source}} • **Page:** {{page}} • **Key:** {{citekey}}
 ---
 
-**Source:** https://delta.io/pdfs/dldg_databricks.pdf • **Page:** 11, 22, 19 • **Key:** [[04-Resources/Sources/Literature Sources/leeDeltaLakeDefinitive|leeDeltaLakeDefinitive]]
+**Source:** https://delta.io/pdfs/dldg_databricks.pdf • **Page:** 11, 22, 19 • **Key:** [[leeDeltaLakeDefinitive]]
 
 ---

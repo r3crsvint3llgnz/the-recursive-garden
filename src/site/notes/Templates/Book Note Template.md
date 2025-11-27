@@ -2,8 +2,8 @@
 {"dg-publish":true,"Type":"book","tags":["book","booknotes","#source"],"title":"{{title}}","author":"[[{{author}}]]","category":"[[{{category}}]]","publisher":"{{publisher}}","publish":"{{publishDate}}","year":"{{date}}","pages":"{{totalPage}}","isbn":"{{isbn10}} {{isbn13}}","cover":"{{coverUrl}}","localCover":"{{localCoverImage}}","status":["unread"],"rating":null,"citekey":"{{citekey}}","zotero_uri":"{{link}}","doi":"{{DOI}}","url":"{{URL}}","created":null,"updated":null,"in_kindle":null,"in_library":null,"in_audible":null,"permalink":"/templates/book-note-template/","dgPassFrontmatter":true}
 ---
 
-# {{title}}
-[[02-Projects/The Recursive Garden/The Recursive Garden\|Home]] · [[02-Projects/The Recursive Garden/About\|About]] · [[04-Resources/Reading Notes\|Reading Notes]]
+# <% tp.file.title %>
+[[02-Projects/The Recursive Garden/The Recursive Garden\|🏠 Home]] · [[04-Resources/Reading Notes\|📚 Reading Notes]] · [[04-Resources/Articles/Articles\|📝 Articles]] · [[02-Projects/The Recursive Garden/About\|ℹ️ About]]
 
 <img src="{{coverUrl}}" alt="Cover" style="max-width: 440px; max-height: 640px; width: auto; height: auto; object-fit: contain; border-radius: 6px; display: block;">
 

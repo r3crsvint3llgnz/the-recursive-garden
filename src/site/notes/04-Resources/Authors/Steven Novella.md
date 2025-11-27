@@ -38,9 +38,9 @@ Novella's style is **direct, analytical, and highly structured**, prioritizing l
 ---
 
 > [!info]+ Books in vault
->  | File                                                                                               | Title                               | Year | Status                    | Rating |
-> | -------------------------------------------------------------------------------------------------- | ----------------------------------- | ---- | ------------------------- | ------ |
-> | [[04-Resources/Books/The Skeptics' Guide to the Universe\|The Skeptics' Guide to the Universe]] | The Skeptics' Guide to the Universe | 2018 | <ul><li>reading</li></ul> | 5      |
+>  | File                                                                                               | Title                               | Year | Status                 | Rating |
+> | -------------------------------------------------------------------------------------------------- | ----------------------------------- | ---- | ---------------------- | ------ |
+> | [[04-Resources/Books/The Skeptics' Guide to the Universe\|The Skeptics' Guide to the Universe]] | The Skeptics' Guide to the Universe | 2018 | <ul><li>read</li></ul> | 5      |
 > 
 { .block-language-dataview}
 ---

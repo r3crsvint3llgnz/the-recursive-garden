@@ -56,7 +56,7 @@ I also found myself wanting the philosopher to evolve more noticeably. He remain
 
 Alex is one of the book’s most resonant characters. His depiction of alexithymia—difficulty labeling emotions in real time—feels accurate and compassionate. His assertion that clarity and pattern recognition bring peace is an excellent example of cognition shaped by logic and sensory coherence rather than emotion. Yet his portrayal could go further in illustrating that emotions are not absent but often delayed or unresolved.
 
-As I noted in my own reflections: when a crisis hits, I often prioritize problem-solving over emotion. During a tornado a few years ago, I immediately rushed to help my brother’s family before checking on my son. I knew he was safe, but my choice hurt him because I hadn’t expressed my concern first. This experience mirrors Alex’s: emotions are present, but pushed aside until later reflection collapses them into something nameable.
+As I noted in my own reflections: when a crisis hits, I often prioritize problem-solving over emotion. My experiences mirror Alex’s: emotions are present, but pushed aside until later reflection collapses them into something nameable.
 
 A line like “I might feel cautious, interested, and self-conscious at the same time—there’s no single word for that” would help convey this complexity. It demonstrates that feelings are multi-threaded rather than monolithic, which captures how many neurodivergent individuals experience emotion.
 
