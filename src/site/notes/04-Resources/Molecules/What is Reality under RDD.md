@@ -29,15 +29,14 @@
 ---
 > [!info]+ Auto-list atoms that link to this molecule (backlinks)
 >
->  | File                                                                                           | topics                                                                                      | source           | page | created                     |
-> | ---------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- | ---------------- | ---- | --------------------------- |
-> | [[04-Resources/Atoms/RDD – Persistence (Definition)\|RDD – Persistence (Definition)]]       | <ul><li>Recursive Distinction Dynamics</li><li>Cybernetics</li><li>Thermodynamics</li></ul> | User/RDD Session | \-   | 9:10 PM - November 22, 2025 |
-> | [[04-Resources/Atoms/RDD – Gravity (Definition)\|RDD – Gravity (Definition)]]               | <ul><li>Recursive Distinction Dynamics</li><li>Philosophy</li></ul>                         |                  | \-   | 8:35 PM - November 22, 2025 |
-> | [[04-Resources/Atoms/RDD – Entropy (Definition)\|RDD – Entropy (Definition)]]               | <ul><li>Recursive Distinction Dynamics</li><li>Philosophy</li></ul>                         |                  | \-   | 8:22 PM - November 22, 2025 |
-> | [[04-Resources/Atoms/RDD – Existence (Definition)\|RDD – Existence (Definition)]]           | <ul><li>Recursive Distinction Dynamics</li><li>Philosophy</li></ul>                         |                  | \-   | 8:21 PM - November 22, 2025 |
-> | [[04-Resources/Atoms/RDD – Recursion (Definition)\|RDD – Recursion (Definition)]]           | <ul><li>Recursive Distinction Dynamics</li><li>Philosophy</li></ul>                         |                  | \-   | 8:11 PM - November 22, 2025 |
-> | [[04-Resources/Atoms/RDD – Distinction (Definition)\|RDD – Distinction (Definition)]]       | <ul><li>Recursive Distinction Dynamics</li><li>Philosophy</li></ul>                         |                  | \-   | 8:09 PM - November 22, 2025 |
-> | [[04-Resources/Atoms/RDD – Distinction (Definition)(1)\|RDD – Distinction (Definition)(1)]] | <ul><li>Recursive Distinction Dynamics</li><li>Philosophy</li></ul>                         |                  | \-   | 8:09 PM - November 22, 2025 |
+>  | File                                                                                     | topics                                                                                      | source           | pages | created                     |
+> | ---------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- | ---------------- | ----- | --------------------------- |
+> | [[04-Resources/Atoms/RDD – Persistence (Definition)\|RDD – Persistence (Definition)]] | <ul><li>Recursive Distinction Dynamics</li><li>Cybernetics</li><li>Thermodynamics</li></ul> | User/RDD Session |       | 9:10 PM - November 22, 2025 |
+> | [[04-Resources/Atoms/RDD – Gravity (Definition)\|RDD – Gravity (Definition)]]         | <ul><li>Recursive Distinction Dynamics</li><li>Philosophy</li></ul>                         |                  |       | 8:35 PM - November 22, 2025 |
+> | [[04-Resources/Atoms/RDD – Entropy (Definition)\|RDD – Entropy (Definition)]]         | <ul><li>Recursive Distinction Dynamics</li><li>Philosophy</li></ul>                         |                  |       | 8:22 PM - November 22, 2025 |
+> | [[04-Resources/Atoms/RDD – Existence (Definition)\|RDD – Existence (Definition)]]     | <ul><li>Recursive Distinction Dynamics</li><li>Philosophy</li></ul>                         |                  |       | 8:21 PM - November 22, 2025 |
+> | [[04-Resources/Atoms/RDD – Recursion (Definition)\|RDD – Recursion (Definition)]]     | <ul><li>Recursive Distinction Dynamics</li><li>Philosophy</li></ul>                         |                  |       | 8:11 PM - November 22, 2025 |
+> | [[04-Resources/Atoms/RDD – Distinction (Definition)\|RDD – Distinction (Definition)]] | <ul><li>Recursive Distinction Dynamics</li><li>Philosophy</li></ul>                         |                  |       | 8:09 PM - November 22, 2025 |
 > 
 { .block-language-dataview}
 ---

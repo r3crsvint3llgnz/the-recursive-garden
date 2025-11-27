@@ -19,8 +19,8 @@
 ---
 > [!info]+ Auto-list atoms that link to this molecule (backlinks)
 >
->  | File | topics | source | page | created |
-> | ---- | ------ | ------ | ---- | ------- |
+>  | File | topics | source | pages | created |
+> | ---- | ------ | ------ | ----- | ------- |
 > 
 { .block-language-dataview}
 ---
