@@ -1,0 +1,11 @@
+filters:
+  and:
+    - note["dg-publish"] == true
+views:
+  - type: table
+    name: Table
+    order:
+      - file.name
+      - dg-publish
+    columnSize:
+      file.name: 356

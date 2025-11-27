@@ -1,0 +1,2 @@
+- [ ] Look into [[iOS companion app to access Journaling Suggestions]] 📅 2025-11-09
+- 8:54 PM: https://www.reddit.com/r/ObsidianMD/s/Gnm5m2dN6X [[quick-capture]]

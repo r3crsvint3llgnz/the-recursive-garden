@@ -1,0 +1,210 @@
+{
+  "main": {
+    "id": "ba66ccd9a1af4f49",
+    "type": "split",
+    "children": [
+      {
+        "id": "c9a6b7208e7b070b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "488e024080215cb5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04-Resources/Reading Notes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Reading Notes"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ac68fd6b286a4bf6",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "0dae477bd994cada",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "45efe6e35c896191",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "8dcd8d43bd942b8d",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "5cd0236735b2a65c",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-archive",
+          "title": "All properties"
+        }
+      },
+      {
+        "id": "c71463c4bd914b53",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "abdafba54b362138",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "03a3d7df2c609285",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Books.base",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "12921f0063e277b1",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Books.base",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "fe5a19a9809a71ad",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Books.base",
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      },
+      {
+        "id": "84f5f3ea92ca79b7",
+        "type": "leaf",
+        "state": {
+          "type": "copilot-chat-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "copilot-chat-view"
+        }
+      }
+    ],
+    "currentTab": 3
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "workspaces:Manage workspace layouts": false,
+      "digitalgarden:Digital Garden Publication Center": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "audio-recorder:Start/stop recording": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "templater-obsidian:Templater": false,
+      "copilot:Open Copilot Chat": false,
+      "obsidian-book-search-plugin:Create new book note": false
+    }
+  },
+  "active": "488e024080215cb5",
+  "lastOpenFiles": [
+    "02-Projects/The Recursive Garden/The Recursive Garden.md",
+    "06-Daily/📓 Friday, November 7th 2025.md",
+    "06-Daily/📓 Monday, October 27th 2025.md",
+    "06-Daily/2025-10-13.md",
+    "2025-10-14.md",
+    "Canvas/Habit Tracking Dashboard.canvas",
+    "01-Inbox/Quick/2025-10-13_22-38-59.md",
+    "2025-10-13.md",
+    "Books.base",
+    "04-Resources/Books/Slow Productivity The Lost Art of Accomplishment Without Burnout.md",
+    "04-Resources/Books/Zanoni (Historical Novel).md",
+    "Cal Newport.md",
+    "2025-10-12.md",
+    "Core Features/Using Multiple Cursors.md",
+    "Excalidraw/Drawing 2025-09-23 17.46.02.excalidraw.md",
+    "Excalidraw/Drawing 2025-10-12 10.58.48.excalidraw.md",
+    "Core Features/Basic Task Management Using Built-In Features.md",
+    "Plugins & Code/Using Daily Notes for Journaling.md",
+    "Recording 20251012104651.m4a"
+  ]
+}

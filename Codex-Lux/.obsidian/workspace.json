@@ -1,0 +1,371 @@
+{
+  "main": {
+    "id": "5f65117ffe271941",
+    "type": "split",
+    "children": [
+      {
+        "id": "d328218dc4cd5c69",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4e1eb8f4c60138a6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04-Resources/Sources/Literature Sources/ferryBriefHistoryThought2011.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ferryBriefHistoryThought2011"
+            }
+          },
+          {
+            "id": "5d7f430737abfdc5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Book Note Template.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Book Note Template"
+            }
+          },
+          {
+            "id": "e9e9f8fb16fb5a31",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04-Resources/Authors/Luc Ferry.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Luc Ferry"
+            }
+          },
+          {
+            "id": "2580706a45b481f1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02-Projects/The Recursive Garden/The Recursive Garden.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The Recursive Garden"
+            }
+          },
+          {
+            "id": "6828438203d14f4c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04-Resources/Atoms/ACID - Durability.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ACID - Durability"
+            }
+          },
+          {
+            "id": "d92c763f18d6db8f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04-Resources/Atoms/Medallion Architecture Layer - Gold 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Medallion Architecture Layer - Gold 1"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "637c52483e596e16",
+    "type": "split",
+    "children": [
+      {
+        "id": "4da661364d2eb544",
+        "type": "tabs",
+        "dimension": 67.4812030075188,
+        "children": [
+          {
+            "id": "0c9ed0b03ea875b7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "658ef43918a2d457",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "07225e1e431d4918",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "a736a0b8602a78e4",
+        "type": "tabs",
+        "dimension": 32.5187969924812,
+        "children": [
+          {
+            "id": "53883f4eaa1caed3",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 345.5,
+    "collapsed": true
+  },
+  "right": {
+    "id": "988de0a5e0eba3bb",
+    "type": "split",
+    "children": [
+      {
+        "id": "77740af8b5518f6a",
+        "type": "tabs",
+        "dimension": 28.293135435992575,
+        "children": [
+          {
+            "id": "deedeae45a58391b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Start Here.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Start Here"
+            }
+          },
+          {
+            "id": "cbb780eb5875bb0e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "1e169ee795157891",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Finances.base",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Finances"
+            }
+          },
+          {
+            "id": "4ca27735702dced7",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "31a91e30453db400",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      },
+      {
+        "id": "9060d30ee619b286",
+        "type": "tabs",
+        "dimension": 37.19851576994434,
+        "children": [
+          {
+            "id": "0fdcea4bd947eeee",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "02-Projects/The Recursive Garden/The Recursive Garden.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for The Recursive Garden"
+            }
+          }
+        ]
+      },
+      {
+        "id": "70fe28c5cd966167",
+        "type": "tabs",
+        "dimension": 34.50834879406308,
+        "children": [
+          {
+            "id": "ea63e73027eff05c",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 303.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
+      "audio-recorder:Start/stop recording": false,
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "templater-obsidian:Templater": false,
+      "copilot:Open Copilot Chat": false,
+      "obsidian-book-search-plugin:Create new book note": false,
+      "digitalgarden:Digital Garden Publication Center": false,
+      "workspaces:Manage workspace layouts": false
+    }
+  },
+  "active": "d92c763f18d6db8f",
+  "lastOpenFiles": [
+    "01-Inbox/LLMs do make distinctions.md",
+    "04-Resources/resources_index.md",
+    "04-Resources/Sources/Literature Sources/woodillUnderstandingUnderstandingEssays2005.md",
+    "04-Resources/Sources/Literature Sources/vonnegut2022017.md",
+    "04-Resources/Atoms/Medallion Architecture Layer - Gold 1.md",
+    "04-Resources/Sources/Literature Sources/volodith1000HoursPrompt2025.md",
+    "04-Resources/Sources/Literature Sources/spencer-brownLawsForm1994.md",
+    "04-Resources/Sources/Literature Sources/popperObjectiveKnowledgeEvolutionary1995.md",
+    "04-Resources/Sources/Literature Sources/newportSlowProductivityLost2024.md",
+    "04-Resources/Sources/Literature Sources/maturanaAutopoiesisCognitionRealization1980.md",
+    "04-Resources/Sources/Literature Sources/leeDeltaLakeDefinitive.md",
+    "04-Resources/Sources/Literature Sources/hofstadterGodelEscherBach.md",
+    "04-Resources/Books/The Walking Dead Compendium One.md",
+    "04-Resources/Books/The Virgin Cure A Novel.md",
+    "04-Resources/Books/The Velveteen Rabbit.md",
+    "04-Resources/Books/The Vampire Lestat (The Vampire Chronicles, #2).md",
+    "04-Resources/Books/The Vampire Armand (The Vampire Chronicles, #6).md",
+    "04-Resources/Books/The Ultimate Hitchhiker’s Guide to the Galaxy (Hitchhiker's Guide to the Galaxy, #1-5).md",
+    "04-Resources/Books/The Time Traveller's Guide to Medieval England A Handbook for Visitors to the Fourteenth Century.md",
+    "04-Resources/Books/The Time Machine.md",
+    "04-Resources/Books/The Time Machine The Invisible Man.md",
+    "04-Resources/Books/The Third Chimpanzee The Evolution and Future of the Human Animal.md",
+    "04-Resources/Books/The Things They Carried.md",
+    "04-Resources/Books/The Templar Salvation (Templar, #2).md",
+    "01-Inbox/C06FBDFC-8593-42A7-A1AB-8132A2FF332E.jpg",
+    "04-Resources/Books/The Tale of the Body Thief (The Vampire Chronicles, #4).md",
+    "04-Resources/Books/The Tale of Peter Rabbit (World of Beatrix Potter, #1).md",
+    "copilot/copilot-custom-prompts",
+    "copilot",
+    "Templates",
+    "Excalidraw",
+    "09-Writing",
+    "08-AI-Conversations",
+    "07-Zettelkasten",
+    "06-Daily",
+    "04-Resources/Shortcuts",
+    "04-Resources/Research",
+    "01-Inbox/A243E89A-FE8A-4036-AF7B-D19A7F216231.jpg",
+    "01-Inbox/2C8831FE-BD06-4C34-88E4-79A04D410FDA.jpg",
+    "02-Projects/The Recursive Garden/_assets/aioarchitecture.png",
+    "02-Projects/The Recursive Garden/_assets/articles.png",
+    "02-Projects/The Recursive Garden/_assets/readingnotes.png",
+    "02-Projects/The Recursive Garden/_assets/rdd.png",
+    "02-Projects/The Recursive Garden/_assets/sethrobins.jpg",
+    "02-Projects/The Recursive Garden/_assets/therecursivegarden.png",
+    "Gemini_Generated_Image_lwf17llwf17llwf1.png",
+    "Canvas/Habit Tracking Dashboard.canvas"
+  ]
+}

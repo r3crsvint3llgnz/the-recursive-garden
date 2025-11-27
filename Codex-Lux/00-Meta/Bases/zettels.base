@@ -1,0 +1,9 @@
+# Zettels Base
+
+## All Zettels
+TABLE claim, confidence, created
+WHERE type = "zettel"
+
+## Related Zettels (scoped by context)
+TABLE claim, confidence, created
+WHERE type = "zettel" AND contains(context, this)

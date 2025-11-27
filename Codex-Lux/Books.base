@@ -1,0 +1,221 @@
+filters:
+  and:
+    - Type == ["book"]
+formulas:
+  rating: '"⭐".repeat(rating)'
+views:
+  - type: cards
+    name: All Books
+    order:
+      - title
+      - author
+      - year
+      - status
+      - formula.rating
+    sort:
+      - property: title
+        direction: ASC
+      - property: status
+        direction: ASC
+      - property: date_added
+        direction: DESC
+    columnSize:
+      note.title: 494
+      note.author: 171
+      note.year: 60
+      note.status: 100
+      note.my_rating: 96
+    image: note.cover
+    imageFit: contain
+    imageAspectRatio: 1
+    cardSize: 200
+  - type: cards
+    name: Currently Reading
+    filters:
+      and:
+        - status == ["reading"]
+    order:
+      - title
+      - author
+      - year
+      - date_started
+      - formula.rating
+      - in_kindle
+      - in_library
+    sort:
+      - property: date_started
+        direction: DESC
+    columnSize:
+      note.title: 300
+      note.author: 150
+      note.date_started: 100
+      note.pages: 60
+      note.my_rating: 80
+    image: note.cover
+    imageFit: contain
+  - type: cards
+    name: To Read
+    filters:
+      and:
+        - file.folder == "04-Resources/Books"
+        - status == "to-read"
+    order:
+      - title
+      - author
+      - categories
+      - goodreads_rating
+      - year
+    sort:
+      - property: goodreads_rating
+        direction: DESC
+    columnSize:
+      note.title: 300
+      note.author: 150
+      note.categories: 150
+      note.goodreads_rating: 80
+      note.year: 60
+    image: note.cover
+    imageFit: contain
+  - type: cards
+    name: Completed Books
+    filters:
+      and:
+        - file.folder == "04-Resources/Books"
+        - status == "read"
+    order:
+      - title
+      - author
+      - date_finished
+      - my_rating
+      - goodreads_rating
+    sort:
+      - property: date_finished
+        direction: DESC
+    columnSize:
+      note.title: 300
+      note.author: 150
+      note.date_finished: 100
+      note.my_rating: 80
+      note.goodreads_rating: 80
+  - type: cards
+    name: By Rating
+    filters:
+      and:
+        - file.folder == "04-Resources/Books"
+        - rating > 0
+    order:
+      - title
+      - author
+      - status
+      - formula.rating
+    sort:
+      - property: my_rating
+        direction: DESC
+    columnSize:
+      note.title: 300
+      note.author: 150
+      note.my_rating: 80
+      note.goodreads_rating: 80
+      note.status: 100
+    image: note.cover
+  - type: cards
+    name: By Category
+    filters:
+      and:
+        - file.folder == "04-Resources/Books"
+        - "!categories.isEmpty()"
+    order:
+      - categories
+      - title
+      - author
+      - status
+    sort:
+      - property: categories
+        direction: ASC
+    columnSize:
+      note.categories: 150
+      note.title: 300
+      note.author: 150
+      note.status: 100
+  - type: cards
+    name: In Kindle Library
+    filters:
+      and:
+        - file.folder == "04-Resources/Books"
+        - in_kindle == true
+    order:
+      - title
+      - author
+      - acquired
+      - status
+    sort:
+      - property: acquired
+        direction: DESC
+    columnSize:
+      note.title: 300
+      note.author: 150
+      note.acquired: 100
+      note.status: 100
+  - type: cards
+    name: Recent Additions
+    filters:
+      and:
+        - file.folder == "04-Resources/Books"
+        - "!date_added.isEmpty()"
+    order:
+      - title
+      - author
+      - date_added
+      - status
+      - goodreads_rating
+    sort:
+      - property: status
+        direction: ASC
+      - property: date_added
+        direction: DESC
+    limit: 50
+    columnSize:
+      note.title: 495
+      note.author: 150
+      note.date_added: 100
+      note.status: 380
+      note.goodreads_rating: 80
+  - type: cards
+    name: Books
+    order:
+      - file.name
+      - author
+      - rating
+    cardSize: 240
+  - type: table
+    name: Book List
+    order:
+      - file.name
+      - author
+      - tags
+      - genre
+      - category
+      - cover
+      - status
+      - rating
+      - formula.rating
+      - in_kindle
+      - in_library
+      - in_audible
+      - dg_publish
+    sort:
+      - property: rating
+        direction: ASC
+      - property: note.
+        direction: ASC
+      - property: my_rating
+        direction: ASC
+    columnSize:
+      file.name: 181
+      note.author: 137
+      note.tags: 206
+      note.genre: 95
+      note.category: 133
+      note.cover: 108
+      note.status: 81
+      formula.rating: 111

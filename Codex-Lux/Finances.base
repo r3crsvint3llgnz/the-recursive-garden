@@ -1,0 +1,27 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - type == "financial"
+        - "!merchant.isEmpty()"
+    order:
+      - merchant
+      - amount
+      - frequency
+      - due_day
+      - category_type
+      - category_group
+      - category
+      - description
+      - autopay
+      - account
+      - payment_method
+      - notes
+    sort:
+      - property: amount
+        direction: DESC
+    columnSize:
+      note.merchant: 205
+      note.amount: 81
+      note.frequency: 99

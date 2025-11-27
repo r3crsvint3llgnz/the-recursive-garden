@@ -1,0 +1,44 @@
+---
+type: author
+tags: [author, people]
+born:
+died:
+nationality:
+website:
+goodreads:
+wikipedia:
+---
+
+# Captivating History
+
+## Biography
+
+<!-- Brief bio information -->
+
+## Writing Style
+
+<!-- Notes on their writing approach, themes, style -->
+
+## Books in Vault
+
+```dataview
+TABLE
+  title as "Title",
+  year as "Year",
+  status as "Status",
+  my_rating as "Rating"
+FROM "04-Resources/Books"
+WHERE contains(author, this.file.link)
+SORT year DESC
+```
+
+## External Links
+
+- Wikipedia:
+- Goodreads:
+- Official Website:
+
+## Notes
+
+<!-- Personal observations about this author -->
+<!-- Books by Captivating History: Mesopotamia A Captivating Guide to Ancient Mesopotamian History and Civilizations, Including the Sumerians and Sumerian Mythology, Gilgamesh, Ur, Assyrians, ... Persian Empire (Exploring Ancient -->

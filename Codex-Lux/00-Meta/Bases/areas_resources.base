@@ -1,0 +1,9 @@
+# Areas & Resources Base
+
+## Active Areas
+TABLE charter, inputs, outputs
+WHERE type = "area" AND status = "active"
+
+## Resources by Area
+TABLE feeds, source_type, source_meta
+WHERE type = "resource" AND any(feeds, (f) => contains(f, <Area>))

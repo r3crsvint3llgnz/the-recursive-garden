@@ -1,0 +1,9 @@
+{
+  "citationExportFormat": "biblatex",
+  "literatureNoteTitleTemplate": "{{authorString}} — {{title}}",
+  "literatureNoteFolder": "",
+  "literatureNoteContentTemplate": "{{authorString}} ({{year}}). *{{title}}*{{#if containerTitle}}. {{containerTitle}}{{/if}}{{#if publisher}}. {{publisher}}{{/if}}{{#if DOI}}. https://doi.org/{{DOI}}{{/if}}{{#if URL}}. {{URL}}{{/if}}\n\n",
+  "markdownCitationTemplate": "[@{{citekey}}]",
+  "alternativeMarkdownCitationTemplate": "@{{citekey}}",
+  "citationExportPath": "00-Meta\\_refs\\library.bib"
+}

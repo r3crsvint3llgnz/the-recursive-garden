@@ -1,0 +1,15 @@
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Image/asset clutter
+*.png
+*.jpg
+*.webp
+*.psd
+
+# AI artifacts
+__pycache__/
+*.ipynb_checkpoints
+*.log
+*.tmp

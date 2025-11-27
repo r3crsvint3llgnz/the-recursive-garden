@@ -1,0 +1,20 @@
+0000000000000000000000000000000000000000 ff5a1686c9dc16477cfe449943b0356354df989a gb9jatrtl <cntry82txn@outlook.com> 1761235965 -0500	commit (initial): Initial commit: track only markdown notes
+ff5a1686c9dc16477cfe449943b0356354df989a 71fdd6257b25177f388128073d5bf92b0575686c gb9jatrtl <cntry82txn@outlook.com> 1761235983 -0500	commit: Remove submodules: only track markdown notes
+71fdd6257b25177f388128073d5bf92b0575686c e68241f560bb71febf1eb5bbb7e142099407f7f9 gb9jatrtl <cntry82txn@outlook.com> 1761407775 -0500	commit: Add daily note for October 23rd 2025 with weather, tasks, and reflections
+e68241f560bb71febf1eb5bbb7e142099407f7f9 fe7077c62662175fd9864b13915920b5dccc80ca gb9jatrtl <cntry82txn@outlook.com> 1761409267 -0500	commit: infra:prep: initialize meta dirs and guides stubs
+fe7077c62662175fd9864b13915920b5dccc80ca 63c0ab62a6886a4deae75902fbe1392520e9fccb gb9jatrtl <cntry82txn@outlook.com> 1761409387 -0500	commit: infra:prep: initialize meta dirs and guides stubs
+63c0ab62a6886a4deae75902fbe1392520e9fccb 7a4cdf903f3a7e8b28775af7dbc9611dd30d963d gb9jatrtl <cntry82txn@outlook.com> 1761410920 -0500	commit: infra:moc: add/refactor global orientation MOCs (no queries)
+7a4cdf903f3a7e8b28775af7dbc9611dd30d963d 4d0a86994c5a0ee660b04e566ec3703ac2f7ec72 gb9jatrtl <cntry82txn@outlook.com> 1761410933 -0500	commit: infra:moc: add tier-2 operational indices
+4d0a86994c5a0ee660b04e566ec3703ac2f7ec72 448e4953f7cce9cf9fe62458b5c0108d0d540356 gb9jatrtl <cntry82txn@outlook.com> 1761410992 -0500	commit: infra:templates: consolidate templates and update references
+448e4953f7cce9cf9fe62458b5c0108d0d540356 2eadcf8ef066680120c49d8dff9471d81acb34c2 gb9jatrtl <cntry82txn@outlook.com> 1761412719 -0500	commit: infra:moc: recreate and reorganize MOCs and indices for improved structure and navigation
+2eadcf8ef066680120c49d8dff9471d81acb34c2 50b9f9bc289b93bfc6c2a9abcca4cec4421a8c54 gb9jatrtl <cntry82txn@outlook.com> 1763255797 -0600	commit: Sync Codex-Lux notes, dailies, and templates
+50b9f9bc289b93bfc6c2a9abcca4cec4421a8c54 5569f41353403bd315f0765cd8fca2ed810b77ad gb9jatrtl <cntry82txn@outlook.com> 1763329527 -0600	commit: Add daily templates and various note templates for improved organization and task management
+5569f41353403bd315f0765cd8fca2ed810b77ad 8c68a5c47418798f936551af6d60d163e54ae047 gb9jatrtl <cntry82txn@outlook.com> 1763863494 -0600	commit: vault backup: 2025-11-22 20:04:54
+8c68a5c47418798f936551af6d60d163e54ae047 7653b695df235077192cdadf7fa4254f78ff9887 gb9jatrtl <cntry82txn@outlook.com> 1763915262 -0600	commit: Refactor RDD Atoms and Molecules:
+7653b695df235077192cdadf7fa4254f78ff9887 5a4aef2cc1f59a673fdd44f7a7b32bed9f98e5ea gb9jatrtl <cntry82txn@outlook.com> 1763922097 -0600	commit: cleaned up and syncing repo
+5a4aef2cc1f59a673fdd44f7a7b32bed9f98e5ea 3c7e0a1214a3e77fd5dd7af5d4171f07bcf1382d gb9jatrtl <cntry82txn@outlook.com> 1763922256 -0600	commit: Remove obsolete README and archived files from Codex Lux migration
+3c7e0a1214a3e77fd5dd7af5d4171f07bcf1382d 24dc9a20c8f2aad95e99b30ad3f7422e138e1614 gb9jatrtl <cntry82txn@outlook.com> 1764197088 -0600	commit: vault backup: 2025-11-26 16:44:47
+24dc9a20c8f2aad95e99b30ad3f7422e138e1614 e4c213fa76f52ef65c14e7476aa771b0f9c14470 gb9jatrtl <cntry82txn@outlook.com> 1764198009 -0600	commit: vault backup: 2025-11-26 17:00:09
+e4c213fa76f52ef65c14e7476aa771b0f9c14470 6535e25dbb464f988e323d07d5429a05c200eda1 gb9jatrtl <cntry82txn@outlook.com> 1764199076 -0600	commit: vault backup: 2025-11-26 17:17:56
+6535e25dbb464f988e323d07d5429a05c200eda1 006ebe0552d945514a6343cbaf13b79501719b05 gb9jatrtl <cntry82txn@outlook.com> 1764199248 -0600	commit: vault backup: 2025-11-26 17:20:48
+006ebe0552d945514a6343cbaf13b79501719b05 367da669e7192003e0b3363c8ee57b398dac065e gb9jatrtl <cntry82txn@outlook.com> 1764200079 -0600	commit: vault backup: 2025-11-26 17:34:39

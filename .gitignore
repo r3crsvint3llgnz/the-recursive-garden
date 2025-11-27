@@ -11,3 +11,8 @@ src/site/styles/_theme.*.css
 .cache
 _site/
 **/.DS_Store
+
+# Ignore Obsidian / OS trash folders in the vault
+.Trash/
+**/.Trash/
+

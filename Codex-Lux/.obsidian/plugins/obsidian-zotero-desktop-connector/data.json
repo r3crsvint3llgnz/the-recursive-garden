@@ -1,0 +1,21 @@
+{
+  "database": "Zotero",
+  "noteImportFolder": "",
+  "pdfExportImageDPI": 120,
+  "pdfExportImageFormat": "jpg",
+  "pdfExportImageQuality": 90,
+  "citeFormats": [],
+  "exportFormats": [
+    {
+      "name": "Create item note",
+      "outputPathTemplate": "04-Resources/Sources/Literature Sources/{{citekey}}.md",
+      "imageOutputPathTemplate": "04-Resources/Sources/Literature Sources/Literature Source Attachments/{{citekey}}/",
+      "imageBaseNameTemplate": "image",
+      "templatePath": "Templates/Zotero Integration Template.md",
+      "cslStyle": "chicago-fullnote-bibliography"
+    }
+  ],
+  "citeSuggestTemplate": "[[{{citekey}}]]",
+  "openNoteAfterImport": false,
+  "whichNotesToOpenAfterImport": "first-imported-note"
+}

@@ -1,0 +1,5 @@
+# Ignore Obsidian trash folders in this vault
+.trash/
+.Trash/
+**/.trash/
+**/.Trash/

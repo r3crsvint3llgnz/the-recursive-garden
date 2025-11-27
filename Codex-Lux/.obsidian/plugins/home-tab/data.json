@@ -1,0 +1,54 @@
+{
+  "logoType": "default",
+  "logo": {
+    "lucideIcon": "",
+    "imagePath": "",
+    "imageLink": ""
+  },
+  "logoScale": 1.2,
+  "iconColorType": "default",
+  "wordmark": "Obsidian",
+  "customFont": "interfaceFont",
+  "fontSize": "4em",
+  "fontColorType": "default",
+  "fontWeight": 600,
+  "maxResults": 5,
+  "showbookmarkedFiles": true,
+  "showRecentFiles": false,
+  "maxRecentFiles": 5,
+  "storeRecentFile": true,
+  "showPath": true,
+  "selectionHighlight": "default",
+  "showShortcuts": true,
+  "markdownOnly": false,
+  "unresolvedLinks": false,
+  "recentFilesStore": [
+    {
+      "filepath": "01-Inbox/Medallion Architecture Layer - Gold.md",
+      "timestamp": 1764265982782
+    },
+    {
+      "filepath": "01-Inbox/LLMs do make distinctions.md",
+      "timestamp": 1764265973256
+    },
+    {
+      "filepath": "01-Inbox/C06FBDFC-8593-42A7-A1AB-8132A2FF332E.jpg",
+      "timestamp": 1764265709916
+    },
+    {
+      "filepath": "01-Inbox/A243E89A-FE8A-4036-AF7B-D19A7F216231.jpg",
+      "timestamp": 1764265709024
+    },
+    {
+      "filepath": "01-Inbox/2C8831FE-BD06-4C34-88E4-79A04D410FDA.jpg",
+      "timestamp": 1764265708219
+    }
+  ],
+  "bookmarkedFileStore": [],
+  "searchDelay": 0,
+  "replaceNewTabs": true,
+  "newTabOnStart": false,
+  "closePreviousSessionTabs": false,
+  "omnisearch": false,
+  "showOmnisearchExcerpt": true
+}

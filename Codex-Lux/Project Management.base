@@ -1,0 +1,139 @@
+filters:
+  and:
+    - "!kind_pm.isEmpty()"
+views:
+  - type: table
+    name: All Project Management Files
+    order:
+      - file.name
+      - project
+      - parent
+      - kind_pm
+      - status
+      - priority
+      - due
+      - tags
+      - cover
+      - description
+      - topics
+    sort:
+      - property: file.name
+        direction: ASC
+      - property: parent
+        direction: ASC
+    columnSize:
+      file.name: 222
+      note.project: 132
+      note.parent: 172
+      note.status: 98
+      note.due: 69
+      note.tags: 95
+  - type: table
+    name: All Projects
+    filters:
+      and:
+        - kind_pm.contains("Project")
+    order:
+      - file.name
+      - project
+      - parent
+      - kind_pm
+      - status
+      - priority
+      - due
+      - tags
+      - cover
+      - description
+      - topics
+    sort:
+      - property: parent
+        direction: ASC
+  - type: table
+    name: All Epics
+    filters:
+      and:
+        - kind_pm.contains("Epic")
+    order:
+      - file.name
+      - project
+      - parent
+      - kind_pm
+      - status
+      - priority
+      - due
+      - tags
+      - cover
+      - description
+      - topics
+    sort:
+      - property: parent
+        direction: ASC
+  - type: table
+    name: All Stories
+    filters:
+      and:
+        - kind_pm.contains("Story")
+    order:
+      - file.name
+      - project
+      - parent
+      - kind_pm
+      - status
+      - priority
+      - due
+      - tags
+      - cover
+      - description
+      - topics
+    sort:
+      - property: parent
+        direction: ASC
+  - type: table
+    name: All Ideas
+    filters:
+      and:
+        - kind_pm.contains("Idea")
+    order:
+      - file.name
+      - project
+      - parent
+      - kind_pm
+      - status
+      - priority
+      - due
+      - tags
+      - cover
+      - description
+      - topics
+    sort:
+      - property: parent
+        direction: ASC
+  - type: table
+    name: Project Files
+    filters:
+      and:
+        - project.contains(this.file)
+    order:
+      - file.name
+      - project
+      - parent
+      - kind_pm
+      - status
+      - priority
+      - due
+      - tags
+      - cover
+      - description
+      - topics
+    sort:
+      - property: file.name
+        direction: ASC
+      - property: parent
+        direction: ASC
+    columnSize:
+      file.name: 206
+      note.project: 187
+      note.parent: 203
+      note.status: 98
+      note.due: 69
+      note.tags: 95
