@@ -25,23 +25,23 @@
   "recentFilesStore": [
     {
       "filepath": "04-Resources/Articles/Articles.md",
-      "timestamp": 1764267680543
+      "timestamp": 1764267909383
+    },
+    {
+      "filepath": "02-Projects/Recursive Distinction Dynamics/Recursive Distinction Dynamics.md",
+      "timestamp": 1764267905492
+    },
+    {
+      "filepath": "02-Projects/Recursive Distinction Dynamics/RDD Core Sources.md",
+      "timestamp": 1764267904360
     },
     {
       "filepath": "02-Projects/Industrial AI Optimization/Industrial AI Optimizer Data Pipeline.md",
-      "timestamp": 1764267663859
+      "timestamp": 1764267886329
     },
     {
       "filepath": "02-Projects/The Recursive Garden/The Recursive Garden.md",
       "timestamp": 1764267520234
-    },
-    {
-      "filepath": "02-Projects/The Recursive Garden/About.md",
-      "timestamp": 1764267515676
-    },
-    {
-      "filepath": "01-Inbox/LLMs do make distinctions.md",
-      "timestamp": 1764267165662
     }
   ],
   "bookmarkedFileStore": [],

@@ -11,20 +11,20 @@ cover: https://raw.githubusercontent.com/r3crsvint3llgnz/the-recursive-garden/ma
 > [!note]+ Drafts in progress
 > ```dataview
 > TABLE WITHOUT ID
->   choice(
->     cover,
->     "<img src='" + replace(cover,"^http:","https:") + "' height='120' style='border-radius:6px;object-fit:cover'/>",
->     ""
->   ) AS "",
->   file.link AS "Article",
->   join(topics, ", ") AS "Topics",
->   join(status, ", ") AS "Status",
->   default(summary, "-") AS "Summary"
-> FROM ""
-> WHERE kind = "article"
->   AND (status = "draft" OR contains(status, "draft") OR contains(status, "in progress"))
-> SORT updated DESC, created DESC, file.mtime DESC
-> LIMIT 20
+> choice(
+    cover,
+    "<img src='" + replace(cover,"^http:","https:") + "' height='120' style='border-radius:6px;object-fit:cover'/>",
+    ""
+  ) AS "",
+  file.link AS "Article",
+  join(topics, ", ") AS "Topics",
+  join(status, ", ") AS "Status",
+  default(summary, "-") AS "Summary"
+FROM ""
+WHERE kind = "article"
+  AND any(list(status), (s) => contains(lower(s), "draft") OR contains(lower(s), "in progress"))
+SORT updated DESC, created DESC, file.mtime DESC
+LIMIT 20
 > ```
 ---
 
