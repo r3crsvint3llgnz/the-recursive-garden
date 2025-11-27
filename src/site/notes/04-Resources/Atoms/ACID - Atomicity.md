@@ -82,6 +82,6 @@ If a process fails during a data modification, the transaction must be rolled ba
 
 ---
 
-**Source:** https://delta.io/pdfs/dldg_databricks.pdf • **Page:** 11, 22, 19 • **Key:** [[leeDeltaLakeDefinitive]]
+**Source:** <https://delta.io/pdfs/dldg_databricks.pdf> • **Page:** 11, 22, 19 • **Key:** [[leeDeltaLakeDefinitive]]
 
 ---
