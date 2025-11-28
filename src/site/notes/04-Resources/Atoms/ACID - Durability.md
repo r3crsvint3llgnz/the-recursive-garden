@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"kind":"atom","tags":["atom"],"topics":["ACID Transactions","Data Integrity","Transaction Protocol"],"source":"https://delta.io/pdfs/dldg_databricks.pdf","pages":"11, 22, 279","citekey":"[[leeDeltaLakeDefinitive]]","created":"2025-11-26T22:15:00","updated":"2025-11-26T22:15:00","molecule":["[[04-Resources/Molecules/ACID Transactions|ACID Transactions]]"],"permalink":"/04-resources/atoms/acid-durability/","dgPassFrontmatter":true}
+{"dg-publish":true,"kind":"atom","tags":["atom"],"topics":["ACID Transactions","Data Integrity","Transaction Protocol"],"source":"https://delta.io/pdfs/dldg_databricks.pdf","pages":"11, 22, 279","citekey":"leeDeltaLakeDefinitive","created":"2025-11-26T22:15:00","updated":"2025-11-26T22:15:00","molecule":["[[04-Resources/Molecules/ACID Transactions|ACID Transactions]]"],"permalink":"/04-resources/atoms/acid-durability/","dgPassFrontmatter":true}
 ---
 
 # ACID - Durability
