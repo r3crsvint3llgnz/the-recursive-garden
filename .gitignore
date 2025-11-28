@@ -19,6 +19,6 @@ _git_backup/
 Thumbs.db
 desktop.ini
 
-# Local secrets
+# Local secrets (do NOT commit)
 .env
 .env.*
