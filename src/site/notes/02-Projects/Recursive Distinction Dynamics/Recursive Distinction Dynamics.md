@@ -47,17 +47,17 @@
 > [!example]+ Latest Changes
 >  | Note                                                                                     | status                  | Updated    |
 > | ---------------------------------------------------------------------------------------- | ----------------------- | ---------- |
-> | [[04-Resources/Molecules/What is Reality under RDD\|What is Reality under RDD]]       | draft                   | 2025-11-26 |
-> | [[04-Resources/Molecules/Qualia\|Qualia]]                                             | draft                   | 2025-11-26 |
-> | [[04-Resources/Atoms/RDD – Entropy (Definition)\|RDD – Entropy (Definition)]]         | <ul><li>draft</li></ul> | 2025-11-22 |
-> | [[04-Resources/Atoms/RDD – Persistence (Definition)\|RDD – Persistence (Definition)]] | <ul><li>draft</li></ul> | 2025-11-22 |
-> | [[04-Resources/Atoms/RDD – Gravity (Definition)\|RDD – Gravity (Definition)]]         | \-                      | 2025-11-22 |
-> | [[04-Resources/Atoms/RDD – Distinction (Definition)\|RDD – Distinction (Definition)]] | \-                      | 2025-11-22 |
-> | [[04-Resources/Atoms/RDD – Time (Definition)\|RDD – Time (Definition)]]               | \-                      | 2025-11-22 |
-> | [[04-Resources/Atoms/RDD – Existence (Definition)\|RDD – Existence (Definition)]]     | \-                      | 2025-11-22 |
-> | [[04-Resources/Atoms/RDD – Recursion (Definition)\|RDD – Recursion (Definition)]]     | \-                      | 2025-11-22 |
-> | [[04-Resources/Atoms/RDD – Perspective (Definition)\|RDD – Perspective (Definition)]] | \-                      | 2025-11-22 |
-> | [[04-Resources/Atoms/RDD – Potential (Definition)\|RDD – Potential (Definition)]]     | \-                      | 2025-11-22 |
+> | [[04-Resources/Molecules/What is Reality under RDD\|What is Reality under RDD]]       | draft                   | 2025-11-27 |
+> | [[04-Resources/Molecules/Qualia\|Qualia]]                                             | draft                   | 2025-11-27 |
+> | [[04-Resources/Atoms/RDD – Distinction (Definition)\|RDD – Distinction (Definition)]] | \-                      | 2025-11-27 |
+> | [[04-Resources/Atoms/RDD – Entropy (Definition)\|RDD – Entropy (Definition)]]         | <ul><li>draft</li></ul> | 2025-11-27 |
+> | [[04-Resources/Atoms/RDD – Existence (Definition)\|RDD – Existence (Definition)]]     | \-                      | 2025-11-27 |
+> | [[04-Resources/Atoms/RDD – Gravity (Definition)\|RDD – Gravity (Definition)]]         | \-                      | 2025-11-27 |
+> | [[04-Resources/Atoms/RDD – Persistence (Definition)\|RDD – Persistence (Definition)]] | <ul><li>draft</li></ul> | 2025-11-27 |
+> | [[04-Resources/Atoms/RDD – Perspective (Definition)\|RDD – Perspective (Definition)]] | \-                      | 2025-11-27 |
+> | [[04-Resources/Atoms/RDD – Potential (Definition)\|RDD – Potential (Definition)]]     | \-                      | 2025-11-27 |
+> | [[04-Resources/Atoms/RDD – Recursion (Definition)\|RDD – Recursion (Definition)]]     | \-                      | 2025-11-27 |
+> | [[04-Resources/Atoms/RDD – Time (Definition)\|RDD – Time (Definition)]]               | \-                      | 2025-11-27 |
 > 
 { .block-language-dataview}
 ---
@@ -111,17 +111,17 @@
 
 | Changed                                                                                  | When             |
 | ---------------------------------------------------------------------------------------- | ---------------- |
-| [[04-Resources/Molecules/What is Reality under RDD\|What is Reality under RDD]]       | 2025-11-26 21:35 |
-| [[04-Resources/Molecules/Qualia\|Qualia]]                                             | 2025-11-26 21:35 |
-| [[04-Resources/Atoms/RDD – Entropy (Definition)\|RDD – Entropy (Definition)]]         | 2025-11-22 21:30 |
-| [[04-Resources/Atoms/RDD – Persistence (Definition)\|RDD – Persistence (Definition)]] | 2025-11-22 21:29 |
-| [[04-Resources/Atoms/RDD – Gravity (Definition)\|RDD – Gravity (Definition)]]         | 2025-11-22 20:59 |
-| [[04-Resources/Atoms/RDD – Distinction (Definition)\|RDD – Distinction (Definition)]] | 2025-11-22 20:59 |
-| [[04-Resources/Atoms/RDD – Time (Definition)\|RDD – Time (Definition)]]               | 2025-11-22 20:59 |
-| [[04-Resources/Atoms/RDD – Existence (Definition)\|RDD – Existence (Definition)]]     | 2025-11-22 20:57 |
-| [[04-Resources/Atoms/RDD – Recursion (Definition)\|RDD – Recursion (Definition)]]     | 2025-11-22 20:57 |
-| [[04-Resources/Atoms/RDD – Perspective (Definition)\|RDD – Perspective (Definition)]] | 2025-11-22 20:48 |
-| [[04-Resources/Atoms/RDD – Potential (Definition)\|RDD – Potential (Definition)]]     | 2025-11-22 20:18 |
+| [[04-Resources/Molecules/What is Reality under RDD\|What is Reality under RDD]]       | 2025-11-27 11:51 |
+| [[04-Resources/Molecules/Qualia\|Qualia]]                                             | 2025-11-27 11:51 |
+| [[04-Resources/Atoms/RDD – Distinction (Definition)\|RDD – Distinction (Definition)]] | 2025-11-27 11:51 |
+| [[04-Resources/Atoms/RDD – Entropy (Definition)\|RDD – Entropy (Definition)]]         | 2025-11-27 11:51 |
+| [[04-Resources/Atoms/RDD – Existence (Definition)\|RDD – Existence (Definition)]]     | 2025-11-27 11:51 |
+| [[04-Resources/Atoms/RDD – Gravity (Definition)\|RDD – Gravity (Definition)]]         | 2025-11-27 11:51 |
+| [[04-Resources/Atoms/RDD – Persistence (Definition)\|RDD – Persistence (Definition)]] | 2025-11-27 11:51 |
+| [[04-Resources/Atoms/RDD – Perspective (Definition)\|RDD – Perspective (Definition)]] | 2025-11-27 11:51 |
+| [[04-Resources/Atoms/RDD – Potential (Definition)\|RDD – Potential (Definition)]]     | 2025-11-27 11:51 |
+| [[04-Resources/Atoms/RDD – Recursion (Definition)\|RDD – Recursion (Definition)]]     | 2025-11-27 11:51 |
+| [[04-Resources/Atoms/RDD – Time (Definition)\|RDD – Time (Definition)]]               | 2025-11-27 11:51 |
 
 { .block-language-dataview}
 -----

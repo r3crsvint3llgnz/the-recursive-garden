@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"kind":"article","tags":["ai"],"topics":[" AI ","AI Optimizer","Industrial AI"],"summary":"Outline of an industrial AI optimizer pipeline: extracting sensor data from PI, ingesting it into AWS via S3 or Kinesis,\r  transforming raw logs into clean Delta/Parquet datasets with Glue or Databricks, storing them in a structured medallion architecture,\r  and delivering them to Kubeflow for data science workflows.","status":["draft"],"molecules":["[[Process Entropy]]","[[04-Resources/Molecules/ACID Transactions|ACID Transactions]]","[[AI Optimizer Infrastructure Roles]]","[[Medallion Architecture]]"],"created":"2025-11-26T22:44:00","updated":"2025-11-26T22:44:00","cover":"https://raw.githubusercontent.com/r3crsvint3llgnz/the-recursive-garden/main/src/site/img/user/02-Projects/The%20Recursive%20Garden/_assets/aioarchitecture.png","permalink":"/02-projects/industrial-ai-optimization/industrial-ai-optimizer-data-pipeline/","dgPassFrontmatter":true}
+{"dg-publish":true,"kind":"article","tags":["ai","article"],"topics":[" AI ","AI Optimizer","Industrial AI"],"summary":"Outline of an industrial AI optimizer pipeline: extracting sensor data from PI, ingesting it into AWS via S3 or Kinesis,\r  transforming raw logs into clean Delta/Parquet datasets with Glue or Databricks, storing them in a structured medallion architecture,\r  and delivering them to Kubeflow for data science workflows.","status":["draft"],"molecules":["[[Process Entropy]]","[[04-Resources/Molecules/ACID Transactions|ACID Transactions]]","[[AI Optimizer Infrastructure Roles]]","[[Medallion Architecture]]"],"created":"2025-11-26T22:44:00","updated":"2025-11-26T22:44:00","cover":"https://raw.githubusercontent.com/r3crsvint3llgnz/the-recursive-garden/main/src/site/img/user/02-Projects/The%20Recursive%20Garden/_assets/aioarchitecture.png","permalink":"/02-projects/industrial-ai-optimization/industrial-ai-optimizer-data-pipeline/","dgPassFrontmatter":true}
 ---
 
 # Industrial AI Optimizer Data Pipeline
@@ -32,7 +32,7 @@
 
 ### **4. Final Storage (The "Replica Store")**
 
-- **The Location:** **Amazon S3** (The "[[04-Resources/Atoms/Medallion Architecture Layer - Silver\|Silver]]" or "[[01-Inbox/Medallion Architecture Layer - Gold\|Gold]]" Layer).
+- **The Location:** **Amazon S3** (The "[[04-Resources/Atoms/Medallion Architecture Layer - Silver\|Silver]]" or "[[04-Resources/Atoms/Medallion Architecture Layer - Gold 1\|Gold]]" Layer).
 - **The Format:** **Delta Lake** or **[[Parquet\|Parquet]]**.
 - _Why:_ These formats are compressed and optimized for fast reading by machine learning models.
 - **The Role:** Automated by the pipeline.
