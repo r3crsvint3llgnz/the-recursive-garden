@@ -2,7 +2,6 @@
 {"dg-publish":true,"kind":"atom","tags":["atom"],"topics":[],"source":"","pages":"","citekey":"","created":null,"updated":null,"molecule":null,"permalink":"/templates/atom-literature-note-template/","dgPassFrontmatter":true}
 ---
 
-# <% tp.file.title %>
 [[02-Projects/The Recursive Garden/The Recursive Garden\|🏠 Home]] · [[04-Resources/Reading Notes\|📚 Reading Notes]] · [[04-Resources/Articles/Articles\|📝 Articles]] · [[02-Projects/The Recursive Garden/About\|ℹ️ About]]
 
 > [!tip]- Distillation — one idea, in my words
