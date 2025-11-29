@@ -1,10 +1,8 @@
 ---
-{"dg-publish":true,"Type":"book","section":"books","tags":["book","booknotes","#source"],"title":"The Beginning of Infinity","author":"[[David Deutsch]]","category":"[[Mathematics]]","publisher":"Penguin UK","publish":"2012","year":"2025-11-09","pages":"723","isbn":"0140278168 9780140278163","cover":"https://books.google.com/books/content?id=WFZl7YvsiuIC&printsec=frontcover&img=1&zoom=1&source=gbs_api","localCover":"","status":["read"],"rating":5,"citekey":"","zotero_uri":"https://books.google.com/books/about/The_Beginning_of_Infinity.html?hl=&id=WFZl7YvsiuIC","doi":"","url":"","created":null,"updated":null,"started":null,"finished":null,"in_kindle":null,"in_library":null,"in_audible":true,"permalink":"/04-resources/books/the-beginning-of-infinity/","dgPassFrontmatter":true}
+{"dg-publish":true,"Type":"book","section":"books","tags":["book","booknotes","#source"],"title":"The Beginning of Infinity","author":"[[David Deutsch]]","category":"[[Mathematics]]","publisher":"Penguin UK","publish":"2012","year":"2025-11-09","pages":"723","isbn":"0140278168 9780140278163","cover":"https://books.google.com/books/content?id=WFZl7YvsiuIC&printsec=frontcover&img=1&zoom=1&source=gbs_api","localCover":"","status":["read"],"rating":5,"citekey":"","zotero_uri":"https://books.google.com/books/about/The_Beginning_of_Infinity.html?hl=&id=WFZl7YvsiuIC","doi":"","url":"","created":"2025-11-28T21:37:00","updated":"2025-11-28T21:37:00","started":null,"finished":"2025-09-30","in_kindle":null,"in_library":null,"in_audible":true,"permalink":"/04-resources/books/the-beginning-of-infinity/","dgPassFrontmatter":true}
 ---
 
-
-# The Beginning of Infinity
-[[02-Projects/The Recursive Garden/The Recursive Garden\|Home]] · [[02-Projects/The Recursive Garden/About\|About]] · [[04-Resources/Reading Notes\|Reading Notes]]
+[[02-Projects/The Recursive Garden/The Recursive Garden\|🏠 Home]] · [[04-Resources/Reading Notes\|📚 Reading Notes]] · [[04-Resources/Articles/Articles\|📝 Articles]] · [[02-Projects/The Recursive Garden/About\|ℹ️ About]]
 
 <img src="https://books.google.com/books/content?id=WFZl7YvsiuIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover" style="max-width: 440px; max-height: 640px; width: auto; height: auto; object-fit: contain; border-radius: 6px; display: block;">
 
@@ -50,4 +48,4 @@ _The Beginning of Infinity_ argues that progress is unbounded wherever good expl
 > - External: 
 ---
 
-[[02-Projects/The Recursive Garden/The Recursive Garden\|Home]] · [[02-Projects/The Recursive Garden/About\|About]] · [[04-Resources/Reading Notes\|Reading Notes]]
+[[02-Projects/The Recursive Garden/The Recursive Garden\|🏠 Home]] · [[04-Resources/Reading Notes\|📚 Reading Notes]] · [[04-Resources/Articles/Articles\|📝 Articles]] · [[02-Projects/The Recursive Garden/About\|ℹ️ About]]

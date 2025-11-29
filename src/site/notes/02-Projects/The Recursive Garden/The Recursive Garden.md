@@ -32,8 +32,8 @@
 > [!summary]+ Now Reading
 >  |                                                                                                                                                                               | Title                                                                            | Author                                               | Year |
 > | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- | ---------------------------------------------------- | ---- |
-> | <img src='https://books.google.com/books/content?id=IV_DEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api' height='120' style='border-radius:6px;object-fit:contain'/> | [[04-Resources/Books/Slow Productivity\|Slow Productivity]]                   | [[04-Resources/Authors/Cal Newport\|Cal Newport]] | 2024 |
 > | <img src='https://books.google.com/books/content?id=QJI3jvh8S30C&printsec=frontcover&img=1&zoom=1&source=gbs_api' height='120' style='border-radius:6px;object-fit:contain'/> | [[04-Resources/Books/A Brief History of Thought\|A Brief History of Thought]] | [[04-Resources/Authors/Luc Ferry\|Luc Ferry]]     | 2011 |
+> | <img src='https://books.google.com/books/content?id=IV_DEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api' height='120' style='border-radius:6px;object-fit:contain'/> | [[04-Resources/Books/Slow Productivity\|Slow Productivity]]                   | [[04-Resources/Authors/Cal Newport\|Cal Newport]] | 2024 |
 > 
 { .block-language-dataview}
  ---
