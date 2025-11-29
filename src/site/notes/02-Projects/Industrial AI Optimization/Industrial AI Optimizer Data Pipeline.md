@@ -1,8 +1,7 @@
 ---
-{"dg-publish":true,"kind":"article","tags":["ai","article"],"topics":[" AI ","AI Optimizer","Industrial AI"],"summary":"Outline of an industrial AI optimizer pipeline: extracting sensor data from PI, ingesting it into AWS via S3 or Kinesis,\r  transforming raw logs into clean Delta/Parquet datasets with Glue or Databricks, storing them in a structured medallion architecture,\r  and delivering them to Kubeflow for data science workflows.","status":["draft"],"molecules":["[[Process Entropy]]","[[04-Resources/Molecules/ACID Transactions|ACID Transactions]]","[[AI Optimizer Infrastructure Roles]]","[[Medallion Architecture]]"],"created":"2025-11-26T22:44:00","updated":"2025-11-26T22:44:00","cover":"https://raw.githubusercontent.com/r3crsvint3llgnz/the-recursive-garden/main/src/site/img/user/02-Projects/The%20Recursive%20Garden/_assets/aioarchitecture.png","permalink":"/02-projects/industrial-ai-optimization/industrial-ai-optimizer-data-pipeline/","dgPassFrontmatter":true}
+{"dg-publish":true,"kind":"article","tags":["ai","article"],"topics":[" AI ","AI Optimizer","Industrial AI"],"summary":"Outline of an industrial AI optimizer pipeline: extracting sensor data from PI, ingesting it into AWS via S3 or Kinesis,\r  transforming raw logs into clean Delta/Parquet datasets with Glue or Databricks, storing them in a structured medallion architecture,\r  and delivering them to Kubeflow for data science workflows.","status":["draft"],"molecules":["[[Process Entropy]]","[[04-Resources/Molecules/ACID Transactions|ACID Transactions]]","[[AI Optimizer Infrastructure Roles]]","[[Medallion Architecture]]"],"created":"2025-11-26T22:44:00","updated":"2025-11-26T22:44:00","cover":"https://raw.githubusercontent.com/r3crsvint3llgnz/the-recursive-garden/main/src/site/img/user/02-Projects/The%20Recursive%20Garden/_assets/aioarchitecture.png","title":"Industrial AI Optimizer Data Pipeline","permalink":"/02-projects/industrial-ai-optimization/industrial-ai-optimizer-data-pipeline/","dgPassFrontmatter":true}
 ---
 
-# Industrial AI Optimizer Data Pipeline
 [[02-Projects/The Recursive Garden/The Recursive Garden\|🏠 Home]] · [[04-Resources/Reading Notes\|📚 Reading Notes]] · [[04-Resources/Articles/Articles\|📝 Articles]] · [[02-Projects/The Recursive Garden/About\|ℹ️ About]]
 
 ![aioarchitecture.png](/img/user/02-Projects/The%20Recursive%20Garden/_assets/aioarchitecture.png)
@@ -44,3 +43,6 @@
 - The Data Scientist uses the **[[AWS SDK\|AWS SDK]] for Python ([[Boto3\|Boto3]])** or a library like **[[S3FS\|S3FS]]** within their Kubeflow notebook.
 - They do _not_ query PI. They query the S3 buckets.
 - **The Role:** **[[Data Scientist\|Data Scientist]]**. They write: df = pd.read_parquet('s3://my-plant-data-gold/reactor_data.parquet').
+---
+
+[[02-Projects/The Recursive Garden/The Recursive Garden\|🏠 Home]] · [[04-Resources/Reading Notes\|📚 Reading Notes]] · [[04-Resources/Articles/Articles\|📝 Articles]] · [[02-Projects/The Recursive Garden/About\|ℹ️ About]]
