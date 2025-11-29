@@ -47,8 +47,8 @@
 > [!example]+ Latest Changes
 >  | Note                                                                                     | status                  | Updated    |
 > | ---------------------------------------------------------------------------------------- | ----------------------- | ---------- |
-> | [[04-Resources/Molecules/What is Reality under RDD\|What is Reality under RDD]]       | draft                   | 2025-11-27 |
 > | [[04-Resources/Molecules/Qualia\|Qualia]]                                             | draft                   | 2025-11-27 |
+> | [[04-Resources/Molecules/What is Reality under RDD\|What is Reality under RDD]]       | draft                   | 2025-11-27 |
 > | [[04-Resources/Atoms/RDD – Distinction (Definition)\|RDD – Distinction (Definition)]] | \-                      | 2025-11-27 |
 > | [[04-Resources/Atoms/RDD – Entropy (Definition)\|RDD – Entropy (Definition)]]         | <ul><li>draft</li></ul> | 2025-11-27 |
 > | [[04-Resources/Atoms/RDD – Existence (Definition)\|RDD – Existence (Definition)]]     | \-                      | 2025-11-27 |
@@ -77,8 +77,8 @@
 ---
 
 > [!example]+ Molecules (Syntheses)
->  - [[04-Resources/Molecules/What is Reality under RDD\|What is Reality under RDD]]
-> - [[04-Resources/Molecules/Qualia\|Qualia]]
+>  - [[04-Resources/Molecules/Qualia\|Qualia]]
+> - [[04-Resources/Molecules/What is Reality under RDD\|What is Reality under RDD]]
 > 
 { .block-language-dataview}
 ---
@@ -111,8 +111,8 @@
 
 | Changed                                                                                  | When             |
 | ---------------------------------------------------------------------------------------- | ---------------- |
-| [[04-Resources/Molecules/What is Reality under RDD\|What is Reality under RDD]]       | 2025-11-27 11:51 |
 | [[04-Resources/Molecules/Qualia\|Qualia]]                                             | 2025-11-27 11:51 |
+| [[04-Resources/Molecules/What is Reality under RDD\|What is Reality under RDD]]       | 2025-11-27 11:51 |
 | [[04-Resources/Atoms/RDD – Distinction (Definition)\|RDD – Distinction (Definition)]] | 2025-11-27 11:51 |
 | [[04-Resources/Atoms/RDD – Entropy (Definition)\|RDD – Entropy (Definition)]]         | 2025-11-27 11:51 |
 | [[04-Resources/Atoms/RDD – Existence (Definition)\|RDD – Existence (Definition)]]     | 2025-11-27 11:51 |

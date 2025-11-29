@@ -2,8 +2,8 @@
 {"dg-publish":true,"title":"About","section":"hubs","tags":["about","profile"],"summary":"What this garden is, what I'm exploring, and where to look.","cover":"https://raw.githubusercontent.com/r3crsvint3llgnz/the-recursive-garden/main/src/site/img/user/02-Projects/The%20Recursive%20Garden/_assets/sethrobins.jpg","permalink":"/02-projects/the-recursive-garden/about/","dgPassFrontmatter":true}
 ---
 
-[[02-Projects/The Recursive Garden/The Recursive Garden\|🏠 Home]] · [[04-Resources/Reading Notes\|📚 Reading Notes]] · [[04-Resources/Articles/Articles\|📝 Articles]]
 # About this garden
+[[02-Projects/The Recursive Garden/The Recursive Garden\|🏠 Home]] · [[04-Resources/Reading Notes\|📚 Reading Notes]] · [[04-Resources/Articles/Articles\|📝 Articles]]
 
 > [!abstract]+ What this is
 > This garden is my public thinking space. It’s where I work things out in the open, follow questions that pull at me, and shape ideas into something clearer. Notes here change as I do. Some grow, some get replaced, some get refactored into better versions. Curiosity leads; rigor keeps me honest.

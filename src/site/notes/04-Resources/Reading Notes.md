@@ -55,8 +55,8 @@
 > [!abstract]+ Literature sources
 >  - [[04-Resources/Sources/Literature Sources/woodillUnderstandingUnderstandingEssays2005\|woodillUnderstandingUnderstandingEssays2005]]
 > - [[04-Resources/Sources/Literature Sources/volodith1000HoursPrompt2025\|volodith1000HoursPrompt2025]]
-> - [[04-Resources/Sources/Literature Sources/hofstadterGodelEscherBach\|hofstadterGodelEscherBach]]
 > - [[04-Resources/Sources/Literature Sources/leeDeltaLakeDefinitive\|leeDeltaLakeDefinitive]]
+> - [[04-Resources/Sources/Literature Sources/hofstadterGodelEscherBach\|hofstadterGodelEscherBach]]
 > - [[04-Resources/Sources/Literature Sources/maturanaAutopoiesisCognitionRealization1980\|maturanaAutopoiesisCognitionRealization1980]]
 > - [[04-Resources/Sources/Literature Sources/newportSlowProductivityLost2024\|newportSlowProductivityLost2024]]
 > - [[04-Resources/Sources/Literature Sources/popperObjectiveKnowledgeEvolutionary1995\|popperObjectiveKnowledgeEvolutionary1995]]
@@ -64,9 +64,9 @@
 > - [[04-Resources/Sources/Literature Sources/vonnegut2022017\|vonnegut2022017]]
 > - [[04-Resources/Sources/Literature Sources/batesonStepsEcologyMind1978\|batesonStepsEcologyMind1978]]
 > - [[04-Resources/Sources/Literature Sources/bohmWholenessImplicateOrder2002\|bohmWholenessImplicateOrder2002]]
+> - [[04-Resources/Sources/Literature Sources/heathConsciousnessPractice2025\|heathConsciousnessPractice2025]]
 > - [[04-Resources/Sources/Literature Sources/deutschBeginningInfinityExplanations2012\|deutschBeginningInfinityExplanations2012]]
 > - [[04-Resources/Sources/Literature Sources/ferryBriefHistoryThought2011\|ferryBriefHistoryThought2011]]
-> - [[04-Resources/Sources/Literature Sources/heathConsciousnessPractice2025\|heathConsciousnessPractice2025]]
 > 
 { .block-language-dataview}
 ---
