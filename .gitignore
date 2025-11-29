@@ -22,3 +22,4 @@ desktop.ini
 # Local secrets (do NOT commit)
 .env
 .env.*
+amplify-env.json
