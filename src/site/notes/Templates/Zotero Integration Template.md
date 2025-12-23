@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"title":"{{title}}","authors":"{{authorString}}","year":"{{date}}","status":"reading","summary":"","themes":[],"citekey":"{{citekey}}","zotero_uri":"{{link}}","doi":"{{DOI}}","isbn":"{{ISBN}}","url":"{{url}}","cover":"","created":null,"updated":null,"permalink":"/templates/zotero-integration-template/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/templates/zotero-integration-template/","title":"{{title}}"}
 ---
 
 

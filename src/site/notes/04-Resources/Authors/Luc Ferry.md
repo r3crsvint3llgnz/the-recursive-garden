@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"type":"author","tags":["author","people"],"born":"1951-01-03","died":null,"nationality":"French","website":null,"wikipedia":"https://en.wikipedia.org/wiki/Luc_Ferry","created":"2025-11-09T20:12:00","updated":"2025-11-09T20:12:00","permalink":"/04-resources/authors/luc-ferry/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/04-resources/authors/luc-ferry/","tags":["author","people"]}
 ---
 
 # Luc Ferry
@@ -38,11 +38,16 @@ Ferry's writing style is **didactic, historical, and highly comparative**, makin
 ---
 
 > [!info]+ Books in vault
->  | File                                                                             | Title                      | Year | Status                    | Rating |
-> | -------------------------------------------------------------------------------- | -------------------------- | ---- | ------------------------- | ------ |
-> | [[04-Resources/Books/A Brief History of Thought\|A Brief History of Thought]] | A Brief History of Thought | 2011 | <ul><li>reading</li></ul> | \-     |
-> 
-{ .block-language-dataview}
+> ```dataview
+> TABLE
+>   title as "Title",
+>   date(publish).year AS Year,
+>   status as "Status",
+>   my_rating as "Rating"
+> FROM "04-Resources/Books"
+> WHERE contains(author, this.file.link)
+> SORT year DESC
+> ```
 ---
 
 > [!links]- External links

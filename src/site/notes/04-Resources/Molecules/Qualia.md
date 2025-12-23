@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"kind":"molecule","tags":["molecule"],"topics":["Recursive Distinction Dynamics","Philosophy"],"status":"draft","version":0.1,"created":"2025-11-22T20:45:00","updated":"2025-11-22T20:45:00","permalink":"/04-resources/molecules/qualia/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/04-resources/molecules/qualia/","tags":["molecule"]}
 ---
 
 # **Qualia ($\Phi$)**
@@ -25,23 +25,21 @@
 ---
 > [!info]+ Auto-list atoms that link to this molecule (backlinks)
 >
->  | File                                                                                     | topics                                                              | source | pages | created                     |
-> | ---------------------------------------------------------------------------------------- | ------------------------------------------------------------------- | ------ | ----- | --------------------------- |
-> | [[04-Resources/Atoms/RDD – Perspective (Definition)\|RDD – Perspective (Definition)]] | <ul><li>Recursive Distinction Dynamics</li><li>Philosophy</li></ul> |        |       | 8:14 PM - November 22, 2025 |
-> | [[04-Resources/Atoms/RDD – Time (Definition)\|RDD – Time (Definition)]]               | <ul><li>Recursive Distinction Dynamics</li><li>Philosophy</li></ul> |        |       | 8:13 PM - November 22, 2025 |
-> | [[04-Resources/Atoms/RDD – Recursion (Definition)\|RDD – Recursion (Definition)]]     | <ul><li>Recursive Distinction Dynamics</li><li>Philosophy</li></ul> |        |       | 8:11 PM - November 22, 2025 |
-> 
-{ .block-language-dataview}
+> ```dataview
+> TABLE topics, source, pages, created
+> FROM #atom
+> WHERE contains(file.outlinks, this.file.link)
+> SORT created DESC
+> ```
 ---
 
 > [!info]- Auto-list atoms this molecule links to (forward)
->  | File                                                                                     | topics                                                              | source | page | created                     |
-> | ---------------------------------------------------------------------------------------- | ------------------------------------------------------------------- | ------ | ---- | --------------------------- |
-> | [[04-Resources/Atoms/RDD – Perspective (Definition)\|RDD – Perspective (Definition)]] | <ul><li>Recursive Distinction Dynamics</li><li>Philosophy</li></ul> |        | \-   | 8:14 PM - November 22, 2025 |
-> | [[04-Resources/Atoms/RDD – Recursion (Definition)\|RDD – Recursion (Definition)]]     | <ul><li>Recursive Distinction Dynamics</li><li>Philosophy</li></ul> |        | \-   | 8:11 PM - November 22, 2025 |
-> | [[04-Resources/Atoms/RDD – Time (Definition)\|RDD – Time (Definition)]]               | <ul><li>Recursive Distinction Dynamics</li><li>Philosophy</li></ul> |        | \-   | 8:13 PM - November 22, 2025 |
-> 
-{ .block-language-dataview}
+> ```dataview
+> TABLE topics, source, page, created
+> FROM #atom
+> WHERE contains(this.file.outlinks, file.link)
+> SORT file.name ASC
+> ```
 ---
 
 > [!example]- Worked example (edit inline)

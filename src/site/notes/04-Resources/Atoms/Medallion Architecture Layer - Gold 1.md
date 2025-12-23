@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"kind":"atom","tags":["atom","data","curated"],"topics":[" AI ","AI Optimizer","Industrial AI","Data Governance","Data Quality"],"source":"https://delta.io/pdfs/dldg_databricks.pdf","pages":"208","citekey":"leeDeltaLakeDefinitive","created":"2025-11-26T21:28:00","updated":"2025-11-26T21:28:00","molecule":["[[Medallion Architecture]]"],"permalink":"/04-resources/atoms/medallion-architecture-layer-gold-1/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/04-resources/atoms/medallion-architecture-layer-gold-1/","tags":["atom","data","curated"]}
 ---
 
 # Medallion Architecture Layer - Gold

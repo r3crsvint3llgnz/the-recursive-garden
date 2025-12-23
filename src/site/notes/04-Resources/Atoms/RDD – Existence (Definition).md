@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"kind":"atom","tags":["atom"],"topics":["Recursive Distinction Dynamics","Philosophy"],"source":"","pages":"","citekey":"","created":"2025-11-22T20:21:00","updated":"2025-11-22T20:21:00","molecule":["[[What is Reality under RDD]]"],"permalink":"/04-resources/atoms/rdd-existence-definition/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/04-resources/atoms/rdd-existence-definition/","tags":["atom"]}
 ---
 
 # **Existence ($E$)**
 
-- **Definition:** The state of a stabilized [[04-Resources/Atoms/RDD – Distinction (Definition)\|distinction]] currently undergoing recursive update through interaction.
+- **Definition:** The state of a stabilized [[04-Resources/Atoms/Distinction (Persistent State-Space Partition)\|distinction]] currently undergoing recursive update through interaction.
     
 - **Boolean Logic:** IF $R > 0$ THEN $E = 1$ ELSE $E = 0$.
 

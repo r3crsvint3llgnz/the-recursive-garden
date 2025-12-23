@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"kind":"molecule","tags":["molecule"],"topics":["AI Optimizer"," AI ","Industrial AI"],"status":"draft","version":0.1,"created":"2025-11-26T21:01:00","updated":"2025-11-26T21:01:00","permalink":"/04-resources/molecules/medallion-architecture/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/04-resources/molecules/medallion-architecture/","tags":["molecule"]}
 ---
 
 # Medallion Architecture
@@ -29,24 +29,21 @@ The Medallion Architecture works by applying quality gates and tiers from the po
 ---
 > [!info]+ Auto-list atoms that link to this molecule (backlinks)
 >
->  | File                                                                                                   | topics                                                                                                         | source                                    | pages | created                     |
-> | ------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------- | ----------------------------------------- | ----- | --------------------------- |
-> | [[04-Resources/Atoms/Medallion Architecture Layer - Gold\|Medallion Architecture Layer - Gold]]     | <ul><li> AI </li><li>AI Optimizer</li><li>Industrial AI</li><li>Data Governance</li><li>Data Quality</li></ul> | https://delta.io/pdfs/dldg_databricks.pdf | 208   | 9:28 PM - November 26, 2025 |
-> | [[04-Resources/Atoms/Medallion Architecture Layer - Gold 1\|Medallion Architecture Layer - Gold 1]] | <ul><li> AI </li><li>AI Optimizer</li><li>Industrial AI</li><li>Data Governance</li><li>Data Quality</li></ul> | https://delta.io/pdfs/dldg_databricks.pdf | 208   | 9:28 PM - November 26, 2025 |
-> | [[04-Resources/Atoms/Medallion Architecture Layer - Silver\|Medallion Architecture Layer - Silver]] | <ul><li>AI Optimizer</li><li> AI </li><li>Industrial AI</li></ul>                                              | https://delta.io/pdfs/dldg_databricks.pdf | 205   | 9:21 PM - November 26, 2025 |
-> | [[04-Resources/Atoms/Medallion Architecture Layer - Bronze\|Medallion Architecture Layer - Bronze]] | <ul><li> AI </li><li>AI Optimizer</li><li>Industrial AI</li></ul>                                              | https://delta.io/pdfs/dldg_databricks.pdf | 202   | 9:07 PM - November 26, 2025 |
-> 
-{ .block-language-dataview}
+> ```dataview
+> TABLE topics, source, pages, created
+> FROM #atom
+> WHERE contains(file.outlinks, this.file.link)
+> SORT created DESC
+> ```
 ---
 
 > [!info]- Auto-list atoms this molecule links to (forward)
->  | File                                                                                                   | topics                                                                                                         | source                                    | page | created                     |
-> | ------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------- | ----------------------------------------- | ---- | --------------------------- |
-> | [[04-Resources/Atoms/Medallion Architecture Layer - Bronze\|Medallion Architecture Layer - Bronze]] | <ul><li> AI </li><li>AI Optimizer</li><li>Industrial AI</li></ul>                                              | https://delta.io/pdfs/dldg_databricks.pdf | \-   | 9:07 PM - November 26, 2025 |
-> | [[04-Resources/Atoms/Medallion Architecture Layer - Gold 1\|Medallion Architecture Layer - Gold 1]] | <ul><li> AI </li><li>AI Optimizer</li><li>Industrial AI</li><li>Data Governance</li><li>Data Quality</li></ul> | https://delta.io/pdfs/dldg_databricks.pdf | \-   | 9:28 PM - November 26, 2025 |
-> | [[04-Resources/Atoms/Medallion Architecture Layer - Silver\|Medallion Architecture Layer - Silver]] | <ul><li>AI Optimizer</li><li> AI </li><li>Industrial AI</li></ul>                                              | https://delta.io/pdfs/dldg_databricks.pdf | \-   | 9:21 PM - November 26, 2025 |
-> 
-{ .block-language-dataview}
+> ```dataview
+> TABLE topics, source, page, created
+> FROM #atom
+> WHERE contains(this.file.outlinks, file.link)
+> SORT file.name ASC
+> ```
 ---
 
 > [!example]- Worked example (edit inline)

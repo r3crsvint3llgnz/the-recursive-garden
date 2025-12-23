@@ -1,15 +1,39 @@
 ---
-{"dg-publish":true,"Type":"book","section":"books","tags":["book","booknotes","#source"],"title":"Slow Productivity","author":"[[Cal Newport]]","category":"[[Business & Economics]]","publisher":"Penguin","publish":"2024-03-05","year":"2025-11-09","pages":"257","isbn":"0593544854 9780593544853","cover":"https://books.google.com/books/content?id=IV_DEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api","localCover":"","status":["reading"],"rating":4.5,"citekey":"","zotero_uri":"https://books.google.com/books/about/Slow_Productivity.html?hl=&id=IV_DEAAAQBAJ","doi":"","url":"","created":"2025-11-09T21:53:00","updated":"2025-11-09T21:53:00","started":null,"finished":null,"in_kindle":true,"in_library":null,"in_audible":null,"permalink":"/04-resources/books/slow-productivity/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/04-resources/books/slow-productivity/","title":"Slow Productivity","tags":["book","booknotes","#source"]}
 ---
 
 [[02-Projects/The Recursive Garden/The Recursive Garden\|🏠 Home]] · [[04-Resources/Reading Notes\|📚 Reading Notes]] · [[04-Resources/Articles/Articles\|📝 Articles]] · [[02-Projects/The Recursive Garden/About\|ℹ️ About]]
 
-<img src="https://books.google.com/books/content?id=IV_DEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover" style="max-width: 440px; max-height: 640px; width: auto; height: auto; object-fit: contain; border-radius: 6px; display: block;">
+```dataviewjs
+const { cover, localCover } = dv.current();
+const src = String(cover ?? localCover ?? "").replace(/^http:/, "https:");
+if (src) {
+  const img = dv.container.createEl("img", { attr: { src, alt: "Cover" } });
+  img.style.maxWidth = "440px";
+  img.style.maxHeight = "640px";
+  img.style.width = "auto";
+  img.style.height = "auto";
+  img.style.objectFit = "contain";
+  img.style.borderRadius = "6px";
+  img.style.display = "block";
+  }
+```
 
-<p><span>★★★★</span></p>
+```dataviewjs
+const { rating } = dv.current();
+if (rating) {
+  const nRaw = Array.isArray(rating) ? rating[0] : rating;
+  const n = Number(nRaw);
+  if (!Number.isNaN(n) && n > 0) {
+    const full = "★".repeat(Math.min(n, 5));
+    const empty = "☆".repeat(Math.max(0, 5 - n));
+    dv.paragraph(full + empty);
+  }
+}
+```
 
 > [!quote]- Citation  
-> [[04-Resources/Authors/Cal Newport\|Cal Newport]] (November 09, 2025). *Slow Productivity*. Penguin.
+> `= replace(string(choice(this.authors, join(this.authors, ", "), this.author)), "\\[\\[|\\]\\]", "") + choice(this.year, " (" + this.year + "). ", ". ") + "*" + string(this.title) + "*." + choice(this.publisher, " " + this.publisher + ".", "") + choice(this.doi, " https://doi.org/" + this.doi, choice(this.url, " " + this.url, ""))`
 ---
 
 > [!abstract]- Summary

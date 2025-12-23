@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"title":"Laws of Form","authors":"","year":"757404000000","status":"reading","summary":"","themes":[],"citekey":"spencer-brownLawsForm1994","zotero_uri":"","doi":"","isbn":"978-0-9639899-0-1","url":"","cover":"","created":null,"updated":null,"permalink":"/04-resources/sources/literature-sources/spencer-brown-laws-form1994/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/04-resources/sources/literature-sources/spencer-brown-laws-form1994/","title":"Laws of Form"}
 ---
 
 

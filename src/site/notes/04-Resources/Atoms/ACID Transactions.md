@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"kind":"atom","tags":["atom"],"topics":["Industrial AI"," AI "],"source":"https://delta.io/pdfs/dldg_databricks.pdf","pages":"382","citekey":"leeDeltaLakeDefinitive","created":"2025-11-26T20:37:00","updated":"2025-11-26T20:37:00","molecule":null,"permalink":"/04-resources/atoms/acid-transactions/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/04-resources/atoms/acid-transactions/","tags":["atom"]}
 ---
 
 # ACID Transactions

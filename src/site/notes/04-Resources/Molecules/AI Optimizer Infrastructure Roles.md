@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"kind":"molecule","tags":["molecule"],"topics":["AI Optimizer"," AI ","Industrial AI"],"status":"draft","version":0.1,"created":"2025-11-26T20:58:00","updated":"2025-11-26T20:58:00","permalink":"/04-resources/molecules/ai-optimizer-infrastructure-roles/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/04-resources/molecules/ai-optimizer-infrastructure-roles/","tags":["molecule"]}
 ---
 
 # AI Optimizer Infrastructure Roles
@@ -28,17 +28,21 @@
 ---
 > [!info]+ Auto-list atoms that link to this molecule (backlinks)
 >
->  | File | topics | source | pages | created |
-> | ---- | ------ | ------ | ----- | ------- |
-> 
-{ .block-language-dataview}
+> ```dataview
+> TABLE topics, source, pages, created
+> FROM #atom
+> WHERE contains(file.outlinks, this.file.link)
+> SORT created DESC
+> ```
 ---
 
 > [!info]- Auto-list atoms this molecule links to (forward)
->  | File | topics | source | page | created |
-> | ---- | ------ | ------ | ---- | ------- |
-> 
-{ .block-language-dataview}
+> ```dataview
+> TABLE topics, source, page, created
+> FROM #atom
+> WHERE contains(this.file.outlinks, file.link)
+> SORT file.name ASC
+> ```
 ---
 
 > [!example]- Worked example (edit inline)

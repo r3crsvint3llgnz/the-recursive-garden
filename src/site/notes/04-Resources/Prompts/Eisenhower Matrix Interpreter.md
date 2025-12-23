@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"kind":"prompt","tags":["prompt"],"categories":["productivity","prioritization"],"framework":"Eisenhower","role":"individual","audience":"me","tone":"concise","status":"ready","created":"2025-11-09T19:36:00","updated":"2025-11-09T19:36:00","permalink":"/04-resources/prompts/eisenhower-matrix-interpreter/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/04-resources/prompts/eisenhower-matrix-interpreter/","tags":["prompt"]}
 ---
 
 # Eisenhower Matrix Interpreter

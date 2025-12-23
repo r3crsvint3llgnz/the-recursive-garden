@@ -1,15 +1,39 @@
 ---
-{"dg-publish":true,"Type":"book","section":"books","tags":["book","booknotes","#source"],"title":"Consciousness in Practice","author":"[[Brian Heath]]","category":"[[Nonfiction]]","publisher":"","publish":"2025","year":"2025","pages":"","isbn":"","cover":"https://m.media-amazon.com/images/I/81SyhHiY-kL._SL1500_.jpg","localCover":"","status":["read"],"rating":4.5,"citekey":"heathConsciousnessPractice2025","zotero_uri":"zotero://select/items/@heathConsciousnessPractice2025","doi":"","url":"","created":"2025-11-28T21:38:00","updated":"2025-11-28T21:38:00","started":null,"finished":"2025-08-15","in_kindle":null,"in_library":null,"in_audible":null,"permalink":"/04-resources/books/consciousness-in-practice/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/04-resources/books/consciousness-in-practice/","title":"Consciousness in Practice","tags":["book","booknotes","#source"]}
 ---
 
 [[02-Projects/The Recursive Garden/The Recursive Garden\|🏠 Home]] · [[04-Resources/Reading Notes\|📚 Reading Notes]] · [[04-Resources/Articles/Articles\|📝 Articles]] · [[02-Projects/The Recursive Garden/About\|ℹ️ About]]
 
-<img src="https://m.media-amazon.com/images/I/81SyhHiY-kL._SL1500_.jpg" alt="Cover" style="max-width: 440px; max-height: 640px; width: auto; height: auto; object-fit: contain; border-radius: 6px; display: block;">`
+```dataviewjs
+const { cover, localCover } = dv.current();
+const src = String(cover ?? localCover ?? "").replace(/^http:/, "https:");
+if (src) {
+  const img = dv.container.createEl("img", { attr: { src, alt: "Cover" } });
+  img.style.maxWidth = "440px";
+  img.style.maxHeight = "640px";
+  img.style.width = "auto";
+  img.style.height = "auto";
+  img.style.objectFit = "contain";
+  img.style.borderRadius = "6px";
+  img.style.display = "block";
+}
+````
 
-<p><span>★★★★</span></p>
+```dataviewjs
+const { rating } = dv.current();
+if (rating) {
+  const nRaw = Array.isArray(rating) ? rating[0] : rating;
+  const n = Number(nRaw);
+  if (!Number.isNaN(n) && n > 0) {
+    const full = "★".repeat(Math.min(n, 5));
+    const empty = "☆".repeat(Math.max(0, 5 - n));
+    dv.paragraph(full + empty);
+  }
+}
+```
 
 > [!quote]- Citation  
-> [[04-Resources/Authors/Brian Heath\|Brian Heath]] (2025). *Consciousness in Practice*.
+> `= replace(string(choice(this.authors, join(this.authors, ", "), this.author)), "\\[\\[|\\]\\]", "") + choice(this.year, " (" + this.year + "). ", ". ") + "*" + string(this.title) + "*." + choice(this.publisher, " " + this.publisher + ".", "") + choice(this.doi, " https://doi.org/" + this.doi, choice(this.url, " " + this.url, ""))`
 ---
 
 > [!abstract]+ Summary  

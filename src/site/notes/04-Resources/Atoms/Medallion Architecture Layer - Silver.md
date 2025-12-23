@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"kind":"atom","tags":["atom","ingestion","data"],"topics":["AI Optimizer"," AI ","Industrial AI"],"source":"https://delta.io/pdfs/dldg_databricks.pdf","pages":"205","citekey":"leeDeltaLakeDefinitive","created":"2025-11-26T21:21:00","updated":"2025-11-26T21:21:00","molecule":["[[Medallion Architecture]]"],"permalink":"/04-resources/atoms/medallion-architecture-layer-silver/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/04-resources/atoms/medallion-architecture-layer-silver/","tags":["atom","ingestion","data"]}
 ---
 
 # Medallion Architecture Layer - Silver

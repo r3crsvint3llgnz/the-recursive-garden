@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"kind":"atom","tags":["atom"],"topics":["Recursive Distinction Dynamics","Philosophy"],"source":"","pages":"","citekey":"","created":"2025-11-22T20:14:00","updated":"2025-11-22T20:14:00","molecule":"[[Qualia]]","permalink":"/04-resources/atoms/rdd-perspective-definition/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/04-resources/atoms/rdd-perspective-definition/","tags":["atom"]}
 ---
 
 # **Perspective ($P$)**
 
-- **Definition:** A stabilized locus of [[04-Resources/Atoms/RDD – Distinction (Definition)\|distinctions]]. It is the "Knower" in the system. $P$ is not necessarily biological consciousness; it is any structural identity that provides a reference frame for a cut.
+- **Definition:** A stabilized locus of [[04-Resources/Atoms/Distinction (Persistent State-Space Partition)\|distinctions]]. It is the "Knower" in the system. $P$ is not necessarily biological consciousness; it is any structural identity that provides a reference frame for a cut.
     
 - **Formalism:** $P$ is the constraint that necessitates _where_ a distinction is made.
     

@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"kind":"atom","tags":["atom"],"topics":["Recursive Distinction Dynamics","Philosophy"],"source":"","pages":"","citekey":"","created":"2025-11-22T20:22:00","updated":"2025-11-22T20:22:00","molecule":"[[What is Reality under RDD]]","status":["draft"],"permalink":"/04-resources/atoms/rdd-entropy-definition/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/04-resources/atoms/rdd-entropy-definition/","tags":["atom"]}
 ---
 
 # **Entropy ($H_{RDD}$)**
 
-- **Definition:** The decoherence of [[04-Resources/Atoms/RDD – Potential (Definition)\|potential]]. It is not just energy loss, but **Rigidity**. High entropy means the system has made so many rigid [[04-Resources/Atoms/RDD – Distinction (Definition)\|distinctions]] that it has lost access to the superposition field (Potential).
+- **Definition:** The decoherence of [[04-Resources/Atoms/RDD – Potential (Definition)\|potential]]. It is not just energy loss, but **Rigidity**. High entropy means the system has made so many rigid [[04-Resources/Atoms/Distinction (Persistent State-Space Partition)\|distinctions]] that it has lost access to the superposition field (Potential).
     
 - **Contextual Anchor:** **Thermodynamic Entropy** vs. **Logical Depth**.
 

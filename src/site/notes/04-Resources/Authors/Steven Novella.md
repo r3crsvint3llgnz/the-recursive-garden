@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"type":"author","tags":["author","people"],"born":"1964-07-29","died":null,"nationality":"American","website":"https://theness.com/","wikipedia":"https://en.wikipedia.org/wiki/Steven_Novella","created":"2025-11-16T14:53:00","updated":"2025-11-16T14:53:00","permalink":"/04-resources/authors/steven-novella/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/04-resources/authors/steven-novella/","tags":["author","people"]}
 ---
 
 # Steven Novella
@@ -38,10 +38,16 @@ Novella's style is **direct, analytical, and highly structured**, prioritizing l
 ---
 
 > [!info]+ Books in vault
->  | File | Title | Year | Status | Rating |
-> | ---- | ----- | ---- | ------ | ------ |
-> 
-{ .block-language-dataview}
+> ```dataview
+> TABLE
+>   title as "Title",
+>   date(publish).year AS Year,
+>   status as "Status",
+>   rating as "Rating"
+> FROM "04-Resources/Books"
+> WHERE contains(author, this.file.link)
+> SORT year DESC
+> ```
 ---
 
 > [!links]- External links 

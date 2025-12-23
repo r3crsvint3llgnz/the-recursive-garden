@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"title":"Autopoiesis and cognition: the realization of the living","authors":"","year":"315554400000","status":"reading","summary":"","themes":[],"citekey":"maturanaAutopoiesisCognitionRealization1980","zotero_uri":"","doi":"","isbn":"978-90-277-1015-4 978-90-277-1016-1","url":"","cover":"","created":null,"updated":null,"permalink":"/04-resources/sources/literature-sources/maturana-autopoiesis-cognition-realization1980/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/04-resources/sources/literature-sources/maturana-autopoiesis-cognition-realization1980/","title":"Autopoiesis and cognition: the realization of the living"}
 ---
 
 
