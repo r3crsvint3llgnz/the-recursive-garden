@@ -19,29 +19,23 @@
 ---
 
 > [!abstract] Pick a path
-> ```dataview
-> TABLE WITHOUT ID "<img src='" + cover + "' height='80' style='border-radius:6px;object-fit:contain'/>" AS "", file.link AS "Area", summary AS "What lives here"
-> FROM ""
-> WHERE section = "hubs"
-> SORT priority ASC
-> ```
+>  |                                                                                                                                                                                                                                   | Area                                                                                                             | What lives here                                                                                         |
+> | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- |
+> | <img src='https://raw.githubusercontent.com/r3crsvint3llgnz/the-recursive-garden/main/src/site/img/user/02-Projects/The%20Recursive%20Garden/_assets/sethrobins.jpg' height='80' style='border-radius:6px;object-fit:contain'/>   | [[02-Projects/The Recursive Garden/About\|About]]                                                             | What this garden is, what I'm exploring, and where to look.                                             |
+> | <img src='https://raw.githubusercontent.com/r3crsvint3llgnz/the-recursive-garden/main/src/site/img/user/02-Projects/The%20Recursive%20Garden/_assets/articles.png' height='80' style='border-radius:6px;object-fit:contain'/>     | [[04-Resources/Articles/Articles\|Articles]]                                                                  | Drafts in progress and published work across Substack, LinkedIn, and the fediverse.                     |
+> | <img src='https://raw.githubusercontent.com/r3crsvint3llgnz/the-recursive-garden/main/src/site/img/user/02-Projects/The%20Recursive%20Garden/_assets/readingnotes.png' height='80' style='border-radius:6px;object-fit:contain'/> | [[04-Resources/Reading Notes\|Reading Notes]]                                                                 | Active shelf, queue, finished, and reviews. Books from Citations; source cards from Zotero Integration. |
+> | <img src='https://raw.githubusercontent.com/r3crsvint3llgnz/the-recursive-garden/main/src/site/img/user/02-Projects/The%20Recursive%20Garden/_assets/rdd.png' height='80' style='border-radius:6px;object-fit:contain'/>          | [[02-Projects/Recursive Distinction Dynamics/Recursive Distinction Dynamics\|Recursive Distinction Dynamics]] | Central command for the RDD framework and its axiomatic definitions.                                    |
+> 
+{ .block-language-dataview}
 ---
 
 > [!summary]+ Now Reading
-> ```dataview
-TABLE WITHOUT ID
-  "<img src='" + replace(cover,"^http:","https:") + "' height='120' style='border-radius:6px;object-fit:contain'/>" AS "",
-  file.link AS Title,
-  default(authors, author) AS Author,
-  date(publish).year AS Year
-FROM "04-Resources/Books"
-WHERE
-  (dg-publish = true OR lower(string(dg-publish)) = "true")
-  AND (status = "reading" OR contains(status, "reading"))
-  AND cover
-SORT file.mtime DESC
-LIMIT 6
-> ```
+>  |                                                                                                                                                                               | Title                                                                            | Author                                               | Year |
+> | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- | ---------------------------------------------------- | ---- |
+> | <img src='https://books.google.com/books/content?id=IV_DEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api' height='120' style='border-radius:6px;object-fit:contain'/> | [[04-Resources/Books/Slow Productivity\|Slow Productivity]]                   | [[04-Resources/Authors/Cal Newport\|Cal Newport]] | 2024 |
+> | <img src='https://books.google.com/books/content?id=QJI3jvh8S30C&printsec=frontcover&img=1&zoom=1&source=gbs_api' height='120' style='border-radius:6px;object-fit:contain'/> | [[04-Resources/Books/A Brief History of Thought\|A Brief History of Thought]] | [[04-Resources/Authors/Luc Ferry\|Luc Ferry]]     | 2011 |
+> 
+{ .block-language-dataview}
  ---
 
 > [!info] Obsidian Community Vaults

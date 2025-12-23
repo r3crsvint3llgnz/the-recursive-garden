@@ -19,21 +19,25 @@ A six-part contract for LLM tasks: one goal; verifiable success; pinned versions
 ---
 > [!info] Auto-list atoms that link to this molecule (backlinks)
 >
-> ```dataview
-> TABLE topics, source, pages, created
-> FROM #atom
-> WHERE contains(file.outlinks, this.file.link)
-> SORT created DESC
-> ```
+>  | File                                                                                                         | topics                                                                           | source                                                                                                      | pages | created                     |
+> | ------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- | ----- | --------------------------- |
+> | [[04-Resources/Atoms/KERNEL — Reproducible results\|KERNEL — Reproducible results]]                       | <ul><li>Prompting</li><li>KERNEL</li><li>Reproducibility</li></ul>               | https://www.reddit.com/r/PromptEngineering/comments/1nt7x7v/after_1000_hours_of_prompt_engineering_i_found/ |       | 8:02 PM - November 09, 2025 |
+> | [[04-Resources/Atoms/KERNEL is model-agnostic\|KERNEL is model-agnostic]]                                 | <ul><li>Prompting</li><li>KERNEL</li><li>Evaluation</li><li>Production</li></ul> | https://www.reddit.com/r/PromptEngineering/comments/1nt7x7v/after_1000_hours_of_prompt_engineering_i_found/ |       | 8:02 PM - November 09, 2025 |
+> | [[04-Resources/Atoms/KERNEL — measurable impact\|KERNEL — measurable impact]]                             | <ul><li>Prompting</li><li>KERNEL</li><li>Metrics</li></ul>                       | https://www.reddit.com/r/PromptEngineering/comments/1nt7x7v/after_1000_hours_of_prompt_engineering_i_found/ |       | 8:01 PM - November 09, 2025 |
+> | [[04-Resources/Atoms/KERNEL — Logical structure (CTCF)\|KERNEL — Logical structure (CTCF)]]               | <ul><li> AI </li><li>Prompting</li><li>KERNEL</li></ul>                          | https://www.reddit.com/r/PromptEngineering/comments/1nt7x7v/after_1000_hours_of_prompt_engineering_i_found/ |       | 8:01 PM - November 09, 2025 |
+> | [[04-Resources/Atoms/KERNEL — Keep it simple\|KERNEL — Keep it simple]]                                   | <ul><li>Prompt Engineering</li><li>Prompting</li><li> AI </li></ul>              | https://www.reddit.com/r/PromptEngineering/comments/1nt7x7v/after_1000_hours_of_prompt_engineering_i_found/ |       | 8:00 PM - November 09, 2025 |
+> | [[04-Resources/Atoms/KERNEL — Explicit constraints\|KERNEL — Explicit constraints]]                       | <ul><li>Prompting</li><li>KERNEL</li><li>Constraints</li></ul>                   | https://www.reddit.com/r/PromptEngineering/comments/1nt7x7v/after_1000_hours_of_prompt_engineering_i_found/ |       | 7:58 PM - November 09, 2025 |
+> | [[04-Resources/Atoms/KERNEL — Easy to verify\|KERNEL — Easy to verify]]                                   | <ul><li>Prompt Engineering</li><li>Prompting</li><li> AI </li></ul>              | https://www.reddit.com/r/PromptEngineering/comments/1nt7x7v/after_1000_hours_of_prompt_engineering_i_found/ |       | 7:57 PM - November 09, 2025 |
+> | [[04-Resources/Atoms/Chain simple prompts; one complex prompt\|Chain simple prompts; one complex prompt]] | <ul><li>Prompting</li><li>Chaining</li><li>KERNEL</li></ul>                      | https://www.reddit.com/r/PromptEngineering/comments/1nt7x7v/after_1000_hours_of_prompt_engineering_i_found/ |       | 7:57 PM - November 09, 2025 |
+> 
+{ .block-language-dataview}
 ---
 
 > [!info]- Auto-list atoms this molecule links to (forward)
-> ```dataview
-> TABLE topics, source, page, created
-> FROM #atom
-> WHERE contains(this.file.outlinks, file.link)
-> SORT file.name ASC
-> ```
+>  | File | topics | source | page | created |
+> | ---- | ------ | ------ | ---- | ------- |
+> 
+{ .block-language-dataview}
 ---
 
 > [!tip]- Inclusion criteria for KERNEL

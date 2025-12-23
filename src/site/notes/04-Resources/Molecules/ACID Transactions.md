@@ -28,21 +28,24 @@ The primary purpose of ACID transaction protection is to ensure **data integrity
 ---
 > [!info]+ Auto-list atoms that link to this molecule (backlinks)
 >
-> ```dataview
-> TABLE topics, source, pages, created
-> FROM #atom
-> WHERE contains(file.outlinks, this.file.link)
-> SORT created DESC
-> ```
+>  | File                                                             | topics                                                                                                                                | source                                    | pages                      | created                      |
+> | ---------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------- | -------------------------- | ---------------------------- |
+> | [[04-Resources/Atoms/ACID - Durability\|ACID - Durability]]   | <ul><li>ACID Transactions</li><li>Data Integrity</li><li>Transaction Protocol</li></ul>                                               | https://delta.io/pdfs/dldg_databricks.pdf | 11, 22, 279                | 10:15 PM - November 26, 2025 |
+> | [[04-Resources/Atoms/ACID - Isolation\|ACID - Isolation]]     | <ul><li> AI </li><li>AI Optimizer</li><li>Data Governance</li><li>Data Quality</li><li>Industrial AI</li><li>Data Integrity</li></ul> | https://delta.io/pdfs/dldg_databricks.pdf | 11, 22, 195, 354, 376, 381 | 10:12 PM - November 26, 2025 |
+> | [[04-Resources/Atoms/ACID - Consistency\|ACID - Consistency]] | <ul><li> AI </li><li>AI Optimizer</li><li>Data Quality</li><li>Data Governance</li><li>Industrial AI</li></ul>                        | https://delta.io/pdfs/dldg_databricks.pdf | 11, 22, 279, 326, 345, 368 | 10:00 PM - November 26, 2025 |
+> | [[04-Resources/Atoms/ACID - Atomicity\|ACID - Atomicity]]     | <ul><li> AI </li><li>AI Optimizer</li><li>Data Quality</li><li>Data Governance</li><li>Industrial AI</li></ul>                        | https://delta.io/pdfs/dldg_databricks.pdf | 11, 12, 19                 | 9:41 PM - November 26, 2025  |
+> 
+{ .block-language-dataview}
 ---
 
 > [!info]- Auto-list atoms this molecule links to (forward)
-> ```dataview
-> TABLE topics, source, page, created
-> FROM #atom
-> WHERE contains(this.file.outlinks, file.link)
-> SORT file.name ASC
-> ```
+>  | File                                                           | topics                                                                                                                                | source                                    | page | created                      |
+> | -------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------- | ---- | ---------------------------- |
+> | [[04-Resources/Atoms/ACID - Atomicity\|ACID - Atomicity]]   | <ul><li> AI </li><li>AI Optimizer</li><li>Data Quality</li><li>Data Governance</li><li>Industrial AI</li></ul>                        | https://delta.io/pdfs/dldg_databricks.pdf | \-   | 9:41 PM - November 26, 2025  |
+> | [[04-Resources/Atoms/ACID - Durability\|ACID - Durability]] | <ul><li>ACID Transactions</li><li>Data Integrity</li><li>Transaction Protocol</li></ul>                                               | https://delta.io/pdfs/dldg_databricks.pdf | \-   | 10:15 PM - November 26, 2025 |
+> | [[04-Resources/Atoms/ACID - Isolation\|ACID - Isolation]]   | <ul><li> AI </li><li>AI Optimizer</li><li>Data Governance</li><li>Data Quality</li><li>Industrial AI</li><li>Data Integrity</li></ul> | https://delta.io/pdfs/dldg_databricks.pdf | \-   | 10:12 PM - November 26, 2025 |
+> 
+{ .block-language-dataview}
 ---
 
 > [!example]- Worked example (edit inline)

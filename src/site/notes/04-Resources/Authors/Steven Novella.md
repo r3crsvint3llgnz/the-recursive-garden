@@ -38,16 +38,10 @@ Novella's style is **direct, analytical, and highly structured**, prioritizing l
 ---
 
 > [!info]+ Books in vault
-> ```dataview
-> TABLE
->   title as "Title",
->   date(publish).year AS Year,
->   status as "Status",
->   rating as "Rating"
-> FROM "04-Resources/Books"
-> WHERE contains(author, this.file.link)
-> SORT year DESC
-> ```
+>  | File | Title | Year | Status | Rating |
+> | ---- | ----- | ---- | ------ | ------ |
+> 
+{ .block-language-dataview}
 ---
 
 > [!links]- External links 
