@@ -38,16 +38,11 @@ Deutsch's style is **deeply explanatory, systematic, and provocative**, often ta
 ---
 
 > [!info]+ Books in vault
-> ```dataview
-> TABLE
->   title as "Title",
->   date(publish).year AS Year,
->   status as "Status",
->   rating as "Rating"
-> FROM "04-Resources/Books"
-> WHERE contains(author, this.file.link)
-> SORT year DESC
-> ```
+>  | File                                                                           | Title                     | Year | Status                 | Rating |
+> | ------------------------------------------------------------------------------ | ------------------------- | ---- | ---------------------- | ------ |
+> | [[04-Resources/Books/The Beginning of Infinity\|The Beginning of Infinity]] | The Beginning of Infinity | \-   | <ul><li>read</li></ul> | 5      |
+> 
+{ .block-language-dataview}
 ---
 
 > [!links]- External links

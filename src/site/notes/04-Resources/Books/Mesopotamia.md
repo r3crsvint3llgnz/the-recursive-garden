@@ -5,23 +5,10 @@
 # Mesopotamia
 [[02-Projects/The Recursive Garden/The Recursive Garden\|Home]] · [[02-Projects/The Recursive Garden/About\|About]] · [[04-Resources/Reading Notes\|Reading Notes]]
 
-```dataviewjs
-const { cover, localCover } = dv.current();
-const src = String(cover ?? localCover ?? "").replace(/^http:/, "https:");
-if (src) {
-  const img = dv.container.createEl("img", { attr: { src, alt: "Cover" } });
-  img.style.maxWidth = "440px";
-  img.style.maxHeight = "640px";
-  img.style.width = "auto";
-  img.style.height = "auto";
-  img.style.objectFit = "contain";
-  img.style.borderRadius = "6px";
-  img.style.display = "block";
-}
-```
+<pre class="dataview dataview-error">Dataview JS queries are disabled. You can enable them in the Dataview settings.</pre>
 
 > [!quote]- Citation  
-> `= replace(string(choice(this.authors, join(this.authors, ", "), this.author)), "\\[\\[|\\]\\]", "") + choice(this.year, " (" + this.year + "). ", ". ") + "*" + string(this.title) + "*." + choice(this.publisher, " " + this.publisher + ".", "") + choice(this.doi, " https://doi.org/" + this.doi, choice(this.url, " " + this.url, ""))`
+> [[Captivating History\|Captivating History]] (November 22, 2025). *Mesopotamia*.
 ---
 
 > [!abstract]- Summary

@@ -45,75 +45,85 @@
 ---
 
 > [!example]+ Latest Changes
-> ```dataview
-> TABLE WITHOUT ID file.link AS "Note", status, dateformat(file.mtime,"yyyy-MM-dd") AS "Updated"
-FROM "04-Resources/Atoms" OR "04-Resources/Molecules" OR "03-Notes/RDD"
-WHERE dg-publish
-AND contains(topics, "Recursive Distinction Dynamics")
-SORT file.mtime DESC
-LIMIT 12
-> ```
+>  | Note                                                                                                                     | status                  | Updated    |
+> | ------------------------------------------------------------------------------------------------------------------------ | ----------------------- | ---------- |
+> | [[04-Resources/Molecules/Qualia\|Qualia]]                                                                             | draft                   | 2025-12-22 |
+> | [[04-Resources/Molecules/What is Reality under RDD\|What is Reality under RDD]]                                       | draft                   | 2025-12-22 |
+> | [[04-Resources/Atoms/Distinction (Persistent State-Space Partition)\|Distinction (Persistent State-Space Partition)]] | \-                      | 2025-12-22 |
+> | [[04-Resources/Atoms/Persistence (Metastable State Property)\|Persistence (Metastable State Property)]]               | <ul><li>draft</li></ul> | 2025-12-22 |
+> | [[04-Resources/Atoms/RDD – Entropy (Definition)\|RDD – Entropy (Definition)]]                                         | <ul><li>draft</li></ul> | 2025-12-22 |
+> | [[04-Resources/Atoms/RDD – Existence (Definition)\|RDD – Existence (Definition)]]                                     | \-                      | 2025-12-22 |
+> | [[04-Resources/Atoms/RDD – Gravity (Definition)\|RDD – Gravity (Definition)]]                                         | \-                      | 2025-12-22 |
+> | [[04-Resources/Atoms/RDD – Perspective (Definition)\|RDD – Perspective (Definition)]]                                 | \-                      | 2025-12-22 |
+> | [[04-Resources/Atoms/RDD – Potential (Definition)\|RDD – Potential (Definition)]]                                     | \-                      | 2025-12-22 |
+> | [[04-Resources/Atoms/RDD – Recursion (Definition)\|RDD – Recursion (Definition)]]                                     | \-                      | 2025-12-22 |
+> | [[04-Resources/Atoms/RDD – Time (Definition)\|RDD – Time (Definition)]]                                               | \-                      | 2025-12-22 |
+> 
+{ .block-language-dataview}
 ---
 
 > [!note]+ Atoms (Definitions)
-> ```dataview
-> LIST FROM "04-Resources/Atoms" 
-WHERE contains(tags, "atom") 
-AND contains(topics, "Recursive Distinction Dynamics")
-AND ( ( [dg-publish] = true ) OR ( lower(string([dg-publish])) = "true" ) ) 
-SORT file.name
-> ```
+>  - [[04-Resources/Atoms/Distinction (Persistent State-Space Partition)\|Distinction (Persistent State-Space Partition)]]
+> - [[04-Resources/Atoms/Persistence (Metastable State Property)\|Persistence (Metastable State Property)]]
+> - [[04-Resources/Atoms/RDD – Entropy (Definition)\|RDD – Entropy (Definition)]]
+> - [[04-Resources/Atoms/RDD – Existence (Definition)\|RDD – Existence (Definition)]]
+> - [[04-Resources/Atoms/RDD – Gravity (Definition)\|RDD – Gravity (Definition)]]
+> - [[04-Resources/Atoms/RDD – Perspective (Definition)\|RDD – Perspective (Definition)]]
+> - [[04-Resources/Atoms/RDD – Potential (Definition)\|RDD – Potential (Definition)]]
+> - [[04-Resources/Atoms/RDD – Recursion (Definition)\|RDD – Recursion (Definition)]]
+> - [[04-Resources/Atoms/RDD – Time (Definition)\|RDD – Time (Definition)]]
+> 
+{ .block-language-dataview}
 ---
 
 > [!example]+ Molecules (Syntheses)
-> ```dataview
-> LIST FROM "04-Resources/Molecules" 
-WHERE contains(tags, "molecule") 
-AND contains(topics, "Recursive Distinction Dynamics")
-AND ( ( [dg-publish] = true ) OR ( lower(string([dg-publish])) = "true" ) ) 
-SORT file.mtime DESC
-> ```
+>  - [[04-Resources/Molecules/Qualia\|Qualia]]
+> - [[04-Resources/Molecules/What is Reality under RDD\|What is Reality under RDD]]
+> 
+{ .block-language-dataview}
 ---
 
 > [!warning]+ Claims & Hypotheses
-> ```dataview
-> TABLE WITHOUT ID file.link AS "Claim", status, dateformat(file.mtime,"yyyy-MM-dd") AS "Updated"
-FROM "04-Resources/Molecules" OR "03-Notes/RDD"
-WHERE ( ( [dg-publish] = true ) OR ( lower(string([dg-publish])) = "true" ) )
-AND contains(topics, "Recursive Distinction Dynamics")
-AND (contains(tags, "claim") OR contains(tags, "hypothesis") OR contains(lower(file.name), "claim"))
-SORT file.mtime DESC
-> ```
+>  | Claim | status | Updated |
+> | ----- | ------ | ------- |
+> 
+{ .block-language-dataview}
 ---
 
 ## Experiments / Examples
 
-```dataview
-LIST FROM "03-Notes/RDD/Examples" WHERE ( ( [dg-publish] = true ) OR ( lower(string([dg-publish])) = "true" ) ) SORT file.mtime DESC
-````
+
+{ .block-language-dataview}`
 
 ## Reading Tie-ins
 
-```dataview
-TABLE WITHOUT ID file.link AS "Book", summary, year FROM "04-Resources/Books" WHERE ( ( [dg-publish] = true ) OR ( lower(string([dg-publish])) = "true" ) )   AND (contains(lower(summary), "logic") OR contains(lower(summary), "philosophy") OR contains(lower(summary), "cognition")) SORT file.mtime DESC LIMIT 12
-```
+| Book | summary | year |
+| ---- | ------- | ---- |
+
+{ .block-language-dataview}
 
 ## Tasks
 
-```dataview
-TASK FROM "03-Notes/RDD" OR "04-Resources/Atoms" OR "04-Resources/Molecules" WHERE !completed GROUP BY file.link
-```
+
+{ .block-language-dataview}
 
 ## Changelog
 
-```dataview
-TABLE WITHOUT ID file.link AS "Changed", dateformat(file.mtime,"yyyy-MM-dd HH:mm") AS "When"
-FROM "03-Notes/RDD" OR "04-Resources/Atoms" OR "04-Resources/Molecules"
-WHERE ( ( [dg-publish] = true ) OR ( lower(string([dg-publish])) = "true" ) )
-AND contains(topics, "Recursive Distinction Dynamics")
-SORT file.mtime DESC
-LIMIT 15
-```
+| Changed                                                                                                                  | When             |
+| ------------------------------------------------------------------------------------------------------------------------ | ---------------- |
+| [[04-Resources/Molecules/Qualia\|Qualia]]                                                                             | 2025-12-22 02:34 |
+| [[04-Resources/Molecules/What is Reality under RDD\|What is Reality under RDD]]                                       | 2025-12-22 02:34 |
+| [[04-Resources/Atoms/Distinction (Persistent State-Space Partition)\|Distinction (Persistent State-Space Partition)]] | 2025-12-22 02:34 |
+| [[04-Resources/Atoms/Persistence (Metastable State Property)\|Persistence (Metastable State Property)]]               | 2025-12-22 02:34 |
+| [[04-Resources/Atoms/RDD – Entropy (Definition)\|RDD – Entropy (Definition)]]                                         | 2025-12-22 02:34 |
+| [[04-Resources/Atoms/RDD – Existence (Definition)\|RDD – Existence (Definition)]]                                     | 2025-12-22 02:34 |
+| [[04-Resources/Atoms/RDD – Gravity (Definition)\|RDD – Gravity (Definition)]]                                         | 2025-12-22 02:34 |
+| [[04-Resources/Atoms/RDD – Perspective (Definition)\|RDD – Perspective (Definition)]]                                 | 2025-12-22 02:34 |
+| [[04-Resources/Atoms/RDD – Potential (Definition)\|RDD – Potential (Definition)]]                                     | 2025-12-22 02:34 |
+| [[04-Resources/Atoms/RDD – Recursion (Definition)\|RDD – Recursion (Definition)]]                                     | 2025-12-22 02:34 |
+| [[04-Resources/Atoms/RDD – Time (Definition)\|RDD – Time (Definition)]]                                               | 2025-12-22 02:34 |
+
+{ .block-language-dataview}
 -----
 
 > [!hint]- Working Rules

@@ -38,16 +38,11 @@ Newport's style is **research-driven and prescriptive**, often structured around
 ---
 
 > [!info]+ Books in vault
-> ```dataview
-> TABLE
->   title as "Title",
->   date(publish).year AS Year,
->   status as "Status",
->   rating as "Rating"
-> FROM "04-Resources/Books"
-> WHERE contains(author, this.file.link)
-> SORT year DESC
-> ```
+>  | File                                                           | Title             | Year | Status                    | Rating |
+> | -------------------------------------------------------------- | ----------------- | ---- | ------------------------- | ------ |
+> | [[04-Resources/Books/Slow Productivity\|Slow Productivity]] | Slow Productivity | 2024 | <ul><li>reading</li></ul> | 4.5    |
+> 
+{ .block-language-dataview}
 ---
 
 > [!links]- External links

@@ -4,36 +4,12 @@
 
 [[02-Projects/The Recursive Garden/The Recursive Garden\|🏠 Home]] · [[04-Resources/Reading Notes\|📚 Reading Notes]] · [[04-Resources/Articles/Articles\|📝 Articles]] · [[02-Projects/The Recursive Garden/About\|ℹ️ About]]
 
-```dataviewjs
-const { cover, localCover } = dv.current();
-const src = String(cover ?? localCover ?? "").replace(/^http:/, "https:");
-if (src) {
-  const img = dv.container.createEl("img", { attr: { src, alt: "Cover" } });
-  img.style.maxWidth = "440px";
-  img.style.maxHeight = "640px";
-  img.style.width = "auto";
-  img.style.height = "auto";
-  img.style.objectFit = "contain";
-  img.style.borderRadius = "6px";
-  img.style.display = "block";
-  }
-```
+<pre class="dataview dataview-error">Dataview JS queries are disabled. You can enable them in the Dataview settings.</pre>
 
-```dataviewjs
-const { rating } = dv.current();
-if (rating) {
-  const nRaw = Array.isArray(rating) ? rating[0] : rating;
-  const n = Number(nRaw);
-  if (!Number.isNaN(n) && n > 0) {
-    const full = "★".repeat(Math.min(n, 5));
-    const empty = "☆".repeat(Math.max(0, 5 - n));
-    dv.paragraph(full + empty);
-  }
-}
-```
+<pre class="dataview dataview-error">Dataview JS queries are disabled. You can enable them in the Dataview settings.</pre>
 
 > [!quote]- Citation  
-> `= replace(string(choice(this.authors, join(this.authors, ", "), this.author)), "\\[\\[|\\]\\]", "") + choice(this.year, " (" + this.year + "). ", ". ") + "*" + string(this.title) + "*." + choice(this.publisher, " " + this.publisher + ".", "") + choice(this.doi, " https://doi.org/" + this.doi, choice(this.url, " " + this.url, ""))`
+> [[04-Resources/Authors/Cal Newport\|Cal Newport]] (November 09, 2025). *Slow Productivity*. Penguin.
 ---
 
 > [!abstract]- Summary
