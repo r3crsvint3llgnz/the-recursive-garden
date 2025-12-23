@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/templates/atom-literature-note-template/","tags":["atom"]}
+{"dg-publish":true,"permalink":"/04-resources/atoms/ontic/","tags":["atom","#foundational","#ontology"]}
 ---
 
 [[02-Projects/The Recursive Garden/The Recursive Garden\|🏠 Home]] · [[04-Resources/Reading Notes\|📚 Reading Notes]] · [[04-Resources/Articles/Articles\|📝 Articles]] · [[02-Projects/The Recursive Garden/About\|ℹ️ About]]
@@ -11,7 +11,7 @@
 > - If you feel the need for “and,” split into another atom.
 ---
 
-
+Features of reality that exist and operate independently of any observer, model, or perspective.
 
 ---
 > [!info]- Why it matters – 1-3 bullets on utility, mechanism, implication.
@@ -20,7 +20,17 @@
 > - What failure does this prevent?
 ---
 
+An ontic claim is about what the world *does*, not how it is described.  
+Ontic structures persist regardless of whether they are measured, known, or interpreted.
 
+Ontic concepts include:
+- physical constraints
+- dynamical laws
+- state-space structure
+- irreversible processes
+
+Ontic does **not** mean “certain” or “complete.”  
+It means *observer-independent*.
 
 ---
 
@@ -32,6 +42,11 @@
 
 - Broader topic:
 - Related atoms:
+	- [[04-Resources/Atoms/Epistemic\|Epistemic]]
+	- [[Distinction\|Distinction]]
+	- [[Persistence\|Persistence]]
+	- [[State Space\|State Space]]
+	- [[Entropy\|Entropy]]
 - Upstream source note:
 
 ---

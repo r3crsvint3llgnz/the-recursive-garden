@@ -1,14 +1,38 @@
 ---
-{"dg-publish":true,"Type":"book","tags":["book","booknotes","#source"],"title":"2001 A Space Odyssey","author":"[[Arthur Charles Clarke]]","category":"[[Fiction]]","publisher":"Roc","publish":"1982","year":"2025-11-28","pages":"252","isbn":" STANFORD:36105005535039","cover":"http://books.google.com/books/content?id=Mf5AAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api","localCover":"","status":["read"],"rating":5,"citekey":"","zotero_uri":"https://books.google.com/books/about/2001_a_Space_Odyssey.html?hl=&id=Mf5AAQAAIAAJ","doi":"","url":"","created":"2025-11-28T21:52:00","updated":"2025-11-28T21:52:00","in_kindle":true,"in_library":null,"in_audible":null,"permalink":"/04-resources/books/2001-a-space-odyssey/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/04-resources/books/2001-a-space-odyssey/","title":"2001 A Space Odyssey","tags":["book","booknotes","#source"]}
 ---
 
 [[02-Projects/The Recursive Garden/The Recursive Garden\|🏠 Home]] · [[04-Resources/Reading Notes\|📚 Reading Notes]] · [[04-Resources/Articles/Articles\|📝 Articles]] · [[02-Projects/The Recursive Garden/About\|ℹ️ About]]
 
-<img src="https://books.google.com/books/content?id=Mf5AAQAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover" style="max-width: 440px; max-height: 640px; width: auto; height: auto; object-fit: contain; border-radius: 6px; display: block;">
-<p><span>★★★★★</span></p>
+```dataviewjs
+const { cover, localCover } = dv.current();
+const src = String(cover ?? localCover ?? "").replace(/^http:/, "https:");
+if (src) {
+  const img = dv.container.createEl("img", { attr: { src, alt: "Cover" } });
+  img.style.maxWidth = "440px";
+  img.style.maxHeight = "640px";
+  img.style.width = "auto";
+  img.style.height = "auto";
+  img.style.objectFit = "contain";
+  img.style.borderRadius = "6px";
+  img.style.display = "block";
+}
+```
+```dataviewjs
+const { rating } = dv.current();
+if (rating) {
+  const nRaw = Array.isArray(rating) ? rating[0] : rating;
+  const n = Number(nRaw);
+  if (!Number.isNaN(n) && n > 0) {
+    const full = "★".repeat(Math.min(n, 5));
+    const empty = "☆".repeat(Math.max(0, 5 - n));
+    dv.paragraph(full + empty);
+  }
+}
+```
 
 > [!quote]- Citation  
-> [[Arthur Charles Clarke\|Arthur Charles Clarke]] (November 28, 2025). *2001 A Space Odyssey*. Roc.
+> `= replace(string(choice(this.authors, join(this.authors, ", "), this.author)), "\\[\\[|\\]\\]", "") + choice(this.year, " (" + this.year + "). ", ". ") + "*" + string(this.title) + "*." + choice(this.publisher, " " + this.publisher + ".", "") + choice(this.doi, " https://doi.org/" + this.doi, choice(this.url, " " + this.url, ""))`
 ---
 
 > [!abstract]- Summary

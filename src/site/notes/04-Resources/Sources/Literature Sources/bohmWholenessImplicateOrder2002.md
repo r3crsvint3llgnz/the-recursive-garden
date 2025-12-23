@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"title":"Wholeness and the implicate order","authors":"","year":"1009864800000","status":"reading","summary":"","themes":[],"citekey":"bohmWholenessImplicateOrder2002","zotero_uri":"","doi":"","isbn":"978-0-203-99515-0 978-0-415-28978-8","url":"","cover":"","created":null,"updated":null,"permalink":"/04-resources/sources/literature-sources/bohm-wholeness-implicate-order2002/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/04-resources/sources/literature-sources/bohm-wholeness-implicate-order2002/","title":"Wholeness and the implicate order"}
 ---
 
 

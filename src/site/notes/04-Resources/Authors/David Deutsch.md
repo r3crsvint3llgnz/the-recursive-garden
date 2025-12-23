@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"type":"author","tags":["author","people"],"born":"1953-05-18","died":null,"nationality":"British","website":"https://www.daviddeutsch.org.uk/","wikipedia":"https://en.wikipedia.org/wiki/David_Deutsch","created":"2025-11-09T21:04:00","updated":"2025-11-09T21:04:00","permalink":"/04-resources/authors/david-deutsch/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/04-resources/authors/david-deutsch/","tags":["author","people"]}
 ---
 
 # David Deutsch
@@ -38,11 +38,16 @@ Deutsch's style is **deeply explanatory, systematic, and provocative**, often ta
 ---
 
 > [!info]+ Books in vault
->  | File                                                                           | Title                     | Year | Status                 | Rating |
-> | ------------------------------------------------------------------------------ | ------------------------- | ---- | ---------------------- | ------ |
-> | [[04-Resources/Books/The Beginning of Infinity\|The Beginning of Infinity]] | The Beginning of Infinity | \-   | <ul><li>read</li></ul> | 5      |
-> 
-{ .block-language-dataview}
+> ```dataview
+> TABLE
+>   title as "Title",
+>   date(publish).year AS Year,
+>   status as "Status",
+>   rating as "Rating"
+> FROM "04-Resources/Books"
+> WHERE contains(author, this.file.link)
+> SORT year DESC
+> ```
 ---
 
 > [!links]- External links

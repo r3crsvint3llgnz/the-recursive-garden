@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"title":"Understanding Understanding: Essays on Cybernetics and Cognition","authors":"","year":"1133416800000","status":"reading","summary":"","themes":[],"citekey":"woodillUnderstandingUnderstandingEssays2005","zotero_uri":"","doi":"10.29173/cmplct8737","isbn":"","url":"https://journals.library.ualberta.ca/complicity/index.php/complicity/article/view/8737","cover":"","created":null,"updated":null,"permalink":"/04-resources/sources/literature-sources/woodill-understanding-understanding-essays2005/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/04-resources/sources/literature-sources/woodill-understanding-understanding-essays2005/","title":"Understanding Understanding: Essays on Cybernetics and Cognition"}
 ---
 
 

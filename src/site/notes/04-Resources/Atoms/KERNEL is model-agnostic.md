@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"kind":"atom","tags":["atom"],"topics":["Prompting","KERNEL","Evaluation","Production"],"source":"https://www.reddit.com/r/PromptEngineering/comments/1nt7x7v/after_1000_hours_of_prompt_engineering_i_found/","pages":"","citekey":"volodith1000HoursPrompt2025","created":"2025-11-09T20:02:00","updated":"2025-11-09T20:02:00","mol":"[[KERNEL — prompt pattern (molecule)]]","permalink":"/04-resources/atoms/kernel-is-model-agnostic/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/04-resources/atoms/kernel-is-model-agnostic/","tags":["atom"]}
 ---
 
 # KERNEL is model-agnostic

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"type":"author","tags":["author","people"],"born":null,"died":null,"nationality":null,"website":null,"wikipedia":null,"created":null,"updated":null,"permalink":"/04-resources/authors/brian-heath/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/04-resources/authors/brian-heath/","tags":["author","people"]}
 ---
 
 # Brian Heath
@@ -32,11 +32,16 @@
 ---
 
 > [!info]+ Books in vault
->  | File                                                                           | Title                     | Year | Status                 | Rating |
-> | ------------------------------------------------------------------------------ | ------------------------- | ---- | ---------------------- | ------ |
-> | [[04-Resources/Books/Consciousness in Practice\|Consciousness in Practice]] | Consciousness in Practice | \-   | <ul><li>read</li></ul> | 4.5    |
-> 
-{ .block-language-dataview}
+> ```dataview
+> TABLE
+>   title as "Title",
+>   date(publish).year AS Year,
+>   status as "Status",
+>   rating as "Rating"
+> FROM "04-Resources/Books"
+> WHERE contains(author, this.file.link)
+> SORT year DESC
+> ```
 ---
 
 > [!links]- External links

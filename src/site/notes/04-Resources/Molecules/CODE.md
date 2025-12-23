@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"kind":"molecule","tags":["molecule","pkm","productivity"],"topics":["Productivity","PKM","Knowledge Management"],"status":"draft","version":0.1,"created":"2025-11-26T22:43:00","updated":"2025-11-26T22:43:00","permalink":"/04-resources/molecules/code/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/04-resources/molecules/code/","tags":["molecule","pkm","productivity"]}
 ---
 
 # CODE
@@ -28,17 +28,21 @@
 ---
 > [!info]+ Auto-list atoms that link to this molecule (backlinks)
 >
->  | File | topics | source | pages | created |
-> | ---- | ------ | ------ | ----- | ------- |
-> 
-{ .block-language-dataview}
+> ```dataview
+> TABLE topics, source, pages, created
+> FROM #atom
+> WHERE contains(file.outlinks, this.file.link)
+> SORT created DESC
+> ```
 ---
 
 > [!info]- Auto-list atoms this molecule links to (forward)
->  | File | topics | source | page | created |
-> | ---- | ------ | ------ | ---- | ------- |
-> 
-{ .block-language-dataview}
+> ```dataview
+> TABLE topics, source, page, created
+> FROM #atom
+> WHERE contains(this.file.outlinks, file.link)
+> SORT file.name ASC
+> ```
 ---
 
 > [!example]- Worked example (edit inline)

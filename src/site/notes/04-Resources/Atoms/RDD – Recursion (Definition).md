@@ -1,10 +1,10 @@
 ---
-{"aliases":["Recursion"],"tags":["#atom","RDD","foundational"],"Reference Link":null,"topics":["Recursive Distinction Dynamics","Philosophy"],"Page Number":null,"dg-publish":true,"kind":"atom","source":"","pages":"","citekey":"","created":"2025-11-22T20:11:00","updated":"2025-11-22T20:11:00","molecule":["[[Qualia]]","[[What is Reality under RDD]]"],"permalink":"/04-resources/atoms/rdd-recursion-definition/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/04-resources/atoms/rdd-recursion-definition/","tags":["#atom","RDD","foundational"]}
 ---
 
 # **Recursion ($R$)**
 
-- **Definition:** The feedback loop where the output of a [[04-Resources/Atoms/RDD – Distinction (Definition)\|distinction]] becomes the input for the next distinction. This drives the system from static state to dynamic process.
+- **Definition:** The feedback loop where the output of a [[04-Resources/Atoms/Distinction (Persistent State-Space Partition)\|distinction]] becomes the input for the next distinction. This drives the system from static state to dynamic process.
     
 - **Function:** $R(S_t) \to S_{t+1}$
     
@@ -57,7 +57,7 @@
 
 ---**Recursion ($R$)**
 
-- **Definition:** The feedback loop where the output of a [[04-Resources/Atoms/RDD – Distinction (Definition)\|distinction]] becomes the input for the next distinction. This drives the system from static state to dynamic process.
+- **Definition:** The feedback loop where the output of a [[04-Resources/Atoms/Distinction (Persistent State-Space Partition)\|distinction]] becomes the input for the next distinction. This drives the system from static state to dynamic process.
     
 - **Function:** $R(S_t) \to S_{t+1}$
     

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"kind":"atom","tags":["atom","data","elt","ingestion"],"topics":[" AI ","AI Optimizer","Industrial AI"],"source":"https://delta.io/pdfs/dldg_databricks.pdf","pages":"202","citekey":"leeDeltaLakeDefinitive","created":"2025-11-26T21:07:00","updated":"2025-11-26T21:07:00","molecule":["[[Medallion Architecture]]"],"permalink":"/04-resources/atoms/medallion-architecture-layer-bronze/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/04-resources/atoms/medallion-architecture-layer-bronze/","tags":["atom","data","elt","ingestion"]}
 ---
 
 # Medallion Architecture Layer - Bronze

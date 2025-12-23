@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"kind":"atom","tags":["atom"],"topics":["Recursive Distinction Dynamics","Philosophy"],"source":"","pages":"","citekey":"","created":"2025-11-22T20:17:00","updated":"2025-11-22T20:17:00","molecule":null,"permalink":"/04-resources/atoms/rdd-potential-definition/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/04-resources/atoms/rdd-potential-definition/","tags":["atom"]}
 ---
 
 # **Underlying Potential ($\Omega$)**
 
-- **Definition:** The pre-[[04-Resources/Atoms/RDD – Distinction (Definition)\|distinction]] field. A superposition field of mutually exclusive possibilities. It is not "void" or "nothingness," but the infinite capacity for form (Information Capacity $\to \infty$).
+- **Definition:** The pre-[[04-Resources/Atoms/Distinction (Persistent State-Space Partition)\|distinction]] field. A superposition field of mutually exclusive possibilities. It is not "void" or "nothingness," but the infinite capacity for form (Information Capacity $\to \infty$).
     
 - **Contextual Anchor:** Similar to the **Quantum Wave Function** ($\Psi$) before collapse, or the **Bohmian Implicate Order**.
 

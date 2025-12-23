@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"type":["author"],"tags":["author","people"],"born":null,"died":null,"nationality":"American","website":"https://calnewport.com/","wikipedia":"https://en.wikipedia.org/wiki/Cal_Newport","created":"2025-11-16T15:03:00","updated":"2025-11-16T15:03:00","permalink":"/04-resources/authors/cal-newport/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/04-resources/authors/cal-newport/","tags":["author","people"]}
 ---
 
 # Cal Newport
@@ -38,11 +38,16 @@ Newport's style is **research-driven and prescriptive**, often structured around
 ---
 
 > [!info]+ Books in vault
->  | File                                                           | Title             | Year | Status                    | Rating |
-> | -------------------------------------------------------------- | ----------------- | ---- | ------------------------- | ------ |
-> | [[04-Resources/Books/Slow Productivity\|Slow Productivity]] | Slow Productivity | 2024 | <ul><li>reading</li></ul> | 4.5    |
-> 
-{ .block-language-dataview}
+> ```dataview
+> TABLE
+>   title as "Title",
+>   date(publish).year AS Year,
+>   status as "Status",
+>   rating as "Rating"
+> FROM "04-Resources/Books"
+> WHERE contains(author, this.file.link)
+> SORT year DESC
+> ```
 ---
 
 > [!links]- External links

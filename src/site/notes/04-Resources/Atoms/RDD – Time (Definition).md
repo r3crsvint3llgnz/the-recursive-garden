@@ -1,5 +1,5 @@
 ---
-{"aliases":["Time"],"tags":["#atom","RDD","foundational","atom"],"Reference Link":null,"topics":["Recursive Distinction Dynamics","Philosophy"],"Page Number":null,"dg-publish":true,"kind":"atom","source":"","pages":"","citekey":"","created":"2025-11-22T20:13:00","updated":"2025-11-22T20:13:00","molecule":"[[Qualia]]","permalink":"/04-resources/atoms/rdd-time-definition/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/04-resources/atoms/rdd-time-definition/","tags":["#atom","RDD","foundational","atom"]}
 ---
 
 # **Time ($t$)**

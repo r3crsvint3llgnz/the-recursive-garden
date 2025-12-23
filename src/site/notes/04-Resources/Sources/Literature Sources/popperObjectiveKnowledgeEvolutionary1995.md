@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"title":"Objective knowledge: an evolutionary approach","authors":"","year":"788940000000","status":"reading","summary":"","themes":[],"citekey":"popperObjectiveKnowledgeEvolutionary1995","zotero_uri":"","doi":"","isbn":"978-0-19-875024-6","url":"","cover":"","created":null,"updated":null,"permalink":"/04-resources/sources/literature-sources/popper-objective-knowledge-evolutionary1995/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/04-resources/sources/literature-sources/popper-objective-knowledge-evolutionary1995/","title":"Objective knowledge: an evolutionary approach"}
 ---
 
 

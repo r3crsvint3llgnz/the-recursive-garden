@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"title":"The beginning of infinity: explanations that transform the world","authors":"","year":"1325397600000","status":"reading","summary":"","themes":[],"citekey":"deutschBeginningInfinityExplanations2012","zotero_uri":"","doi":"","isbn":"978-0-670-02275-5 978-0-14-312135-0","url":"","cover":"","created":null,"updated":null,"permalink":"/04-resources/sources/literature-sources/deutsch-beginning-infinity-explanations2012/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/04-resources/sources/literature-sources/deutsch-beginning-infinity-explanations2012/","title":"The beginning of infinity: explanations that transform the world"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"kind":"atom","tags":["atom","data"],"topics":[" AI ","AI Optimizer","Data Governance","Data Quality","Industrial AI","Data Integrity"],"source":"https://delta.io/pdfs/dldg_databricks.pdf","pages":"11, 22, 195, 354, 376, 381","citekey":"leeDeltaLakeDefinitive","created":"2025-11-26T22:12:00","updated":"2025-11-26T22:12:00","molecule":["[[04-Resources/Molecules/ACID Transactions|ACID Transactions]]"],"permalink":"/04-resources/atoms/acid-isolation/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/04-resources/atoms/acid-isolation/","tags":["atom","data"]}
 ---
 
 # ACID - Isolation

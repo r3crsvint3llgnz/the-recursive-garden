@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"title":"Delta Lake: The Definitive Guide","authors":["[[Denny Lee]]","[[Tristen Wentling]]","[[Scot Haines]]","[[Prashanth Babu]]"],"year":"","status":"reading","summary":"","themes":[],"citekey":"leeDeltaLakeDefinitive","zotero_uri":"","doi":"","isbn":"","url":"https://delta.io/pdfs/dldg_databricks.pdf","cover":"","created":"2025-11-26T20:36:00","updated":"2025-11-26T20:36:00","permalink":"/04-resources/sources/literature-sources/lee-delta-lake-definitive/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/04-resources/sources/literature-sources/lee-delta-lake-definitive/","title":"Delta Lake: The Definitive Guide"}
 ---
 
 

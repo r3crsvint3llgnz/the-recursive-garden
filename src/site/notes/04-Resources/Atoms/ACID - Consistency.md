@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"kind":"atom","tags":["atom","data"],"topics":[" AI ","AI Optimizer","Data Quality","Data Governance","Industrial AI"],"source":"https://delta.io/pdfs/dldg_databricks.pdf","pages":"11, 22, 279, 326, 345, 368","citekey":"leeDeltaLakeDefinitive","created":"2025-11-26T22:00:00","updated":"2025-11-26T22:00:00","molecule":["[[04-Resources/Molecules/ACID Transactions|ACID Transactions]]"],"permalink":"/04-resources/atoms/acid-consistency/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/04-resources/atoms/acid-consistency/","tags":["atom","data"]}
 ---
 
 # ACID - Consistency
