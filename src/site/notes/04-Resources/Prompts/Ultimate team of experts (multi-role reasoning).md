@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"kind":"prompt","tags":["prompt"],"categories":["prompting","role-based","reasoning"],"framework":null,"role":"multi-role","audience":"me","tone":"concise","status":["ready"],"created":"2025-11-09T20:29:00","updated":"2025-11-09T20:30:00","permalink":"/04-resources/prompts/ultimate-team-of-experts-multi-role-reasoning/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/04-resources/prompts/ultimate-team-of-experts-multi-role-reasoning/","tags":["prompt"]}
 ---
 
 # Ultimate team of experts (multi-role reasoning)

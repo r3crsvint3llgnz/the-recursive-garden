@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"kind":"prompt","tags":["prompt"],"categories":["review","planning","GTD"],"framework":"GTD","role":"individual","audience":"me","tone":"concise","status":["ready"],"created":"2025-11-09T19:38:00","updated":"2025-11-09T19:39:00","permalink":"/04-resources/prompts/weekly-review-protocol-gtd-style/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/04-resources/prompts/weekly-review-protocol-gtd-style/","tags":["prompt"]}
 ---
 
 # Weekly Review Protocol (GTD-style)

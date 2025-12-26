@@ -1,13 +1,25 @@
-node_modules
-dist
-netlify/functions/search/data.json
-netlify/functions/search/index.json
-src/site/styles/theme.*.css
-src/site/styles/_theme.*.css
-# Local Netlify folder
-.netlify
-.idea/
-.vercel
-.cache
+# Node / build
+node_modules/
+dist/
+.cache/
 _site/
-**/.DS_Store
+
+# Editor configs
+.vscode/
+.idea/
+
+# Prevent foreign projects creeping in
+Codex-Lux/
+Wake_Novel/
+_Archive/
+_git_backup/
+
+# OS noise
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Local secrets (do NOT commit)
+.env
+.env.*
+amplify-env.json

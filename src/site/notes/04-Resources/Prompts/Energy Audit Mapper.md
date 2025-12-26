@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"kind":"prompt","tags":["prompt"],"categories":["energy","scheduling"],"framework":"Energy Management","role":"individual","audience":"me","tone":"concise","status":["ready"],"created":"2025-11-09T19:41:00","updated":"2025-11-09T19:41:00","permalink":"/04-resources/prompts/energy-audit-mapper/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/04-resources/prompts/energy-audit-mapper/","tags":["prompt"]}
 ---
 
 # Energy Audit Mapper

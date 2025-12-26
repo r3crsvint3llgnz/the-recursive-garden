@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"kind":"prompt","tags":["prompt"],"categories":["productivity","focus"],"framework":"Deep Work","role":"individual","audience":"me","tone":"concise","status":["ready"],"created":"2025-11-09T19:35:00","updated":"2025-11-09T19:35:00","permalink":"/04-resources/prompts/deep-work-session-designer/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/04-resources/prompts/deep-work-session-designer/","tags":["prompt"]}
 ---
 
 # Deep Work Session Designer
