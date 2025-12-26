@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"kind":"prompt","tags":["prompt"],"categories":["prioritization","analysis"],"framework":"Pareto 80/20","role":"individual","audience":"me","tone":"concise","status":["ready"],"created":"2025-11-02T19:44:00","updated":"2025-11-09T19:44:00","permalink":"/04-resources/prompts/pareto-project-filter-80-20/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/04-resources/prompts/pareto-project-filter-80-20/","tags":["prompt"]}
 ---
 
 # Pareto Project Filter (80/20)

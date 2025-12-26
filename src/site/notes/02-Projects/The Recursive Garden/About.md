@@ -1,25 +1,25 @@
 ---
-{"dg-publish":true,"title":"About","section":"site","tags":["about","profile"],"summary":"What this garden is, what I'm exploring, and where to look.","permalink":"/02-projects/the-recursive-garden/about/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/02-projects/the-recursive-garden/about/","title":"About this Garden","tags":["about","profile"]}
 ---
 
-# About this garden
+[[02-Projects/The Recursive Garden/The Recursive Garden\|🏠 Home]] · [[04-Resources/Reading Notes\|📚 Reading Notes]] · [[04-Resources/Articles/Articles\|📝 Articles]]
 
 > [!abstract]+ What this is
-> A public working notebook. I publish notes to make thinking visible and testable.  
-> Expect revisions, dead ends, and occasional rewrites. Rigor matters; curiosity is welcome.
+> This garden is my public thinking space. It’s where I work things out in the open, follow questions that pull at me, and shape ideas into something clearer. Notes here change as I do. Some grow, some get replaced, some get refactored into better versions. Curiosity leads; rigor keeps me honest.
 ---
 
-> [!note]+ Who I am
-> Autistic systems thinker. Builder and DIYer.  
-> I learn by taking things apart, naming the parts, and making something useful from them.  
-> Most of my work here turns raw curiosity into repeatable methods and artifacts.
+> [!info] Who I am
+> ![sethrobins.jpg|220](/img/user/02-Projects/The%20Recursive%20Garden/_assets/sethrobins.jpg)
+>
+> I’m an autistic systems thinker who learns by taking things apart and seeing how they fit together. I’ve always been a builder; wiring, fixing, coding, printing, testing. Making things helps me understand the world, and naming the parts helps me explain it.
+>Most of what I publish here begins as raw curiosity and becomes something structured: a method, a definition, a model, or a story.
 ---
 
 > [!info]+ What I’m exploring
-> - **Recursive Distinction Dynamics (RDD).** Working theory: model reality as distinctions that recurse; time, coherence, and agency fall out of that process. I’m formalizing definitions, constraints, and examples. Not doctrine—work in progress.  
-> - **PKM as publishing.** Moving from private notes to public artifacts with provenance, evaluation, and versioning.  
-> - **Agentic tools.** Small, auditable workflows that actually reduce effort.  
-> - **Reading & review.** Short, falsifiable summaries tied to future decisions or stories.
+> - **Recursive Distinction Dynamics (RDD)**. A working theory about how reality builds itself from differences. Draw a boundary, let it recurse, and watch time, coherence, meaning, and agency emerge. This is still early work — a mix of philosophy, information theory, and testable structure.
+> - **PKM as publishing**. Turning private notes into public artifacts, complete with provenance and versioning, so thinking isn’t just stored but improved.
+> - **Agentic tools**. Lightweight, auditable workflows that take real work off my plate. Not hype, practical tools that actually reduce effort.
+> - **Reading & review**. Brief, falsifiable summaries that sharpen understanding and feed back into projects, writing, and research.
 ---
 
 > [!example]+ Fiction in progress
@@ -27,22 +27,16 @@
 > - **Devil’s Backbone (horror).** An information-parasitic entity—**Ixchel**—propagates like a recursive algorithm through ritual, worship, and modern platforms. It exploits broken error-correction in human groups. Science, cognition, and belief are the terrain.
 ---
 
-> [!tip]+ How to read this place
-> **Hubs** collect stable notes:  
-> → [[Recursive Distinction Dynamics (Hub)\|Recursive Distinction Dynamics (Hub)]] · [[Open PKM (Hub)\|Open PKM (Hub)]] · [[Reading Notes (Hub)\|Reading Notes (Hub)]] · [[Fiction Projects (Hub)\|Fiction Projects (Hub)]]  
-> Notes carry a status: `seed | draft | stable | canonical`. Seeds may be wrong—learning in public is the point.
----
-
 > [!hint]- Working rules
-> - Publish early; correct in public.  
-> - Prefer **atoms** (precise definitions) and **molecules** (short syntheses) over long essays.  
-> - Link only when the dependency matters.  
-> - Track **assumptions** separately from **results**.
+> - I publish early and refine in public.
+> - I prefer atoms (tiny, precise definitions) and molecules (short syntheses) over long essays.
+> - I link only when it clarifies a dependency.
+> - I track assumptions separately from results so I know what changed and why.
 ---
 
 > [!abstract]+ What I do (now)
-> I build the next frontier of industrial operations: systems that move beyond traditional automation toward **autonomous control**.  
-> My lane sits where **Advanced Process Control (APC)**, **applied machine learning**, and **agentic decision systems** meet to improve **live** chemical production in real time—throughput, stability, energy, and margin together.
+> I work on the frontier between industrial operations and intelligent systems. My focus is bringing AI, advanced process control, and decision models into real industrial manufacturing: safely, reliably, and with measurable impact.
+> I enjoy problems that sit at the intersection of physics, human judgment, and computation. When these systems work well, you don’t just improve a process; you make people’s work lives better, calmer, and more predictable.
 ---
 
 > [!success]+ Impact snapshot
@@ -93,15 +87,18 @@
 ---
 
 > [!tip]- Where this intersects the garden
-> - **RDD / formalism.** How persistence, coherence, and cost show up in real plants.  
-> - **PKM as publishing.** Turning ops work into reusable templates, tests, and decision aids.  
-> - **Agentic tools.** Small, auditable workflows that reduce effort and surface signals sooner.
+> **RDD** shows up in how systems maintain boundaries, stability, and coherence.
+> **PKM** becomes a way to turn operational learning into templates and tools.
+> **Agentic systems** become practical extensions of the same principles: humans set direction; machines support precision and awareness.
 ---
 
 > [!success]+ Contact & elsewhere
+> - Linktree: https://linktr.ee/r3crsvint3llgnz
 > - Website: [recursiveintelligence.io](https://recursiveintelligence.io/)  
 > - Email: <seth.robins@recursiveintelligence.io>  
 > - LinkedIn: [linkedin.com/in/sethrobins1010](https://www.linkedin.com/in/sethrobins1010/)  
 > - GitHub: [r3crsvint3llgnz/recursive-prompting](https://github.com/r3crsvint3llgnz/recursive-prompting)  
 > - Support: [buymeacoffee.com/sethrobinsw](https://buymeacoffee.com/sethrobinsw)
+---
 
+[[02-Projects/The Recursive Garden/The Recursive Garden\|🏠 Home]] · [[04-Resources/Reading Notes\|📚 Reading Notes]] · [[04-Resources/Articles/Articles\|📝 Articles]]

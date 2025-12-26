@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"kind":"prompt","tags":["prompt"],"categories":["critique","refine","prompting"],"framework":null,"role":"individual","audience":"me","tone":"concise","status":["ready"],"created":"2025-11-09T20:39:00","updated":"2025-11-09T20:39:00","permalink":"/04-resources/prompts/three-pass-self-refine-interpret-answer-critique/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/04-resources/prompts/three-pass-self-refine-interpret-answer-critique/","tags":["prompt"]}
 ---
 
 # Three-pass self-refine (interpret → answer → critique)
