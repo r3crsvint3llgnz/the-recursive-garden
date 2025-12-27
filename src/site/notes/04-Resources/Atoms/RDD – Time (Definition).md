@@ -4,7 +4,7 @@
 
 # **Time ($t$)**
 
-- **Definition:** The index of [[04-Resources/Atoms/RDD – Recursion (Definition)\|recursion]]. Time is discrete and local to a [[04-Resources/Atoms/RDD – Perspective (Definition)\|perspective]]. It is not a container dimensions; it is a sequence of updates.
+- **Definition:** The index of [[04-Resources/Atoms/RDD – Recursion (Definition)\|recursion]]. Time is discrete and local to a [[04-Resources/Atoms/Perspective\|perspective]]. It is not a container dimensions; it is a sequence of updates.
     
 - **Formalism:** $t = R_i$ (The $i$-th iteration of the loop).
     

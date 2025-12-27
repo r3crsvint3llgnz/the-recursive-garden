@@ -4,7 +4,7 @@
 
 # **Entropy ($H_{RDD}$)**
 
-- **Definition:** The decoherence of [[04-Resources/Atoms/RDD – Potential (Definition)\|potential]]. It is not just energy loss, but **Rigidity**. High entropy means the system has made so many rigid [[04-Resources/Atoms/Distinction (Persistent State-Space Partition)\|distinctions]] that it has lost access to the superposition field (Potential).
+- **Definition:** The decoherence of [[04-Resources/Atoms/RDD – Potential (Definition)\|potential]]. It is not just energy loss, but **Rigidity**. High entropy means the system has made so many rigid [[04-Resources/Atoms/Distinction\|distinctions]] that it has lost access to the superposition field (Potential).
     
 - **Contextual Anchor:** **Thermodynamic Entropy** vs. **Logical Depth**.
 

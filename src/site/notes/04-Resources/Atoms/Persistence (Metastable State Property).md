@@ -30,7 +30,7 @@ Persistence is a **necessary condition** for distinction.
 - Without persistence, differences fluctuate but do not accumulate.
 - With persistence, a state conditions future system behavior.
 
-A [[04-Resources/Atoms/Distinction (Persistent State-Space Partition)\|Distinction]] exists only when a difference persists.
+A [[04-Resources/Atoms/Distinction\|Distinction]] exists only when a difference persists.
 
 ---
 
@@ -74,7 +74,7 @@ What does not persist cannot inform the future. Persistence is the physical prec
 
 - Broader topic: [[02-Projects/Recursive Distinction Dynamics/Recursive Distinction Dynamics\|Recursive Distinction Dynamics]]
 - Related atoms:
-	- [[04-Resources/Atoms/Distinction (Persistent State-Space Partition)\|Distinction]]
+	- [[04-Resources/Atoms/Distinction\|Distinction]]
 	- [[Bit\|Bit]]
 	- [[Entropy\|Entropy]]
 	- [[State Space\|State Space]]

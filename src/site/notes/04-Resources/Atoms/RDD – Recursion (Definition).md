@@ -4,7 +4,7 @@
 
 # **Recursion ($R$)**
 
-- **Definition:** The feedback loop where the output of a [[04-Resources/Atoms/Distinction (Persistent State-Space Partition)\|distinction]] becomes the input for the next distinction. This drives the system from static state to dynamic process.
+- **Definition:** The feedback loop where the output of a [[04-Resources/Atoms/Distinction\|distinction]] becomes the input for the next distinction. This drives the system from static state to dynamic process.
     
 - **Function:** $R(S_t) \to S_{t+1}$
     
@@ -57,7 +57,7 @@
 
 ---**Recursion ($R$)**
 
-- **Definition:** The feedback loop where the output of a [[04-Resources/Atoms/Distinction (Persistent State-Space Partition)\|distinction]] becomes the input for the next distinction. This drives the system from static state to dynamic process.
+- **Definition:** The feedback loop where the output of a [[04-Resources/Atoms/Distinction\|distinction]] becomes the input for the next distinction. This drives the system from static state to dynamic process.
     
 - **Function:** $R(S_t) \to S_{t+1}$
     
