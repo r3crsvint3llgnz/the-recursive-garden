@@ -4,7 +4,7 @@
 
 # **Existence ($E$)**
 
-- **Definition:** The state of a stabilized [[04-Resources/Atoms/Distinction (Persistent State-Space Partition)\|distinction]] currently undergoing recursive update through interaction.
+- **Definition:** The state of a stabilized [[04-Resources/Atoms/Distinction\|distinction]] currently undergoing recursive update through interaction.
     
 - **Boolean Logic:** IF $R > 0$ THEN $E = 1$ ELSE $E = 0$.
 

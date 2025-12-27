@@ -43,7 +43,7 @@ It means *observer-independent*.
 - Broader topic:
 - Related atoms:
 	- [[04-Resources/Atoms/Epistemic\|Epistemic]]
-	- [[Distinction\|Distinction]]
+	- [[04-Resources/Atoms/Distinction\|Distinction]]
 	- [[Persistence\|Persistence]]
 	- [[State Space\|State Space]]
 	- [[Entropy\|Entropy]]

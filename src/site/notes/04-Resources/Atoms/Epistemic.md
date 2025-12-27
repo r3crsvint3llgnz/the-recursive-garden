@@ -54,7 +54,7 @@ Epistemic concepts include:
 - Broader topic:
 - Related atoms:
 	- [[04-Resources/Atoms/Ontic\|Ontic]]
-	- [[Perspective\|Perspective]]
+	- [[04-Resources/Atoms/Perspective\|Perspective]]
 	- [[Model\|Model]]
 	- [[Representation\|Representation]]
 - Upstream source note:

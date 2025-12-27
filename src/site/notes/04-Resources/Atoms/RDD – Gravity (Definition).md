@@ -9,7 +9,7 @@
 **Definition:** The **Persistence Pressure** of [[04-Resources/Atoms/RDD – Recursion (Definition)\|recursion]]. Gravity is the statistical bias within the feedback loop that favors configurations capable of enduring across iterations.
 
 **The Mechanism:**
-- In the Underlying [[04-Resources/Atoms/RDD – Potential (Definition)\|Potential]], all [[04-Resources/Atoms/Distinction (Persistent State-Space Partition)\|distinctions]] are equally possible.
+- In the Underlying [[04-Resources/Atoms/RDD – Potential (Definition)\|Potential]], all [[04-Resources/Atoms/Distinction\|distinctions]] are equally possible.
 - Once a Distinction ($\mathcal{D}$) is made, $G$ is the "weight" that makes it easier to repeat that distinction than to create a completely new one.
 - **Gravity = Recursive Inertia.**
 

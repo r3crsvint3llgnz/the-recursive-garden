@@ -4,7 +4,7 @@
 
 # **Underlying Potential ($\Omega$)**
 
-- **Definition:** The pre-[[04-Resources/Atoms/Distinction (Persistent State-Space Partition)\|distinction]] field. A superposition field of mutually exclusive possibilities. It is not "void" or "nothingness," but the infinite capacity for form (Information Capacity $\to \infty$).
+- **Definition:** The pre-[[04-Resources/Atoms/Distinction\|distinction]] field. A superposition field of mutually exclusive possibilities. It is not "void" or "nothingness," but the infinite capacity for form (Information Capacity $\to \infty$).
     
 - **Contextual Anchor:** Similar to the **Quantum Wave Function** ($\Psi$) before collapse, or the **Bohmian Implicate Order**.
 

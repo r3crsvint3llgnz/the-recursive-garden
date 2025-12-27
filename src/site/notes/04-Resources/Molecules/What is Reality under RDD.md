@@ -4,7 +4,7 @@
 
 ## Insight or Idea
 - Reality is not a container of things; it is a **survivorship bias** of information.
-- Reality is the set of [[04-Resources/Atoms/Distinction (Persistent State-Space Partition)\|distinctions]] that have successfully withstood the pressure of [[04-Resources/Atoms/RDD – Gravity (Definition)\|Gravity]] (recursive persistence) without dissolving back into [[04-Resources/Atoms/RDD – Entropy (Definition)\|Entropy]].
+- Reality is the set of [[04-Resources/Atoms/Distinction\|distinctions]] that have successfully withstood the pressure of [[04-Resources/Atoms/RDD – Gravity (Definition)\|Gravity]] (recursive persistence) without dissolving back into [[04-Resources/Atoms/RDD – Entropy (Definition)\|Entropy]].
 - **"To be real is to persist across the update."**
 ## Connections
 - Connects to **Evolutionary Epistemology** (survival of the fittest patterns).
@@ -20,7 +20,7 @@
 
 >[!info]+ Definition
 > **Reality ($\mathcal{R}$)**
-> The aggregate domain of all [[04-Resources/Atoms/Distinction (Persistent State-Space Partition)\|distinctions]] ($\mathcal{D}$) that satisfy the condition of [[04-Resources/Atoms/Persistence (Metastable State Property)\|Persistence]] ($\Pi$) under the pressure of [[04-Resources/Atoms/RDD – Recursion (Definition)\|Recursion]] ($R$).
+> The aggregate domain of all [[04-Resources/Atoms/Distinction\|distinctions]] ($\mathcal{D}$) that satisfy the condition of [[04-Resources/Atoms/Persistence (Metastable State Property)\|Persistence]] ($\Pi$) under the pressure of [[04-Resources/Atoms/RDD – Recursion (Definition)\|Recursion]] ($R$).
 > 
 > $$\mathcal{R} = \{ \mathcal{D} \mid \text{Gravity}(\mathcal{D}) > \text{Entropy}(\mathcal{D}) \}$$
 > 
@@ -29,27 +29,27 @@
 ---
 > [!info]+ Auto-list atoms that link to this molecule (backlinks)
 >
->  | File                                                                                                                     | topics                                                                                                                                                                                   | source           | pages | created                     |
-> | ------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------- | ----- | --------------------------- |
-> | [[04-Resources/Atoms/Persistence (Metastable State Property)\|Persistence (Metastable State Property)]]               | <ul><li>Recursive Distinction Dynamics</li><li>Cybernetics</li><li>Thermodynamics</li><li>Thermodynamics of Information</li><li>State Space</li><li>Metastability</li><li>Time</li></ul> | User/RDD Session |       | 9:10 PM - November 22, 2025 |
-> | [[04-Resources/Atoms/RDD – Gravity (Definition)\|RDD – Gravity (Definition)]]                                         | <ul><li>Recursive Distinction Dynamics</li><li>Philosophy</li></ul>                                                                                                                      |                  |       | 8:35 PM - November 22, 2025 |
-> | [[04-Resources/Atoms/RDD – Entropy (Definition)\|RDD – Entropy (Definition)]]                                         | <ul><li>Recursive Distinction Dynamics</li><li>Philosophy</li></ul>                                                                                                                      |                  |       | 8:22 PM - November 22, 2025 |
-> | [[04-Resources/Atoms/RDD – Existence (Definition)\|RDD – Existence (Definition)]]                                     | <ul><li>Recursive Distinction Dynamics</li><li>Philosophy</li></ul>                                                                                                                      |                  |       | 8:21 PM - November 22, 2025 |
-> | [[04-Resources/Atoms/RDD – Recursion (Definition)\|RDD – Recursion (Definition)]]                                     | <ul><li>Recursive Distinction Dynamics</li><li>Philosophy</li></ul>                                                                                                                      |                  |       | 8:11 PM - November 22, 2025 |
-> | [[04-Resources/Atoms/Distinction (Persistent State-Space Partition)\|Distinction (Persistent State-Space Partition)]] | <ul><li>Recursive Distinction Dynamics</li><li>Philosophy</li><li>Thermodynamics of Information</li><li>State Space</li></ul>                                                            |                  |       | 8:09 PM - November 22, 2025 |
+>  | File                                                                                                       | topics                                                                                                                                                                                   | source           | pages | created                     |
+> | ---------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------- | ----- | --------------------------- |
+> | [[04-Resources/Atoms/Persistence (Metastable State Property)\|Persistence (Metastable State Property)]] | <ul><li>Recursive Distinction Dynamics</li><li>Cybernetics</li><li>Thermodynamics</li><li>Thermodynamics of Information</li><li>State Space</li><li>Metastability</li><li>Time</li></ul> | User/RDD Session |       | 9:10 PM - November 22, 2025 |
+> | [[04-Resources/Atoms/RDD – Gravity (Definition)\|RDD – Gravity (Definition)]]                           | <ul><li>Recursive Distinction Dynamics</li><li>Philosophy</li></ul>                                                                                                                      |                  |       | 8:35 PM - November 22, 2025 |
+> | [[04-Resources/Atoms/RDD – Entropy (Definition)\|RDD – Entropy (Definition)]]                           | <ul><li>Recursive Distinction Dynamics</li><li>Philosophy</li></ul>                                                                                                                      |                  |       | 8:22 PM - November 22, 2025 |
+> | [[04-Resources/Atoms/RDD – Existence (Definition)\|RDD – Existence (Definition)]]                       | <ul><li>Recursive Distinction Dynamics</li><li>Philosophy</li></ul>                                                                                                                      |                  |       | 8:21 PM - November 22, 2025 |
+> | [[04-Resources/Atoms/RDD – Recursion (Definition)\|RDD – Recursion (Definition)]]                       | <ul><li>Recursive Distinction Dynamics</li><li>Philosophy</li></ul>                                                                                                                      |                  |       | 8:11 PM - November 22, 2025 |
+> | [[04-Resources/Atoms/Distinction\|Distinction]]                                                         | <ul><li>Recursive Distinction Dynamics</li><li>Thermodynamics of Information</li><li>State Space</li></ul>                                                                               | \-               | \-    | 8:09 PM - November 22, 2025 |
 > 
 { .block-language-dataview}
 ---
 
 > [!info]- Auto-list atoms this molecule links to (forward)
->  | File                                                                                                                     | topics                                                                                                                                                                                   | source           | page | created                     |
-> | ------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------- | ---- | --------------------------- |
-> | [[04-Resources/Atoms/Distinction (Persistent State-Space Partition)\|Distinction (Persistent State-Space Partition)]] | <ul><li>Recursive Distinction Dynamics</li><li>Philosophy</li><li>Thermodynamics of Information</li><li>State Space</li></ul>                                                            |                  | \-   | 8:09 PM - November 22, 2025 |
-> | [[04-Resources/Atoms/Persistence (Metastable State Property)\|Persistence (Metastable State Property)]]               | <ul><li>Recursive Distinction Dynamics</li><li>Cybernetics</li><li>Thermodynamics</li><li>Thermodynamics of Information</li><li>State Space</li><li>Metastability</li><li>Time</li></ul> | User/RDD Session | \-   | 9:10 PM - November 22, 2025 |
-> | [[04-Resources/Atoms/RDD – Entropy (Definition)\|RDD – Entropy (Definition)]]                                         | <ul><li>Recursive Distinction Dynamics</li><li>Philosophy</li></ul>                                                                                                                      |                  | \-   | 8:22 PM - November 22, 2025 |
-> | [[04-Resources/Atoms/RDD – Gravity (Definition)\|RDD – Gravity (Definition)]]                                         | <ul><li>Recursive Distinction Dynamics</li><li>Philosophy</li></ul>                                                                                                                      |                  | \-   | 8:35 PM - November 22, 2025 |
-> | [[04-Resources/Atoms/RDD – Perspective (Definition)\|RDD – Perspective (Definition)]]                                 | <ul><li>Recursive Distinction Dynamics</li><li>Philosophy</li></ul>                                                                                                                      |                  | \-   | 8:14 PM - November 22, 2025 |
-> | [[04-Resources/Atoms/RDD – Recursion (Definition)\|RDD – Recursion (Definition)]]                                     | <ul><li>Recursive Distinction Dynamics</li><li>Philosophy</li></ul>                                                                                                                      |                  | \-   | 8:11 PM - November 22, 2025 |
+>  | File                                                                                                       | topics                                                                                                                                                                                   | source           | page | created                     |
+> | ---------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------- | ---- | --------------------------- |
+> | [[04-Resources/Atoms/Distinction\|Distinction]]                                                         | <ul><li>Recursive Distinction Dynamics</li><li>Thermodynamics of Information</li><li>State Space</li></ul>                                                                               | \-               | \-   | 8:09 PM - November 22, 2025 |
+> | [[04-Resources/Atoms/Persistence (Metastable State Property)\|Persistence (Metastable State Property)]] | <ul><li>Recursive Distinction Dynamics</li><li>Cybernetics</li><li>Thermodynamics</li><li>Thermodynamics of Information</li><li>State Space</li><li>Metastability</li><li>Time</li></ul> | User/RDD Session | \-   | 9:10 PM - November 22, 2025 |
+> | [[04-Resources/Atoms/Perspective\|Perspective]]                                                         | <ul><li>Recursive Distinction Dynamics</li><li>Information</li><li>Reference Frames</li></ul>                                                                                            | \-               | \-   | November 22, 2025           |
+> | [[04-Resources/Atoms/RDD – Entropy (Definition)\|RDD – Entropy (Definition)]]                           | <ul><li>Recursive Distinction Dynamics</li><li>Philosophy</li></ul>                                                                                                                      |                  | \-   | 8:22 PM - November 22, 2025 |
+> | [[04-Resources/Atoms/RDD – Gravity (Definition)\|RDD – Gravity (Definition)]]                           | <ul><li>Recursive Distinction Dynamics</li><li>Philosophy</li></ul>                                                                                                                      |                  | \-   | 8:35 PM - November 22, 2025 |
+> | [[04-Resources/Atoms/RDD – Recursion (Definition)\|RDD – Recursion (Definition)]]                       | <ul><li>Recursive Distinction Dynamics</li><li>Philosophy</li></ul>                                                                                                                      |                  | \-   | 8:11 PM - November 22, 2025 |
 > 
 { .block-language-dataview}
 ---
@@ -59,7 +59,7 @@
 > A rock is real because it is made of atoms. A dream is not real because it is made of neurons firing. Reality is determined by "stuff."
 >
 > **After (RDD Pattern Applied):**
-> A rock is "High-Gravity Reality." Its [[04-Resources/Atoms/Distinction (Persistent State-Space Partition)\|distinction pattern]] has recurred for eons ($t \to \infty$) and requires immense energy to disrupt. It has deep Recursive Inertia.
+> A rock is "High-Gravity Reality." Its [[04-Resources/Atoms/Distinction\|distinction pattern]] has recurred for eons ($t \to \infty$) and requires immense energy to disrupt. It has deep Recursive Inertia.
 > 
 > A dream is "Low-Gravity Reality." It is a valid distinction pattern while it lasts ($E=1$), but it lacks [[04-Resources/Atoms/RDD – Gravity (Definition)\|Gravity]]. Upon the next major recursive update (waking up), its coherence collapses into entropy. It is "real" for a moment, but not "persistent."
 > 
@@ -76,7 +76,7 @@
 > - **Is a hallucination real in RDD?**
 >   Yes, but it is unstable. It exists as a distinction ($\mathcal{D}$) with a Perspective ($P$), but it fails the test of Interaction/Gravity ($G$) and dissolves quickly.
 > - **Does Reality exist without an Observer?**
->   No. Reality requires a [[04-Resources/Atoms/RDD – Perspective (Definition)\|Perspective]] to carve it. However, "Observer" $\neq$ "Human." An electron is a perspective that maintains the reality of an atom.
+>   No. Reality requires a [[04-Resources/Atoms/Perspective\|Perspective]] to carve it. However, "Observer" $\neq$ "Human." An electron is a perspective that maintains the reality of an atom.
 > - **Can Reality change?**
 >   Yes. Since Reality is just the current state of Recursion, if you change the distinctions being fed back into the loop (e.g., through technology or consciousness shift), you change the physical structure of Reality.
 ---
