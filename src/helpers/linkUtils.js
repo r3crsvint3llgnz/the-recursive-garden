@@ -1,10 +1,6 @@
 const wikiLinkRegex = /\[\[(.*?\|.*?)\]\]/g;
 const internalLinkRegex = /href="\/(.*?)"/g;
 
-function caselessCompare(a, b) {
-  return a.toLowerCase() === b.toLowerCase();
-}
-
 function extractLinks(content) {
   return [
     ...(content.match(wikiLinkRegex) || []).map(
@@ -36,63 +32,51 @@ async function getGraph(data) {
   let stemURLs = {};
   let homeAlias = "/";
 
-  const notes = (data.collections && data.collections.note) || [];
+  // Process notes sequentially to handle async reads
+  const notes = data.collections.note || [];
+  for (let idx = 0; idx < notes.length; idx++) {
+    const v = notes[idx];
+    let fpath = v.filePathStem.replace("/notes/", "");
+    let parts = fpath.split("/");
+    let group = "none";
+    if (parts.length >= 3) {
+      group = parts[parts.length - 2];
+    }
 
-  // Build node map using async template.read()
-  await Promise.all(
-    notes.map(async (v, idx) => {
-      if (!v.template || typeof v.template.read !== "function") return;
+    // Use async read() method instead of accessing frontMatter directly
+    const templateContent = await v.template.read();
+    const content = templateContent?.content || "";
 
-      // Eleventy 3+ async-friendly way to get content + data
-      const { content } = await v.template.read();
-
-      let fpath = v.filePathStem.replace("/notes/", "");
-      let parts = fpath.split("/");
-      let group = "none";
-      if (parts.length >= 3) {
-        group = parts[parts.length - 2];
-      }
-
-      nodes[v.url] = {
-        id: idx,
-        title: v.data.title || v.fileSlug,
-        url: v.url,
-        group,
-        home:
-          v.data["dg-home"] ||
-          (Array.isArray(v.data.tags) &&
-            v.data.tags.indexOf("gardenEntry") > -1) ||
-          false,
-        outBound: extractLinks(content),
-        neighbors: new Set(),
-        backLinks: new Set(),
-        noteIcon: v.data.noteIcon || process.env.NOTE_ICON_DEFAULT,
-        hide: v.data.hideInGraph || false,
-      };
-
-      stemURLs[fpath] = v.url;
-
-      if (
+    nodes[v.url] = {
+      id: idx,
+      title: v.data.title || v.fileSlug,
+      url: v.url,
+      group,
+      home:
         v.data["dg-home"] ||
-        (Array.isArray(v.data.tags) && v.data.tags.indexOf("gardenEntry") > -1)
-      ) {
-        homeAlias = v.url;
-      }
-    })
-  );
-
-  // Resolve outbound links to neighbors/backlinks
+        (v.data.tags && v.data.tags.indexOf("gardenEntry") > -1) ||
+        false,
+      outBound: extractLinks(content),
+      neighbors: new Set(),
+      backLinks: new Set(),
+      noteIcon: v.data.noteIcon || process.env.NOTE_ICON_DEFAULT,
+      hide: v.data.hideInGraph || false,
+    };
+    stemURLs[fpath] = v.url;
+    if (
+      v.data["dg-home"] ||
+      (v.data.tags && v.data.tags.indexOf("gardenEntry") > -1)
+    ) {
+      homeAlias = v.url;
+    }
+  }
   Object.values(nodes).forEach((node) => {
     let outBound = new Set();
-
-    // Guard against nodes that don't have outBound defined
-    (node.outBound || []).forEach((olink) => {
+    node.outBound.forEach((olink) => {
       let link = (stemURLs[olink] || olink).split("#")[0];
       outBound.add(link);
     });
-
     node.outBound = Array.from(outBound);
-
     node.outBound.forEach((link) => {
       let n = nodes[link];
       if (n) {
@@ -103,25 +87,17 @@ async function getGraph(data) {
       }
     });
   });
-
-  // Normalize Sets to arrays and add size
-  Object.keys(nodes).forEach((k) => {
+  Object.keys(nodes).map((k) => {
     nodes[k].neighbors = Array.from(nodes[k].neighbors);
     nodes[k].backLinks = Array.from(nodes[k].backLinks);
     nodes[k].size = nodes[k].neighbors.length;
   });
-
   return {
     homeAlias,
     nodes,
     links,
   };
 }
-
-module.exports = {
-  getGraph,
-  // …whatever else you already export here…
-};
 
 exports.wikiLinkRegex = wikiLinkRegex;
 exports.internalLinkRegex = internalLinkRegex;
