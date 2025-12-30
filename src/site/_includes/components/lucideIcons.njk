@@ -1,5 +1,8 @@
-<script>
-  if (window.lucide && typeof window.lucide.createIcons === 'function') {
-    window.lucide.createIcons();
-  }
+<script defer src="https://unpkg.com/lucide@latest"></script>
+<script defer>
+  document.addEventListener('DOMContentLoaded', () => {
+    lucide.createIcons({
+      attrs: { class: ['svg-icon'] }
+    });
+  });
 </script>
