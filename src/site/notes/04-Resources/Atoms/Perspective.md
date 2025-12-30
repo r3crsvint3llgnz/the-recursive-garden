@@ -44,9 +44,9 @@ A perspective is the set of constraints that determines *which differences can m
 - Related atoms:
   - [[04-Resources/Atoms/Distinction\|Distinction]]
   - [[04-Resources/Atoms/Persistent Distinction\|Persistent Distinction]]
-  - [[Record (Memory Substrate)\|Record (Memory Substrate)]]
+  - [[04-Resources/Atoms/Record (Memory Substrate)\|Record (Memory Substrate)]]
   - [[04-Resources/Atoms/Epistemic\|Epistemic]]
-  - [[State Space\|State Space]]
+  - [[04-Resources/Atoms/State Space\|State Space]]
 
 - Used in molecules:
   - [[04-Resources/Molecules/Qualia\|Qualia]]
@@ -63,7 +63,7 @@ A perspective is the set of constraints that determines *which differences can m
 
 - **Source:** Uexküll, J. von, Sagan, D., & Winthrop-Young, G. (1934). _Foray into the worlds of animals and humans: With a theory of meaning_ (J. D. O’Neil, Trans.). University of Minnesota Press.
 	- **Key:** [[04-Resources/Sources/Literature Sources/@uexkullForayWorldsAnimals1934\|@uexkullForayWorldsAnimals1934]]
-	- **Use here:** Introduces [[Umwelt\|Umwelt]] (Jakob von Uexküll coined **Umwelt** to name the _experienced world_ of a system. Not the universe as such, but the subset of distinctions that are detectable, actionable, and meaningful _given that system’s sensors, effectors, and internal organization_) as organism-specific access to distinctions, not reality itself.
+	- **Use here:** Introduces [[04-Resources/Atoms/Umwelt\|Umwelt]] (Jakob von Uexküll coined **Umwelt** to name the _experienced world_ of a system. Not the universe as such, but the subset of distinctions that are detectable, actionable, and meaningful _given that system’s sensors, effectors, and internal organization_) as organism-specific access to distinctions, not reality itself.
 
 ---
 ## Re-contextualization Log

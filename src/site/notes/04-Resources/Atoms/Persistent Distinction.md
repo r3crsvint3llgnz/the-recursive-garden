@@ -42,11 +42,11 @@ A distinction persists when physics makes it hard to forget.
 
 - Related atoms:
   - [[04-Resources/Atoms/Distinction\|Distinction]]
-  - [[State Space\|State Space]]
+  - [[04-Resources/Atoms/State Space\|State Space]]
   - [[04-Resources/Atoms/Persistence (Metastable State Property)\|Persistence]]
   - [[Bit\|Bit]]
   - [[Symmetry Breaking\|Symmetry Breaking]]
-  - [[Record (Memory Substrate)\|Record (Memory Substrate)]]
+  - [[04-Resources/Atoms/Record (Memory Substrate)\|Record (Memory Substrate)]]
 
 - Used in molecules:
   - (none yet)

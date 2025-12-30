@@ -4,60 +4,106 @@
 
 [[02-Projects/The Recursive Garden/The Recursive Garden\|🏠 Home]] · [[04-Resources/Reading Notes\|📚 Reading Notes]] · [[04-Resources/Articles/Articles\|📝 Articles]] · [[02-Projects/The Recursive Garden/About\|ℹ️ About]]
 
+# <% tp.file.title %>
+
 > [!abstract]+ Summary
----
+> Briefly state what this molecule explains or synthesizes and which atom(s) it depends on.
 
- 
+> [!info]+ Definition
+> What this molecule _does_ that no single atom can do alone.
 
----
-
->[!info]+ Definition
----
-
-
+> [!hint]+ Scope
+> This note explains interactions and implications. It does not introduce new primitives.
 
 ---
-> [!info]+ Auto-list atoms that link to this molecule (backlinks)
+
+## Structural Introspection
+
+## Atoms Used (Declared Dependencies)
+
+- [[Templates/Molecule (Permanent Note) Template\|Molecule (Permanent Note) Template]]: 
+
+
+{ .block-language-dataview}
+
+> [!note]+ Dependency semantics
+> This list represents explicit conceptual dependencies, not incidental mentions.
+
+## Atoms Referencing This Molecule (Backlinks)
+
+| File | Atom | topics | created |
+| ---- | ---- | ------ | ------- |
+
+{ .block-language-dataview}
+
+> [!hint]+ Interpretation
+> These atoms reference this molecule but may not be foundational to it.
+
+## Atom Mentions Not Declared as Dependencies
+
+| File | Atom | topics |
+| ---- | ---- | ------ |
+
+{ .block-language-dataview}
+
+> [!warning]+ Hygiene check
+> If an atom appears here, consider whether it should be added to `atoms:`.
+
+> [!info]+ Source Status
+
+- Internal RDD synthesis: ☐
+- External alignment (physics): ☐
+- External alignment (philosophy): ☐
+- External alignment (neuroscience): ☐
+
+> **Confidence level**
 >
->  | File | topics | source | pages | created |
-> | ---- | ------ | ------ | ----- | ------- |
-> 
-{ .block-language-dataview}
----
+> - ☐ Exploratory
+> - ☐ Provisional
+> - ☐ Stable
 
-> [!info]- Auto-list atoms this molecule links to (forward)
->  | File | topics | source | page | created |
-> | ---- | ------ | ------ | ---- | ------- |
-> 
-{ .block-language-dataview}
 ---
 
 > [!example]- Worked example (edit inline)
 > **Before (bad):**
 >
 > **After (pattern applied):**
-> 
+
 ---
 
 > [!fail]- Anti-patterns
-> - 
-> - 
-> - 
+>
+> -
+> -
+> -
+
 ---
 
 > [!question]- FAQ (short answers)
-> -
-> -
-> -
----
-
-
+>
+> - What problem does this molecule solve that the atoms cannot?
+> - What assumptions does this molecule rely on?
+> - What would fail or become unclear if this molecule were removed?
 
 ---
+
+---
+
 > [!abstract]- References
-> Source:  
-> Related molecules:
-> ---
+> **Sources:**  
+> **Related molecules:**
+
+> [!note]+ Re-contextualization Log
+> Use this to record meaningful changes in framing, scope, or claims.
+> Keep entries short. Prefer facts over narrative.
+>
+> - **Date:** <% tp.date.now("YYYY-MM-DD") %>
+>   **Change:**  
+>   **Reason:**  
+>   **Impact:**  
+>   **Sources touched:**  
+>   **Next check:**
+
 ---
 
 [[02-Projects/The Recursive Garden/The Recursive Garden\|🏠 Home]] · [[04-Resources/Reading Notes\|📚 Reading Notes]] · [[04-Resources/Articles/Articles\|📝 Articles]] · [[02-Projects/The Recursive Garden/About\|ℹ️ About]]
