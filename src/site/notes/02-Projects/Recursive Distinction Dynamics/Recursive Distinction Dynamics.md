@@ -73,18 +73,18 @@ Choose your entry point based on whether you want definitions or consequences.
 
 > [!note]+ Atoms (Definitions)
 > *The irreducible building blocks.*
->  | Atom                                                                                                       | Status | Domain                                                            | Updated    |
-> | ---------------------------------------------------------------------------------------------------------- | ------ | ----------------------------------------------------------------- | ---------- |
-> | [[04-Resources/Atoms/Constraint\|Constraint]]                                                           | draft  | [[04-Resources/Atoms/Ontic\|Ontic]]                            | 2025-12-29 |
-> | [[04-Resources/Atoms/Distinction\|Distinction]]                                                         | draft  | [[04-Resources/Atoms/Ontic\|Ontic]]                            | 2025-12-29 |
-> | [[04-Resources/Atoms/Existence\|Existence]]                                                             | draft  | [[04-Resources/Atoms/Ontic\|Ontic]]                            | 2025-12-29 |
-> | [[04-Resources/Atoms/Noise\|Noise]]                                                                     | draft  | [[04-Resources/Atoms/Ontic\|Ontic]]                            | 2025-12-29 |
-> | [[04-Resources/Atoms/Persistence (Metastable State Property)\|Persistence (Metastable State Property)]] | draft  | [[04-Resources/Atoms/Ontic\|Ontic]]                            | 2025-12-29 |
-> | [[04-Resources/Atoms/Persistence Bias\|Persistence Bias]]                                               | draft  | [[04-Resources/Atoms/Ontic\|Ontic]]                            | 2025-12-29 |
-> | [[04-Resources/Atoms/Perspective\|Perspective]]                                                         | draft  | <ul><li>[[04-Resources/Atoms/Epistemic.md\\|Epistemic]]</li></ul> | 2025-12-26 |
-> | [[04-Resources/Atoms/Potential\|Potential]]                                                             | draft  | <ul><li>[[04-Resources/Atoms/Ontic.md\\|Ontic]]</li></ul>         | 2025-12-29 |
-> | [[04-Resources/Atoms/Recursion\|Recursion]]                                                             | draft  | <ul><li>[[04-Resources/Atoms/Ontic.md\\|Ontic]]</li></ul>         | 2025-12-29 |
-> | [[04-Resources/Atoms/Time\|Time]]                                                                       | draft  | <ul><li>[[04-Resources/Atoms/Ontic.md\\|Ontic]]</li></ul>         | 2025-12-29 |
+>  | Atom                                                                                                       | Status | Domain                                                    | Updated    |
+> | ---------------------------------------------------------------------------------------------------------- | ------ | --------------------------------------------------------- | ---------- |
+> | [[04-Resources/Atoms/Constraint\|Constraint]]                                                           | draft  | [[04-Resources/Atoms/Ontic\|Ontic]]                    | 2025-12-29 |
+> | [[04-Resources/Atoms/Distinction\|Distinction]]                                                         | draft  | [[04-Resources/Atoms/Ontic\|Ontic]]                    | 2025-12-29 |
+> | [[04-Resources/Atoms/Existence\|Existence]]                                                             | draft  | [[04-Resources/Atoms/Ontic\|Ontic]]                    | 2025-12-29 |
+> | [[04-Resources/Atoms/Noise\|Noise]]                                                                     | draft  | [[04-Resources/Atoms/Ontic\|Ontic]]                    | 2025-12-29 |
+> | [[04-Resources/Atoms/Persistence (Metastable State Property)\|Persistence (Metastable State Property)]] | draft  | [[04-Resources/Atoms/Ontic\|Ontic]]                    | 2025-12-29 |
+> | [[04-Resources/Atoms/Persistence Bias\|Persistence Bias]]                                               | draft  | [[04-Resources/Atoms/Ontic\|Ontic]]                    | 2025-12-29 |
+> | [[04-Resources/Atoms/Perspective\|Perspective]]                                                         | draft  | [[04-Resources/Atoms/Epistemic\|Epistemic]]            | 2025-12-29 |
+> | [[04-Resources/Atoms/Potential\|Potential]]                                                             | draft  | <ul><li>[[04-Resources/Atoms/Ontic.md\\|Ontic]]</li></ul> | 2025-12-29 |
+> | [[04-Resources/Atoms/Recursion\|Recursion]]                                                             | draft  | <ul><li>[[04-Resources/Atoms/Ontic.md\\|Ontic]]</li></ul> | 2025-12-29 |
+> | [[04-Resources/Atoms/Time\|Time]]                                                                       | draft  | <ul><li>[[04-Resources/Atoms/Ontic.md\\|Ontic]]</li></ul> | 2025-12-29 |
 > 
 { .block-language-dataview}
 ---
@@ -150,6 +150,7 @@ The rest of the project explores how far this explanatory thread can be pulled b
 > *What's currently evolving in the framework.*
 >  | Note                                                                                                                                                        | status | Updated    |
 > | ----------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | ---------- |
+> | [[04-Resources/Atoms/Perspective\|Perspective]]                                                                                                          | draft  | 2025-12-29 |
 > | [[04-Resources/Atoms/Persistence Bias\|Persistence Bias]]                                                                                                | draft  | 2025-12-29 |
 > | [[04-Resources/Atoms/Persistence (Metastable State Property)\|Persistence (Metastable State Property)]]                                                  | draft  | 2025-12-29 |
 > | [[04-Resources/Atoms/Noise\|Noise]]                                                                                                                      | draft  | 2025-12-29 |
@@ -169,7 +170,6 @@ The rest of the project explores how far this explanatory thread can be pulled b
 > | [[04-Resources/Atoms/Recursion\|Recursion]]                                                                                                              | draft  | 2025-12-29 |
 > | [[04-Resources/Atoms/Time\|Time]]                                                                                                                        | draft  | 2025-12-29 |
 > | [[04-Resources/Molecules/Qualia and Recursion\|Qualia and Recursion]]                                                                                    | draft  | 2025-12-29 |
-> | [[04-Resources/Atoms/Perspective\|Perspective]]                                                                                                          | draft  | 2025-12-26 |
 > 
 { .block-language-dataview}
 ---
@@ -185,6 +185,7 @@ The rest of the project explores how far this explanatory thread can be pulled b
 
 | Changed                                                                                                                    | When             |
 | -------------------------------------------------------------------------------------------------------------------------- | ---------------- |
+| [[04-Resources/Atoms/Perspective\|Perspective]]                                                                         | 2025-12-29 23:58 |
 | [[04-Resources/Atoms/Persistence Bias\|Persistence Bias]]                                                               | 2025-12-29 23:56 |
 | [[04-Resources/Atoms/Persistence (Metastable State Property)\|Persistence (Metastable State Property)]]                 | 2025-12-29 23:48 |
 | [[04-Resources/Atoms/Noise\|Noise]]                                                                                     | 2025-12-29 23:37 |
@@ -198,7 +199,6 @@ The rest of the project explores how far this explanatory thread can be pulled b
 | [[04-Resources/Atoms/Recursion\|Recursion]]                                                                             | 2025-12-29 12:39 |
 | [[04-Resources/Atoms/Time\|Time]]                                                                                       | 2025-12-29 12:39 |
 | [[04-Resources/Molecules/Qualia and Recursion\|Qualia and Recursion]]                                                   | 2025-12-29 12:39 |
-| [[04-Resources/Atoms/Perspective\|Perspective]]                                                                         | 2025-12-26 17:48 |
 
 { .block-language-dataview}
 -----
