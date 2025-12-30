@@ -3,70 +3,59 @@
 ---
 
 [[02-Projects/The Recursive Garden/The Recursive Garden\|🏠 Home]] · [[04-Resources/Reading Notes\|📚 Reading Notes]] · [[04-Resources/Articles/Articles\|📝 Articles]] · [[02-Projects/The Recursive Garden/About\|ℹ️ About]]
-# **Distinction**
+# Distinction
 
-## Definition
+A **distinction** is an **[[04-Resources/Atoms/Ontic\|ontic]], scale-relative partition of a system’s effective [[04-Resources/Atoms/State Space\|state space]]** such that, under identical driving and [[04-Resources/Atoms/Noise\|noise]] conditions, the **statistical distribution of future trajectories depends on which side of the partition the system occupies**.
 
-A **distinction** is an **ontic partition of a system’s state space** such that the system’s future evolution depends asymmetrically on which side of the partition it occupies.
+Equivalently: distinction exists when, under a fixed dynamical evolution and noise model, initial conditions on opposite sides of a partition make different future trajectories physically reachable.
 
-A distinction becomes **[[04-Resources/Atoms/Persistent Distinction\|persistent]]** when physical dynamics suppress transitions across the partition over timescales long compared to characteristic fluctuations.
+Distinctions arise from [[04-Resources/Atoms/Constraint\|constraints]], barriers, couplings, and energetic costs that differentially shape system [[Dynamics\|dynamics]]. They are defined relative to an effective [[Coarse Graining\|coarse graining]] and may exist at one scale while dissolving at another without becoming [[04-Resources/Atoms/Epistemic\|epistemic]] or observer-dependent.
 
----
-## Ontic core
+Through this role, a distinction:
 
-Ontically, a distinction exists when:
-- system dynamics differentiate regions of state space with respect to future evolution,
-- occupying one region constrains or enables outcomes unavailable from another.
-
-A **persistent distinction** further requires:
-- separation into stable or meta-stable regions of state space,
-- transition rates across the boundary suppressed relative to thermal or stochastic noise,
-- maintenance through dissipation, continuous driving, or loss of microscopic reversibility.
-
-Such partitions exist independently of observation, interpretation, or representation.
+- produces [[Counterfactual Exclusion\|counterfactually]] distinct future ensembles,
+- introduces dynamical [[Asymmetry\|asymmetry]] without invoking purpose,
+- provides the minimal physical substrate for information, memory, and control.
 
 ---
-## Relation to perspective (non-constitutive)
+### Distillation
 
-A distinction **may be accessed epistemically** by a system with a [[04-Resources/Atoms/Perspective\|Perspective]], but perspective does not create the distinction.
-
-Perspective determines:
-- how an existing distinction is detected or resolved,
-- how it is encoded (e.g. as a bit, category, or symbol),
-- how it is used for inference, control, or action.
-
-Ontic structure constrains epistemic access; epistemic access does not generate ontic structure.
+Differences arise freely through [[Fluctuation\|fluctuation]].  
+A distinction exists when differences constrain what can happen next.
 
 ---
-## Distillation
+### Why it matters
 
-Differences arise freely through fluctuation.  
-A distinction exists when asymmetry constrains future dynamics.  
-A distinction becomes real and usable when physical processes make that asymmetry persist against noise.
-
----
-## Why it matters
-
-- **Foundations of information:** Explains why bits require physical substrates rather than abstract state labels.
-- **Thermodynamics:** Grounds memory and structure in metastability, dissipation, and entropy production.
-- **Time and recursion:** Clarifies why ordered change and feedback require persistent physical asymmetries.
-- **AI and cognition:** Separates representation from the physical conditions that make memory possible.
+- **Constraint:** Distinctions are defined by constraint-mediated partitions of state space.
+- **Persistence:** Only distinctions with suppressed transition rates can stabilize into memory.
+- **Recursion:** Distinctions are the raw material recursion operates over.
+- **RDD coherence:** Establishes asymmetry as the minimal ontic requirement for structure.
 
 ---
 ## Links
+### Related atoms
+- [[04-Resources/Atoms/Entropy\|Entropy]]
+- [[04-Resources/Atoms/Epistemic\|Epistemic]]
+- [[04-Resources/Atoms/Noise\|Noise]]
+- [[04-Resources/Atoms/Ontic\|Ontic]]
+- [[04-Resources/Atoms/Persistence (Metastable State Property)\|Persistence (Metastable State Property)]]
+- [[04-Resources/Atoms/Persistent Distinction\|Persistent Distinction]]
+- [[04-Resources/Atoms/Perspective\|Perspective]]
+- [[04-Resources/Atoms/Potential\|Potential]]
+- [[04-Resources/Atoms/Record (Memory Substrate)\|Record (Memory Substrate)]]
+- [[04-Resources/Atoms/State Space\|State Space]]
+- [[04-Resources/Atoms/Umwelt\|Umwelt]]
 
-- Related atoms:
-  - [[04-Resources/Atoms/Ontic\|Ontic]]
-  - [[04-Resources/Atoms/Epistemic\|Epistemic]]
-  - [[04-Resources/Atoms/Perspective\|Perspective]]
-  - [[04-Resources/Atoms/Persistence (Metastable State Property)\|Persistence]]
-  - [[State Space\|State Space]]
-  - [[Bit\|Bit]]
-  - [[Symmetry Breaking\|Symmetry Breaking]]
-  - [[04-Resources/Atoms/Persistent Distinction\|Persistent Distinction]]
-- Used in molecules:
-  - [[04-Resources/Molecules/What is Reality under RDD\|What is Reality under RDD]]
-  - [[Bit Genesis\|Bit Genesis]]
+{ .block-language-dataview}
+### Used in molecules
+
+{ .block-language-dataview}
+
+---
+### Conflicts with
+
+- Views that treat distinctions as purely epistemic or representational.
+- Accounts that identify information with abstract state labels independent of dynamics.
 
 ---
 ## Sources
@@ -97,6 +86,12 @@ This framework isolates the **prior physical conditions under which distinctions
 ---
 ## Re-contextualization Log
 
-- **[[06-Daily/2025-12-24\|2025-12-24]]** · *context:* RDD refinement + Landauer reread  
-  *effect:* strengthened  
-  *note:* Separated distinction from persistence; clarified asymmetry as the minimal ontic criterion.
+- **2025-12-29**
+    - **context:** Needed minimal ontic criterion separating difference from persistence
+    - **effect:** refined
+    - **note:** Reframed distinction in counterfactual, trajectory-based terms; compressed definition and separated persistence explicitly.
+        - The **definition now carries the explanatory load**. - Counterfactual necessity is explicit. - Experimental implications are implicit and unavoidable. - Ontic vs epistemic is enforced by dynamics, not assertion.
+- **[[06-Daily/2025-12-24\|2025-12-24]]**
+	- **context:** RDD refinement + Landauer reread
+	- **effect:** strengthened
+	- **note:** Separated distinction from persistence; clarified asymmetry as the minimal ontic criterion.

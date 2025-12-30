@@ -3,65 +3,83 @@
 ---
 
 [[02-Projects/The Recursive Garden/The Recursive Garden\|🏠 Home]] · [[04-Resources/Reading Notes\|📚 Reading Notes]] · [[04-Resources/Articles/Articles\|📝 Articles]] · [[02-Projects/The Recursive Garden/About\|ℹ️ About]]
+# Ontic
 
-> [!tip]- Distillation — one idea, in my words
-> - Write the irreducible insight. 50–120 words.
-> - State the claim/definition in one sentence first.
-> - Remove source phrasing; keep mechanism or rule.
-> - If you feel the need for “and,” split into another atom.
----
+**Ontic** refers to features of physical reality that **operate independently of any observer, model, or representational scheme**.
 
-Features of reality that exist and operate independently of any observer, model, or perspective.
+An ontic claim describes what the world *does*, not how it is described, interpreted, or inferred. Ontic structures determine which states are accessible, which transitions occur, and which patterns persist under interaction and [[04-Resources/Atoms/Noise\|noise]], regardless of whether they are observed or known.
 
----
-> [!info]- Why it matters – 1-3 bullets on utility, mechanism, implication.
-> - What decision does this change?
-> - What prediction does this enable?
-> - What failure does this prevent?
----
+Ontic does not mean complete, final, or certain.  
+It means **observer-independent** and **dynamically operative**.
 
-An ontic claim is about what the world *does*, not how it is described.  
-Ontic structures persist regardless of whether they are measured, known, or interpreted.
-
-Ontic concepts include:
-- physical constraints
-- dynamical laws
-- state-space structure
-- irreversible processes
-
-Ontic does **not** mean “certain” or “complete.”  
-It means *observer-independent*.
+Through this role, ontic structure:
+- constrains possible system trajectories in [[04-Resources/Atoms/State Space\|state space]],
+- determines which [[04-Resources/Atoms/Distinction\|distinctions]] can physically exist,
+- governs persistence, interaction, and causal influence,
+- limits which epistemic descriptions can succeed.
 
 ---
+### Distillation
 
-> [!question]- Links
-> - Does this collide/agree with an existing atom?
-> - Add at least one forward link to a molecule/canonical note.
-> - Add one tag-like topic (2–5 terms, not a dump).
+Ontic claims are about what the world does, not what we say about it.
+
 ---
+### Why it matters
 
-- Broader topic:
-- Related atoms:
-	- [[04-Resources/Atoms/Epistemic\|Epistemic]]
-	- [[04-Resources/Atoms/Distinction\|Distinction]]
-	- [[Persistence\|Persistence]]
-	- [[State Space\|State Space]]
-	- [[Entropy\|Entropy]]
-- Upstream source note:
+- **Epistemic:** Prevents confusing representation with causation.
+- **Distinction:** Only ontic partitions can ground real asymmetries.
+- **Persistence:** Stability requires ontic mechanisms, not descriptions.
+- **RDD coherence:** Keeps the framework anchored to physical dynamics rather than interpretation.
 
 ---
 
-> [!quote]- Source excerpt (optional)
-> Paste exact quote or figure caption.
+## Links
+
+### Related atoms
+- [[04-Resources/Atoms/Constraint\|Constraint]]
+- [[04-Resources/Atoms/Distinction\|Distinction]]
+- [[04-Resources/Atoms/Entropy\|Entropy]]
+- [[04-Resources/Atoms/Epistemic\|Epistemic]]
+- [[04-Resources/Atoms/Existence\|Existence]]
+- [[04-Resources/Atoms/Noise\|Noise]]
+- [[04-Resources/Atoms/Ontic\|Ontic]]
+- [[04-Resources/Atoms/Persistence (Metastable State Property)\|Persistence (Metastable State Property)]]
+- [[04-Resources/Atoms/Persistence Bias\|Persistence Bias]]
+- [[04-Resources/Atoms/Persistent Distinction\|Persistent Distinction]]
+- [[04-Resources/Atoms/Potential\|Potential]]
+- [[04-Resources/Atoms/Record (Memory Substrate)\|Record (Memory Substrate)]]
+- [[04-Resources/Atoms/Recursion\|Recursion]]
+- [[04-Resources/Atoms/State Space\|State Space]]
+- [[04-Resources/Atoms/Time\|Time]]
+
+{ .block-language-dataview}
+### Used in molecules
+
+
+{ .block-language-dataview}
+
 ---
+### Conflicts with
 
-
-
----
-> [!abstract]- Citation block (optional)
-> **Source:** {{source}} • **Page:** {{page}} • **Key:** {{citekey}}
----
-
-
+- Views that treat physical structure as observer- or model-dependent.
+- Interpretations that substitute description, meaning, or belief for mechanism.
+- Accounts that collapse ontic and epistemic distinctions.
 
 ---
+## Sources
+
+- **Source:** Ladyman, J., & Ross, D. (2009). _Every Thing Must Go: Metaphysics Naturalized_.
+    - **Key:** [[04-Resources/Sources/Literature Sources/@ladymanEveryThingMust2009\|@ladymanEveryThingMust2009]]
+    - **Use here:** Grounds ontology in physical structure rather than conceptual categories.
+        
+- **Source:** Dennett, D. C. (1991). _Real Patterns_.
+    - **Key:** [[04-Resources/Sources/Literature Sources/@dennettRealPatterns1991\|@dennettRealPatterns1991]]
+    - **Use here:** Clarifies which patterns count as real independently of description.
+
+---
+## Re-contextualization Log
+
+- **2025-12-29**
+    - **context:** Needed to distinguish ontic structure from epistemic access across RDD atoms
+    - **effect:** strengthened
+    - **note:** Reframed ontic as a dynamical constraint on possible trajectories and persistence, not merely observer-independence.

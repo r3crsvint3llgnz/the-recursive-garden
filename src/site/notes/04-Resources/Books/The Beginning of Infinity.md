@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/04-resources/books/the-beginning-of-infinity/","title":"The Beginning of Infinity","tags":["book","booknotes","#source"]}
+{"dg-publish":true,"permalink":"/04-resources/books/the-beginning-of-infinity/","title":"The Beginning of Infinity","tags":["book","booknotes","#source","rdd"]}
 ---
 
 [[02-Projects/The Recursive Garden/The Recursive Garden\|🏠 Home]] · [[04-Resources/Reading Notes\|📚 Reading Notes]] · [[04-Resources/Articles/Articles\|📝 Articles]] · [[02-Projects/The Recursive Garden/About\|ℹ️ About]]
 
-<pre class="dataview dataview-error">Dataview JS queries are disabled. You can enable them in the Dataview settings.</pre>
+<img src="https://books.google.com/books/content?id=WFZl7YvsiuIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover" style="max-width: 440px; max-height: 640px; width: auto; height: auto; object-fit: contain; border-radius: 6px; display: block;">
 
-<pre class="dataview dataview-error">Dataview JS queries are disabled. You can enable them in the Dataview settings.</pre>
+<p><span>★★★★★</span></p>
 
 > [!quote]- Citation  
 > [[04-Resources/Authors/David Deutsch\|David Deutsch]] (November 09, 2025). *The Beginning of Infinity*. Penguin UK.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/04-resources/atoms/kernel-reproducible-results/","tags":["atom"]}
+{"dg-publish":true,"permalink":"/04-resources/atoms/kernel-reproducible-results/","tags":["atom","Prompting","KERNEL","Reproducibility"]}
 ---
 
 # KERNEL — Reproducible results

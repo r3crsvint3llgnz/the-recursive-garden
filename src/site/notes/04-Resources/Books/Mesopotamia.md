@@ -5,7 +5,7 @@
 # Mesopotamia
 [[02-Projects/The Recursive Garden/The Recursive Garden\|Home]] · [[02-Projects/The Recursive Garden/About\|About]] · [[04-Resources/Reading Notes\|Reading Notes]]
 
-<pre class="dataview dataview-error">Dataview JS queries are disabled. You can enable them in the Dataview settings.</pre>
+<img src="https://books.google.com/books/content?id=h9KdzAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover" style="max-width: 440px; max-height: 640px; width: auto; height: auto; object-fit: contain; border-radius: 6px; display: block;">
 
 > [!quote]- Citation  
 > [[Captivating History\|Captivating History]] (November 22, 2025). *Mesopotamia*.
