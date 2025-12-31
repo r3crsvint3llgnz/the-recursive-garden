@@ -164,8 +164,8 @@ The rest of the project explores how far this explanatory thread can be pulled b
 > | [[02-Projects/Claims and Hypotheses/Persistent distinction equals suppressed transition rate\|Persistent distinction equals suppressed transition rate]] | draft  | 2025-12-29 |
 > | [[02-Projects/Claims and Hypotheses/Coarse graining determines which distinctions exist\|Coarse graining determines which distinctions exist]]           | draft  | 2025-12-29 |
 > | [[04-Resources/Molecules/What is Reality under RDD\|What is Reality under RDD]]                                                                          | draft  | 2025-12-29 |
-> | [[04-Resources/Molecules/Qualia\|Qualia]]                                                                                                                | draft  | 2025-12-29 |
 > | [[04-Resources/Molecules/Recursion in RDD: Mechanisms and Implications\|Recursion in RDD: Mechanisms and Implications]]                                  | draft  | 2025-12-29 |
+> | [[04-Resources/Molecules/Qualia\|Qualia]]                                                                                                                | draft  | 2025-12-29 |
 > | [[04-Resources/Atoms/Potential\|Potential]]                                                                                                              | draft  | 2025-12-29 |
 > | [[04-Resources/Atoms/Recursion\|Recursion]]                                                                                                              | draft  | 2025-12-29 |
 > | [[04-Resources/Atoms/Time\|Time]]                                                                                                                        | draft  | 2025-12-29 |
@@ -193,8 +193,8 @@ The rest of the project explores how far this explanatory thread can be pulled b
 | [[04-Resources/Atoms/Constraint\|Constraint]]                                                                           | 2025-12-29 23:08 |
 | [[04-Resources/Atoms/Distinction\|Distinction]]                                                                         | 2025-12-29 23:07 |
 | [[04-Resources/Molecules/What is Reality under RDD\|What is Reality under RDD]]                                         | 2025-12-29 12:50 |
-| [[04-Resources/Molecules/Qualia\|Qualia]]                                                                               | 2025-12-29 12:39 |
 | [[04-Resources/Molecules/Recursion in RDD: Mechanisms and Implications\|Recursion in RDD: Mechanisms and Implications]] | 2025-12-29 12:39 |
+| [[04-Resources/Molecules/Qualia\|Qualia]]                                                                               | 2025-12-29 12:39 |
 | [[04-Resources/Atoms/Potential\|Potential]]                                                                             | 2025-12-29 12:39 |
 | [[04-Resources/Atoms/Recursion\|Recursion]]                                                                             | 2025-12-29 12:39 |
 | [[04-Resources/Atoms/Time\|Time]]                                                                                       | 2025-12-29 12:39 |
