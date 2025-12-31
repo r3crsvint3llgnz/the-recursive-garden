@@ -12,8 +12,8 @@ const sortTree = (unsorted) => {
         }
       }
 
-      const a_is_note = a.indexOf(".md") > -1;
-      const b_is_note = b.indexOf(".md") > -1;
+      const a_is_note = a.indexOf('.md') > -1;
+      const b_is_note = b.indexOf('.md') > -1;
 
       if (a_is_note && !b_is_note) {
         return 1;
@@ -47,17 +47,18 @@ const sortTree = (unsorted) => {
     }, {});
 
   for (const key of Object.keys(orderedTree)) {
-    if (orderedTree[key].isFolder) {
-      orderedTree[key] = sortTree(orderedTree[key]);
+    const k = key;
+    if (orderedTree[k].isFolder) {
+      orderedTree[k] = sortTree(orderedTree[k]);
     }
   }
 
   return orderedTree;
 };
 
-function getPermalinkMeta(note, key) {
-  let permalink = "/";
-  let parts = note.filePathStem.split("/");
+function getPermalinkMeta(note) {
+  let permalink = '/';
+  let parts = note.filePathStem.split('/');
   let name = parts[parts.length - 1];
   let noteIcon = process.env.NOTE_ICON_DEFAULT;
   let hide = false;
@@ -67,8 +68,8 @@ function getPermalinkMeta(note, key) {
     if (note.data.permalink) {
       permalink = note.data.permalink;
     }
-    if (note.data.tags && note.data.tags.indexOf("gardenEntry") != -1) {
-      permalink = "/";
+    if (note.data.tags && note.data.tags.indexOf('gardenEntry') != -1) {
+      permalink = '/';
     }
     if (note.data.title) {
       name = note.data.title;
@@ -84,12 +85,12 @@ function getPermalinkMeta(note, key) {
     if (note.data.pinned) {
       pinned = note.data.pinned;
     }
-    if (note.data["dg-path"]) {
-      folders = note.data["dg-path"].split("/");
+    if (note.data['dg-path']) {
+      folders = note.data['dg-path'].split('/');
     } else {
-      folders = note.filePathStem.split("notes/")[1].split("/");
+      folders = note.filePathStem.split('notes/')[1].split('/');
     }
-    folders[folders.length - 1] += ".md";
+    folders[folders.length - 1] += '.md';
   } catch {
     //ignore
   }
