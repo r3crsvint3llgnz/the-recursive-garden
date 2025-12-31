@@ -12,7 +12,7 @@
     "build:sass": "sass src/site/styles:dist/styles --style compressed",
     "get-theme": "node src/site/get-theme.js",
     "build": "npm-run-all get-theme build:*",
-    "lint": "eslint ."
+    "lint": "eslint src/"
   },
   "keywords": [],
   "author": "",
@@ -24,6 +24,7 @@
     "@11ty/eleventy": "^3.1.2",
     "@11ty/eleventy-plugin-rss": "^2.0.4",
     "cross-env": "^7.0.3",
+    "eslint": "^9.39.2",
     "html-minifier-terser": "^7.2.0",
     "node-html-parser": "^6.1.13",
     "sass": "^1.49.9"
