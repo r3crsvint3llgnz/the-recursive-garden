@@ -1,13 +1,65 @@
 body {
-    /***
-      ADD YOUR CUSTOM STYLING HERE. (INSIDE THE body {...} section.)
-      IT WILL TAKE PRECEDENCE OVER THE STYLING IN THE STYLE.CSS FILE.
-   ***/
-    //  background-color: white;
-    //  .content {
-    //   font-size: 14px;
-    //  }
-    //  h1 {
-    //   color: black;
-    //  }
+  /* Blackbird theme colors */
+  --color-1: #fdf7cd;
+  --color-2: #00ecd8;
+  --color-3: #e92741;
+  --color-4: #3ec840;
+  --color-5: #e1dc3f;
+  --color-6: #418fdd;
+  --color-7: #ff9900;
+
+  --background-primary: #000000;
+  --background-secondary: #000000;
+  --text-normal: var(--color-1);
+  --text-accent: var(--color-3);
+  --text-muted: var(--color-5);
+
+  /* Accent from ghostbusters.css */
+  --interactive-accent: #ff6600;
+  --interactive-accent-hover: #ff8533;
+  --text-selection: rgba(255, 102, 0, 0.28);
+
+  /* Layout tweaks */
+  --dg-content-max-width: 900px;
+  --dg-content-line-height: 1.55;
+  --background-modifier-border: rgba(255, 255, 255, 0.08);
+  --background-modifier-border-hover: rgba(255, 255, 255, 0.14);
+  --background-modifier-form-field: rgba(255, 255, 255, 0.03);
+}
+
+/* Hide duplicate page title at the top (Eleventy sites often use .page-title or .note-title) */
+.page-title {
+  display: none !important;
+}
+
+/* Optional: Add glow and highlight effects from proton-glow.css and ghostbusters.css */
+a:hover,
+.internal-link:hover,
+.external-link:hover {
+  color: #ff6600 !important;
+  text-shadow: 0 0 8px rgba(255, 102, 0, 0.9);
+  text-decoration: none !important;
+}
+
+.callout {
+  border-radius: 10px;
+  padding: 12px 14px;
+}
+
+.nav-file-title.is-active {
+  box-shadow: inset 2px 0 0 rgba(255, 102, 0, 0.9);
+}
+
+.callout-title {
+  text-shadow: 0 0 4px rgba(255, 102, 0, 0.45);
+}
+
+/* Table tweaks */
+table {
+  border-collapse: separate;
+  border-spacing: 0;
+}
+th,
+td {
+  padding: 8px 10px;
 }
