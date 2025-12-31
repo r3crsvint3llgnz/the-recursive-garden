@@ -1,6 +1,6 @@
 // Put your computations here.
 
-function userComputed(data) {
+function userComputed() {
   return {};
 }
 

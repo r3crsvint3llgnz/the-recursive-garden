@@ -1,8 +1,8 @@
-require("dotenv").config();
-const axios = require("axios");
-const fs = require("fs");
-const crypto = require("crypto");
-const {globSync} = require("glob");
+require('dotenv').config();
+const axios = require('axios');
+const fs = require('fs');
+const crypto = require('crypto');
+const { globSync } = require('glob');
 
 const themeCommentRegex = /\/\*[\s\S]*?\*\//g;
 
@@ -14,32 +14,34 @@ async function getTheme() {
     try {
       await axios.get(themeUrl);
     } catch {
-      if (themeUrl.indexOf("theme.css") > -1) {
-        themeUrl = themeUrl.replace("theme.css", "obsidian.css");
-      } else if (themeUrl.indexOf("obsidian.css") > -1) {
-        themeUrl = themeUrl.replace("obsidian.css", "theme.css");
+      if (themeUrl.indexOf('theme.css') > -1) {
+        themeUrl = themeUrl.replace('theme.css', 'obsidian.css');
+      } else if (themeUrl.indexOf('obsidian.css') > -1) {
+        themeUrl = themeUrl.replace('obsidian.css', 'theme.css');
       }
     }
 
     const res = await axios.get(themeUrl);
     try {
-      const existing = globSync("src/site/styles/_theme.*.css");
+      const existing = globSync('src/site/styles/_theme.*.css');
       existing.forEach((file) => {
         fs.rmSync(file);
       });
-    } catch {}
+    } catch {
+      // Intentionally ignore errors when removing old theme files
+    }
     let skippedFirstComment = false;
     const data = res.data.replace(themeCommentRegex, (match) => {
       if (skippedFirstComment) {
-        return "";
+        return '';
       } else {
         skippedFirstComment = true;
         return match;
       }
     });
-    const hashSum = crypto.createHash("sha256");
+    const hashSum = crypto.createHash('sha256');
     hashSum.update(data);
-    const hex = hashSum.digest("hex");
+    const hex = hashSum.digest('hex');
     fs.writeFileSync(`src/site/styles/_theme.${hex.substring(0, 8)}.css`, data);
   }
 }
