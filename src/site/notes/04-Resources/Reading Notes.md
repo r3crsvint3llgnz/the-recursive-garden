@@ -58,8 +58,8 @@
 > | <img src='https://m.media-amazon.com/images/I/81SyhHiY-kL._SL1500_.jpg' height='120' style='border-radius:6px;object-fit:contain'/>                                           | [[04-Resources/Books/Consciousness in Practice\|Consciousness in Practice]]                         |       | 2025-12-22 |
 > | <img src='http://books.google.com/books/content?id=Mf5AAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api' height='120' style='border-radius:6px;object-fit:contain'/>  | [[04-Resources/Books/2001 A Space Odyssey\|2001 A Space Odyssey]]                                   | ★★★★★ | 2025-12-22 |
 > | <img src='http://books.google.com/books/content?id=f-W7AAAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api' height='120' style='border-radius:6px;object-fit:contain'/>  | [[04-Resources/Books/2010, Odyssey Two\|2010, Odyssey Two]]                                         | ★★★★☆ | 2025-12-22 |
-> | <img src='https://books.google.com/books/content?id=QJI3jvh8S30C&printsec=frontcover&img=1&zoom=1&source=gbs_api' height='120' style='border-radius:6px;object-fit:contain'/> | [[04-Resources/Books/A Brief History of Thought\|A Brief History of Thought]]                       | ★★★★☆ | 2025-12-22 |
 > | <img src='http://books.google.com/books/content?id=G7PkzB8scWgC&printsec=frontcover&img=1&zoom=1&source=gbs_api' height='120' style='border-radius:6px;object-fit:contain'/>  | [[04-Resources/Books/3001 The Final Odyssey\|3001 The Final Odyssey]]                               | ★★★★★ | 2025-12-22 |
+> | <img src='https://books.google.com/books/content?id=QJI3jvh8S30C&printsec=frontcover&img=1&zoom=1&source=gbs_api' height='120' style='border-radius:6px;object-fit:contain'/> | [[04-Resources/Books/A Brief History of Thought\|A Brief History of Thought]]                       | ★★★★☆ | 2025-12-22 |
 > 
 { .block-language-dataview}
 ---
@@ -75,11 +75,11 @@
 > - [[04-Resources/Sources/Literature Sources/leeDeltaLakeDefinitive\|leeDeltaLakeDefinitive]]
 > - [[04-Resources/Sources/Literature Sources/maturanaAutopoiesisCognitionRealization1980\|maturanaAutopoiesisCognitionRealization1980]]
 > - [[04-Resources/Sources/Literature Sources/newportSlowProductivityLost2024\|newportSlowProductivityLost2024]]
-> - [[04-Resources/Sources/Literature Sources/popperObjectiveKnowledgeEvolutionary1995\|popperObjectiveKnowledgeEvolutionary1995]]
-> - [[04-Resources/Sources/Literature Sources/spencer-brownLawsForm1994\|spencer-brownLawsForm1994]]
 > - [[04-Resources/Sources/Literature Sources/volodith1000HoursPrompt2025\|volodith1000HoursPrompt2025]]
-> - [[04-Resources/Sources/Literature Sources/woodillUnderstandingUnderstandingEssays2005\|woodillUnderstandingUnderstandingEssays2005]]
+> - [[04-Resources/Sources/Literature Sources/spencer-brownLawsForm1994\|spencer-brownLawsForm1994]]
+> - [[04-Resources/Sources/Literature Sources/popperObjectiveKnowledgeEvolutionary1995\|popperObjectiveKnowledgeEvolutionary1995]]
 > - [[04-Resources/Sources/Literature Sources/vonnegut2022017\|vonnegut2022017]]
+> - [[04-Resources/Sources/Literature Sources/woodillUnderstandingUnderstandingEssays2005\|woodillUnderstandingUnderstandingEssays2005]]
 > 
 { .block-language-dataview}
 ---
