@@ -1,0 +1,43 @@
+/* Custom fixes for layout and theme issues in Obsidian Digital Garden */
+body {
+  --dg-content-max-width: 1100px !important;
+  --background-primary: var(--background-primary, #181a1b) !important;
+  --text-normal: var(--text-normal, #dcddde) !important;
+  background-color: var(--background-primary) !important;
+  color: var(--text-normal) !important;
+}
+
+.markdown-rendered,
+.content {
+  max-width: var(--dg-content-max-width) !important;
+  margin: 0 auto !important;
+  padding: 2rem 1rem !important;
+}
+
+/* 1. FORCE LAYOUT WIDTH - Breaking out of the 700px/900px trap */
+main.content.cm-s-obsidian {
+  max-width: 1100px !important;
+  width: 95% !important;
+  margin: 0 auto !important;
+  display: block !important;
+}
+
+/* 2. THEME SYNC - Ensuring background-primary wins */
+body.theme-dark {
+  --background-primary: #020422 !important; /* Your deep space blue */
+  --text-normal: #e0e0e0 !important;
+  background-color: var(--background-primary) !important;
+}
+
+/* 3. DOUBLE TITLE REMOVAL - Hiding the auto-generated H1 */
+.content-header h1,
+.markdown-rendered h1:first-child,
+.post-title {
+  display: none !important;
+}
+
+/* 4. ENCODING CHARACTER FIX (Temporary CSS Patch) */
+/* This won't fix the underlying UTF-8 issue, but it hides broken symbols if they are in headers */
+.markdown-rendered:contains('â€') {
+  visibility: hidden;
+}
