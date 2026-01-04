@@ -1,8 +1,9 @@
-<script defer src="https://unpkg.com/lucide@latest"></script>
+
+<script defer src="https://unpkg.com/lucide@1.30.0"></script>
 <script defer>
-  document.addEventListener('DOMContentLoaded', () => {
-    lucide.createIcons({
-      attrs: { class: ['svg-icon'] }
-    });
+  window.addEventListener('DOMContentLoaded', () => {
+    if (window.lucide) {
+      window.lucide.createIcons({ attrs: { class: ['svg-icon'] } });
+    }
   });
 </script>
