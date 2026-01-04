@@ -56,9 +56,9 @@
 
 | File                                               | Atom                                               | topics                                                                                                       | created           |
 | -------------------------------------------------- | -------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ | ----------------- |
+| [[04-Resources/Atoms/Time\|Time]]               | [[04-Resources/Atoms/Time\|Time]]               | <ul><li>Recursive Distinction Dynamics</li><li>Dynamics</li><li>Thermodynamics</li><li>Time</li></ul>        | November 22, 2025 |
 | [[04-Resources/Atoms/Recursion\|Recursion]]     | [[04-Resources/Atoms/Recursion\|Recursion]]     | <ul><li>Recursive Distinction Dynamics</li><li>Dynamics</li><li>Cybernetics</li><li>Systems Theory</li></ul> | November 22, 2025 |
 | [[04-Resources/Atoms/Perspective\|Perspective]] | [[04-Resources/Atoms/Perspective\|Perspective]] | <ul><li>Recursive Distinction Dynamics</li><li>Information</li><li>Reference Frames</li></ul>                | November 22, 2025 |
-| [[04-Resources/Atoms/Time\|Time]]               | [[04-Resources/Atoms/Time\|Time]]               | <ul><li>Recursive Distinction Dynamics</li><li>Dynamics</li><li>Thermodynamics</li><li>Time</li></ul>        | November 22, 2025 |
 
 { .block-language-dataview}
 
