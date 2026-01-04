@@ -3,15 +3,15 @@
 body.theme-dark {
   --rg-accent: #ff6600;
   --rg-accent-strong: #ff8533;
-  --rg-bg: #020422;
-  --rg-bg-alt: #0a0f2b;
-  --rg-bg-panel: #0f1b38;
+  --rg-bg: #000000;
+  --rg-bg-alt: #000000;
+  --rg-bg-panel: #06090f;
   --rg-text: #e0e0e0;
   --rg-text-muted: #a5adbb;
 
   --background-primary: var(--rg-bg);
   --background-secondary: var(--rg-bg-alt);
-  --background-secondary-alt: #0c1330;
+  --background-secondary-alt: #000000;
   --background-modifier-border: rgba(255, 255, 255, 0.08);
   --background-modifier-border-hover: rgba(255, 255, 255, 0.14);
   --background-modifier-form-field: rgba(255, 255, 255, 0.03);
@@ -79,6 +79,22 @@ a,
 .internal-link,
 .external-link {
   color: var(--text-accent);
+}
+
+.home-link {
+  align-self: center;
+  color: var(--text-accent);
+  font-weight: 600;
+  text-decoration: none;
+  padding: 0.25rem 0.5rem;
+  border: 1px solid rgba(255, 102, 0, 0.35);
+  border-radius: 6px;
+  margin: 0.5rem 0;
+}
+
+.home-link:hover {
+  color: var(--text-accent-hover);
+  box-shadow: 0 0 8px rgba(255, 102, 0, 0.35);
 }
 
 a:hover,
