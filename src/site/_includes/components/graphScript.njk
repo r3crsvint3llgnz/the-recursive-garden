@@ -164,13 +164,21 @@
 
     function renderLocalGraph(graphData, depth, fullScreen) {
         if (graphData == null) {
-            return;
+            return null;
         }
-        if (window.graph){
-            window.graph._destructor();
+        try {
+            if (window.graph){
+                window.graph._destructor();
+            }
+            const data = filterLocalGraphData(graphData, depth);
+            if (!data || !data.nodes || data.nodes.length === 0) {
+                return null;
+            }
+            return renderGraph(data, 'link-graph', null, fullScreen);
+        } catch (e) {
+            console.warn('Local graph rendering failed:', e);
+            return null;
         }
-        const data = filterLocalGraphData(graphData, depth);
-        return renderGraph(data, 'link-graph', null, fullScreen);
     }
 
     function filterFullGraphData(graphData) {
