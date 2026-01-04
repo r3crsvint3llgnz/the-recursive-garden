@@ -1,61 +1,134 @@
-.theme-dark,
-body.theme-dark,
-.theme-light,
-body.theme-light {
-  background-color: var(--background-primary) !important;
-  color: var(--text-normal) !important;
-}
-/* Custom fixes for layout and theme issues in Obsidian Digital Garden */
-body {
-  --dg-content-max-width: 1100px !important;
-  --background-primary: var(--background-primary, #181a1b) !important;
-  --text-normal: var(--text-normal, #dcddde) !important;
-  background-color: var(--background-primary) !important;
-  color: var(--text-normal) !important;
-}
+/* Custom theme + layout overrides for the Digital Garden site. */
+:root,
+body.theme-dark {
+  --rg-accent: #ff6600;
+  --rg-accent-strong: #ff8533;
+  --rg-bg: #020422;
+  --rg-bg-alt: #0a0f2b;
+  --rg-bg-panel: #0f1b38;
+  --rg-text: #e0e0e0;
+  --rg-text-muted: #a5adbb;
 
-.markdown-rendered,
-.content {
-  max-width: var(--dg-content-max-width) !important;
-  margin: 0 auto !important;
-  padding: 2rem 1rem !important;
+  --background-primary: var(--rg-bg);
+  --background-secondary: var(--rg-bg-alt);
+  --background-secondary-alt: #0c1330;
+  --background-modifier-border: rgba(255, 255, 255, 0.08);
+  --background-modifier-border-hover: rgba(255, 255, 255, 0.14);
+  --background-modifier-form-field: rgba(255, 255, 255, 0.03);
+  --text-normal: var(--rg-text);
+  --text-muted: var(--rg-text-muted);
+  --text-accent: var(--rg-accent);
+  --text-accent-hover: var(--rg-accent-strong);
+  --interactive-accent: var(--rg-accent);
+  --interactive-accent-hover: var(--rg-accent-strong);
+  --text-selection: rgba(255, 102, 0, 0.28);
+
+  /* Avoid missing Inter webfont requests by using local/system stacks. */
+  --font-interface: "JetBrainsMono Nerd Font", "JetBrains Mono", "Fira Code", ui-sans-serif, system-ui, -apple-system, "Segoe UI", "Roboto", "Helvetica Neue", Arial, sans-serif;
+  --font-text: "JetBrainsMono Nerd Font", "JetBrains Mono", ui-sans-serif, system-ui, -apple-system, "Segoe UI", "Roboto", "Helvetica Neue", Arial, sans-serif;
+  --font-monospace: "JetBrainsMono Nerd Font", "JetBrains Mono", "Fira Code", "SFMono-Regular", Consolas, "Liberation Mono", Menlo, monospace;
+  --font-default: var(--font-text);
+  --font-ui: var(--font-interface);
+
+  --dg-content-max-width: 1200px;
+  --dg-sidebar-max-width: 320px;
+  --dg-sidebar-gap: 28px;
+  --dg-content-line-height: 1.6;
 }
 
 body,
 main.content {
-  background-color: var(--background-primary) !important;
+  background-color: var(--background-primary);
+  color: var(--text-normal);
+  font-family: var(--font-text);
 }
 
-.markdown-preview-view.markdown-rendered {
-  height: auto !important;
-  min-height: 100vh !important;
-  max-width: 1200px !important;
-  padding: 2rem !important;
-}
-/* 1. FORCE LAYOUT WIDTH - Breaking out of the 700px/900px trap */
-main.content.cm-s-obsidian {
-  max-width: 1100px !important;
-  width: 95% !important;
-  margin: 0 auto !important;
-  display: block !important;
+.markdown-rendered code,
+.markdown-rendered pre,
+code,
+pre {
+  font-family: var(--font-monospace);
 }
 
-/* 2. THEME SYNC - Ensuring background-primary wins */
-body.theme-dark {
-  --background-primary: #020422 !important; /* Your deep space blue */
-  --text-normal: #e0e0e0 !important;
-  background-color: var(--background-primary) !important;
+.markdown-rendered,
+.markdown-preview-view .markdown-preview-sizer {
+  line-height: var(--dg-content-line-height);
 }
 
-/* 3. DOUBLE TITLE REMOVAL - Hiding the auto-generated H1 */
+main.content {
+  max-width: var(--dg-content-max-width);
+  width: min(100%, var(--dg-content-max-width));
+  margin: 0 auto;
+  padding: clamp(1.5rem, 3vw, 2.5rem);
+}
+
+.content {
+  padding-left: clamp(1rem, 2vw, 2rem);
+  padding-right: clamp(1rem, 2vw, 2rem);
+}
+
+/* Hide duplicate page title in rendered notes. */
 .content-header h1,
 .markdown-rendered h1:first-child,
 .post-title {
-  display: none !important;
+  display: none;
 }
 
-/* 4. ENCODING CHARACTER FIX (Temporary CSS Patch) */
-/* This won't fix the underlying UTF-8 issue, but it hides broken symbols if they are in headers */
-.markdown-rendered:contains('â€') {
-  visibility: hidden;
+/* Links + accents. */
+a,
+.internal-link,
+.external-link {
+  color: var(--text-accent);
+}
+
+a:hover,
+.internal-link:hover,
+.external-link:hover {
+  color: var(--text-accent-hover);
+  text-shadow: 0 0 8px rgba(255, 102, 0, 0.75);
+  text-decoration: none;
+}
+
+/* Proton glow touches. */
+.markdown-source-view.mod-cm6.is-focused {
+  box-shadow: inset 0 0 0 1px rgba(255, 102, 0, 0.18),
+              inset 0 0 14px rgba(255, 102, 0, 0.08);
+}
+
+.workspace-leaf.mod-active .view-header {
+  box-shadow: inset 0 -1px 0 rgba(255, 102, 0, 0.35);
+}
+
+.nav-file-title:hover,
+.nav-folder-title:hover,
+.clickable-icon:hover {
+  text-shadow: 0 0 6px rgba(255, 102, 0, 0.55);
+}
+
+.nav-file-title.is-active {
+  box-shadow: inset 2px 0 0 rgba(255, 102, 0, 0.9);
+}
+
+.callout {
+  border-radius: 10px;
+  padding: 12px 14px;
+}
+
+.callout-title {
+  text-shadow: 0 0 4px rgba(255, 102, 0, 0.45);
+}
+
+blockquote {
+  border-left-width: 3px;
+  opacity: 0.95;
+}
+
+table {
+  border-collapse: separate;
+  border-spacing: 0;
+}
+
+th,
+td {
+  padding: 8px 10px;
 }
