@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/04-resources/atoms/persistence-bias/","tags":["atom","RDD","foundational"]}
 ---
 
-[[02-Projects/The Recursive Garden/The Recursive Garden\|🏠 Home]] · [[04-Resources/Reading Notes\|📚 Reading Notes]] · [[04-Resources/Articles/Articles\|📝 Articles]] · [[02-Projects/The Recursive Garden/About\|ℹ️ About]]
+[[02-Projects/The Recursive Garden/The Recursive Garden\|🏠 Home]] · [[04-Resources/Reading Notes\|📚 Reading Notes]] · [[04-Resources/Articles/Articles\|📝 Articles]] · [[02-Projects/The Recursive Garden/About - Contact Info\|ℹ️ About]]
 # Persistence Bias
 
 **Persistence bias** is the **statistical asymmetry in transition probabilities** by which a system, under fixed [[Dynamics\|dynamics]], [[04-Resources/Atoms/Constraint\|constraints]], and [[04-Resources/Atoms/Noise\|noise]] statistics, is more likely to remain within or return to previously occupied regions of effective [[04-Resources/Atoms/State Space\|state space]] than to transition into radically reconfigured regions.

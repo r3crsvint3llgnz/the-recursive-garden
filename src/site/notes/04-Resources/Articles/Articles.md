@@ -3,7 +3,7 @@
 ---
 
 ![articles.png](/img/user/02-Projects/The%20Recursive%20Garden/_assets/articles.png)
-[[02-Projects/The Recursive Garden/The Recursive Garden\|🏠 Home]] · [[04-Resources/Reading Notes\|📚 Reading Notes]] · [[02-Projects/The Recursive Garden/About\|ℹ️ About]]
+[[02-Projects/The Recursive Garden/The Recursive Garden\|🏠 Home]] · [[04-Resources/Reading Notes\|📚 Reading Notes]] · [[02-Projects/The Recursive Garden/About - Contact Info\|ℹ️ About]]
 
 > [!note]+ Drafts in progress
 >  |                                                                                                                                                                                                                                       | Article                                                                                                                    | Topics                            | Status | Summary                                                                                                                                                                                                                                                                                                                        |

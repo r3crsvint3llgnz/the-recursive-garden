@@ -4,7 +4,7 @@
 
 
 # Freethinkers
-[[02-Projects/The Recursive Garden/The Recursive Garden\|Home]] · [[02-Projects/The Recursive Garden/About\|About]] · [[04-Resources/Reading Notes\|Reading Notes]]
+[[02-Projects/The Recursive Garden/The Recursive Garden\|Home]] · [[02-Projects/The Recursive Garden/About - Contact Info\|About - Contact Info]] · [[04-Resources/Reading Notes\|Reading Notes]]
 
 ![Cover]()
 
@@ -41,4 +41,4 @@
 > - External: 
 ---
 
-[[02-Projects/The Recursive Garden/The Recursive Garden\|Home]] · [[02-Projects/The Recursive Garden/About\|About]] · [[04-Resources/Reading Notes\|Reading Notes]]
+[[02-Projects/The Recursive Garden/The Recursive Garden\|Home]] · [[02-Projects/The Recursive Garden/About - Contact Info\|About - Contact Info]] · [[04-Resources/Reading Notes\|Reading Notes]]
