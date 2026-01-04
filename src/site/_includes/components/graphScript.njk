@@ -1,8 +1,17 @@
 <script>
     async function fetchGraphData() {
-        const graphData = await fetch('/graph.json').then(res => res.json());
-        const fullGraphData  = filterFullGraphData(graphData);
-        return {graphData, fullGraphData}
+        try {
+            const res = await fetch('/graph.json');
+            if (!res.ok) {
+                throw new Error(`Graph fetch failed with status ${res.status}`);
+            }
+            const graphData = await res.json();
+            const fullGraphData = filterFullGraphData(graphData);
+            return {graphData, fullGraphData};
+        } catch (e) {
+            console.warn('Graph data fetch failed:', e);
+            return {graphData: null, fullGraphData: null};
+        }
     }
 
     function getNextLevelNeighbours(existing, remaining) {
@@ -215,7 +224,30 @@
         return null;
     }
 </script>
-<div  x-init="{graphData, fullGraphData} = await fetchGraphData();" x-data="{ graphData: null, depth: 1, graph: null, fullGraph: null, showFullGraph: false, fullScreen: false, fullGraphData: null}" id="graph-component" x-bind:class="fullScreen ? 'graph graph-fs' : 'graph'" v-scope>
+<div x-data="{
+        graphData: null,
+        depth: 1,
+        graph: null,
+        fullGraph: null,
+        showFullGraph: false,
+        fullScreen: false,
+        fullGraphData: null,
+        initGraph() {
+            if (!this.graphData) {
+                return;
+            }
+            window.graph = renderLocalGraph(this.graphData, this.depth, this.fullScreen);
+        }
+    }"
+    x-init="({graphData, fullGraphData} = await fetchGraphData());
+        $nextTick(() => {
+            initGraph();
+            $watch('depth', () => initGraph());
+            $watch('fullScreen', () => initGraph());
+        })"
+    id="graph-component"
+    x-bind:class="fullScreen ? 'graph graph-fs' : 'graph'"
+    v-scope>
     <div class="graph-title-container">
         <div class="graph-title">Connected Pages</div>
         <div id="graph-controls">
@@ -232,12 +264,12 @@
                     <span id="depth-display" x-text="depth"></span>
                 </div>
                 <div class="ctrl-right">
-           init="$nextTick(() => { $watch('depth', () => window.graph = renderLocalGraph(graphData, depth, fullScreen)); $watch('fullScreen', () => window.graph = renderLocalGraph(graphData, depth, fullScreen)); window.graph = renderLocalGraph(graphData, depth, fullScreen); }e; setTimeout(() => {fullGraph = openFullGraph(fullGraphData)}, 100)"><i  data-lucide="globe" aria-hidden="true"></i></span>
+                    <span id="global-graph-btn" x-on:click="showFullGraph = true; setTimeout(() => {fullGraph = openFullGraph(fullGraphData)}, 100)"><i data-lucide="globe" aria-hidden="true"></i></span>
                     <span  id="graph-fs-btn"  x-on:click="fullScreen = !fullScreen"><i  data-lucide="expand" aria-hidden="true"></i></span>
                 </div>
         </div>
     </div>
-    <div x-effect="window.graph = renderLocalGraph(graphData, depth, fullScreen)" id="link-graph" ></div>
+    <div id="link-graph"></div>
     <div x-show="showFullGraph" id="full-graph" class="show" style="display: none;">
         <span id="full-graph-close" x-on:click="fullGraph = closefullGraph(fullGraph); showFullGraph = false;"><i data-lucide="x" aria-hidden="true"></i></span><div id="full-graph-container"></div>
     </div>
