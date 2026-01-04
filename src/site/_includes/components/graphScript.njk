@@ -167,6 +167,11 @@
             return null;
         }
         try {
+            const el = document.getElementById('link-graph');
+            if (!el) {
+                console.warn('Graph element not found');
+                return null;
+            }
             if (window.graph){
                 window.graph._destructor();
             }
@@ -227,7 +232,7 @@
                     <span id="depth-display" x-text="depth"></span>
                 </div>
                 <div class="ctrl-right">
-                    <span id="global-graph-btn" x-on:click="showFullGraph = true; setTimeout(() => {fullGraph = openFullGraph(fullGraphData)}, 100)"><i  data-lucide="globe" aria-hidden="true"></i></span>
+           init="$nextTick(() => { $watch('depth', () => window.graph = renderLocalGraph(graphData, depth, fullScreen)); $watch('fullScreen', () => window.graph = renderLocalGraph(graphData, depth, fullScreen)); window.graph = renderLocalGraph(graphData, depth, fullScreen); }e; setTimeout(() => {fullGraph = openFullGraph(fullGraphData)}, 100)"><i  data-lucide="globe" aria-hidden="true"></i></span>
                     <span  id="graph-fs-btn"  x-on:click="fullScreen = !fullScreen"><i  data-lucide="expand" aria-hidden="true"></i></span>
                 </div>
         </div>
