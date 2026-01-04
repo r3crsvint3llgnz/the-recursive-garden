@@ -15,7 +15,7 @@
 >
 > Most of what I publish starts as curiosity and becomes something operational: a definition, a model, a workflow, or a story that survives contact with reality.
 
-> [!example] Quick map
+> [!map] Quick map
 >
 >  | Go deeper                                                                                    |
 > | -------------------------------------------------------------------------------------------- |
@@ -39,7 +39,7 @@
 >
 > This garden exists to make that process visible.
 
-> [!important] What I do professionally (now)
+> [!work] What I do professionally (now)
 > I work at the intersection of **industrial operations and intelligent systems**.
 >
 > My focus is bringing AI, advanced process control, and decision models into real manufacturing environments: safely, reliably, and with measurable impact.
