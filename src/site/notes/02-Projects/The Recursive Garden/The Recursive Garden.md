@@ -14,18 +14,7 @@
 > If you want more context on my background, the kinds of problems I work on, and how this garden fits into my professional work, start here:
 → [[02-Projects/The Recursive Garden/About\|About me and my work]]
 
-> [!important] A concrete example
-> **Question:** What makes a distinction persist instead of dissolving into noise?
->
-> **How I break it apart:**
-> - What physical or informational boundary defines the distinction?
-> - What noise or pressure acts to erase it?
-> - What mechanisms suppress that erosion over time?
->
-> **What progress looks like here:**
-> Short notes, diagrams, models, and testable claims that get refined or discarded as understanding improves.
-
-> [!note] Workbench
+> [!work] Workbench
 > These are not topics. They are **questions and pressure points** that keep recurring across engineering, AI, systems design, and storytelling.
 >
 > Each entry below drops you into live notes, partial models, or applied work in progress. Think of this as a snapshot of what my attention is currently organized around.
@@ -38,7 +27,7 @@
 > 
 { .block-language-dataview}
 
-> [!example]+ Currently Processing (Reading)
+> [!book]+ Currently Processing (Reading)
 > What I’m actively reading informs what shows up in the notes and models above.
 >  |                                                                                                                                                                               | Title                                                                            | Author                                               | Year |
 > | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- | ---------------------------------------------------- | ---- |
