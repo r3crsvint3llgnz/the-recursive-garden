@@ -12,7 +12,7 @@
 > You’re not looking at a finished body of work. You’re looking at **how I approach problems**: how I break them down, test ideas against reality, build tools, and revise explanations when they fail.
 > 
 > If you want more context on my background, the kinds of problems I work on, and how this garden fits into my professional work, start here:
-→ [[02-Projects/The Recursive Garden/About - Contact Info\|About me and my work]]
+→ [[02-Projects/The Recursive Garden/About\|About me and my work]]
 
 > [!important] A concrete example
 > **Question:** What makes a distinction persist instead of dissolving into noise?
