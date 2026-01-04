@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/02-projects/industrial-ai-optimization/industrial-ai-optimizer-data-pipeline/","title":"Industrial AI Optimizer Data Pipeline","tags":["ai","article"]}
 ---
 
-[[02-Projects/The Recursive Garden/The Recursive Garden\|🏠 Home]] · [[04-Resources/Reading Notes\|📚 Reading Notes]] · [[04-Resources/Articles/Articles\|📝 Articles]] · [[02-Projects/The Recursive Garden/About\|ℹ️ About]]
+[[02-Projects/The Recursive Garden/The Recursive Garden\|🏠 Home]] · [[04-Resources/Reading Notes\|📚 Reading Notes]] · [[04-Resources/Articles/Articles\|📝 Articles]] · [[02-Projects/The Recursive Garden/About - Contact Info\|ℹ️ About]]
 
 ![aioarchitecture.png](/img/user/02-Projects/The%20Recursive%20Garden/_assets/aioarchitecture.png)
 ### **1. Extraction ([[OT Layer\|OT Layer]] → [[Edge\|Edge]])**
@@ -45,4 +45,4 @@
 - **The Role:** **[[Data Scientist\|Data Scientist]]**. They write: df = pd.read_parquet('s3://my-plant-data-gold/reactor_data.parquet').
 ---
 
-[[02-Projects/The Recursive Garden/The Recursive Garden\|🏠 Home]] · [[04-Resources/Reading Notes\|📚 Reading Notes]] · [[04-Resources/Articles/Articles\|📝 Articles]] · [[02-Projects/The Recursive Garden/About\|ℹ️ About]]
+[[02-Projects/The Recursive Garden/The Recursive Garden\|🏠 Home]] · [[04-Resources/Reading Notes\|📚 Reading Notes]] · [[04-Resources/Articles/Articles\|📝 Articles]] · [[02-Projects/The Recursive Garden/About - Contact Info\|ℹ️ About]]

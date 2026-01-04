@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/04-resources/atoms/distinction/","tags":["#atom","#RDD","#foundational","#information-physics"]}
 ---
 
-[[02-Projects/The Recursive Garden/The Recursive Garden\|🏠 Home]] · [[04-Resources/Reading Notes\|📚 Reading Notes]] · [[04-Resources/Articles/Articles\|📝 Articles]] · [[02-Projects/The Recursive Garden/About\|ℹ️ About]]
+[[02-Projects/The Recursive Garden/The Recursive Garden\|🏠 Home]] · [[04-Resources/Reading Notes\|📚 Reading Notes]] · [[04-Resources/Articles/Articles\|📝 Articles]] · [[02-Projects/The Recursive Garden/About - Contact Info\|ℹ️ About]]
 # Distinction
 
 A **distinction** is an **[[04-Resources/Atoms/Ontic\|ontic]], scale-relative partition of a system’s effective [[04-Resources/Atoms/State Space\|state space]]** such that, under identical driving and [[04-Resources/Atoms/Noise\|noise]] conditions, the **statistical distribution of future trajectories depends on which side of the partition the system occupies**.

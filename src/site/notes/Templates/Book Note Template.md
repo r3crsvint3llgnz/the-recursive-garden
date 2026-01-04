@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/templates/book-note-template/","title":"{{title}}","tags":["book","booknotes","#source"]}
 ---
 
-[[02-Projects/The Recursive Garden/The Recursive Garden\|🏠 Home]] · [[04-Resources/Reading Notes\|📚 Reading Notes]] · [[04-Resources/Articles/Articles\|📝 Articles]] · [[02-Projects/The Recursive Garden/About\|ℹ️ About]]
+[[02-Projects/The Recursive Garden/The Recursive Garden\|🏠 Home]] · [[04-Resources/Reading Notes\|📚 Reading Notes]] · [[04-Resources/Articles/Articles\|📝 Articles]] · [[02-Projects/The Recursive Garden/About - Contact Info\|ℹ️ About]]
 
 <img src="{{coverUrl}}" alt="Cover" style="max-width: 440px; max-height: 640px; width: auto; height: auto; object-fit: contain; border-radius: 6px; display: block;">
 
@@ -60,4 +60,4 @@
 > - External: {{URL}}
 ---
 
-[[02-Projects/The Recursive Garden/The Recursive Garden\|🏠 Home]] · [[04-Resources/Reading Notes\|📚 Reading Notes]] · [[04-Resources/Articles/Articles\|📝 Articles]] · [[02-Projects/The Recursive Garden/About\|ℹ️ About]]
+[[02-Projects/The Recursive Garden/The Recursive Garden\|🏠 Home]] · [[04-Resources/Reading Notes\|📚 Reading Notes]] · [[04-Resources/Articles/Articles\|📝 Articles]] · [[02-Projects/The Recursive Garden/About - Contact Info\|ℹ️ About]]

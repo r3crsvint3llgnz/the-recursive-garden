@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/04-resources/atoms/perspective/","tags":["#atom","#RDD"]}
 ---
 
-[[02-Projects/The Recursive Garden/The Recursive Garden\|🏠 Home]] · [[04-Resources/Reading Notes\|📚 Reading Notes]] · [[04-Resources/Articles/Articles\|📝 Articles]] · [[02-Projects/The Recursive Garden/About\|ℹ️ About]]
+[[02-Projects/The Recursive Garden/The Recursive Garden\|🏠 Home]] · [[04-Resources/Reading Notes\|📚 Reading Notes]] · [[04-Resources/Articles/Articles\|📝 Articles]] · [[02-Projects/The Recursive Garden/About - Contact Info\|ℹ️ About]]
 # Perspective
 
 ## Definition

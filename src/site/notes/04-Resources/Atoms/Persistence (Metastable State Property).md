@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/04-resources/atoms/persistence-metastable-state-property/","tags":["#atom","#RDD","#foundational","information-physics","thermodynamics"]}
 ---
 
-[[02-Projects/The Recursive Garden/The Recursive Garden\|🏠 Home]] · [[04-Resources/Reading Notes\|📚 Reading Notes]] · [[04-Resources/Articles/Articles\|📝 Articles]] · [[02-Projects/The Recursive Garden/About\|ℹ️ About]]
+[[02-Projects/The Recursive Garden/The Recursive Garden\|🏠 Home]] · [[04-Resources/Reading Notes\|📚 Reading Notes]] · [[04-Resources/Articles/Articles\|📝 Articles]] · [[02-Projects/The Recursive Garden/About - Contact Info\|ℹ️ About]]
 # Persistence
 
 **Persistence** is the **ontic property of a system occupying a region of effective [[04-Resources/Atoms/State Space\|state space]] such that transitions out of that region are statistically suppressed over time** relative to characteristic [[04-Resources/Atoms/Noise\|noise]].

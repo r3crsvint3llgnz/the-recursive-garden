@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/04-resources/atoms/epistemic/","tags":["atom","#foundational","#epistemology"]}
 ---
 
-[[02-Projects/The Recursive Garden/The Recursive Garden\|🏠 Home]] · [[04-Resources/Reading Notes\|📚 Reading Notes]] · [[04-Resources/Articles/Articles\|📝 Articles]] · [[02-Projects/The Recursive Garden/About\|ℹ️ About]]
+[[02-Projects/The Recursive Garden/The Recursive Garden\|🏠 Home]] · [[04-Resources/Reading Notes\|📚 Reading Notes]] · [[04-Resources/Articles/Articles\|📝 Articles]] · [[02-Projects/The Recursive Garden/About - Contact Info\|ℹ️ About]]
 # Epistemic
 
 **Epistemic** refers to how a system **accesses, represents, or reasons about ontic structure** given its particular [[04-Resources/Atoms/Perspective\|perspective]] and capacities.
