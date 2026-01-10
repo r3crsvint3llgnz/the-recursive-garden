@@ -65,9 +65,6 @@ pre {
 }
 
 main.content {
-  max-width: var(--dg-content-max-width);
-  width: min(100%, var(--dg-content-max-width));
-  margin: 0 auto;
   padding: clamp(1.5rem, 3vw, 2.5rem);
 }
 
