@@ -29,7 +29,7 @@
     "eslint-config-prettier": "^10.1.8",
     "eslint-plugin-import": "^2.32.0",
     "html-minifier-terser": "^7.2.0",
-    "node-html-parser": "^6.1.13",
+    "node-html-parser": "^7.0.1",
     "sass": "^1.49.9"
   },
   "dependencies": {
