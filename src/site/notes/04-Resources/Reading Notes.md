@@ -79,8 +79,8 @@
 > - [[04-Resources/Sources/Literature Sources/maturanaAutopoiesisCognitionRealization1980\|maturanaAutopoiesisCognitionRealization1980]]
 > - [[04-Resources/Sources/Literature Sources/newportSlowProductivityLost2024\|newportSlowProductivityLost2024]]
 > - [[04-Resources/Sources/Literature Sources/popperObjectiveKnowledgeEvolutionary1995\|popperObjectiveKnowledgeEvolutionary1995]]
-> - [[04-Resources/Sources/Literature Sources/volodith1000HoursPrompt2025\|volodith1000HoursPrompt2025]]
 > - [[04-Resources/Sources/Literature Sources/spencer-brownLawsForm1994\|spencer-brownLawsForm1994]]
+> - [[04-Resources/Sources/Literature Sources/volodith1000HoursPrompt2025\|volodith1000HoursPrompt2025]]
 > - [[04-Resources/Sources/Literature Sources/vonnegut2022017\|vonnegut2022017]]
 > - [[04-Resources/Sources/Literature Sources/woodillUnderstandingUnderstandingEssays2005\|woodillUnderstandingUnderstandingEssays2005]]
 > 
