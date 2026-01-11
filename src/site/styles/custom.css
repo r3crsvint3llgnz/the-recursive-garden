@@ -39,8 +39,10 @@ body.theme-dark {
   --font-default: var(--font-text);
   --font-ui: var(--font-interface);
 
-  --dg-content-max-width: 1200px;
-  --dg-sidebar-max-width: 320px;
+  --dg-content-max-width: clamp(960px, 72vw, 1500px);
+  --dg-right-panel-width: clamp(220px, 16vw, 320px);
+  --dg-right-panel-gap: var(--dg-sidebar-gap);
+  --dg-sidebar-max-width: var(--dg-right-panel-width);
   --dg-sidebar-gap: 28px;
   --dg-content-line-height: 1.6;
 }
@@ -71,6 +73,42 @@ main.content {
 .content {
   padding-left: clamp(1rem, 2vw, 2rem);
   padding-right: clamp(1rem, 2vw, 2rem);
+  max-width: min(100%, var(--dg-content-max-width));
+  min-width: 0;
+}
+
+@media (min-width: 1401px) {
+  .content {
+    max-width: min(
+      100%,
+      var(--dg-content-max-width),
+      calc(100vw - var(--dg-right-panel-width) - var(--dg-right-panel-gap) - 40px)
+    );
+  }
+
+  .sidebar {
+    width: var(--dg-right-panel-width);
+    max-width: var(--dg-right-panel-width);
+  }
+}
+
+@media (min-width: 1100px) {
+  aside > .sidebar {
+    left: auto !important;
+    right: 0 !important;
+    position: fixed !important;
+    width: var(--dg-right-panel-width);
+    max-width: var(--dg-right-panel-width);
+  }
+
+  .content {
+    margin-right: calc(var(--dg-right-panel-width) + var(--dg-right-panel-gap)) !important;
+  }
+}
+
+#tooltip-wrapper {
+  max-width: min(400px, calc(100vw - 24px)) !important;
+  overflow: hidden;
 }
 
 /* Hide duplicate page title in rendered notes. */
