@@ -152,8 +152,8 @@ The rest of the project explores how far this explanatory thread can be pulled b
 > | ----------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | ---------- |
 > | [[04-Resources/Molecules/What is Reality under RDD\|What is Reality under RDD]]                                                                          | draft  | 2026-01-04 |
 > | [[04-Resources/Molecules/Recursion in RDD: Mechanisms and Implications\|Recursion in RDD: Mechanisms and Implications]]                                  | draft  | 2026-01-04 |
-> | [[04-Resources/Molecules/Qualia and Recursion\|Qualia and Recursion]]                                                                                    | draft  | 2026-01-04 |
 > | [[04-Resources/Molecules/Qualia\|Qualia]]                                                                                                                | draft  | 2026-01-04 |
+> | [[04-Resources/Molecules/Qualia and Recursion\|Qualia and Recursion]]                                                                                    | draft  | 2026-01-04 |
 > | [[04-Resources/Atoms/Time\|Time]]                                                                                                                        | draft  | 2026-01-04 |
 > | [[04-Resources/Atoms/Perspective\|Perspective]]                                                                                                          | draft  | 2026-01-04 |
 > | [[04-Resources/Atoms/Potential\|Potential]]                                                                                                              | draft  | 2026-01-04 |
@@ -187,8 +187,8 @@ The rest of the project explores how far this explanatory thread can be pulled b
 | -------------------------------------------------------------------------------------------------------------------------- | ---------------- |
 | [[04-Resources/Molecules/What is Reality under RDD\|What is Reality under RDD]]                                         | 2026-01-04 01:20 |
 | [[04-Resources/Molecules/Recursion in RDD: Mechanisms and Implications\|Recursion in RDD: Mechanisms and Implications]] | 2026-01-04 01:20 |
-| [[04-Resources/Molecules/Qualia and Recursion\|Qualia and Recursion]]                                                   | 2026-01-04 01:20 |
 | [[04-Resources/Molecules/Qualia\|Qualia]]                                                                               | 2026-01-04 01:20 |
+| [[04-Resources/Molecules/Qualia and Recursion\|Qualia and Recursion]]                                                   | 2026-01-04 01:20 |
 | [[04-Resources/Atoms/Time\|Time]]                                                                                       | 2026-01-04 01:20 |
 | [[04-Resources/Atoms/Perspective\|Perspective]]                                                                         | 2026-01-04 01:20 |
 | [[04-Resources/Atoms/Potential\|Potential]]                                                                             | 2026-01-04 01:20 |
