@@ -13,15 +13,19 @@
 ---
 
 > [!write]+ Latest chapters
->  | Chapter                                                            | Project                                   | Updated    |
-> | ------------------------------------------------------------------ | ----------------------------------------- | ---------- |
-> | [[02-Projects/Wake Novel/06_Chapters/Chapter One\|Chapter One]] | [[02-Projects/Wake Novel\|Wake Novel]] | 2026-01-11 |
+>  | Chapter                                                                | Project                                   | Updated    |
+> | ---------------------------------------------------------------------- | ----------------------------------------- | ---------- |
+> | [[02-Projects/Wake Novel/06_Chapters/Chapter Three\|Chapter Three]] | [[02-Projects/Wake Novel\|Wake Novel]] | 2026-01-12 |
+> | [[02-Projects/Wake Novel/06_Chapters/Chapter Two\|Chapter Two]]     | [[02-Projects/Wake Novel\|Wake Novel]] | 2026-01-12 |
+> | [[02-Projects/Wake Novel/06_Chapters/Chapter One\|Chapter One]]     | [[02-Projects/Wake Novel\|Wake Novel]] | 2026-01-11 |
 > 
 { .block-language-dataview}
 ---
 
 > [!abstract]+ Novel folders
 >  - [[02-Projects/Wake Novel/06_Chapters/Chapter One\|Chapter One]]
+> - [[02-Projects/Wake Novel/06_Chapters/Chapter Three\|Chapter Three]]
+> - [[02-Projects/Wake Novel/06_Chapters/Chapter Two\|Chapter Two]]
 > - [[02-Projects/Novels\|Novels]]
 > - [[02-Projects/Wake Novel\|Wake Novel]]
 > 
