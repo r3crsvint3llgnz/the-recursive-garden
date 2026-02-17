@@ -34,7 +34,7 @@
   },
   "dependencies": {
     "@11ty/eleventy-img": "^4.0.2",
-    "@sindresorhus/slugify": "^1.1.0",
+    "@sindresorhus/slugify": "^3.0.0",
     "axios": "^1.2.2",
     "dotenv": "^17.2.3",
     "eleventy-plugin-gen-favicons": "^1.1.2",
