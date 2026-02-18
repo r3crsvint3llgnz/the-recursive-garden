@@ -99,7 +99,4 @@ async function getGraph(data) {
   };
 }
 
-exports.wikiLinkRegex = wikiLinkRegex;
-exports.internalLinkRegex = internalLinkRegex;
-exports.extractLinks = extractLinks;
-exports.getGraph = getGraph;
+export { wikiLinkRegex, internalLinkRegex, extractLinks, getGraph };

@@ -4,4 +4,4 @@ function userComputed() {
   return {};
 }
 
-exports.userComputed = userComputed;
+export { userComputed };
