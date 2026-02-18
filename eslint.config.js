@@ -1,5 +1,4 @@
 import js from '@eslint/js';
-import importPlugin from 'eslint-plugin-import';
 import prettierConfig from 'eslint-config-prettier';
 
 export default [
@@ -24,9 +23,6 @@ export default [
         setInterval: 'readonly',
         clearInterval: 'readonly',
       },
-    },
-    plugins: {
-      import: importPlugin,
     },
     rules: {
       'no-undef': 'error',
