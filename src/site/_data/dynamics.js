@@ -1,4 +1,4 @@
-const fsFileTree = require("fs-file-tree");
+import fsFileTree from "fs-file-tree";
 
 const BASE_PATH = "src/site/_includes/components/user";
 const STYLE_PATH = "src/site/styles/user";
@@ -41,7 +41,7 @@ const generateStylesPaths = async () => {
   }
 };
 
-module.exports = async () => {
+export default async () => {
   const data = {};
   for (let index = 0; index < NAMESPACES.length; index++) {
     const ns = NAMESPACES[index];
