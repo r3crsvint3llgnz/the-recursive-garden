@@ -2,6 +2,7 @@
   "name": "web",
   "version": "1.0.0",
   "description": "",
+  "type": "module",
   "main": "index.js",
   "scripts": {
     "prebuild": "rimraf dist",
@@ -24,17 +25,17 @@
   "devDependencies": {
     "@11ty/eleventy": "^3.1.2",
     "@11ty/eleventy-plugin-rss": "^2.0.4",
+    "@eslint/js": "^10.0.0",
     "cross-env": "^10.1.0",
-    "eslint": "^9.39.2",
+    "eslint": "^10.0.0",
     "eslint-config-prettier": "^10.1.8",
-    "eslint-plugin-import": "^2.32.0",
     "html-minifier-terser": "^7.2.0",
     "node-html-parser": "^7.0.1",
     "sass": "^1.49.9"
   },
   "dependencies": {
     "@11ty/eleventy-img": "^4.0.2",
-    "@sindresorhus/slugify": "^1.1.0",
+    "@sindresorhus/slugify": "^3.0.0",
     "axios": "^1.2.2",
     "dotenv": "^17.2.3",
     "eleventy-plugin-gen-favicons": "^1.1.2",
