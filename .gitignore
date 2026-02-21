@@ -3,6 +3,7 @@ node_modules/
 dist/
 .cache/
 _site/
+build.log
 
 # Editor configs
 .vscode/
