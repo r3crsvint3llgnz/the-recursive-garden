@@ -1,0 +1,137 @@
+
+> web@1.0.0 prebuild
+> rimraf dist
+
+
+> web@1.0.0 build
+> npm-run-all get-theme build:*
+
+
+> web@1.0.0 get-theme
+> node src/site/get-theme.js
+
+
+> web@1.0.0 build:eleventy
+> cross-env ELEVENTY_ENV=prod NODE_OPTIONS=--max-old-space-size=4096 eleventy
+
+[11ty] Writing ./dist/feed.xml from ./src/site/feed.njk
+[11ty] Writing ./dist/graph.json from ./src/site/graph.njk
+[11ty] Writing ./dist/searchIndex.json from ./src/site/search-index.njk
+[11ty] Writing ./dist/sitemap.xml from ./src/site/sitemap.njk
+[11ty] Writing ./dist/404/index.html from ./src/site/404.njk
+[11ty] Writing ./dist/templates/book-note-template/index.html from ./src/site/notes/Templates/Book Note Template.md
+[11ty] Writing ./dist/templates/claim-hypothesis-template/index.html from ./src/site/notes/Templates/Claim-Hypothesis Template.md
+[11ty] Writing ./dist/templates/atom-template/index.html from ./src/site/notes/Templates/Atom Template.md
+[11ty] Writing ./dist/templates/experiment-example-template/index.html from ./src/site/notes/Templates/Experiment Example Template.md
+[11ty] Writing ./dist/templates/molecule-permanent-note-template/index.html from ./src/site/notes/Templates/Molecule (Permanent Note) Template.md
+[11ty] Writing ./dist/04-resources/reading-notes/index.html from ./src/site/notes/04-Resources/Reading Notes.md
+[11ty] Writing ./dist/02-projects/claims-and-hypotheses/persistent-distinction-equals-suppressed-transition-rate/index.html from ./src/site/notes/02-Projects/Claims and Hypotheses/Persistent distinction equals suppressed transition rate.md
+[11ty] Writing ./dist/02-projects/claims-and-hypotheses/coarse-graining-determines-which-distinctions-exist/index.html from ./src/site/notes/02-Projects/Claims and Hypotheses/Coarse graining determines which distinctions exist.md
+[11ty] Writing ./dist/02-projects/experiments/bistable-potential-and-kramers-escape/index.html from ./src/site/notes/02-Projects/Experiments/Bistable potential and Kramers escape.md
+[11ty] Writing ./dist/02-projects/claims-and-hypotheses/records-require-readable-persistence/index.html from ./src/site/notes/02-Projects/Claims and Hypotheses/Records require readable persistence.md
+[11ty] Writing ./dist/02-projects/experiments/coarse-graining-erases-distinctions/index.html from ./src/site/notes/02-Projects/Experiments/Coarse graining erases distinctions.md
+[11ty] Writing ./dist/02-projects/recursive-distinction-dynamics/recursive-distinction-dynamics/index.html from ./src/site/notes/02-Projects/Recursive Distinction Dynamics/Recursive Distinction Dynamics.md
+[11ty] Writing ./dist/02-projects/experiments/readout-induced-decay-of-records/index.html from ./src/site/notes/02-Projects/Experiments/Readout-induced decay of records.md
+[11ty] Writing ./dist/02-projects/industrial-ai-optimization/industrial-ai-optimizer-data-pipeline/index.html from ./src/site/notes/02-Projects/Industrial AI Optimization/Industrial AI Optimizer Data Pipeline.md
+[11ty] Writing ./dist/02-projects/the-recursive-garden/about/index.html from ./src/site/notes/02-Projects/The Recursive Garden/About.md
+[11ty] Writing ./dist/04-resources/articles/articles/index.html from ./src/site/notes/04-Resources/Articles/Articles.md
+[11ty] Writing ./dist/04-resources/atoms/acid-consistency/index.html from ./src/site/notes/04-Resources/Atoms/ACID - Consistency.md
+[11ty] Writing ./dist/04-resources/atoms/acid-durability/index.html from ./src/site/notes/04-Resources/Atoms/ACID - Durability.md
+[11ty] Writing ./dist/04-resources/atoms/acid-isolation/index.html from ./src/site/notes/04-Resources/Atoms/ACID - Isolation.md
+[11ty] Writing ./dist/04-resources/atoms/acid-transactions/index.html from ./src/site/notes/04-Resources/Atoms/ACID Transactions.md
+[11ty] Writing ./dist/04-resources/atoms/acid-atomicity/index.html from ./src/site/notes/04-Resources/Atoms/ACID - Atomicity.md
+[11ty] Writing ./dist/04-resources/atoms/chain-simple-prompts-one-complex-prompt/index.html from ./src/site/notes/04-Resources/Atoms/Chain simple prompts; one complex prompt.md
+[11ty] Writing ./dist/04-resources/atoms/constraint/index.html from ./src/site/notes/04-Resources/Atoms/Constraint.md
+[11ty] Writing ./dist/04-resources/atoms/entropy/index.html from ./src/site/notes/04-Resources/Atoms/Entropy.md
+[11ty] Writing ./dist/04-resources/atoms/existence/index.html from ./src/site/notes/04-Resources/Atoms/Existence.md
+[11ty] Writing ./dist/04-resources/atoms/distinction/index.html from ./src/site/notes/04-Resources/Atoms/Distinction.md
+[11ty] Writing ./dist/04-resources/atoms/epistemic/index.html from ./src/site/notes/04-Resources/Atoms/Epistemic.md
+[11ty] Writing ./dist/04-resources/atoms/kernel-is-model-agnostic/index.html from ./src/site/notes/04-Resources/Atoms/KERNEL is model-agnostic.md
+[11ty] Writing ./dist/04-resources/atoms/kernel-easy-to-verify/index.html from ./src/site/notes/04-Resources/Atoms/KERNEL — Easy to verify.md
+[11ty] Writing ./dist/04-resources/atoms/kernel-explicit-constraints/index.html from ./src/site/notes/04-Resources/Atoms/KERNEL — Explicit constraints.md
+[11ty] Writing ./dist/04-resources/atoms/kernel-logical-structure-ctcf/index.html from ./src/site/notes/04-Resources/Atoms/KERNEL — Logical structure (CTCF).md
+[11ty] Writing ./dist/04-resources/atoms/kernel-keep-it-simple/index.html from ./src/site/notes/04-Resources/Atoms/KERNEL — Keep it simple.md
+[11ty] Writing ./dist/04-resources/atoms/kernel-measurable-impact/index.html from ./src/site/notes/04-Resources/Atoms/KERNEL — measurable impact.md
+[11ty] Writing ./dist/04-resources/atoms/kernel-reproducible-results/index.html from ./src/site/notes/04-Resources/Atoms/KERNEL — Reproducible results.md
+[11ty] Writing ./dist/04-resources/atoms/medallion-architecture-layer-bronze/index.html from ./src/site/notes/04-Resources/Atoms/Medallion Architecture Layer - Bronze.md
+[11ty] Writing ./dist/04-resources/atoms/kernel-narrow-scope/index.html from ./src/site/notes/04-Resources/Atoms/KERNEL — Narrow scope.md
+[11ty] Writing ./dist/04-resources/atoms/medallion-architecture-layer-gold-1/index.html from ./src/site/notes/04-Resources/Atoms/Medallion Architecture Layer - Gold 1.md
+[11ty] Writing ./dist/04-resources/atoms/medallion-architecture-layer-silver/index.html from ./src/site/notes/04-Resources/Atoms/Medallion Architecture Layer - Silver.md
+[11ty] Writing ./dist/04-resources/atoms/medallion-architecture-layer-gold/index.html from ./src/site/notes/04-Resources/Atoms/Medallion Architecture Layer - Gold.md
+[11ty] Writing ./dist/04-resources/atoms/noise/index.html from ./src/site/notes/04-Resources/Atoms/Noise.md
+[11ty] Writing ./dist/04-resources/atoms/ontic/index.html from ./src/site/notes/04-Resources/Atoms/Ontic.md
+[11ty] Writing ./dist/04-resources/atoms/persistence-bias/index.html from ./src/site/notes/04-Resources/Atoms/Persistence Bias.md
+[11ty] Writing ./dist/04-resources/atoms/persistence-metastable-state-property/index.html from ./src/site/notes/04-Resources/Atoms/Persistence (Metastable State Property).md
+[11ty] Writing ./dist/04-resources/atoms/perspective/index.html from ./src/site/notes/04-Resources/Atoms/Perspective.md
+[11ty] Writing ./dist/04-resources/atoms/persistent-distinction/index.html from ./src/site/notes/04-Resources/Atoms/Persistent Distinction.md
+[11ty] Writing ./dist/04-resources/atoms/potential/index.html from ./src/site/notes/04-Resources/Atoms/Potential.md
+[11ty] Writing ./dist/04-resources/atoms/record-memory-substrate/index.html from ./src/site/notes/04-Resources/Atoms/Record (Memory Substrate).md
+[11ty] Writing ./dist/04-resources/atoms/recursion/index.html from ./src/site/notes/04-Resources/Atoms/Recursion.md
+[11ty] Writing ./dist/04-resources/atoms/umwelt/index.html from ./src/site/notes/04-Resources/Atoms/Umwelt.md
+[11ty] Writing ./dist/04-resources/atoms/time/index.html from ./src/site/notes/04-Resources/Atoms/Time.md
+[11ty] Writing ./dist/04-resources/authors/david-deutsch/index.html from ./src/site/notes/04-Resources/Authors/David Deutsch.md
+[11ty] Writing ./dist/04-resources/atoms/state-space/index.html from ./src/site/notes/04-Resources/Atoms/State Space.md
+[11ty] Writing ./dist/04-resources/authors/cal-newport/index.html from ./src/site/notes/04-Resources/Authors/Cal Newport.md
+[11ty] Writing ./dist/04-resources/authors/brian-heath/index.html from ./src/site/notes/04-Resources/Authors/Brian Heath.md
+[11ty] Writing ./dist/04-resources/authors/luc-ferry/index.html from ./src/site/notes/04-Resources/Authors/Luc Ferry.md
+[11ty] Writing ./dist/04-resources/books/2-b-r-0-2-b/index.html from ./src/site/notes/04-Resources/Books/2 B R 0 2 B.md
+[11ty] Writing ./dist/04-resources/authors/steven-novella/index.html from ./src/site/notes/04-Resources/Authors/Steven Novella.md
+[11ty] Writing ./dist/04-resources/books/2010-odyssey-two/index.html from ./src/site/notes/04-Resources/Books/2010, Odyssey Two.md
+[11ty] Writing ./dist/04-resources/books/2001-a-space-odyssey/index.html from ./src/site/notes/04-Resources/Books/2001 A Space Odyssey.md
+[11ty] Writing ./dist/04-resources/books/1776/index.html from ./src/site/notes/04-Resources/Books/1776.md
+[11ty] Writing ./dist/04-resources/books/a-brief-history-of-thought/index.html from ./src/site/notes/04-Resources/Books/A Brief History of Thought.md
+[11ty] Writing ./dist/04-resources/books/consciousness-in-practice/index.html from ./src/site/notes/04-Resources/Books/Consciousness in Practice.md
+[11ty] Writing ./dist/04-resources/books/freethinkers/index.html from ./src/site/notes/04-Resources/Books/Freethinkers.md
+[11ty] Writing ./dist/04-resources/books/3001-the-final-odyssey/index.html from ./src/site/notes/04-Resources/Books/3001 The Final Odyssey.md
+[11ty] Writing ./dist/04-resources/books/mesopotamia/index.html from ./src/site/notes/04-Resources/Books/Mesopotamia.md
+[11ty] Writing ./dist/04-resources/books/slow-productivity/index.html from ./src/site/notes/04-Resources/Books/Slow Productivity.md
+[11ty] Writing ./dist/04-resources/books/the-skeptics-guide-to-the-universe/index.html from ./src/site/notes/04-Resources/Books/The Skeptics' Guide to the Universe.md
+[11ty] Writing ./dist/04-resources/books/the-beginning-of-infinity/index.html from ./src/site/notes/04-Resources/Books/The Beginning of Infinity.md
+[11ty] Writing ./dist/04-resources/books/supergirl-woman-of-tomorrow/index.html from ./src/site/notes/04-Resources/Books/Supergirl Woman of Tomorrow.md
+[11ty] Writing ./dist/04-resources/books/two-thousand-three-hundred-and-twelve/index.html from ./src/site/notes/04-Resources/Books/Two Thousand Three Hundred and Twelve.md
+[11ty] Writing ./dist/04-resources/books/the-story-of-life-in-25-fossils/index.html from ./src/site/notes/04-Resources/Books/The Story of Life in 25 Fossils.md
+[11ty] Writing ./dist/04-resources/molecules/code/index.html from ./src/site/notes/04-Resources/Molecules/CODE.md
+[11ty] Writing ./dist/04-resources/molecules/ai-optimizer-infrastructure-roles/index.html from ./src/site/notes/04-Resources/Molecules/AI Optimizer Infrastructure Roles.md
+[11ty] Writing ./dist/04-resources/molecules/acid-transactions/index.html from ./src/site/notes/04-Resources/Molecules/ACID Transactions.md
+[11ty] Writing ./dist/04-resources/molecules/kernel-prompt-pattern-molecule/index.html from ./src/site/notes/04-Resources/Molecules/KERNEL — prompt pattern (molecule).md
+[11ty] Writing ./dist/04-resources/molecules/medallion-architecture/index.html from ./src/site/notes/04-Resources/Molecules/Medallion Architecture.md
+[11ty] Writing ./dist/04-resources/molecules/qualia/index.html from ./src/site/notes/04-Resources/Molecules/Qualia.md
+[11ty] Writing ./dist/04-resources/molecules/qualia-and-recursion/index.html from ./src/site/notes/04-Resources/Molecules/Qualia and Recursion.md
+[11ty] Writing ./dist/04-resources/molecules/recursion-in-rdd-mechanisms-and-implications/index.html from ./src/site/notes/04-Resources/Molecules/Recursion in RDD: Mechanisms and Implications.md
+[11ty] Writing ./dist/04-resources/molecules/process-entropy/index.html from ./src/site/notes/04-Resources/Molecules/Process Entropy.md
+[11ty] Writing ./dist/04-resources/molecules/what-is-reality-under-rdd/index.html from ./src/site/notes/04-Resources/Molecules/What is Reality under RDD.md
+[11ty] Writing ./dist/04-resources/prompts/critical-thinking-challenger-break-status-quo/index.html from ./src/site/notes/04-Resources/Prompts/Critical-thinking challenger (break status quo).md
+[11ty] Writing ./dist/04-resources/prompts/absurdly-useful-micro-prompts-grab-bag-pick-per-need/index.html from ./src/site/notes/04-Resources/Prompts/Absurdly useful micro-prompts (grab-bag; pick per need).md
+[11ty] Writing ./dist/04-resources/prompts/decision-filter-pros-cons-framework-no-advice/index.html from ./src/site/notes/04-Resources/Prompts/Decision filter (pros_cons_framework; no advice).md
+[11ty] Writing ./dist/04-resources/prompts/deep-work-session-designer/index.html from ./src/site/notes/04-Resources/Prompts/Deep Work Session Designer.md
+[11ty] Writing ./dist/04-resources/prompts/eisenhower-matrix-interpreter/index.html from ./src/site/notes/04-Resources/Prompts/Eisenhower Matrix Interpreter.md
+[11ty] Writing ./dist/04-resources/prompts/pareto-project-filter-80-20/index.html from ./src/site/notes/04-Resources/Prompts/Pareto Project Filter (80_20).md
+[11ty] Writing ./dist/04-resources/prompts/energy-audit-mapper/index.html from ./src/site/notes/04-Resources/Prompts/Energy Audit Mapper.md
+[11ty] Writing ./dist/04-resources/prompts/learn-a-topic-via-the-80-20-pass-pareto-learning/index.html from ./src/site/notes/04-Resources/Prompts/Learn a topic via the 80_20 pass (Pareto learning).md
+[11ty] Writing ./dist/04-resources/prompts/the-daily-focus-framework/index.html from ./src/site/notes/04-Resources/Prompts/The Daily Focus Framework.md
+[11ty] Writing ./dist/04-resources/prompts/the-meeting-to-action-framework/index.html from ./src/site/notes/04-Resources/Prompts/The Meeting-to-Action Framework.md
+[11ty] Writing ./dist/04-resources/prompts/ultimate-team-of-experts-multi-role-reasoning/index.html from ./src/site/notes/04-Resources/Prompts/Ultimate team of experts (multi-role reasoning).md
+[11ty] Writing ./dist/04-resources/prompts/weekly-review-protocol-gtd-style/index.html from ./src/site/notes/04-Resources/Prompts/Weekly Review Protocol (GTD-style).md
+[11ty] Writing ./dist/04-resources/prompts/the-task-to-plan-framework/index.html from ./src/site/notes/04-Resources/Prompts/The Task-to-Plan Framework.md
+[11ty] Writing ./dist/04-resources/prompts/three-pass-self-refine-interpret-answer-critique/index.html from ./src/site/notes/04-Resources/Prompts/Three-pass self-refine (interpret → answer → critique).md
+[11ty] Writing ./dist/04-resources/sources/literature-sources/fuchs-introduction-q-bism-application2014/index.html from ./src/site/notes/04-Resources/Sources/Literature Sources/@fuchsIntroductionQBismApplication2014.md
+[11ty] Writing ./dist/04-resources/sources/literature-sources/bohm-wholeness-implicate-order2002/index.html from ./src/site/notes/04-Resources/Sources/Literature Sources/bohmWholenessImplicateOrder2002.md
+[11ty] Writing ./dist/04-resources/sources/literature-sources/bateson-steps-ecology-mind1978/index.html from ./src/site/notes/04-Resources/Sources/Literature Sources/batesonStepsEcologyMind1978.md
+[11ty] Writing ./dist/04-resources/sources/literature-sources/deutsch-beginning-infinity-explanations2012/index.html from ./src/site/notes/04-Resources/Sources/Literature Sources/deutschBeginningInfinityExplanations2012.md
+[11ty] Writing ./dist/04-resources/sources/literature-sources/ferry-brief-history-thought2011/index.html from ./src/site/notes/04-Resources/Sources/Literature Sources/ferryBriefHistoryThought2011.md
+[11ty] Writing ./dist/04-resources/sources/literature-sources/heath-consciousness-practice2025/index.html from ./src/site/notes/04-Resources/Sources/Literature Sources/heathConsciousnessPractice2025.md
+[11ty] Writing ./dist/04-resources/sources/literature-sources/maturana-autopoiesis-cognition-realization1980/index.html from ./src/site/notes/04-Resources/Sources/Literature Sources/maturanaAutopoiesisCognitionRealization1980.md
+[11ty] Writing ./dist/04-resources/sources/literature-sources/hofstadter-godel-escher-bach/index.html from ./src/site/notes/04-Resources/Sources/Literature Sources/hofstadterGodelEscherBach.md
+[11ty] Writing ./dist/04-resources/sources/literature-sources/newport-slow-productivity-lost2024/index.html from ./src/site/notes/04-Resources/Sources/Literature Sources/newportSlowProductivityLost2024.md
+[11ty] Writing ./dist/04-resources/sources/literature-sources/lee-delta-lake-definitive/index.html from ./src/site/notes/04-Resources/Sources/Literature Sources/leeDeltaLakeDefinitive.md
+[11ty] Writing ./dist/04-resources/sources/literature-sources/volodith1000-hours-prompt2025/index.html from ./src/site/notes/04-Resources/Sources/Literature Sources/volodith1000HoursPrompt2025.md
+[11ty] Writing ./dist/04-resources/sources/literature-sources/popper-objective-knowledge-evolutionary1995/index.html from ./src/site/notes/04-Resources/Sources/Literature Sources/popperObjectiveKnowledgeEvolutionary1995.md
+[11ty] Writing ./dist/04-resources/sources/literature-sources/spencer-brown-laws-form1994/index.html from ./src/site/notes/04-Resources/Sources/Literature Sources/spencer-brownLawsForm1994.md
+[11ty] Writing ./dist/04-resources/sources/literature-sources/vonnegut2022017/index.html from ./src/site/notes/04-Resources/Sources/Literature Sources/vonnegut2022017.md
+[11ty] Writing ./dist/index.html from ./src/site/notes/02-Projects/The Recursive Garden/The Recursive Garden.md
+[11ty] Writing ./dist/04-resources/sources/literature-sources/woodill-understanding-understanding-essays2005/index.html from ./src/site/notes/04-Resources/Sources/Literature Sources/woodillUnderstandingUnderstandingEssays2005.md
+[11ty] Copied 12 Wrote 116 files in 10.80 seconds (93.1ms each, v3.1.2)
+
+> web@1.0.0 build:sass
+> sass src/site/styles:dist/styles --style compressed
+
