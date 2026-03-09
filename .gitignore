@@ -24,3 +24,4 @@ desktop.ini
 .env
 .env.*
 amplify-env.json
+copilot-instructions.md
