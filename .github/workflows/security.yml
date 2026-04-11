@@ -1,0 +1,76 @@
+name: Security Scanning
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+  schedule:
+    - cron: '0 0 * * 0' # Weekly on Sunday
+
+permissions:
+  contents: read
+  security-events: write
+
+jobs:
+  codeql:
+    name: CodeQL Analysis
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Initialize CodeQL
+        uses: github/codeql-action/init@v3
+        with:
+          languages: javascript-typescript
+
+      - name: Autobuild
+        uses: github/codeql-action/autobuild@v3
+
+      - name: Perform CodeQL Analysis
+        uses: github/codeql-action/analyze@v3
+        with:
+          category: /language:javascript-typescript
+
+  snyk:
+    name: Snyk Dependency Scan
+    runs-on: ubuntu-latest
+    # Only run if Snyk token is available; don't block CI if it's not
+    if: ${{ secrets.SNYK_TOKEN != '' }}
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Run Snyk scan
+        uses: snyk/actions/node@master
+        env:
+          SNYK_TOKEN: ${{ secrets.SNYK_TOKEN }}
+        with:
+          args: --severity-threshold=high
+          json: false
+
+      - name: Upload Snyk results to GitHub Security
+        uses: github/codeql-action/upload-sarif@v3
+        if: always()
+        with:
+          sarif_file: snyk.sarif
+          category: snyk
+
+  snyk-not-configured:
+    name: Snyk Setup Required
+    runs-on: ubuntu-latest
+    if: ${{ secrets.SNYK_TOKEN == '' }}
+    steps:
+      - name: Warn about missing Snyk token
+        run: |
+          echo "⚠️  Snyk is not configured for this repository."
+          echo ""
+          echo "To enable dependency scanning:"
+          echo "1. Visit: https://snyk.io/github"
+          echo "2. Authorize GitHub and connect this repository"
+          echo "3. Add SNYK_TOKEN to repository secrets:"
+          echo "   Settings > Secrets and variables > Actions > New repository secret"
+          echo ""
+          echo "See PR description for setup details."
+
