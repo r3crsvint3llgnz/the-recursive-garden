@@ -4,6 +4,13 @@ updates:
     directory: "/"
     schedule:
       interval: "weekly"
+    # Always update lock file to prevent npm ci failures
+    commit-message:
+      prefix: "build"
+      include: "scope"
+    # Dependabot will run npm install and commit updated package-lock.json
+    allow:
+      - dependency-type: "all"
     groups:
       dependencies:
         patterns:
