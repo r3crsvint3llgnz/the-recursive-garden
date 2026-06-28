@@ -5,7 +5,6 @@
     "main": "index.js",
     "scripts": {
         "prebuild": "rimraf dist",
-        "start": "npm-run-all get-theme build:sass --parallel watch:*",
         "dev": "npm-run-all get-theme build:sass --parallel watch:*",
         "watch:sass": "sass --watch src/site/styles:dist/styles",
         "watch:eleventy": "cross-env ELEVENTY_ENV=dev eleventy --serve",
@@ -23,7 +22,7 @@
     },
     "devDependencies": {
         "@11ty/eleventy": "^3.1.2",
-        "@11ty/eleventy-plugin-rss": "^3.0.0",
+        "@11ty/eleventy-plugin-rss": "^2.0.4",
         "cross-env": "^10.1.0",
         "html-minifier-terser": "^7.2.0",
         "node-html-parser": "^7.0.2",
@@ -32,7 +31,7 @@
     },
     "dependencies": {
         "@11ty/eleventy-img": "^4.0.2",
-        "@sindresorhus/slugify": "^3.0.0",
+        "@sindresorhus/slugify": "^1.1.0",
         "axios": "^1.2.2",
         "dotenv": "^16.0.3",
         "eleventy-plugin-gen-favicons": "^1.1.2",
