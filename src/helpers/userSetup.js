@@ -7,4 +7,4 @@ function userEleventySetup() {
   // Feel free to add any plugin you want here instead of /.eleventy.js
 }
 
-export { userMarkdownSetup, userEleventySetup };
+module.exports = { userMarkdownSetup, userEleventySetup };

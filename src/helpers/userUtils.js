@@ -4,4 +4,4 @@ function userComputed() {
   return {};
 }
 
-export { userComputed };
+module.exports = { userComputed };
