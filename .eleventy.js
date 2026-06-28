@@ -1,4 +1,4 @@
-const slugify = require("@sindresorhus/slugify").default;
+const slugify = require("@sindresorhus/slugify");
 const markdownIt = require("markdown-it");
 const fs = require("fs");
 const matter = require("gray-matter");
@@ -24,7 +24,7 @@ normalizeFavicon(FAVICON_SOURCE, FAVICON_NORMALIZED);
 const tocPlugin = require("eleventy-plugin-nesting-toc");
 const { parse } = require("node-html-parser");
 const htmlMinifier = require("html-minifier-terser");
-const pluginRss = require("@11ty/eleventy-plugin-rss").default;
+const pluginRss = require("@11ty/eleventy-plugin-rss");
 
 const { headerToId, namedHeadingsFilter } = require("./src/helpers/utils");
 const {
@@ -191,9 +191,8 @@ module.exports = function(eleventyConfig) {
             const gistPath = parts[0];
             const filename = parts[1] || '';
 
-            // Build the GitHub Gist embed URL — encode gistPath to prevent attribute injection
-            const encodedPath = gistPath.split('/').map(encodeURIComponent).join('/');
-            const gistUrl = `https://gist.github.com/${encodedPath}.js`;
+            // Build the GitHub Gist embed URL
+            const gistUrl = `https://gist.github.com/${gistPath}.js`;
             const scriptUrl = filename ? `${gistUrl}?file=${encodeURIComponent(filename)}` : gistUrl;
 
             return `<script src="${scriptUrl}"></script>`;
@@ -680,7 +679,7 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addTransform("htmlMinifier", async function(content) {
     if (
       (process.env.NODE_ENV === "production" || process.env.ELEVENTY_ENV === "prod") &&
-      (this.page?.outputPath || "").endsWith(".html")
+      (this.page.outputPath || "").endsWith(".html")
     ) {
       try {
         return await htmlMinifier.minify(content, {
