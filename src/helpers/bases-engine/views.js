@@ -191,7 +191,9 @@ function formatCellValue(value, column, row) {
 				}
 				// Unresolved link — render as dead link
 				const slug = item.replace(/^\/|\/$/g, "").split("/").pop() || item;
-				return `<a href="/404" class="internal-link is-unresolved">${escapeHtml(decodeURIComponent(slug))}</a>`;
+				let decodedSlug;
+				try { decodedSlug = decodeURIComponent(slug); } catch { decodedSlug = slug; }
+				return `<a href="/404" class="internal-link is-unresolved">${escapeHtml(decodedSlug)}</a>`;
 			}
 			if (typeof item === "string" && !item.startsWith("/") && item.includes("/")) {
 				// Non-URL path with slashes (e.g. raw wikilink stem like "04 - PERMANENT/Note Name") — dead link
@@ -324,7 +326,7 @@ function buildSummaryBar(columns, computedSummaries, summaryConfig) {
 function renderCards(view, properties) {
 	const { config, rows, groups } = view;
 	const columns = getColumns(config, rows, properties);
-	const cardSize = config.cardSize || 200;
+	const cardSize = parseInt(config.cardSize, 10) || 200;
 	const imageFit = config.imageFit || "cover";
 	const imageAspectRatio = config.imageAspectRatio || 1.5;
 	const imageField = config.image || null;
