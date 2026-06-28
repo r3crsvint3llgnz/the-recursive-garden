@@ -4,7 +4,6 @@ const path = require("path");
 const MAX_DIM = 512;
 
 function normalizeFavicon(inputPath, outputPath) {
-  if (!fs.existsSync(inputPath)) return;
   const content = fs.readFileSync(inputPath, "utf8");
 
   const svgTagMatch = content.match(/<svg\b[^>]*>/i);
