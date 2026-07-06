@@ -8,7 +8,7 @@ Live at `https://recursiveintelligence.xyz`.
 ```bash
 npm start        # Dev server (fetches theme, compiles SCSS, runs 11ty with watch)
 npm run build    # Production build → dist/
-npm run lint     # ESLint
+npm test         # Vitest
 ```
 
 Requires Node 22.x. Config in `.env` (site name, theme URL, feature flags).
@@ -48,6 +48,11 @@ expectations that must not be broken:
 
 ## Notes
 
-- Design tokens flow in from `recursive-style-system` via `tokens.json`
+- `recursive-style-system` repo referenced in design notes does not exist under `~/code` (confirmed 2026-06-30). `tokens.json` also not present. This integration is either not implemented or was removed — do not rely on it until the repo is located or recreated.
 - Output goes to `dist/` — gitignored
 - Live domain: `https://recursiveintelligence.xyz`
+
+## Related
+- [README.md](README.md) — concept/vision
+- [../CLAUDE.md](../CLAUDE.md) — RI workspace context
+- [../recursiveintelligence-website/CLAUDE.md](../recursiveintelligence-website/CLAUDE.md) — sibling site this garden aligns design with
