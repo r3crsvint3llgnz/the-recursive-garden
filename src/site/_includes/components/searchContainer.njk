@@ -18,9 +18,12 @@
             </div>
         </div>
 
+        <!-- custom: footer hint keys use search-key-hint (not search-keys) so
+             searchScript.njk's Mac ⌘K rewrite, which targets .search-keys on the
+             button above, does not also overwrite these. Preserve on plugin update. -->
         <footer class="search-box-footer">
             <div class="navigation-hint">
-                <span class="search-keys">{{ meta.uiStrings.searchEnterHotkey }}</span>
+                <span class="search-key-hint">{{ meta.uiStrings.searchEnterHotkey }}</span>
                 <span>{{ meta.uiStrings.searchEnterHint }}</span>
             </div>
 
@@ -31,7 +34,7 @@
             </div>
 
             <div class="navigation-hint">
-                <span class="search-keys">{{ meta.uiStrings.searchCloseHotkey }}</span>
+                <span class="search-key-hint">{{ meta.uiStrings.searchCloseHotkey }}</span>
                 <span>{{ meta.uiStrings.searchCloseHint }}</span>
             </div>
         </footer>
