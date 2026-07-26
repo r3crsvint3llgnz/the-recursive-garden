@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-active/the-recursive-garden/about-fiction-lab/","title":"Fiction Lab","tags":["about","fiction","draft"]}
+{"dg-publish":true,"title":"Fiction Lab","tags":["about","fiction","draft"],"section":"about","permalink":"/01-active/the-recursive-garden/about-fiction-lab/","dgPassFrontmatter":true,"dg-note-properties":{"title":"Fiction Lab","tags":["about","fiction","draft"],"section":"about"}}
 ---
 
 [[01_ACTIVE/The Recursive Garden/About\|← About]]

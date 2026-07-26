@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-databanks/atoms/persistence-metastable-state-property/","tags":["#atom","#RDD","#foundational","information-physics","thermodynamics"]}
+{"dg-publish":true,"tags":["#atom","#RDD","#foundational","information-physics","thermodynamics"],"topics":["Recursive Distinction Dynamics","Cybernetics","Thermodynamics","Thermodynamics of Information","State Space","Metastability","Time"],"kind":"atom","citekeys":"","created":"2025-11-22T21:10:00","updated":"2025-12-20T21:10:00","status":"draft","domain":"[[Ontic]]","permalink":"/03-databanks/atoms/persistence-metastable-state-property/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["#atom","#RDD","#foundational","information-physics","thermodynamics"],"topics":["Recursive Distinction Dynamics","Cybernetics","Thermodynamics","Thermodynamics of Information","State Space","Metastability","Time"],"kind":"atom","citekeys":"","created":"2025-11-22T21:10:00","updated":"2025-12-20T21:10:00","status":"draft","domain":"[[Ontic]]"}}
 ---
 
 [[01_ACTIVE/The Recursive Garden/The Recursive Garden\|🏠 Home]] · [[03-DATABANKS/Reading Notes\|📚 Reading Notes]] · [[03-DATABANKS/Articles/Articles\|📝 Articles]] · [[01_ACTIVE/The Recursive Garden/About - Contact Info\|ℹ️ About]]
@@ -67,9 +67,6 @@ What does not persist cannot inform the future.
 ## Links
 
 ### Related atoms
-- [[03-DATABANKS/Atoms/Constraint\|Constraint]]
-- [[03-DATABANKS/Atoms/Entropy\|Entropy]]
-- [[03-DATABANKS/Atoms/Persistent Distinction\|Persistent Distinction]]
 
 { .block-language-dataview}`
 ### Used in molecules

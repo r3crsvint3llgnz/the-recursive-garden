@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/03-databanks/authors/cal-newport/","tags":["author","people"]}
+{"dg-publish":true,"type":["author"],"tags":["author","people"],"born":null,"died":null,"nationality":"American","website":"https://calnewport.com/","wikipedia":"https://en.wikipedia.org/wiki/Cal_Newport","created":"2025-11-16T15:03:00","updated":"2025-11-16T15:03:00","permalink":"/03-databanks/authors/cal-newport/","dgPassFrontmatter":true,"dg-note-properties":{"type":["author"],"tags":["author","people"],"born":null,"died":null,"nationality":"American","website":"https://calnewport.com/","wikipedia":"https://en.wikipedia.org/wiki/Cal_Newport","created":"2025-11-16T15:03:00","updated":"2025-11-16T15:03:00"}}
 ---
 
 # Cal Newport
-[[01_ACTIVE/The Recursive Garden/The Recursive Garden\|Home]] · [[01_ACTIVE/The Recursive Garden/About - Contact Info\|About - Contact Info]] · [[03-DATABANKS/Reading Notes\|Reading Notes]]
+[[01_ACTIVE/The Recursive Garden/The Recursive Garden\|Home]] · [[01_ACTIVE/The Recursive Garden/About\|About]] · [[03-DATABANKS/Reading Notes\|Reading Notes]]
 
 > [!info]+ Biography
 > <Brief bio in your words. 3–6 sentences max. Key life events, domains, why they matter to you.>

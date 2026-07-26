@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-databanks/atoms/constraint/","tags":["atom","RDD","foundational"]}
+{"dg-publish":true,"kind":"atom","status":"draft","domain":"[[Ontic]]","tags":["atom","RDD","foundational"],"topics":["Recursive Distinction Dynamics","Physics","Dynamical Systems","Thermodynamics"],"created":"2025-12-26","updated":"2025-12-26","citekeys":["[[03-DATABANKS/Sources/Literature Sources/@goldsteinClassicalMechanics2000\|@goldsteinClassicalMechanics2000]]","[[03-DATABANKS/Sources/Literature Sources/@sethnaEntropyOrderParameters2021\|@sethnaEntropyOrderParameters2021]]","[[03-DATABANKS/Sources/Literature Sources/@fristonFreeenergyPrincipleUnified2010\|@fristonFreeenergyPrincipleUnified2010]]"],"permalink":"/03-databanks/atoms/constraint/","dgPassFrontmatter":true,"dg-note-properties":{"kind":"atom","status":"draft","domain":"[[Ontic]]","tags":["atom","RDD","foundational"],"topics":["Recursive Distinction Dynamics","Physics","Dynamical Systems","Thermodynamics"],"created":"2025-12-26","updated":"2025-12-26","citekeys":["[[03-DATABANKS/Sources/Literature Sources/@goldsteinClassicalMechanics2000\|@goldsteinClassicalMechanics2000]]","[[03-DATABANKS/Sources/Literature Sources/@sethnaEntropyOrderParameters2021\|@sethnaEntropyOrderParameters2021]]","[[03-DATABANKS/Sources/Literature Sources/@fristonFreeenergyPrincipleUnified2010\|@fristonFreeenergyPrincipleUnified2010]]"]}}
 ---
 
 [[01_ACTIVE/The Recursive Garden/The Recursive Garden\|🏠 Home]] · [[03-DATABANKS/Reading Notes\|📚 Reading Notes]] · [[03-DATABANKS/Articles/Articles\|📝 Articles]] · [[01_ACTIVE/The Recursive Garden/About - Contact Info\|ℹ️ About]]
@@ -33,12 +33,6 @@ They decide what _cannot_ happen.
 ---
 ## Links
 ### Related atoms:
-- [[03-DATABANKS/Atoms/Distinction\|Distinction]]
-- [[03-DATABANKS/Atoms/Entropy\|Entropy]]
-- [[03-DATABANKS/Atoms/Persistence Bias\|Persistence Bias]]
-- [[03-DATABANKS/Atoms/Potential\|Potential]]
-- [[03-DATABANKS/Atoms/State Space\|State Space]]
-- [[03-DATABANKS/Atoms/Time\|Time]]
 
 { .block-language-dataview}
 ### Used in molecules:

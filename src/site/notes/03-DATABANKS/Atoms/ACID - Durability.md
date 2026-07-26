@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-databanks/atoms/acid-durability/","tags":["atom"]}
+{"dg-publish":true,"kind":"atom","tags":["atom"],"topics":["ACID Transactions","Data Integrity","Transaction Protocol"],"source":"https://delta.io/pdfs/dldg_databricks.pdf","pages":"11, 22, 279","citekey":"leeDeltaLakeDefinitive","created":"2025-11-26T22:15:00","updated":"2025-11-26T22:15:00","molecule":["[ACID Transactions]]"],"permalink":"/03-databanks/atoms/acid-durability/","dgPassFrontmatter":true,"dg-note-properties":{"kind":"atom","tags":["atom"],"topics":["ACID Transactions","Data Integrity","Transaction Protocol"],"source":"https://delta.io/pdfs/dldg_databricks.pdf","pages":"11, 22, 279","citekey":"leeDeltaLakeDefinitive","created":"2025-11-26T22:15:00","updated":"2025-11-26T22:15:00","molecule":["[[03-DATABANKS/Molecules/ACID Transactions|ACID Transactions](/img/user/03-DATABANKS/Molecules/ACID%20Transactions.md)"]}}
 ---
 
 # ACID - Durability
@@ -35,7 +35,7 @@
 ---
 
 - Broader topic: [[Database Transaction Theory\|Database Transaction Theory]], [[Data Management\|Data Management]], [[Disaster Recovery\|Disaster Recovery]]
-- Related atoms: [[03-DATABANKS/Atoms/ACID - Isolation\|ACID - Isolation]], [[]]
+- Related atoms: [[03-DATABANKS/Atoms/ACID - Isolation\|ACID - Isolation]]
 - Upstream source note:
 
 ---
@@ -48,7 +48,7 @@
 
 ---
 > [!abstract]- Citation block (optional)
-> **Source:** {{source}} • **Page:** {{page}} • **Key:** {{citekey}}
+> **Source:** [Delta Lake: The Definitive Guide](https://delta.io/pdfs/dldg_databricks.pdf) • **Page:** 11, 22, 279 • **Key:** leeDeltaLakeDefinitive
 ---
 
 

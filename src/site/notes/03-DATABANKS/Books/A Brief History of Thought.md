@@ -1,8 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/03-databanks/books/a-brief-history-of-thought/","title":"A Brief History of Thought","tags":["book","booknotes","#source"]}
+{"dg-publish":true,"Type":"book","section":"books","tags":["book","booknotes","#source"],"title":"A Brief History of Thought","author":"[[Luc Ferry]]","category":"[[Philosophy]]","publisher":"Harper Collins","publish":"2011-12-27","year":"2025-11-09","pages":"228","isbn":"0062074253 9780062074256","cover":"https://books.google.com/books/content?id=QJI3jvh8S30C&printsec=frontcover&img=1&zoom=1&source=gbs_api","localCover":"","status":["reading"],"rating":4,"citekey":"","zotero_uri":"https://play.google.com/store/books/details?id=QJI3jvh8S30C","doi":"","url":"","created":null,"updated":null,"started":null,"finished":null,"in_kindle":null,"in_library":true,"in_audible":null,"permalink":"/03-databanks/books/a-brief-history-of-thought/","dgPassFrontmatter":true,"dg-note-properties":{"Type":"book","section":"books","tags":["book","booknotes","#source"],"title":"A Brief History of Thought","author":"[[Luc Ferry]]","category":"[[Philosophy]]","publisher":"Harper Collins","publish":"2011-12-27","year":"2025-11-09","pages":"228","isbn":"0062074253 9780062074256","cover":"https://books.google.com/books/content?id=QJI3jvh8S30C&printsec=frontcover&img=1&zoom=1&source=gbs_api","localCover":"","status":["reading"],"rating":4,"citekey":"","zotero_uri":"https://play.google.com/store/books/details?id=QJI3jvh8S30C","doi":"","url":"","created":null,"updated":null,"started":null,"finished":null,"in_kindle":null,"in_library":true,"in_audible":null}}
 ---
 
-[[01_ACTIVE/The Recursive Garden/The Recursive Garden\|🏠 Home]] · [[03-DATABANKS/Reading Notes\|📚 Reading Notes]] · [[03-DATABANKS/Articles/Articles\|📝 Articles]] · [[01_ACTIVE/The Recursive Garden/About - Contact Info\|ℹ️ About]]
+
+# A Brief History of Thought
+[[01_ACTIVE/The Recursive Garden/The Recursive Garden\|Home]] · [[01_ACTIVE/The Recursive Garden/About\|About]] · [[03-DATABANKS/Reading Notes\|Reading Notes]]
 
 <img src="https://books.google.com/books/content?id=QJI3jvh8S30C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover" style="max-width: 440px; max-height: 640px; width: auto; height: auto; object-fit: contain; border-radius: 6px; display: block;">`
 
@@ -35,25 +37,15 @@
 > - One quote to keep (p.n)
 > - Next connection to your work/life
 > - ---
----
-
-
----
 
 > [!cite]- Quotes
 > 
->"…" p.__
----
-
-
----
+"…" p.__
 
 > [!info]- Links
 > 
-> Source card:
-> Open in Zotero: https://play.google.com/store/books/details?id=QJI3jvh8S30C
-> External:
-> Hub: [[03-DATABANKS/Reading Notes\|Reading Notes (Hub)]]
----
+Source card:
+Open in Zotero: https://play.google.com/store/books/details?id=QJI3jvh8S30C
+External:
+Hub: [[03-DATABANKS/Reading Notes\|Reading Notes (Hub)]]
 
-[[01_ACTIVE/The Recursive Garden/The Recursive Garden\|🏠 Home]] · [[03-DATABANKS/Reading Notes\|📚 Reading Notes]] · [[03-DATABANKS/Articles/Articles\|📝 Articles]] · [[01_ACTIVE/The Recursive Garden/About - Contact Info\|ℹ️ About]]

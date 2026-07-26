@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/templates/experiment-example-template/","tags":["example"]}
+{"dg-publish":true,"kind":"example","status":"draft","topics":null,"tags":["example"],"created":{"{ date }":null},"updated":{"{ date }":null},"permalink":"/templates/experiment-example-template/","dgPassFrontmatter":true,"dg-note-properties":{"kind":"example","status":"draft","topics":null,"tags":["example"],"created":{"{ date }":null},"updated":{"{ date }":null}}}
 ---
 
 # {{title}}

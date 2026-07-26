@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/03-databanks/books/mesopotamia/","title":"Mesopotamia","tags":["book","booknotes","#source"]}
+{"dg-publish":true,"Type":"book","tags":["book","booknotes","#source"],"title":"Mesopotamia","author":"[[Captivating History]]","category":"[[History]]","publisher":"","publish":"2019-12-14","year":"2025-11-22","pages":"498","isbn":"1647481791 9781647481797","cover":"http://books.google.com/books/content?id=h9KdzAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api","localCover":"","status":["unread"],"rating":null,"citekey":"","zotero_uri":"https://books.google.com/books/about/Mesopotamia.html?hl=&id=h9KdzAEACAAJ","doi":"","url":"","created":null,"updated":null,"in_kindle":null,"in_library":null,"in_audible":null,"permalink":"/03-databanks/books/mesopotamia/","dgPassFrontmatter":true,"dg-note-properties":{"Type":"book","tags":["book","booknotes","#source"],"title":"Mesopotamia","author":"[[Captivating History]]","category":"[[History]]","publisher":"","publish":"2019-12-14","year":"2025-11-22","pages":"498","isbn":"1647481791 9781647481797","cover":"http://books.google.com/books/content?id=h9KdzAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api","localCover":"","status":["unread"],"rating":null,"citekey":"","zotero_uri":"https://books.google.com/books/about/Mesopotamia.html?hl=&id=h9KdzAEACAAJ","doi":"","url":"","created":null,"updated":null,"in_kindle":null,"in_library":null,"in_audible":null}}
 ---
 
 # Mesopotamia
-[[01_ACTIVE/The Recursive Garden/The Recursive Garden\|Home]] · [[01_ACTIVE/The Recursive Garden/About - Contact Info\|About - Contact Info]] · [[03-DATABANKS/Reading Notes\|Reading Notes]]
+[[01_ACTIVE/The Recursive Garden/The Recursive Garden\|Home]] · [[01_ACTIVE/The Recursive Garden/About\|About]] · [[03-DATABANKS/Reading Notes\|Reading Notes]]
 
 <img src="https://books.google.com/books/content?id=h9KdzAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover" style="max-width: 440px; max-height: 640px; width: auto; height: auto; object-fit: contain; border-radius: 6px; display: block;">
 
@@ -42,9 +42,9 @@
 
 ---
 > [!info]- Links
-> - Source card: [[../../Sources/Literature Sources/\|Zotero source card]]
+> - Source card: [[../Sources/Literature Sources/\|Zotero source card]]
 > - Open in Zotero: 
 > - External: 
 ---
 
-[[01_ACTIVE/The Recursive Garden/The Recursive Garden\|Home]] · [[01_ACTIVE/The Recursive Garden/About - Contact Info\|About - Contact Info]] · [[03-DATABANKS/Reading Notes\|Reading Notes]]
+[[01_ACTIVE/The Recursive Garden/The Recursive Garden\|Home]] · [[01_ACTIVE/The Recursive Garden/About\|About]] · [[03-DATABANKS/Reading Notes\|Reading Notes]]

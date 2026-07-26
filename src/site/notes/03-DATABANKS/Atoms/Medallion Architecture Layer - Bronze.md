@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-databanks/atoms/medallion-architecture-layer-bronze/","tags":["atom","data","elt","ingestion"]}
+{"dg-publish":true,"kind":"atom","tags":["atom","data","elt","ingestion"],"topics":[" AI ","AI Optimizer","Industrial AI"],"source":"https://delta.io/pdfs/dldg_databricks.pdf","pages":"202","citekey":"leeDeltaLakeDefinitive","created":"2025-11-26T21:07:00","updated":"2025-11-26T21:07:00","molecule":["[[Medallion Architecture]]"],"permalink":"/03-databanks/atoms/medallion-architecture-layer-bronze/","dgPassFrontmatter":true,"dg-note-properties":{"kind":"atom","tags":["atom","data","elt","ingestion"],"topics":[" AI ","AI Optimizer","Industrial AI"],"source":"https://delta.io/pdfs/dldg_databricks.pdf","pages":"202","citekey":"leeDeltaLakeDefinitive","created":"2025-11-26T21:07:00","updated":"2025-11-26T21:07:00","molecule":["[[Medallion Architecture]]"]}}
 ---
 
 # Medallion Architecture Layer - Bronze
@@ -46,9 +46,6 @@ The Bronze Layer is the raw data repository within the Medallion Architecture, s
 
 The **Bronze layer** is where we land all the data from external source systems. The table structures in this layer correspond to the source system table structures "as-is," along with any additional metadata columns that capture the load date/time, process ID, etc. The focus in this layer is quick Change Data Capture and the ability to provide an historical archive of source (cold storage), data lineage, auditability, reprocessing if needed without rereading the data from the source system.
 
----
-> [!abstract]- Citation block (optional)
-> **Source:** {{source}} • **Page:** {{page}} • **Key:** {{citekey}}
 ---
 
 **Source:** https://delta.io/pdfs/dldg_databricks.pdf • **Page:** 202 • **Key:** [[03-DATABANKS/Sources/Literature Sources/leeDeltaLakeDefinitive\|leeDeltaLakeDefinitive]]

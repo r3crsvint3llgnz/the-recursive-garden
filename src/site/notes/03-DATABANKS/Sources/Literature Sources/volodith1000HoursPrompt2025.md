@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-databanks/sources/literature-sources/volodith1000-hours-prompt2025/","title":"After 1000 hours of prompt engineering, I found the 6 patterns that actually matter"}
+{"dg-publish":true,"title":"After 1000 hours of prompt engineering, I found the 6 patterns that actually matter","authors":"","year":"1759122000000","status":"reading","summary":"","themes":[],"citekey":"volodith1000HoursPrompt2025","zotero_uri":"","doi":"","isbn":"","url":"https://www.reddit.com/r/PromptEngineering/comments/1nt7x7v/after_1000_hours_of_prompt_engineering_i_found/","cover":"","created":null,"updated":null,"permalink":"/03-databanks/sources/literature-sources/volodith1000-hours-prompt2025/","dgPassFrontmatter":true,"dg-note-properties":{"title":"After 1000 hours of prompt engineering, I found the 6 patterns that actually matter","authors":"","year":"1759122000000","status":"reading","summary":"","themes":[],"citekey":"volodith1000HoursPrompt2025","zotero_uri":"","doi":"","isbn":"","url":"https://www.reddit.com/r/PromptEngineering/comments/1nt7x7v/after_1000_hours_of_prompt_engineering_i_found/","cover":"","created":null,"updated":null}}
 ---
 
 

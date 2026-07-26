@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-databanks/atoms/kernel-narrow-scope/","tags":["atom"]}
+{"dg-publish":true,"kind":"atom","tags":["atom"],"topics":["Prompting","KERNEL","Scope"],"source":"https://www.reddit.com/r/PromptEngineering/comments/1nt7x7v/after_1000_hours_of_prompt_engineering_i_found/","pages":"","citekey":"volodith1000HoursPrompt2025","created":"2025-11-09T20:02:00","updated":"2025-11-09T20:02:00","permalink":"/03-databanks/atoms/kernel-narrow-scope/","dgPassFrontmatter":true,"dg-note-properties":{"kind":"atom","tags":["atom"],"topics":["Prompting","KERNEL","Scope"],"source":"https://www.reddit.com/r/PromptEngineering/comments/1nt7x7v/after_1000_hours_of_prompt_engineering_i_found/","pages":"","citekey":"volodith1000HoursPrompt2025","created":"2025-11-09T20:02:00","updated":"2025-11-09T20:02:00"}}
 ---
 
 # KERNEL — Narrow scope
@@ -44,9 +44,6 @@ One prompt, one goal. Don’t mix generation types (code + docs + tests). Split 
 
 “Single-goal prompts outperform multi-goal prompts.”
 
----
-> [!abstract]- Citation block (optional)
-> **Source:** {{source}} • **Page:** {{page}} • **Key:** {{citekey}}
 ---
 
 volodith. “After 1000 Hours of Prompt Engineering, I Found the 6 Patterns That Actually Matter.” _Reddit_, r/PromptEngineering, September 29, 2025. [https://www.reddit.com/r/PromptEngineering/comments/1nt7x7v/after_1000_hours_of_prompt_engineering_i_found/](https://www.reddit.com/r/PromptEngineering/comments/1nt7x7v/after_1000_hours_of_prompt_engineering_i_found/).

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-databanks/molecules/medallion-architecture/","tags":["molecule"]}
+{"dg-publish":true,"kind":"molecule","tags":["molecule"],"topics":["AI Optimizer"," AI ","Industrial AI"],"status":"draft","version":0.1,"created":"2025-11-26T21:01:00","updated":"2025-11-26T21:01:00","permalink":"/03-databanks/molecules/medallion-architecture/","dgPassFrontmatter":true,"dg-note-properties":{"kind":"molecule","tags":["molecule"],"topics":["AI Optimizer"," AI ","Industrial AI"],"status":"draft","version":0.1,"created":"2025-11-26T21:01:00","updated":"2025-11-26T21:01:00"}}
 ---
 
 # Medallion Architecture

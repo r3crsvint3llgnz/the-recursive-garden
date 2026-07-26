@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-databanks/atoms/existence/","tags":["atom","RDD","foundational"]}
+{"dg-publish":true,"kind":"atom","status":"draft","domain":"[[Ontic]]","tags":["atom","RDD","foundational"],"topics":["Recursive Distinction Dynamics","Ontology","Physics","Philosophy of Science"],"created":"2025-11-22","updated":"2025-12-26","citekeys":["[[03-DATABANKS/Sources/Literature Sources/@dennettRealPatterns1991\|@dennettRealPatterns1991]]","[[03-DATABANKS/Sources/Literature Sources/@ladymanEveryThingMust2009\|@ladymanEveryThingMust2009]]"],"permalink":"/03-databanks/atoms/existence/","dgPassFrontmatter":true,"dg-note-properties":{"kind":"atom","status":"draft","domain":"[[Ontic]]","tags":["atom","RDD","foundational"],"topics":["Recursive Distinction Dynamics","Ontology","Physics","Philosophy of Science"],"created":"2025-11-22","updated":"2025-12-26","citekeys":["[[03-DATABANKS/Sources/Literature Sources/@dennettRealPatterns1991\|@dennettRealPatterns1991]]","[[03-DATABANKS/Sources/Literature Sources/@ladymanEveryThingMust2009\|@ladymanEveryThingMust2009]]"]}}
 ---
 
 [[01_ACTIVE/The Recursive Garden/The Recursive Garden\|🏠 Home]] · [[03-DATABANKS/Reading Notes\|📚 Reading Notes]] · [[03-DATABANKS/Articles/Articles\|📝 Articles]] · [[01_ACTIVE/The Recursive Garden/About - Contact Info\|ℹ️ About]]

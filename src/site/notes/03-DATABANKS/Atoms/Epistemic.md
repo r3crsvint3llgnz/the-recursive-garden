@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-databanks/atoms/epistemic/","tags":["atom","#foundational","#epistemology"]}
+{"dg-publish":true,"kind":"atom","tags":["atom","#foundational","#epistemology"],"topics":["Recursive Distinction Dynamics","Philosophy","Philosophy of Mind","AI"],"citekeys":["[[03-DATABANKS/Sources/Literature Sources/@fristonFreeenergyPrincipleUnified2010\|@fristonFreeenergyPrincipleUnified2010]]"],"created":"2025-12-20T19:05:00","updated":"2025-12-20T19:05:00","domain":"[[Epistemic]]","status":"draft","permalink":"/03-databanks/atoms/epistemic/","dgPassFrontmatter":true,"dg-note-properties":{"kind":"atom","tags":["atom","#foundational","#epistemology"],"topics":["Recursive Distinction Dynamics","Philosophy","Philosophy of Mind","AI"],"citekeys":["[[03-DATABANKS/Sources/Literature Sources/@fristonFreeenergyPrincipleUnified2010\|@fristonFreeenergyPrincipleUnified2010]]"],"created":"2025-12-20T19:05:00","updated":"2025-12-20T19:05:00","domain":"[[Epistemic]]","status":"draft"}}
 ---
 
 [[01_ACTIVE/The Recursive Garden/The Recursive Garden\|🏠 Home]] · [[03-DATABANKS/Reading Notes\|📚 Reading Notes]] · [[03-DATABANKS/Articles/Articles\|📝 Articles]] · [[01_ACTIVE/The Recursive Garden/About - Contact Info\|ℹ️ About]]
@@ -33,10 +33,6 @@ Epistemic describes how reality is accessed, not how it is made.
 ## Links
 
 ### Related atoms
-- [[03-DATABANKS/Atoms/Distinction\|Distinction]]
-- [[03-DATABANKS/Atoms/Epistemic\|Epistemic]]
-- [[03-DATABANKS/Atoms/Perspective\|Perspective]]
-- [[03-DATABANKS/Atoms/Umwelt\|Umwelt]]
 
 { .block-language-dataview}`
 ### Used in molecules

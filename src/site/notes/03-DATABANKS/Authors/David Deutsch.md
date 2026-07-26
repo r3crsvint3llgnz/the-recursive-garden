@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/03-databanks/authors/david-deutsch/","tags":["author","people"]}
+{"dg-publish":true,"type":"author","tags":["author","people"],"born":"1953-05-18","died":null,"nationality":"British","website":"https://www.daviddeutsch.org.uk/","wikipedia":"https://en.wikipedia.org/wiki/David_Deutsch","created":"2025-11-09T21:04:00","updated":"2025-11-09T21:04:00","permalink":"/03-databanks/authors/david-deutsch/","dgPassFrontmatter":true,"dg-note-properties":{"type":"author","tags":["author","people"],"born":"1953-05-18","died":null,"nationality":"British","website":"https://www.daviddeutsch.org.uk/","wikipedia":"https://en.wikipedia.org/wiki/David_Deutsch","created":"2025-11-09T21:04:00","updated":"2025-11-09T21:04:00"}}
 ---
 
 # David Deutsch
-[[01_ACTIVE/The Recursive Garden/The Recursive Garden\|Home]] · [[01_ACTIVE/The Recursive Garden/About - Contact Info\|About - Contact Info]] · [[03-DATABANKS/Reading Notes\|Reading Notes]]
+[[01_ACTIVE/The Recursive Garden/The Recursive Garden\|Home]] · [[01_ACTIVE/The Recursive Garden/About\|About]] · [[03-DATABANKS/Reading Notes\|Reading Notes]]
 
 > [!info]+ Biography
 > <Brief bio in your words. 3–6 sentences max. Key life events, domains, why they matter to you.>

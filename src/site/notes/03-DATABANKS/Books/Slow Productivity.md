@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/03-databanks/books/slow-productivity/","title":"Slow Productivity","tags":["book","booknotes","#source"]}
+{"dg-publish":true,"Type":"book","section":"books","tags":["book","booknotes","#source"],"title":"Slow Productivity","author":"[[Cal Newport]]","category":"[[Business & Economics]]","publisher":"Penguin","publish":"2024-03-05","year":"2025-11-09","pages":"257","isbn":"0593544854 9780593544853","cover":"https://books.google.com/books/content?id=IV_DEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api","localCover":"","status":["reading"],"rating":4.5,"citekey":"","zotero_uri":"https://books.google.com/books/about/Slow_Productivity.html?hl=&id=IV_DEAAAQBAJ","doi":"","url":"","created":"2025-11-09T21:53:00","updated":"2025-11-09T21:53:00","started":null,"finished":null,"in_kindle":true,"in_library":null,"in_audible":null,"permalink":"/03-databanks/books/slow-productivity/","dgPassFrontmatter":true,"dg-note-properties":{"Type":"book","section":"books","tags":["book","booknotes","#source"],"title":"Slow Productivity","author":"[[Cal Newport]]","category":"[[Business & Economics]]","publisher":"Penguin","publish":"2024-03-05","year":"2025-11-09","pages":"257","isbn":"0593544854 9780593544853","cover":"https://books.google.com/books/content?id=IV_DEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api","localCover":"","status":["reading"],"rating":4.5,"citekey":"","zotero_uri":"https://books.google.com/books/about/Slow_Productivity.html?hl=&id=IV_DEAAAQBAJ","doi":"","url":"","created":"2025-11-09T21:53:00","updated":"2025-11-09T21:53:00","started":null,"finished":null,"in_kindle":true,"in_library":null,"in_audible":null}}
 ---
 
-[[01_ACTIVE/The Recursive Garden/The Recursive Garden\|🏠 Home]] · [[03-DATABANKS/Reading Notes\|📚 Reading Notes]] · [[03-DATABANKS/Articles/Articles\|📝 Articles]] · [[01_ACTIVE/The Recursive Garden/About - Contact Info\|ℹ️ About]]
+# Slow Productivity
+[[01_ACTIVE/The Recursive Garden/The Recursive Garden\|Home]] · [[01_ACTIVE/The Recursive Garden/About\|About]] · [[03-DATABANKS/Reading Notes\|Reading Notes]]
 
 <img src="https://books.google.com/books/content?id=IV_DEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover" style="max-width: 440px; max-height: 640px; width: auto; height: auto; object-fit: contain; border-radius: 6px; display: block;">
 
@@ -48,4 +49,4 @@ _Slow Productivity_ is Newport’s argument for doing fewer things, at a more hu
 > - External: Hub: [[03-DATABANKS/Reading Notes\|Reading Notes]]
 ---
 
-[[01_ACTIVE/The Recursive Garden/The Recursive Garden\|🏠 Home]] · [[03-DATABANKS/Reading Notes\|📚 Reading Notes]] · [[03-DATABANKS/Articles/Articles\|📝 Articles]] · [[01_ACTIVE/The Recursive Garden/About - Contact Info\|ℹ️ About]]
+[[01_ACTIVE/The Recursive Garden/The Recursive Garden\|Home]] · [[01_ACTIVE/The Recursive Garden/About\|About]] · [[03-DATABANKS/Reading Notes\|Reading Notes]]

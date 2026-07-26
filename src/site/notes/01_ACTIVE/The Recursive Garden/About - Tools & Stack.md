@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-active/the-recursive-garden/about-tools-and-stack/","title":"Tools & Stack","tags":["about","stack","draft"]}
+{"dg-publish":true,"title":"Tools & Stack","tags":["about","stack","draft"],"section":"about","permalink":"/01-active/the-recursive-garden/about-tools-and-stack/","dgPassFrontmatter":true,"dg-note-properties":{"title":"Tools & Stack","tags":["about","stack","draft"],"section":"about"}}
 ---
 
 [[01_ACTIVE/The Recursive Garden/About\|← About]]

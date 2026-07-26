@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-databanks/atoms/medallion-architecture-layer-gold/","tags":["atom","data","curated"]}
+{"dg-publish":true,"kind":"atom","tags":["atom","data","curated"],"topics":[" AI ","AI Optimizer","Industrial AI","Data Governance","Data Quality"],"source":"https://delta.io/pdfs/dldg_databricks.pdf","pages":"208","citekey":"leeDeltaLakeDefinitive","created":"2025-11-26T21:28:00","updated":"2025-11-26T21:28:00","molecule":["[[Medallion Architecture]]"],"permalink":"/03-databanks/atoms/medallion-architecture-layer-gold/","dgPassFrontmatter":true,"dg-note-properties":{"kind":"atom","tags":["atom","data","curated"],"topics":[" AI ","AI Optimizer","Industrial AI","Data Governance","Data Quality"],"source":"https://delta.io/pdfs/dldg_databricks.pdf","pages":"208","citekey":"leeDeltaLakeDefinitive","created":"2025-11-26T21:28:00","updated":"2025-11-26T21:28:00","molecule":["[[Medallion Architecture]]"]}}
 ---
 
 # Medallion Architecture Layer - Gold
@@ -46,9 +46,6 @@ The **Gold Layer** contains the most mature, highly curated data, purpose-built 
 
 Data in the **Gold layer** of the lakehouse is typically organized in consumption-ready "project-specific" databases. The Gold layer is for reporting and uses more de-normalized and read-optimized data models with fewer joins. The final layer of data transformations and data quality rules are applied here. Final presentation layer of projects such as Customer Analytics, Product Quality Analytics, Inventory Analytics, Customer Segmentation, Product Recommendations, Marking/Sales Analytics etc. fit in this layer. We see a lot of Kimball style star schema-based data models or Inmon style Data marts fit in this Gold Layer of the lakehouse.
 
----
-> [!abstract]- Citation block (optional)
-> **Source:** {{source}} • **Page:** {{page}} • **Key:** {{citekey}}
 ---
 
 **Source:** https://delta.io/pdfs/dldg_databricks.pdf • **Page:** 208 • **Key:** [[03-DATABANKS/Sources/Literature Sources/leeDeltaLakeDefinitive\|leeDeltaLakeDefinitive]]

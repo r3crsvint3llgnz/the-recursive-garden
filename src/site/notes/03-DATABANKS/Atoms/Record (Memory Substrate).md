@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-databanks/atoms/record-memory-substrate/","tags":["#atom","#RDD","#foundational"]}
+{"dg-publish":true,"kind":"atom","status":"draft","domain":["[[Ontic]]"],"topics":["Recursive Distinction Dynamics","Information Physics","Thermodynamics","State Space"],"tags":["#atom","#RDD","#foundational"],"created":"2025-12-26","updated":"2025-12-26","molecule":[],"citekeys":[],"permalink":"/03-databanks/atoms/record-memory-substrate/","dgPassFrontmatter":true,"dg-note-properties":{"kind":"atom","status":"draft","domain":["[[Ontic]]"],"topics":["Recursive Distinction Dynamics","Information Physics","Thermodynamics","State Space"],"tags":["#atom","#RDD","#foundational"],"created":"2025-12-26","updated":"2025-12-26","molecule":[],"citekeys":[]}}
 ---
 
 

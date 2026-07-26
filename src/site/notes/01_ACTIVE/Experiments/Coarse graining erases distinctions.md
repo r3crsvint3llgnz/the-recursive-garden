@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-active/experiments/coarse-graining-erases-distinctions/","tags":["example"]}
+{"dg-publish":true,"kind":"example","status":"draft","topics":["Recursive Distinction Dynamics"],"tags":["example"],"created":"2025-12-29","updated":"2025-12-29","permalink":"/01-active/experiments/coarse-graining-erases-distinctions/","dgPassFrontmatter":true,"dg-note-properties":{"kind":"example","status":"draft","topics":["Recursive Distinction Dynamics"],"tags":["example"],"created":"2025-12-29","updated":"2025-12-29"}}
 ---
 
 # Coarse graining erases distinctions

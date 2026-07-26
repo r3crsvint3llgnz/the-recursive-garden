@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-databanks/atoms/medallion-architecture-layer-silver/","tags":["atom","ingestion","data"]}
+{"dg-publish":true,"kind":"atom","tags":["atom","ingestion","data"],"topics":["AI Optimizer"," AI ","Industrial AI"],"source":"https://delta.io/pdfs/dldg_databricks.pdf","pages":"205","citekey":"leeDeltaLakeDefinitive","created":"2025-11-26T21:21:00","updated":"2025-11-26T21:21:00","molecule":["[[Medallion Architecture]]"],"permalink":"/03-databanks/atoms/medallion-architecture-layer-silver/","dgPassFrontmatter":true,"dg-note-properties":{"kind":"atom","tags":["atom","ingestion","data"],"topics":["AI Optimizer"," AI ","Industrial AI"],"source":"https://delta.io/pdfs/dldg_databricks.pdf","pages":"205","citekey":"leeDeltaLakeDefinitive","created":"2025-11-26T21:21:00","updated":"2025-11-26T21:21:00","molecule":["[[Medallion Architecture]]"]}}
 ---
 
 # Medallion Architecture Layer - Silver
@@ -46,9 +46,6 @@ The **Silver Layer** is the intermediate stage in the Medallion Architecture whe
 
 In the **Silver layer** of the lakehouse, the data from the Bronze layer is matched, merged, conformed and cleansed ("just-enough") so that the Silver layer can provide an "Enterprise view" of all its key business entities, concepts and transactions. (e.g. master customers, stores, non-duplicated transactions and cross-reference tables).
 
----
-> [!abstract]- Citation block (optional)
-> **Source:** {{source}} • **Page:** {{page}} • **Key:** {{citekey}}
 ---
 
 **Source:** https://delta.io/pdfs/dldg_databricks.pdf • **Page:** 205 • **Key:** [[03-DATABANKS/Sources/Literature Sources/leeDeltaLakeDefinitive\|leeDeltaLakeDefinitive]]

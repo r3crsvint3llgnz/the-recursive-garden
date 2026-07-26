@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-active/experiments/readout-induced-decay-of-records/","tags":["example"]}
+{"dg-publish":true,"kind":"example","status":"draft","topics":["Recursive Distinction Dynamics"],"tags":["example"],"created":"2025-12-29","updated":"2025-12-29","permalink":"/01-active/experiments/readout-induced-decay-of-records/","dgPassFrontmatter":true,"dg-note-properties":{"kind":"example","status":"draft","topics":["Recursive Distinction Dynamics"],"tags":["example"],"created":"2025-12-29","updated":"2025-12-29"}}
 ---
 
 # Readout-induced decay of records

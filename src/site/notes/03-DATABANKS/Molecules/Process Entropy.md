@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-databanks/molecules/process-entropy/","tags":["molecule"]}
+{"dg-publish":true,"kind":"molecule","tags":["molecule"],"topics":["Complexity Theory"," AI ","AI Optimizer","Industrial AI","entropy"],"status":"draft","version":0.1,"created":"2025-11-26T22:23:00","updated":"2025-11-26T22:23:00","permalink":"/03-databanks/molecules/process-entropy/","dgPassFrontmatter":true,"dg-note-properties":{"kind":"molecule","tags":["molecule"],"topics":["Complexity Theory"," AI ","AI Optimizer","Industrial AI","entropy"],"status":"draft","version":0.1,"created":"2025-11-26T22:23:00","updated":"2025-11-26T22:23:00"}}
 ---
 
 # Process Entropy

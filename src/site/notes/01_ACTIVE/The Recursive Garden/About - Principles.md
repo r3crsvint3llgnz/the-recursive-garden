@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-active/the-recursive-garden/about-principles/","title":"Operating Principles","tags":["about","principles","draft"]}
+{"dg-publish":true,"title":"Operating Principles","tags":["about","principles","draft"],"section":"about","permalink":"/01-active/the-recursive-garden/about-principles/","dgPassFrontmatter":true,"dg-note-properties":{"title":"Operating Principles","tags":["about","principles","draft"],"section":"about"}}
 ---
 
 [[01_ACTIVE/The Recursive Garden/About\|← About]]

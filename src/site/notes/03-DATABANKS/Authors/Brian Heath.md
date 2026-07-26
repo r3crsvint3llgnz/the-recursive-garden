@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/03-databanks/authors/brian-heath/","tags":["author","people"]}
+{"dg-publish":true,"type":"author","tags":["author","people"],"born":null,"died":null,"nationality":null,"website":null,"wikipedia":null,"created":null,"updated":null,"permalink":"/03-databanks/authors/brian-heath/","dgPassFrontmatter":true,"dg-note-properties":{"type":"author","tags":["author","people"],"born":null,"died":null,"nationality":null,"website":null,"wikipedia":null,"created":null,"updated":null}}
 ---
 
 # Brian Heath
-[[01_ACTIVE/The Recursive Garden/The Recursive Garden\|Home]] · [[01_ACTIVE/The Recursive Garden/About - Contact Info\|About - Contact Info]] · [[03-DATABANKS/Reading Notes\|Reading Notes]]
+[[01_ACTIVE/The Recursive Garden/The Recursive Garden\|Home]] · [[01_ACTIVE/The Recursive Garden/About\|About]] · [[03-DATABANKS/Reading Notes\|Reading Notes]]
 
 > [!info]+ Biography
 > <Brief bio in your words. 3–6 sentences max. Key life events, domains, why they matter to you.>

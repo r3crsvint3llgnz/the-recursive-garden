@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-databanks/molecules/kernel-prompt-pattern-molecule/","tags":["molecule","prompting","KERNEL"]}
+{"dg-publish":true,"kind":"molecule","tags":["molecule","prompting","KERNEL"],"topics":["Prompting","PromptOps"],"source":"https://www.reddit.com/r/PromptEngineering/comments/1nt7x7v/after_1000_hours_of_prompt_engineering_i_found/","status":"draft","version":0.1,"created":"2025-11-09T20:03:00","updated":"2025-11-09T20:03:00","permalink":"/03-databanks/molecules/kernel-prompt-pattern-molecule/","dgPassFrontmatter":true,"dg-note-properties":{"kind":"molecule","tags":["molecule","prompting","KERNEL"],"topics":["Prompting","PromptOps"],"source":"https://www.reddit.com/r/PromptEngineering/comments/1nt7x7v/after_1000_hours_of_prompt_engineering_i_found/","status":"draft","version":0.1,"created":"2025-11-09T20:03:00","updated":"2025-11-09T20:03:00"}}
 ---
 
 # KERNEL — prompt pattern (molecule)

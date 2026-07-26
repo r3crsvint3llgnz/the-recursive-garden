@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/03-databanks/authors/steven-novella/","tags":["author","people"]}
+{"dg-publish":true,"type":"author","tags":["author","people"],"born":"1964-07-29","died":null,"nationality":"American","website":"https://theness.com/","wikipedia":"https://en.wikipedia.org/wiki/Steven_Novella","created":"2025-11-16T14:53:00","updated":"2025-11-16T14:53:00","permalink":"/03-databanks/authors/steven-novella/","dgPassFrontmatter":true,"dg-note-properties":{"type":"author","tags":["author","people"],"born":"1964-07-29","died":null,"nationality":"American","website":"https://theness.com/","wikipedia":"https://en.wikipedia.org/wiki/Steven_Novella","created":"2025-11-16T14:53:00","updated":"2025-11-16T14:53:00"}}
 ---
 
 # Steven Novella
-[[01_ACTIVE/The Recursive Garden/The Recursive Garden\|Home]] · [[01_ACTIVE/The Recursive Garden/About - Contact Info\|About - Contact Info]] · [[03-DATABANKS/Reading Notes\|Reading Notes]]
+[[01_ACTIVE/The Recursive Garden/The Recursive Garden\|Home]] · [[01_ACTIVE/The Recursive Garden/About\|About]] · [[03-DATABANKS/Reading Notes\|Reading Notes]]
 
 > [!info]+ Biography
 > <Brief bio in your words. 3–6 sentences max. Key life events, domains, why they matter to you.>
@@ -38,8 +38,9 @@ Novella's style is **direct, analytical, and highly structured**, prioritizing l
 ---
 
 > [!info]+ Books in vault
->  | File | Title | Year | Status | Rating |
-> | ---- | ----- | ---- | ------ | ------ |
+>  | File                                                                                               | Title                               | Year | Status                 | Rating |
+> | -------------------------------------------------------------------------------------------------- | ----------------------------------- | ---- | ---------------------- | ------ |
+> | [[03-DATABANKS/Books/The Skeptics' Guide to the Universe\|The Skeptics' Guide to the Universe]] | The Skeptics' Guide to the Universe | 2018 | <ul><li>read</li></ul> | 5      |
 > 
 { .block-language-dataview}
 ---

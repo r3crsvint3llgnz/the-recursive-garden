@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-databanks/molecules/ai-optimizer-infrastructure-roles/","tags":["molecule"]}
+{"dg-publish":true,"kind":"molecule","tags":["molecule"],"topics":["AI Optimizer"," AI ","Industrial AI"],"status":"draft","version":0.1,"created":"2025-11-26T20:58:00","updated":"2025-11-26T20:58:00","permalink":"/03-databanks/molecules/ai-optimizer-infrastructure-roles/","dgPassFrontmatter":true,"dg-note-properties":{"kind":"molecule","tags":["molecule"],"topics":["AI Optimizer"," AI ","Industrial AI"],"status":"draft","version":0.1,"created":"2025-11-26T20:58:00","updated":"2025-11-26T20:58:00"}}
 ---
 
 # AI Optimizer Infrastructure Roles

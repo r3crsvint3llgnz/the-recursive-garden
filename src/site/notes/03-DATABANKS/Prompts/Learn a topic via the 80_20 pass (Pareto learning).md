@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-databanks/prompts/learn-a-topic-via-the-80-20-pass-pareto-learning/","tags":["prompt"]}
+{"dg-publish":true,"kind":"prompt","tags":["prompt"],"categories":["prompting","productivity"],"framework":"Pareto 80/20","role":"individual","audience":"me","tone":"concise","status":["ready"],"created":"2025-11-09T20:34:00","updated":"2025-11-09T20:34:00","permalink":"/03-databanks/prompts/learn-a-topic-via-the-80-20-pass-pareto-learning/","dgPassFrontmatter":true,"dg-note-properties":{"kind":"prompt","tags":"prompt","categories":["prompting","productivity"],"framework":"Pareto 80/20","role":"individual","audience":"me","tone":"concise","status":["ready"],"created":"2025-11-09T20:34:00","updated":"2025-11-09T20:34:00"}}
 ---
 
 # Learn a topic via the 80/20 pass (Pareto learning)

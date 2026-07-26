@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-databanks/atoms/acid-isolation/","tags":["atom","data"]}
+{"dg-publish":true,"kind":"atom","tags":["atom","data"],"topics":[" AI ","AI Optimizer","Data Governance","Data Quality","Industrial AI","Data Integrity"],"source":"https://delta.io/pdfs/dldg_databricks.pdf","pages":"11, 22, 195, 354, 376, 381","citekey":"leeDeltaLakeDefinitive","created":"2025-11-26T22:12:00","updated":"2025-11-26T22:12:00","molecule":["[ACID Transactions]]"],"permalink":"/03-databanks/atoms/acid-isolation/","dgPassFrontmatter":true,"dg-note-properties":{"kind":"atom","tags":["atom","data"],"topics":[" AI ","AI Optimizer","Data Governance","Data Quality","Industrial AI","Data Integrity"],"source":"https://delta.io/pdfs/dldg_databricks.pdf","pages":"11, 22, 195, 354, 376, 381","citekey":"leeDeltaLakeDefinitive","created":"2025-11-26T22:12:00","updated":"2025-11-26T22:12:00","molecule":["[[03-DATABANKS/Molecules/ACID Transactions|ACID Transactions](/img/user/03-DATABANKS/Molecules/ACID%20Transactions.md)"]}}
 ---
 
 # ACID - Isolation
@@ -49,10 +49,6 @@
 Processes reading a given Delta table are insulated from the complexities of multiple simultaneous writers and are guaranteed to read a consistent snapshot of the Delta table in exact serial order.
 
 ---
-> [!abstract]- Citation block (optional)
-> **Source:** {{source}} • **Page:** {{page}} • **Key:** {{citekey}}
----
-
-**Source:** Atomicity and the Pillars of ACID Integrity; The Definitive Guide - Delta Lake • **Page:** 11, 22, 195, 354, 376, 381 • **Key:** [[03-DATABANKS/Sources/Literature Sources/leeDeltaLakeDefinitive\|leeDeltaLakeDefinitive]]
+**Source:** [Delta Lake: The Definitive Guide](https://delta.io/pdfs/dldg_databricks.pdf) • **Page:** 11, 22, 195, 354, 376, 381 • **Key:** [[03-DATABANKS/Sources/Literature Sources/leeDeltaLakeDefinitive\|leeDeltaLakeDefinitive]]
 
 ---

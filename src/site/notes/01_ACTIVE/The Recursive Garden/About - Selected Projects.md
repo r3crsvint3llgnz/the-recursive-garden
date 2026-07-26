@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-active/the-recursive-garden/about-selected-projects/","title":"Selected Projects","tags":["about","projects","draft"]}
+{"dg-publish":true,"title":"Selected Projects","tags":["about","projects","draft"],"section":"about","permalink":"/01-active/the-recursive-garden/about-selected-projects/","dgPassFrontmatter":true,"dg-note-properties":{"title":"Selected Projects","tags":["about","projects","draft"],"section":"about"}}
 ---
 
 [[01_ACTIVE/The Recursive Garden/About\|← About]]

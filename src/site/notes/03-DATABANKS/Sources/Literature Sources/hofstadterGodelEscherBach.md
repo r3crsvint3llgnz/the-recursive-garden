@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-databanks/sources/literature-sources/hofstadter-godel-escher-bach/","title":"Gödel, Escher, Bach: an eternal golden braid"}
+{"dg-publish":true,"title":"Gödel, Escher, Bach: an eternal golden braid","authors":"","year":"","status":"reading","summary":"","themes":[],"citekey":"hofstadterGodelEscherBach","zotero_uri":"","doi":"","isbn":"978-0-465-02656-2","url":"","cover":"","created":null,"updated":null,"permalink":"/03-databanks/sources/literature-sources/hofstadter-godel-escher-bach/","dgPassFrontmatter":true,"dg-note-properties":{"title":"Gödel, Escher, Bach: an eternal golden braid","authors":"","year":"","status":"reading","summary":"","themes":[],"citekey":"hofstadterGodelEscherBach","zotero_uri":"","doi":"","isbn":"978-0-465-02656-2","url":"","cover":"","created":null,"updated":null}}
 ---
 
 

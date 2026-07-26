@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-active/the-recursive-garden/about-roles-and-timeline/","title":"Roles & Timeline","tags":["about","roles","draft"]}
+{"dg-publish":true,"title":"Roles & Timeline","tags":["about","roles","draft"],"section":"about","permalink":"/01-active/the-recursive-garden/about-roles-and-timeline/","dgPassFrontmatter":true,"dg-note-properties":{"title":"Roles & Timeline","tags":["about","roles","draft"],"section":"about"}}
 ---
 
 [[01_ACTIVE/The Recursive Garden/About\|← About]]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-active/wake-novel/06-chapters/chapter-one/","title":"Continuity","tags":["draft","novel","chapter"]}
+{"dg-publish":true,"title":"Continuity","tags":["draft","novel","chapter"],"kind":"chapter","project":["[[03-DATABANKS/Books/Wake Novel]]"],"permalink":"/01-active/wake-novel/06-chapters/chapter-one/","dgPassFrontmatter":true,"dg-note-properties":{"title":"Continuity","tags":["draft","novel","chapter"],"kind":"chapter","project":["[[03-DATABANKS/Books/Wake Novel]]"]}}
 ---
 
 # Continuity

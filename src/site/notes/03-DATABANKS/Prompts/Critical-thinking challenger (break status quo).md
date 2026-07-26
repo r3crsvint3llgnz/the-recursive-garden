@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-databanks/prompts/critical-thinking-challenger-break-status-quo/","tags":["prompt"]}
+{"dg-publish":true,"kind":"prompt","tags":["prompt"],"categories":["prompting"],"framework":null,"role":"individual","audience":"me","tone":"concise","status":["ready"],"created":"2025-11-09T20:36:00","updated":"2025-11-09T20:36:00","permalink":"/03-databanks/prompts/critical-thinking-challenger-break-status-quo/","dgPassFrontmatter":true,"dg-note-properties":{"kind":"prompt","tags":"prompt","categories":["prompting"],"framework":null,"role":"individual","audience":"me","tone":"concise","status":["ready"],"created":"2025-11-09T20:36:00","updated":"2025-11-09T20:36:00"}}
 ---
 
 # Critical-thinking challenger (break status quo)

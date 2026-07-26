@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-databanks/atoms/distinction/","tags":["#atom","#RDD","#foundational","#information-physics"]}
+{"dg-publish":true,"tags":["#atom","#RDD","#foundational","#information-physics"],"topics":["Recursive Distinction Dynamics","Thermodynamics of Information","State Space"],"kind":"atom","status":"draft","created":"2025-11-22T20:09:00","updated":"2025-12-29","domain":"[[Ontic]]","citekeys":["[[03-DATABANKS/Sources/Literature Sources/@parrondoThermodynamicsInformation2015\|@parrondoThermodynamicsInformation2015]]","[[03-DATABANKS/Sources/Literature Sources/@seifertStochasticThermodynamicsFluctuation2012\|@seifertStochasticThermodynamicsFluctuation2012]]","[[03-DATABANKS/Sources/Literature Sources/@bennettThermodynamicsComputationReview1982\|@bennettThermodynamicsComputationReview1982]]","[[03-DATABANKS/Sources/Literature Sources/@landauerIrreversibilityHeatGeneration1961\|@landauerIrreversibilityHeatGeneration1961]]"],"permalink":"/03-databanks/atoms/distinction/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["#atom","#RDD","#foundational","#information-physics"],"topics":["Recursive Distinction Dynamics","Thermodynamics of Information","State Space"],"kind":"atom","status":"draft","created":"2025-11-22T20:09:00","updated":"2025-12-29","domain":"[[Ontic]]","citekeys":["[[03-DATABANKS/Sources/Literature Sources/@parrondoThermodynamicsInformation2015\|@parrondoThermodynamicsInformation2015]]","[[03-DATABANKS/Sources/Literature Sources/@seifertStochasticThermodynamicsFluctuation2012\|@seifertStochasticThermodynamicsFluctuation2012]]","[[03-DATABANKS/Sources/Literature Sources/@bennettThermodynamicsComputationReview1982\|@bennettThermodynamicsComputationReview1982]]","[[03-DATABANKS/Sources/Literature Sources/@landauerIrreversibilityHeatGeneration1961\|@landauerIrreversibilityHeatGeneration1961]]"]}}
 ---
 
 [[01_ACTIVE/The Recursive Garden/The Recursive Garden\|🏠 Home]] · [[03-DATABANKS/Reading Notes\|📚 Reading Notes]] · [[03-DATABANKS/Articles/Articles\|📝 Articles]] · [[01_ACTIVE/The Recursive Garden/About - Contact Info\|ℹ️ About]]
@@ -34,17 +34,6 @@ A distinction exists when differences constrain what can happen next.
 ---
 ## Links
 ### Related atoms
-- [[03-DATABANKS/Atoms/Entropy\|Entropy]]
-- [[03-DATABANKS/Atoms/Epistemic\|Epistemic]]
-- [[03-DATABANKS/Atoms/Noise\|Noise]]
-- [[03-DATABANKS/Atoms/Ontic\|Ontic]]
-- [[03-DATABANKS/Atoms/Persistence (Metastable State Property)\|Persistence (Metastable State Property)]]
-- [[03-DATABANKS/Atoms/Persistent Distinction\|Persistent Distinction]]
-- [[03-DATABANKS/Atoms/Perspective\|Perspective]]
-- [[03-DATABANKS/Atoms/Potential\|Potential]]
-- [[03-DATABANKS/Atoms/Record (Memory Substrate)\|Record (Memory Substrate)]]
-- [[03-DATABANKS/Atoms/State Space\|State Space]]
-- [[03-DATABANKS/Atoms/Umwelt\|Umwelt]]
 
 { .block-language-dataview}
 ### Used in molecules

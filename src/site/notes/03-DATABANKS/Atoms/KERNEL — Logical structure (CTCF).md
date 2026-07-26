@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-databanks/atoms/kernel-logical-structure-ctcf/","tags":["atom"]}
+{"dg-publish":true,"kind":"atom","tags":["atom"],"topics":[" AI ","Prompting","KERNEL"],"source":"https://www.reddit.com/r/PromptEngineering/comments/1nt7x7v/after_1000_hours_of_prompt_engineering_i_found/","pages":"","citekey":"volodith1000HoursPrompt2025","created":"2025-11-09T20:01:00","updated":"2025-11-09T20:01:00","mole":"[[KERNEL — prompt pattern (molecule)]]","permalink":"/03-databanks/atoms/kernel-logical-structure-ctcf/","dgPassFrontmatter":true,"dg-note-properties":{"kind":"atom","tags":["atom"],"topics":[" AI ","Prompting","KERNEL"],"source":"https://www.reddit.com/r/PromptEngineering/comments/1nt7x7v/after_1000_hours_of_prompt_engineering_i_found/","pages":"","citekey":"volodith1000HoursPrompt2025","created":"2025-11-09T20:01:00","updated":"2025-11-09T20:01:00","mole":"[[KERNEL — prompt pattern (molecule)]]"}}
 ---
 
 # KERNEL — Logical structure (CTCF)
@@ -44,9 +44,6 @@ Use a fixed four-part scaffold: Context (inputs), Task (what to do), Constraints
 
 “Format every prompt: Context, Task, Constraints, Format.”
 
----
-> [!abstract]- Citation block (optional)
-> **Source:** {{source}} • **Page:** {{page}} • **Key:** {{citekey}}
 ---
 
 volodith. “After 1000 Hours of Prompt Engineering, I Found the 6 Patterns That Actually Matter.” _Reddit_, r/PromptEngineering, September 29, 2025. [https://www.reddit.com/r/PromptEngineering/comments/1nt7x7v/after_1000_hours_of_prompt_engineering_i_found/](https://www.reddit.com/r/PromptEngineering/comments/1nt7x7v/after_1000_hours_of_prompt_engineering_i_found/).

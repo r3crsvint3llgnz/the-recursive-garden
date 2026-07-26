@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-databanks/prompts/eisenhower-matrix-interpreter/","tags":["prompt"]}
+{"dg-publish":true,"kind":"prompt","tags":["prompt"],"categories":["productivity","prioritization"],"framework":"Eisenhower","role":"individual","audience":"me","tone":"concise","status":"ready","created":"2025-11-09T19:36:00","updated":"2025-11-09T19:36:00","permalink":"/03-databanks/prompts/eisenhower-matrix-interpreter/","dgPassFrontmatter":true,"dg-note-properties":{"kind":"prompt","tags":["prompt"],"categories":["productivity","prioritization"],"framework":"Eisenhower","role":"individual","audience":"me","tone":"concise","status":"ready","created":"2025-11-09T19:36:00","updated":"2025-11-09T19:36:00"}}
 ---
 
 # Eisenhower Matrix Interpreter

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-databanks/atoms/umwelt/","tags":["#atom","#RDD"]}
+{"dg-publish":true,"kind":"atom","status":"draft","domain":["[[03-DATABANKS/Atoms/Epistemic\|Epistemic]]"],"topics":["Recursive Distinction Dynamics","Biology","Ethology","Perception","Reference Frames"],"tags":["#atom","#RDD"],"created":"2025-12-26","updated":"2025-12-26","molecule":[],"citekeys":["[[03-DATABANKS/Sources/Literature Sources/@uexkullForayWorldsAnimals1934\|@uexkullForayWorldsAnimals1934]]"],"permalink":"/03-databanks/atoms/umwelt/","dgPassFrontmatter":true,"dg-note-properties":{"kind":"atom","status":"draft","domain":["[[03-DATABANKS/Atoms/Epistemic\|Epistemic]]"],"topics":["Recursive Distinction Dynamics","Biology","Ethology","Perception","Reference Frames"],"tags":["#atom","#RDD"],"created":"2025-12-26","updated":"2025-12-26","molecule":[],"citekeys":["[[03-DATABANKS/Sources/Literature Sources/@uexkullForayWorldsAnimals1934\|@uexkullForayWorldsAnimals1934]]"]}}
 ---
 
 

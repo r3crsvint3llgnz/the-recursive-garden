@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/03-databanks/authors/luc-ferry/","tags":["author","people"]}
+{"dg-publish":true,"type":"author","tags":["author","people"],"born":"1951-01-03","died":null,"nationality":"French","website":null,"wikipedia":"https://en.wikipedia.org/wiki/Luc_Ferry","created":"2025-11-09T20:12:00","updated":"2025-11-09T20:12:00","permalink":"/03-databanks/authors/luc-ferry/","dgPassFrontmatter":true,"dg-note-properties":{"type":"author","tags":["author","people"],"born":"1951-01-03","died":null,"nationality":"French","website":null,"wikipedia":"https://en.wikipedia.org/wiki/Luc_Ferry","created":"2025-11-09T20:12:00","updated":"2025-11-09T20:12:00"}}
 ---
 
 # Luc Ferry
-[[01_ACTIVE/The Recursive Garden/The Recursive Garden\|Home]] · [[01_ACTIVE/The Recursive Garden/About - Contact Info\|About - Contact Info]] · [[03-DATABANKS/Reading Notes\|Reading Notes]]
+[[01_ACTIVE/The Recursive Garden/The Recursive Garden\|Home]] · [[01_ACTIVE/The Recursive Garden/About\|About]] · [[03-DATABANKS/Reading Notes\|Reading Notes]]
 
 > [!info]+ Biography
 > <Brief bio in your words. 3–6 sentences max. Key life events, domains, why they matter to you.>

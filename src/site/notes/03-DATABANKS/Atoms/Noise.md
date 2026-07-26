@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-databanks/atoms/noise/","tags":["atom","RDD","foundational"]}
+{"dg-publish":true,"kind":"atom","status":"draft","domain":"[[Ontic]]","tags":["atom","RDD","foundational"],"topics":["Recursive Distinction Dynamics","Physics","Stochastic Dynamics","Thermodynamics"],"created":"2025-12-26","updated":"2025-12-26","citekeys":["[[03-DATABANKS/Sources/Literature Sources/@seifertStochasticThermodynamicsFluctuation2012\|@seifertStochasticThermodynamicsFluctuation2012]]","[[03-DATABANKS/Sources/Literature Sources/@kuboFluctuationdissipationTheorem1966\|@kuboFluctuationdissipationTheorem1966]]","[[03-DATABANKS/Sources/Literature Sources/@gardinerStochasticMethodsHandbook2009\|@gardinerStochasticMethodsHandbook2009]]"],"permalink":"/03-databanks/atoms/noise/","dgPassFrontmatter":true,"dg-note-properties":{"kind":"atom","status":"draft","domain":"[[Ontic]]","tags":["atom","RDD","foundational"],"topics":["Recursive Distinction Dynamics","Physics","Stochastic Dynamics","Thermodynamics"],"created":"2025-12-26","updated":"2025-12-26","citekeys":["[[03-DATABANKS/Sources/Literature Sources/@seifertStochasticThermodynamicsFluctuation2012\|@seifertStochasticThermodynamicsFluctuation2012]]","[[03-DATABANKS/Sources/Literature Sources/@kuboFluctuationdissipationTheorem1966\|@kuboFluctuationdissipationTheorem1966]]","[[03-DATABANKS/Sources/Literature Sources/@gardinerStochasticMethodsHandbook2009\|@gardinerStochasticMethodsHandbook2009]]"]}}
 ---
 
 [[01_ACTIVE/The Recursive Garden/The Recursive Garden\|🏠 Home]] · [[03-DATABANKS/Reading Notes\|📚 Reading Notes]] · [[03-DATABANKS/Articles/Articles\|📝 Articles]] · [[01_ACTIVE/The Recursive Garden/About - Contact Info\|ℹ️ About]]
@@ -34,13 +34,6 @@ Noise is what makes persistence difficult.
 ## Links
 
 ### Related atoms
-- [[03-DATABANKS/Atoms/Distinction\|Distinction]]
-- [[03-DATABANKS/Atoms/Entropy\|Entropy]]
-- [[03-DATABANKS/Atoms/Existence\|Existence]]
-- [[03-DATABANKS/Atoms/Ontic\|Ontic]]
-- [[03-DATABANKS/Atoms/Persistence (Metastable State Property)\|Persistence (Metastable State Property)]]
-- [[03-DATABANKS/Atoms/Persistence Bias\|Persistence Bias]]
-- [[03-DATABANKS/Atoms/Time\|Time]]
 
 { .block-language-dataview}`
 ### Used in molecules

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-databanks/atoms/acid-consistency/","tags":["atom","data"]}
+{"dg-publish":true,"kind":"atom","tags":["atom","data"],"topics":[" AI ","AI Optimizer","Data Quality","Data Governance","Industrial AI"],"source":"https://delta.io/pdfs/dldg_databricks.pdf","pages":"11, 22, 279, 326, 345, 368","citekey":"leeDeltaLakeDefinitive","created":"2025-11-26T22:00:00","updated":"2025-11-26T22:00:00","molecule":["[ACID Transactions]]"],"permalink":"/03-databanks/atoms/acid-consistency/","dgPassFrontmatter":true,"dg-note-properties":{"kind":"atom","tags":["atom","data"],"topics":[" AI ","AI Optimizer","Data Quality","Data Governance","Industrial AI"],"source":"https://delta.io/pdfs/dldg_databricks.pdf","pages":"11, 22, 279, 326, 345, 368","citekey":"leeDeltaLakeDefinitive","created":"2025-11-26T22:00:00","updated":"2025-11-26T22:00:00","molecule":["[[03-DATABANKS/Molecules/ACID Transactions|ACID Transactions](/img/user/03-DATABANKS/Molecules/ACID%20Transactions.md)"]}}
 ---
 
 # ACID - Consistency
@@ -49,10 +49,6 @@
 Delta Lake’s schema evolution and schema enforcement ensure data consistency and quality by enforcing a schema on write operations and allowing users to modify the schema without breaking existing queries. They also prevent developers from inadvertently inserting data with incorrect columns or types, which is crucial for maintaining data quality and consistency.
 
 ---
-> [!abstract]- Citation block (optional)
-> **Source:** {{source}} • **Page:** {{page}} • **Key:** {{citekey}}
----
-
-• **Page:** 11, 22, 279, 326, 345, 368 • **Key:** [[03-DATABANKS/Sources/Literature Sources/leeDeltaLakeDefinitive\|leeDeltaLakeDefinitive]]
+**Source:** [Delta Lake: The Definitive Guide](https://delta.io/pdfs/dldg_databricks.pdf) • **Page:** 11, 22, 279, 326, 345, 368 • **Key:** [[03-DATABANKS/Sources/Literature Sources/leeDeltaLakeDefinitive\|leeDeltaLakeDefinitive]]
 
 ---

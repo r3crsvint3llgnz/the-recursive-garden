@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-databanks/atoms/entropy/","tags":["#atom","#RDD","#foundational"]}
+{"dg-publish":true,"kind":"atom","status":"draft","domain":"[[Ontic]]","topics":["Recursive Distinction Dynamics","Thermodynamics","Statistical Mechanics","Information Physics"],"tags":["#atom","#RDD","#foundational"],"created":"2025-11-22","updated":"2025-12-26","citekeys":["[[03-DATABANKS/Sources/Literature Sources/@parrondoThermodynamicsInformation2015\|@parrondoThermodynamicsInformation2015]]","[[03-DATABANKS/Sources/Literature Sources/@sethnaEntropyOrderParameters2021\|@sethnaEntropyOrderParameters2021]]","[[03-DATABANKS/Sources/Literature Sources/@sharpTranslationLudwigBoltzmanns2015\|@sharpTranslationLudwigBoltzmanns2015]]"],"permalink":"/03-databanks/atoms/entropy/","dgPassFrontmatter":true,"dg-note-properties":{"kind":"atom","status":"draft","domain":"[[Ontic]]","topics":["Recursive Distinction Dynamics","Thermodynamics","Statistical Mechanics","Information Physics"],"tags":["#atom","#RDD","#foundational"],"created":"2025-11-22","updated":"2025-12-26","citekeys":["[[03-DATABANKS/Sources/Literature Sources/@parrondoThermodynamicsInformation2015\|@parrondoThermodynamicsInformation2015]]","[[03-DATABANKS/Sources/Literature Sources/@sethnaEntropyOrderParameters2021\|@sethnaEntropyOrderParameters2021]]","[[03-DATABANKS/Sources/Literature Sources/@sharpTranslationLudwigBoltzmanns2015\|@sharpTranslationLudwigBoltzmanns2015]]"]}}
 ---
 
 [[01_ACTIVE/The Recursive Garden/The Recursive Garden\|🏠 Home]] · [[03-DATABANKS/Reading Notes\|📚 Reading Notes]] · [[03-DATABANKS/Articles/Articles\|📝 Articles]] · [[01_ACTIVE/The Recursive Garden/About - Contact Info\|ℹ️ About]]
@@ -35,8 +35,6 @@ Entropy measures how easily a system forgets its past.
 ## Links
 
 ### Related atoms
-- [[03-DATABANKS/Atoms/Potential\|Potential]]
-- [[03-DATABANKS/Atoms/Time\|Time]]
 
 { .block-language-dataview}
 ### Used in molecules

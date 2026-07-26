@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-databanks/sources/literature-sources/fuchs-introduction-q-bism-application2014/","title":"An Introduction to QBism with an Application to the Locality of Quantum Mechanics"}
+{"dg-publish":true,"title":"An Introduction to QBism with an Application to the Locality of Quantum Mechanics","authors":"","year":"2014","status":"reading","summary":"","themes":[],"citekey":"fuchsIntroductionQBismApplication2014","zotero_uri":"","doi":"10.1119/1.4874855","isbn":"","url":"http://arxiv.org/abs/1311.5253","cover":"","created":"2025-12-26","updated":"2025-12-26","permalink":"/03-databanks/sources/literature-sources/fuchs-introduction-q-bism-application2014/","dgPassFrontmatter":true,"dg-note-properties":{"title":"An Introduction to QBism with an Application to the Locality of Quantum Mechanics","authors":"","year":"2014","status":"reading","summary":"","themes":[],"citekey":"fuchsIntroductionQBismApplication2014","zotero_uri":"","doi":"10.1119/1.4874855","isbn":"","url":"http://arxiv.org/abs/1311.5253","cover":"","created":"2025-12-26","updated":"2025-12-26"}}
 ---
 
 
@@ -30,6 +30,6 @@
 > - …
 
 > [!info]- Links
-> - Book Note (if exists): [[../../Books/fuchsIntroductionQBismApplication2014\|An Introduction to QBism with an Application to the Locality of Quantum Mechanics]]
+> - Book Note (if exists): [[fuchsIntroductionQBismApplication2014\|An Introduction to QBism with an Application to the Locality of Quantum Mechanics]]
 > - Open in Zotero: 
 > - External link: http://arxiv.org/abs/1311.5253

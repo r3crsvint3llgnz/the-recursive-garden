@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-databanks/molecules/qualia-and-recursion/","tags":["molecule"]}
+{"dg-publish":true,"kind":"molecule","status":"draft","version":0.2,"tags":["molecule"],"topics":["Recursive Distinction Dynamics"],"created":"2025-12-26","updated":"2025-12-29","atoms":["Qualia","What is Reality under RDD"],"permalink":"/03-databanks/molecules/qualia-and-recursion/","dgPassFrontmatter":true,"dg-note-properties":{"kind":"molecule","status":"draft","version":0.2,"tags":["molecule"],"topics":["Recursive Distinction Dynamics"],"created":"2025-12-26","updated":"2025-12-29","atoms":["Qualia","What is Reality under RDD"]}}
 ---
 
 [[01_ACTIVE/The Recursive Garden/The Recursive Garden\|🏠 Home]] · [[03-DATABANKS/Reading Notes\|📚 Reading Notes]] · [[03-DATABANKS/Articles/Articles\|📝 Articles]] · [[01_ACTIVE/The Recursive Garden/About - Contact Info\|ℹ️ About]]

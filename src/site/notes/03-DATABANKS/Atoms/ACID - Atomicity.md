@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-databanks/atoms/acid-atomicity/","tags":["atom","data"]}
+{"dg-publish":true,"kind":"atom","tags":["atom","data"],"topics":[" AI ","AI Optimizer","Data Quality","Data Governance","Industrial AI"],"source":"https://delta.io/pdfs/dldg_databricks.pdf","pages":"11, 22, 19","citekey":"leeDeltaLakeDefinitive","created":"2025-11-26T21:41:00","updated":"2025-11-26T21:41:00","molecule":["[ACID Transactions]]"],"permalink":"/03-databanks/atoms/acid-atomicity/","dgPassFrontmatter":true,"dg-note-properties":{"kind":"atom","tags":["atom","data"],"topics":[" AI ","AI Optimizer","Data Quality","Data Governance","Industrial AI"],"source":"https://delta.io/pdfs/dldg_databricks.pdf","pages":"11, 22, 19","citekey":"leeDeltaLakeDefinitive","created":"2025-11-26T21:41:00","updated":"2025-11-26T21:41:00","molecule":["[[03-DATABANKS/Molecules/ACID Transactions|ACID Transactions](/img/user/03-DATABANKS/Molecules/ACID%20Transactions.md)"]}}
 ---
 
 # ACID - Atomicity
@@ -48,9 +48,6 @@
 
 If a process fails during a data modification, the transaction must be rolled back to its original state, thereby ensuring the data remains consistent and avoiding partially completed changes.
 
----
-> [!abstract]- Citation block (optional)
-> **Source:** {{source}} • **Page:** {{page}} • **Key:** {{citekey}}
 ---
 
 **Source:** https://delta.io/pdfs/dldg_databricks.pdf • **Page:** 11, 22, 19 • **Key:** [[03-DATABANKS/Sources/Literature Sources/leeDeltaLakeDefinitive\|leeDeltaLakeDefinitive]]

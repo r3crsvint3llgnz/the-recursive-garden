@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-databanks/prompts/the-daily-focus-framework/","tags":["prompt"]}
+{"dg-publish":true,"kind":"prompt","tags":["prompt"],"categories":["tasks","prompting","productivity"],"framework":"Daily Focus","role":"individual","audience":"me","tone":"concise","status":["ready"],"created":"2025-11-09T20:46:00","updated":"2025-11-09T20:46:00","permalink":"/03-databanks/prompts/the-daily-focus-framework/","dgPassFrontmatter":true,"dg-note-properties":{"kind":"prompt","tags":"prompt","categories":["tasks","prompting","productivity"],"framework":"Daily Focus","role":"individual","audience":"me","tone":"concise","status":["ready"],"created":"2025-11-09T20:46:00","updated":"2025-11-09T20:46:00"}}
 ---
 
 # The Daily Focus Framework

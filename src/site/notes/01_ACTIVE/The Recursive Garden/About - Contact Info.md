@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-active/the-recursive-garden/about-contact-info/","title":"Contact Me","tags":["about","profile","contacts"]}
+{"dg-publish":true,"title":"Contact Me","section":"about","tags":["about","profile","contacts"],"permalink":"/01-active/the-recursive-garden/about-contact-info/","dgPassFrontmatter":true,"dg-note-properties":{"title":"Contact Me","section":"about","tags":["about","profile","contacts"]}}
 ---
 
 [[01_ACTIVE/The Recursive Garden/About\|← About]]

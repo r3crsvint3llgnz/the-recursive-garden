@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-databanks/molecules/recursion-in-rdd-mechanisms-and-implications/","tags":["molecule"]}
+{"dg-publish":true,"kind":"molecule","status":"draft","version":0.2,"tags":["molecule"],"topics":["Recursive Distinction Dynamics"],"created":"2025-12-26","updated":"2025-12-29","atoms":["Record (Memory Substrate)","Persistent Distinction","Time","Constraint","Noise","Existence"],"permalink":"/03-databanks/molecules/recursion-in-rdd-mechanisms-and-implications/","dgPassFrontmatter":true,"dg-note-properties":{"kind":"molecule","status":"draft","version":0.2,"tags":["molecule"],"topics":["Recursive Distinction Dynamics"],"created":"2025-12-26","updated":"2025-12-29","atoms":["Record (Memory Substrate)","Persistent Distinction","Time","Constraint","Noise","Existence"]}}
 ---
 
 # Recursion in RDD: Mechanisms and Implications

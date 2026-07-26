@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-active/claims-and-hypotheses/coarse-graining-determines-which-distinctions-exist/","tags":["claim"]}
+{"dg-publish":true,"kind":"claim","status":"draft","topics":["Recursive Distinction Dynamics"],"tags":["claim"],"created":"2025-12-29","updated":"2025-12-29","permalink":"/01-active/claims-and-hypotheses/coarse-graining-determines-which-distinctions-exist/","dgPassFrontmatter":true,"dg-note-properties":{"kind":"claim","status":"draft","topics":["Recursive Distinction Dynamics"],"tags":["claim"],"created":"2025-12-29","updated":"2025-12-29"}}
 ---
 
 # Coarse graining determines which distinctions exist

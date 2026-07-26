@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-databanks/prompts/weekly-review-protocol-gtd-style/","tags":["prompt"]}
+{"dg-publish":true,"kind":"prompt","tags":["prompt"],"categories":["review","planning","GTD"],"framework":"GTD","role":"individual","audience":"me","tone":"concise","status":["ready"],"created":"2025-11-09T19:38:00","updated":"2025-11-09T19:39:00","permalink":"/03-databanks/prompts/weekly-review-protocol-gtd-style/","dgPassFrontmatter":true,"dg-note-properties":{"kind":"prompt","tags":"prompt","categories":["review","planning","GTD"],"framework":"GTD","role":"individual","audience":"me","tone":"concise","status":["ready"],"created":"2025-11-09T19:38:00","updated":"2025-11-09T19:39:00"}}
 ---
 
 # Weekly Review Protocol (GTD-style)

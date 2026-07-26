@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/templates/claim-hypothesis-template/","tags":["claim"]}
+{"dg-publish":true,"kind":"claim","status":"draft","topics":null,"tags":["claim"],"created":{"{ date }":null},"updated":{"{ date }":null},"permalink":"/templates/claim-hypothesis-template/","dgPassFrontmatter":true,"dg-note-properties":{"kind":"claim","status":"draft","topics":null,"tags":["claim"],"created":{"{ date }":null},"updated":{"{ date }":null}}}
 ---
 
 # {{title}}

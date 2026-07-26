@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-databanks/prompts/the-meeting-to-action-framework/","tags":["prompt"]}
+{"dg-publish":true,"kind":"prompt","tags":["prompt"],"categories":["meeting","prompting","productivity"],"framework":"Meeting-to-Action","role":"individual","audience":"me","tone":"concise","status":["ready"],"created":"2025-11-09T20:48:00","updated":"2025-11-09T20:48:00","permalink":"/03-databanks/prompts/the-meeting-to-action-framework/","dgPassFrontmatter":true,"dg-note-properties":{"kind":"prompt","tags":"prompt","categories":["meeting","prompting","productivity"],"framework":"Meeting-to-Action","role":"individual","audience":"me","tone":"concise","status":["ready"],"created":"2025-11-09T20:48:00","updated":"2025-11-09T20:48:00"}}
 ---
 
 # The Meeting-to-Action Framework

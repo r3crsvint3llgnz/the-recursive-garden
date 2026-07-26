@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-databanks/molecules/code/","tags":["molecule","pkm","productivity"]}
+{"dg-publish":true,"kind":"molecule","tags":["molecule","pkm","productivity"],"topics":["Productivity","PKM","Knowledge Management"],"status":"draft","version":0.1,"created":"2025-11-26T22:43:00","updated":"2025-11-26T22:43:00","permalink":"/03-databanks/molecules/code/","dgPassFrontmatter":true,"dg-note-properties":{"kind":"molecule","tags":["molecule","pkm","productivity"],"topics":["Productivity","PKM","Knowledge Management"],"status":"draft","version":0.1,"created":"2025-11-26T22:43:00","updated":"2025-11-26T22:43:00"}}
 ---
 
 # CODE

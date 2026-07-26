@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-databanks/prompts/the-task-to-plan-framework/","tags":["prompt"]}
+{"dg-publish":true,"kind":"prompt","tags":["prompt"],"categories":["prompting","productivity"],"framework":"The Task-to-Plan","role":"individual","audience":"me","tone":"concise","status":["ready"],"created":"2025-11-09T20:43:00","updated":"2025-11-09T20:43:00","permalink":"/03-databanks/prompts/the-task-to-plan-framework/","dgPassFrontmatter":true,"dg-note-properties":{"kind":"prompt","tags":"prompt","categories":["prompting","productivity"],"framework":"The Task-to-Plan","role":"individual","audience":"me","tone":"concise","status":["ready"],"created":"2025-11-09T20:43:00","updated":"2025-11-09T20:43:00"}}
 ---
 
 # The Task-to-Plan Framework

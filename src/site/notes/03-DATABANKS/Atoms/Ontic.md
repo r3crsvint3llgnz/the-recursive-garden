@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-databanks/atoms/ontic/","tags":["atom","#foundational","#ontology"]}
+{"dg-publish":true,"kind":"atom","tags":["atom","#foundational","#ontology"],"topics":["Recursive Distinction Dynamics","Metaphysics","Philosophy","Philosophy of Physics","Information Theory"],"citekeys":["[[03-DATABANKS/Sources/Literature Sources/@ladymanEveryThingMust2009\|@ladymanEveryThingMust2009]]","[[03-DATABANKS/Sources/Literature Sources/@dennettRealPatterns1991\|@dennettRealPatterns1991]]"],"created":"2025-12-20T19:03:00","updated":"2025-12-20T19:03:00","domain":"[[Ontic]]","status":"draft","permalink":"/03-databanks/atoms/ontic/","dgPassFrontmatter":true,"dg-note-properties":{"kind":"atom","tags":["atom","#foundational","#ontology"],"topics":["Recursive Distinction Dynamics","Metaphysics","Philosophy","Philosophy of Physics","Information Theory"],"citekeys":["[[03-DATABANKS/Sources/Literature Sources/@ladymanEveryThingMust2009\|@ladymanEveryThingMust2009]]","[[03-DATABANKS/Sources/Literature Sources/@dennettRealPatterns1991\|@dennettRealPatterns1991]]"],"created":"2025-12-20T19:03:00","updated":"2025-12-20T19:03:00","domain":"[[Ontic]]","status":"draft"}}
 ---
 
 [[01_ACTIVE/The Recursive Garden/The Recursive Garden\|🏠 Home]] · [[03-DATABANKS/Reading Notes\|📚 Reading Notes]] · [[03-DATABANKS/Articles/Articles\|📝 Articles]] · [[01_ACTIVE/The Recursive Garden/About - Contact Info\|ℹ️ About]]
@@ -36,21 +36,6 @@ Ontic claims are about what the world does, not what we say about it.
 ## Links
 
 ### Related atoms
-- [[03-DATABANKS/Atoms/Constraint\|Constraint]]
-- [[03-DATABANKS/Atoms/Distinction\|Distinction]]
-- [[03-DATABANKS/Atoms/Entropy\|Entropy]]
-- [[03-DATABANKS/Atoms/Epistemic\|Epistemic]]
-- [[03-DATABANKS/Atoms/Existence\|Existence]]
-- [[03-DATABANKS/Atoms/Noise\|Noise]]
-- [[03-DATABANKS/Atoms/Ontic\|Ontic]]
-- [[03-DATABANKS/Atoms/Persistence (Metastable State Property)\|Persistence (Metastable State Property)]]
-- [[03-DATABANKS/Atoms/Persistence Bias\|Persistence Bias]]
-- [[03-DATABANKS/Atoms/Persistent Distinction\|Persistent Distinction]]
-- [[03-DATABANKS/Atoms/Potential\|Potential]]
-- [[03-DATABANKS/Atoms/Record (Memory Substrate)\|Record (Memory Substrate)]]
-- [[03-DATABANKS/Atoms/Recursion\|Recursion]]
-- [[03-DATABANKS/Atoms/State Space\|State Space]]
-- [[03-DATABANKS/Atoms/Time\|Time]]
 
 { .block-language-dataview}
 ### Used in molecules

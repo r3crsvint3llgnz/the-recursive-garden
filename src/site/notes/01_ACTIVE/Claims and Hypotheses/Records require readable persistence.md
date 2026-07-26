@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-active/claims-and-hypotheses/records-require-readable-persistence/","tags":["claim"]}
+{"dg-publish":true,"kind":"claim","status":"draft","topics":["Recursive Distinction Dynamics"],"tags":["claim"],"created":"2025-12-29","updated":"2025-12-29","permalink":"/01-active/claims-and-hypotheses/records-require-readable-persistence/","dgPassFrontmatter":true,"dg-note-properties":{"kind":"claim","status":"draft","topics":["Recursive Distinction Dynamics"],"tags":["claim"],"created":"2025-12-29","updated":"2025-12-29"}}
 ---
 
 # Records require readable persistence

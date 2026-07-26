@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/03-databanks/books/consciousness-in-practice/","title":"Consciousness in Practice","tags":["book","booknotes","#source"]}
+{"dg-publish":true,"Type":"book","section":"books","tags":["book","booknotes","#source"],"title":"Consciousness in Practice","author":"[[Brian Heath]]","category":"[[Nonfiction]]","publisher":"","publish":"2025","year":"2025","pages":"","isbn":"","cover":"https://m.media-amazon.com/images/I/81SyhHiY-kL._SL1500_.jpg","localCover":"","status":["read"],"rating":4.5,"citekey":"heathConsciousnessPractice2025","zotero_uri":"zotero://select/items/@heathConsciousnessPractice2025","doi":"","url":"","created":null,"updated":null,"started":null,"finished":"2025-08-15","in_kindle":null,"in_library":null,"in_audible":null,"permalink":"/03-databanks/books/consciousness-in-practice/","dgPassFrontmatter":true,"dg-note-properties":{"Type":"book","section":"books","tags":["book","booknotes","#source"],"title":"Consciousness in Practice","author":"[[Brian Heath]]","category":"[[Nonfiction]]","publisher":"","publish":"2025","year":"2025","pages":"","isbn":"","cover":"https://m.media-amazon.com/images/I/81SyhHiY-kL._SL1500_.jpg","localCover":"","status":["read"],"rating":4.5,"citekey":"heathConsciousnessPractice2025","zotero_uri":"zotero://select/items/@heathConsciousnessPractice2025","doi":"","url":"","created":null,"updated":null,"started":null,"finished":"2025-08-15","in_kindle":null,"in_library":null,"in_audible":null}}
 ---
 
-[[01_ACTIVE/The Recursive Garden/The Recursive Garden\|🏠 Home]] · [[03-DATABANKS/Reading Notes\|📚 Reading Notes]] · [[03-DATABANKS/Articles/Articles\|📝 Articles]] · [[01_ACTIVE/The Recursive Garden/About - Contact Info\|ℹ️ About]]
+# Consciousness in Practice
+[[01_ACTIVE/The Recursive Garden/The Recursive Garden\|Home]] · [[01_ACTIVE/The Recursive Garden/About\|About]] · [[03-DATABANKS/Reading Notes\|Reading Notes]]
 
 <img src="https://m.media-amazon.com/images/I/81SyhHiY-kL._SL1500_.jpg" alt="Cover" style="max-width: 440px; max-height: 640px; width: auto; height: auto; object-fit: contain; border-radius: 6px; display: block;">`
 
@@ -96,4 +97,4 @@ _Consciousness in Practice_ is an ambitious and heartfelt work—philosophy rend
 >     
 ---
 
-[[01_ACTIVE/The Recursive Garden/The Recursive Garden\|🏠 Home]] · [[03-DATABANKS/Reading Notes\|📚 Reading Notes]] · [[03-DATABANKS/Articles/Articles\|📝 Articles]] · [[01_ACTIVE/The Recursive Garden/About - Contact Info\|ℹ️ About]]
+[[01_ACTIVE/The Recursive Garden/The Recursive Garden\|Home]] · [[01_ACTIVE/The Recursive Garden/About\|About]] · [[03-DATABANKS/Reading Notes\|Reading Notes]]
