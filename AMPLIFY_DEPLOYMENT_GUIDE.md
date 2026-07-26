@@ -134,5 +134,5 @@ After deployment succeeds:
 
 - The `.env` file should **never** be committed to git (it's in `.gitignore`)
 - Environment variables in Amplify Console override local `.env` values during deployment
-- The build uses Node.js 20 by default (configured in Amplify app settings)
+- The build requires Node.js 22 (`nvm use 22` in `amplify.yml`'s `preBuild` phase, matching `package.json`'s `engines.node`)
 - Build artifacts are cached to speed up subsequent deployments
