@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"title":"{{title}}","authors":"{{authorString}}","year":"{{date}}","status":"reading","summary":"","themes":[],"citekey":"{{citekey}}","zotero_uri":"{{link}}","doi":"{{DOI}}","isbn":"{{ISBN}}","url":"{{url}}","cover":"","created":null,"updated":null,"permalink":"/templates/zotero-integration-template/","dgPassFrontmatter":true,"dg-note-properties":{"title":"{{title}}","authors":"{{authorString}}","year":"{{date}}","status":"reading","summary":"","themes":[],"citekey":"{{citekey}}","zotero_uri":"{{link}}","doi":"{{DOI}}","isbn":"{{ISBN}}","url":"{{url}}","cover":"","created":null,"updated":null}}
+{"dg-publish":true,"title":"Zotero Integration Template","authors":"{{authorString}}","year":"{{date}}","status":"reading","summary":"","themes":[],"citekey":"{{citekey}}","zotero_uri":"{{link}}","doi":"{{DOI}}","isbn":"{{ISBN}}","url":"{{url}}","cover":"","created":null,"updated":null,"permalink":"/templates/zotero-integration-template/","dgPassFrontmatter":true,"dg-note-properties":{"title":"Zotero Integration Template","authors":"{{authorString}}","year":"{{date}}","status":"reading","summary":"","themes":[],"citekey":"{{citekey}}","zotero_uri":"{{link}}","doi":"{{DOI}}","isbn":"{{ISBN}}","url":"{{url}}","cover":"","created":null,"updated":null}}
 ---
 
 
-# {{title}}
+# Zotero Integration Template
 
 > [!quote]+ Citation
 > {{bibliography}}

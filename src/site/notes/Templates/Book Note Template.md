@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"Type":"book","tags":["book","booknotes","#source"],"title":"{{title}}","author":"[[{{author}}]]","category":"[[{{category}}]]","publisher":"{{publisher}}","publish":"{{publishDate}}","year":"{{date}}","pages":"{{totalPage}}","isbn":"{{isbn10}} {{isbn13}}","cover":"{{coverUrl}}","localCover":"{{localCoverImage}}","status":["unread"],"rating":null,"citekey":"{{citekey}}","zotero_uri":"{{link}}","doi":"{{DOI}}","url":"{{URL}}","created":null,"updated":null,"in_kindle":null,"in_library":null,"in_audible":null,"permalink":"/templates/book-note-template/","dgPassFrontmatter":true,"dg-note-properties":{"Type":"book","tags":["book","booknotes","#source"],"title":"{{title}}","author":"[[{{author}}]]","category":"[[{{category}}]]","publisher":"{{publisher}}","publish":"{{publishDate}}","year":"{{date}}","pages":"{{totalPage}}","isbn":"{{isbn10}} {{isbn13}}","cover":"{{coverUrl}}","localCover":"{{localCoverImage}}","status":["unread"],"rating":null,"citekey":"{{citekey}}","zotero_uri":"{{link}}","doi":"{{DOI}}","url":"{{URL}}","created":null,"updated":null,"in_kindle":null,"in_library":null,"in_audible":null}}
+{"dg-publish":true,"Type":"book","tags":["book","booknotes","#source"],"title":"Book Note Template","author":"[[{{author}}]]","category":"[[{{category}}]]","publisher":"{{publisher}}","publish":"{{publishDate}}","year":"{{date}}","pages":"{{totalPage}}","isbn":"{{isbn10}} {{isbn13}}","cover":"{{coverUrl}}","localCover":"{{localCoverImage}}","status":["unread"],"rating":null,"citekey":"{{citekey}}","zotero_uri":"{{link}}","doi":"{{DOI}}","url":"{{URL}}","created":null,"updated":null,"in_kindle":null,"in_library":null,"in_audible":null,"permalink":"/templates/book-note-template/","dgPassFrontmatter":true,"dg-note-properties":{"Type":"book","tags":["book","booknotes","#source"],"title":"Book Note Template","author":"[[{{author}}]]","category":"[[{{category}}]]","publisher":"{{publisher}}","publish":"{{publishDate}}","year":"{{date}}","pages":"{{totalPage}}","isbn":"{{isbn10}} {{isbn13}}","cover":"{{coverUrl}}","localCover":"{{localCoverImage}}","status":["unread"],"rating":null,"citekey":"{{citekey}}","zotero_uri":"{{link}}","doi":"{{DOI}}","url":"{{URL}}","created":null,"updated":null,"in_kindle":null,"in_library":null,"in_audible":null}}
 ---
 
 # <% tp.file.title %>
@@ -8,7 +8,7 @@
 <img src="{{coverUrl}}" alt="Cover" style="max-width: 440px; max-height: 640px; width: auto; height: auto; object-fit: contain; border-radius: 6px; display: block;">
 
 > [!quote]- Citation  
-> [[{{author}}\|{{author}}]] ({{date}}). *{{title}}*. {{publisher}}. https://doi.org/{{DOI}}
+> [[{{author}}\|{{author}}]] ({{date}}). *Book Note Template*. {{publisher}}. https://doi.org/{{DOI}}
 ---
 
 > [!abstract]- Summary
