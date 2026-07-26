@@ -75,7 +75,9 @@ module.exports = async (data) => {
     searchNotStarted: process.env.UI_SEARCH_NOT_STARTED_TEXT || "Enter your search text in the box above",
     searchEnterHotkey: process.env.UI_SEARCH_ENTER_HOTKEY || "Enter",
     searchEnterHint: process.env.UI_SEARCH_ENTER_HINT || "to select",
-    searchNavigateHotkey: process.env.UI_SEARCH_NAVIGATE_HOTKEY || "⇅",
+    // No searchNavigateHotkey string: unlike Enter/ESC, the navigate hint's
+    // arrow-up/arrow-down icons (searchContainer.njk) already convey the
+    // keys, so no text badge is rendered for it (see ee585c3).
     searchNavigateHint: process.env.UI_SEARCH_NAVIGATE_HINT || "to navigate",
     searchCloseHotkey: process.env.UI_SEARCH_CLOSE_HOTKEY || "ESC",
     searchCloseHint: process.env.UI_SEARCH_CLOSE_HINT || "to close",

@@ -31,46 +31,32 @@ You **must** add these environment variables to AWS Amplify Console:
 4. Click **Manage variables**
 5. Add each variable below:
 
-#### Required Variables (from .env file):
+#### Required Variables:
 
-```bash
-# Site Configuration
-SITE_NAME_HEADER=The Recursive Garden
-SITE_MAIN_LANGUAGE=en
-SITE_BASE_URL=https://recursiveintelligence.xyz
+Amplify Console needs every key below set explicitly. Despite `.gitignore`
+listing `.env`, the Obsidian Digital Garden plugin's auto-commit re-adds it on
+every "Update settings" commit, so `.env` is currently **tracked and present**
+in the repo checkout Amplify clones — **read current values from the repo's
+tracked `.env`** (`git show HEAD:.env`, or view it on GitHub) rather than a
+hardcoded snapshot here, since values (especially `THEME`,
+`STYLE_SETTINGS_CSS`, `STYLE_SETTINGS_BODY_CLASSES`, and the `dg*` feature
+flags) change whenever the vault republishes. Because neither
+`notes.11tydata.js` nor `src/site/_data/meta.js` pass `{ override: true }` to
+`dotenv.config()`, the tracked `.env` values act as a fallback for any Amplify
+Console variable that isn't explicitly set — a variable that looks unset in
+Console may still be silently supplied by the tracked file. As of this writing
+the keys are:
 
-# Timestamps
-SHOW_CREATED_TIMESTAMP=false
-TIMESTAMP_FORMAT=MMM dd, yyyy h:mm a
-SHOW_UPDATED_TIMESTAMP=false
-
-# Note Icons
-NOTE_ICON_DEFAULT=
-NOTE_ICON_TITLE=false
-NOTE_ICON_FILETREE=false
-NOTE_ICON_INTERNAL_LINKS=false
-NOTE_ICON_BACK_LINKS=false
-
-# Styling
-STYLE_SETTINGS_CSS=
-STYLE_SETTINGS_BODY_CLASSES=
-USE_FULL_RESOLUTION_IMAGES=false
-
-# Theme
-THEME=https://raw.githubusercontent.com/Quinta0/Aurora-Twilight/HEAD/theme.css
-BASE_THEME=dark
-
-# Digital Garden Settings
-dgHomeLink=true
-dgPassFrontmatter=true
-dgShowBacklinks=true
-dgShowLocalGraph=true
-dgShowInlineTitle=true
-dgShowFileTree=true
-dgEnableSearch=true
-dgShowToc=true
-dgLinkPreview=true
-dgShowTags=true
+```
+SITE_NAME_HEADER, SITE_MAIN_LANGUAGE, SITE_BASE_URL,
+SHOW_CREATED_TIMESTAMP, TIMESTAMP_FORMAT, SHOW_UPDATED_TIMESTAMP,
+NOTE_ICON_DEFAULT, NOTE_ICON_TITLE, NOTE_ICON_FILETREE,
+NOTE_ICON_INTERNAL_LINKS, NOTE_ICON_BACK_LINKS,
+STYLE_SETTINGS_CSS, STYLE_SETTINGS_BODY_CLASSES, USE_FULL_RESOLUTION_IMAGES,
+THEME, BASE_THEME,
+dgHomeLink, dgPassFrontmatter, dgShowBacklinks, dgShowLocalGraph,
+dgShowInlineTitle, dgShowFileTree, dgEnableSearch, dgShowToc,
+dgLinkPreview, dgShowTags
 ```
 
 **Note**: For empty values (like `NOTE_ICON_DEFAULT`), you can either:
@@ -152,7 +138,7 @@ After deployment succeeds:
 
 ## Additional Notes
 
-- The `.env` file should **never** be committed to git (it's in `.gitignore`)
+- Despite `.gitignore` listing `.env`, it is currently tracked and committed — the Digital Garden plugin's auto-commit (`Update settings`) re-adds it after every vault republish regardless of `.gitignore`. If you want it genuinely untracked, run `git rm --cached .env` and confirm the plugin doesn't re-add it on the next publish; until then, treat it as public and never let it hold anything beyond site-config values (verified 2026-07-25: no credentials present, only display/theme flags)
 - Environment variables in Amplify Console override local `.env` values during deployment
-- The build uses Node.js 20 by default (configured in Amplify app settings)
+- The build requires Node.js 22 (`nvm use 22` in `amplify.yml`'s `preBuild` phase, matching `package.json`'s `engines.node`)
 - Build artifacts are cached to speed up subsequent deployments

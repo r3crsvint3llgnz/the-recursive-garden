@@ -2,9 +2,11 @@ name: CI
 
 on:
   push:
-    branches: ['*']
+    # '**' (not '*') so branch names containing '/' (e.g. fix/some-branch)
+    # still trigger CI — a bare '*' glob does not match across '/'.
+    branches: ['**']
   pull_request:
-    branches: ['*']
+    branches: ['**']
 
 jobs:
   test:
