@@ -11,7 +11,7 @@ npm run build    # Production build → dist/
 npm test         # Vitest
 ```
 
-There is no `lint` script despite `eslint.config.js` being present — run `npx eslint .` directly.
+`eslint.config.js` is orphaned — eslint is not a declared dependency (checked `package.json`/`node_modules`), there is no `lint` script, and no CI workflow lints. Running `npx eslint .` fails with `Cannot find package '@eslint/js'`. Linting requires installing `eslint`, `@eslint/js`, and `eslint-config-prettier` first.
 
 Requires Node 22.x. Config in `.env` (site name, theme URL, feature flags).
 
