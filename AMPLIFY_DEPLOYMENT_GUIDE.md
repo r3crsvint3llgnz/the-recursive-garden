@@ -100,26 +100,26 @@ If the build still fails after adding environment variables, the issue may be sp
 
 **Files with en-dash (–) - replace with regular hyphen (-):**
 
-- `src/site/notes/04-Resources/Atoms/RDD – Distinction (Definition).md`
-- `src/site/notes/04-Resources/Atoms/RDD – Entropy (Definition).md`
-- `src/site/notes/04-Resources/Atoms/RDD – Existence (Definition).md`
-- `src/site/notes/04-Resources/Atoms/RDD – Gravity (Definition).md`
-- `src/site/notes/04-Resources/Atoms/RDD – Persistence (Definition).md`
-- `src/site/notes/04-Resources/Atoms/RDD – Perspective (Definition).md`
-- `src/site/notes/04-Resources/Atoms/RDD – Potential (Definition).md`
-- `src/site/notes/04-Resources/Atoms/RDD – Recursion (Definition).md`
-- `src/site/notes/04-Resources/Atoms/RDD – Time (Definition).md`
+- `src/site/notes/03-DATABANKS/Atoms/RDD – Distinction (Definition).md`
+- `src/site/notes/03-DATABANKS/Atoms/RDD – Entropy (Definition).md`
+- `src/site/notes/03-DATABANKS/Atoms/RDD – Existence (Definition).md`
+- `src/site/notes/03-DATABANKS/Atoms/RDD – Gravity (Definition).md`
+- `src/site/notes/03-DATABANKS/Atoms/RDD – Persistence (Definition).md`
+- `src/site/notes/03-DATABANKS/Atoms/RDD – Perspective (Definition).md`
+- `src/site/notes/03-DATABANKS/Atoms/RDD – Potential (Definition).md`
+- `src/site/notes/03-DATABANKS/Atoms/RDD – Recursion (Definition).md`
+- `src/site/notes/03-DATABANKS/Atoms/RDD – Time (Definition).md`
 
 **Files with em-dash (—) - replace with regular hyphen (-):**
 
-- `src/site/notes/04-Resources/Molecules/KERNEL — prompt pattern (molecule).md`
+- `src/site/notes/03-DATABANKS/Molecules/KERNEL — prompt pattern (molecule).md`
 
 **Renaming command** (if needed):
 
 ```bash
 # Example for one file:
-git mv "src/site/notes/04-Resources/Atoms/RDD – Distinction (Definition).md" \
-       "src/site/notes/04-Resources/Atoms/RDD - Distinction (Definition).md"
+git mv "src/site/notes/03-DATABANKS/Atoms/RDD – Distinction (Definition).md" \
+       "src/site/notes/03-DATABANKS/Atoms/RDD - Distinction (Definition).md"
 ```
 
 ## Verification

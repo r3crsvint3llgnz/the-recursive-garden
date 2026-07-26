@@ -11,6 +11,8 @@ npm run build    # Production build → dist/
 npm test         # Vitest
 ```
 
+`eslint.config.js` is orphaned — eslint is not a declared dependency (checked `package.json`/`node_modules`), there is no `lint` script, and no CI workflow lints. Running `npx eslint .` fails with `Cannot find package '@eslint/js'`. Linting requires installing `eslint`, `@eslint/js`, and `eslint-config-prettier` first.
+
 Requires Node 22.x. Config in `.env` (site name, theme URL, feature flags).
 
 ## Stack
@@ -21,7 +23,7 @@ Requires Node 22.x. Config in `.env` (site name, theme URL, feature flags).
 | Templating | Nunjucks |
 | Styling | SCSS (compiled via sass CLI) |
 | Markdown | markdown-it + plugins (anchors, footnotes, MathJax3, PlantUML, task-checkboxes) |
-| Deployment | Netlify (primary), Vercel (secondary) |
+| Deployment | AWS Amplify (see `amplify.yml`, `AMPLIFY_DEPLOYMENT_GUIDE.md`) |
 
 ## Key Files
 
@@ -40,6 +42,11 @@ Obsidian plugin compatibility.
 
 This repo is managed by the Obsidian Digital Garden plugin. The plugin has structural
 expectations that must not be broken:
+- **Note files here are generated, not authored.** They are plugin-published mirrors of vault
+  notes carrying `dg-publish: true` (121 files). Editing one is doubly wrong: the change is
+  overwritten on the next publish, and it is live published content. Edit the vault note
+  instead — and that note is itself read-only under the global `dg-publish` hard constraint,
+  so it needs Seth's sign-off.
 - Do not alter the note directory structure or frontmatter conventions
 - Plugin-managed templates and layouts in `src/site/_includes/` may be overwritten
   on plugin updates — custom changes should be clearly isolated
