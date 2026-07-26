@@ -31,46 +31,26 @@ You **must** add these environment variables to AWS Amplify Console:
 4. Click **Manage variables**
 5. Add each variable below:
 
-#### Required Variables (from .env file):
+#### Required Variables:
 
-```bash
-# Site Configuration
-SITE_NAME_HEADER=The Recursive Garden
-SITE_MAIN_LANGUAGE=en
-SITE_BASE_URL=https://recursiveintelligence.xyz
+Amplify needs every key from the local `.env` file (it's gitignored, so
+Amplify never sees it otherwise). **Read the values straight from your local
+`.env`** rather than a hardcoded snapshot here — this file is managed by the
+Obsidian Digital Garden plugin and its values (especially `THEME`,
+`STYLE_SETTINGS_CSS`, `STYLE_SETTINGS_BODY_CLASSES`, and the `dg*` feature
+flags) change whenever the vault republishes, so any copy-pasted example
+goes stale fast. As of this writing the keys are:
 
-# Timestamps
-SHOW_CREATED_TIMESTAMP=false
-TIMESTAMP_FORMAT=MMM dd, yyyy h:mm a
-SHOW_UPDATED_TIMESTAMP=false
-
-# Note Icons
-NOTE_ICON_DEFAULT=
-NOTE_ICON_TITLE=false
-NOTE_ICON_FILETREE=false
-NOTE_ICON_INTERNAL_LINKS=false
-NOTE_ICON_BACK_LINKS=false
-
-# Styling
-STYLE_SETTINGS_CSS=
-STYLE_SETTINGS_BODY_CLASSES=
-USE_FULL_RESOLUTION_IMAGES=false
-
-# Theme
-THEME=https://raw.githubusercontent.com/Quinta0/Aurora-Twilight/HEAD/theme.css
-BASE_THEME=dark
-
-# Digital Garden Settings
-dgHomeLink=true
-dgPassFrontmatter=true
-dgShowBacklinks=true
-dgShowLocalGraph=true
-dgShowInlineTitle=true
-dgShowFileTree=true
-dgEnableSearch=true
-dgShowToc=true
-dgLinkPreview=true
-dgShowTags=true
+```
+SITE_NAME_HEADER, SITE_MAIN_LANGUAGE, SITE_BASE_URL,
+SHOW_CREATED_TIMESTAMP, TIMESTAMP_FORMAT, SHOW_UPDATED_TIMESTAMP,
+NOTE_ICON_DEFAULT, NOTE_ICON_TITLE, NOTE_ICON_FILETREE,
+NOTE_ICON_INTERNAL_LINKS, NOTE_ICON_BACK_LINKS,
+STYLE_SETTINGS_CSS, STYLE_SETTINGS_BODY_CLASSES, USE_FULL_RESOLUTION_IMAGES,
+THEME, BASE_THEME,
+dgHomeLink, dgPassFrontmatter, dgShowBacklinks, dgShowLocalGraph,
+dgShowInlineTitle, dgShowFileTree, dgEnableSearch, dgShowToc,
+dgLinkPreview, dgShowTags
 ```
 
 **Note**: For empty values (like `NOTE_ICON_DEFAULT`), you can either:
