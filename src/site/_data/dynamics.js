@@ -1,4 +1,17 @@
-const fsFileTree = require("fs-file-tree");
+// fs-file-tree@2.x ships as an ES module ("type": "module") with only a
+// default export. A top-level `require("fs-file-tree")` under Node's
+// require(esm) support returns the module namespace object (not the
+// function itself), so calling it directly throws
+// "fsFileTree is not a function". Load it via dynamic import and unwrap
+// the default export instead; this file stays CommonJS (module.exports)
+// since the functions here are already async.
+let fsFileTreePromise;
+const getFsFileTree = () => {
+  if (!fsFileTreePromise) {
+    fsFileTreePromise = import("fs-file-tree").then((mod) => mod.default);
+  }
+  return fsFileTreePromise;
+};
 
 const BASE_PATH = "src/site/_includes/components/user";
 const STYLE_PATH = "src/site/styles/user";
@@ -15,6 +28,7 @@ const generateComponentPaths = async (namespace, slots) => {
   for (let index = 0; index < slots.length; index++) {
     const slot = slots[index];
     try {
+      const fsFileTree = await getFsFileTree();
       const tree = await fsFileTree(`${BASE_PATH}/${namespace}/${slot}`);
       let comps = Object.keys(tree)
         .filter((p) => p.indexOf(".njk") != -1)
@@ -30,6 +44,7 @@ const generateComponentPaths = async (namespace, slots) => {
 
 const generateStylesPaths = async () => {
   try {
+    const fsFileTree = await getFsFileTree();
     const tree = await fsFileTree(`${STYLE_PATH}`);
     let comps = Object.keys(tree).map((p) =>
       `/styles/user/${p}`.replace(".scss", ".css")
