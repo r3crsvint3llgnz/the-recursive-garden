@@ -45,20 +45,20 @@
 ---
 
 > [!example]+ Latest Changes
->  | Note                                                                                     | status                  | Updated    |
-> | ---------------------------------------------------------------------------------------- | ----------------------- | ---------- |
-> | [[03-DATABANKS/Atoms/RDD – Recursion (Definition)\|RDD – Recursion (Definition)]]     | \-                      | 2026-07-25 |
-> | [[03-DATABANKS/Atoms/RDD – Entropy (Definition)\|RDD – Entropy (Definition)]]         | <ul><li>draft</li></ul> | 2026-07-25 |
-> | [[03-DATABANKS/Atoms/RDD – Potential (Definition)\|RDD – Potential (Definition)]]     | \-                      | 2026-07-25 |
-> | [[03-DATABANKS/Atoms/RDD – Gravity (Definition)\|RDD – Gravity (Definition)]]         | \-                      | 2026-07-25 |
-> | [[03-DATABANKS/Atoms/RDD – Persistence (Definition)\|RDD – Persistence (Definition)]] | <ul><li>draft</li></ul> | 2026-07-25 |
-> | [[03-DATABANKS/Atoms/RDD – Perspective (Definition)\|RDD – Perspective (Definition)]] | \-                      | 2026-07-25 |
-> | [[03-DATABANKS/Atoms/RDD – Time (Definition)\|RDD – Time (Definition)]]               | \-                      | 2026-07-25 |
-> | [[03-DATABANKS/Atoms/RDD – Existence (Definition)\|RDD – Existence (Definition)]]     | \-                      | 2026-07-25 |
-> | [[03-DATABANKS/Atoms/RDD – Distinction (Definition)\|RDD – Distinction (Definition)]] | \-                      | 2026-07-25 |
-> | [[03-DATABANKS/Atoms/Record (Memory Substrate)\|Record (Memory Substrate)]]           | draft                   | 2026-06-29 |
-> | [[03-DATABANKS/Atoms/Epistemic\|Epistemic]]                                           | draft                   | 2026-06-29 |
-> | [[03-DATABANKS/Atoms/Existence\|Existence]]                                           | draft                   | 2026-06-29 |
+>  | Note                                                                                                                                                                                     | status | Updated    |
+> | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | ---------- |
+> | [[01_ACTIVE/Recursive Distinction Dynamics/Experiments/Coarse graining erases distinctions\|Coarse graining erases distinctions]]                                                     | draft  | 2026-07-26 |
+> | [[01_ACTIVE/Recursive Distinction Dynamics/Experiments/Readout-induced decay of records\|Readout-induced decay of records]]                                                           | draft  | 2026-07-26 |
+> | [[01_ACTIVE/Recursive Distinction Dynamics/Experiments/Bistable potential and Kramers escape\|Bistable potential and Kramers escape]]                                                 | draft  | 2026-07-26 |
+> | [[01_ACTIVE/Recursive Distinction Dynamics/Claims and Hypotheses/Records require readable persistence\|Records require readable persistence]]                                         | draft  | 2026-07-26 |
+> | [[01_ACTIVE/Recursive Distinction Dynamics/Claims and Hypotheses/Persistent distinction equals suppressed transition rate\|Persistent distinction equals suppressed transition rate]] | draft  | 2026-07-26 |
+> | [[01_ACTIVE/Recursive Distinction Dynamics/Claims and Hypotheses/Coarse graining determines which distinctions exist\|Coarse graining determines which distinctions exist]]           | draft  | 2026-07-26 |
+> | [[03-DATABANKS/Atoms/Persistence Bias\|Persistence Bias]]                                                                                                                             | draft  | 2026-07-26 |
+> | [[03-DATABANKS/Atoms/Persistence (Metastable State Property)\|Persistence (Metastable State Property)]]                                                                               | draft  | 2026-07-26 |
+> | [[03-DATABANKS/Atoms/Ontic\|Ontic]]                                                                                                                                                   | draft  | 2026-07-26 |
+> | [[03-DATABANKS/Atoms/Noise\|Noise]]                                                                                                                                                   | draft  | 2026-07-26 |
+> | [[03-DATABANKS/Atoms/Existence\|Existence]]                                                                                                                                           | draft  | 2026-07-26 |
+> | [[03-DATABANKS/Atoms/Epistemic\|Epistemic]]                                                                                                                                           | draft  | 2026-07-26 |
 > 
 { .block-language-dataview}
 ---
@@ -104,8 +104,11 @@
 ---
 
 > [!warning]+ Claims & Hypotheses
->  | Claim | status | Updated |
-> | ----- | ------ | ------- |
+>  | Claim                                                                                                                                                                                    | status | Updated    |
+> | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | ---------- |
+> | [[01_ACTIVE/Recursive Distinction Dynamics/Claims and Hypotheses/Records require readable persistence\|Records require readable persistence]]                                         | draft  | 2026-07-26 |
+> | [[01_ACTIVE/Recursive Distinction Dynamics/Claims and Hypotheses/Persistent distinction equals suppressed transition rate\|Persistent distinction equals suppressed transition rate]] | draft  | 2026-07-26 |
+> | [[01_ACTIVE/Recursive Distinction Dynamics/Claims and Hypotheses/Coarse graining determines which distinctions exist\|Coarse graining determines which distinctions exist]]           | draft  | 2026-07-26 |
 > 
 { .block-language-dataview}
 ---
@@ -129,23 +132,23 @@
 
 ## Changelog
 
-| Changed                                                                                                    | When             |
-| ---------------------------------------------------------------------------------------------------------- | ---------------- |
-| [[03-DATABANKS/Atoms/RDD – Recursion (Definition)\|RDD – Recursion (Definition)]]                       | 2026-07-25 21:15 |
-| [[03-DATABANKS/Atoms/RDD – Entropy (Definition)\|RDD – Entropy (Definition)]]                           | 2026-07-25 21:11 |
-| [[03-DATABANKS/Atoms/RDD – Potential (Definition)\|RDD – Potential (Definition)]]                       | 2026-07-25 21:11 |
-| [[03-DATABANKS/Atoms/RDD – Gravity (Definition)\|RDD – Gravity (Definition)]]                           | 2026-07-25 21:11 |
-| [[03-DATABANKS/Atoms/RDD – Persistence (Definition)\|RDD – Persistence (Definition)]]                   | 2026-07-25 21:11 |
-| [[03-DATABANKS/Atoms/RDD – Perspective (Definition)\|RDD – Perspective (Definition)]]                   | 2026-07-25 21:11 |
-| [[03-DATABANKS/Atoms/RDD – Time (Definition)\|RDD – Time (Definition)]]                                 | 2026-07-25 21:11 |
-| [[03-DATABANKS/Atoms/RDD – Existence (Definition)\|RDD – Existence (Definition)]]                       | 2026-07-25 21:11 |
-| [[03-DATABANKS/Atoms/RDD – Distinction (Definition)\|RDD – Distinction (Definition)]]                   | 2026-07-25 21:11 |
-| [[03-DATABANKS/Atoms/Record (Memory Substrate)\|Record (Memory Substrate)]]                             | 2026-06-29 21:06 |
-| [[03-DATABANKS/Atoms/Epistemic\|Epistemic]]                                                             | 2026-06-29 21:06 |
-| [[03-DATABANKS/Atoms/Existence\|Existence]]                                                             | 2026-06-29 21:06 |
-| [[03-DATABANKS/Atoms/Constraint\|Constraint]]                                                           | 2026-06-29 21:06 |
-| [[03-DATABANKS/Atoms/Time\|Time]]                                                                       | 2026-06-29 21:06 |
-| [[03-DATABANKS/Atoms/Persistence (Metastable State Property)\|Persistence (Metastable State Property)]] | 2026-06-29 21:06 |
+| Changed                                                                                                                                                                                  | When             |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------- |
+| [[01_ACTIVE/Recursive Distinction Dynamics/Experiments/Coarse graining erases distinctions\|Coarse graining erases distinctions]]                                                     | 2026-07-26 18:00 |
+| [[01_ACTIVE/Recursive Distinction Dynamics/Experiments/Readout-induced decay of records\|Readout-induced decay of records]]                                                           | 2026-07-26 18:00 |
+| [[01_ACTIVE/Recursive Distinction Dynamics/Experiments/Bistable potential and Kramers escape\|Bistable potential and Kramers escape]]                                                 | 2026-07-26 18:00 |
+| [[01_ACTIVE/Recursive Distinction Dynamics/Claims and Hypotheses/Records require readable persistence\|Records require readable persistence]]                                         | 2026-07-26 18:00 |
+| [[01_ACTIVE/Recursive Distinction Dynamics/Claims and Hypotheses/Persistent distinction equals suppressed transition rate\|Persistent distinction equals suppressed transition rate]] | 2026-07-26 18:00 |
+| [[01_ACTIVE/Recursive Distinction Dynamics/Claims and Hypotheses/Coarse graining determines which distinctions exist\|Coarse graining determines which distinctions exist]]           | 2026-07-26 18:00 |
+| [[03-DATABANKS/Atoms/Persistence Bias\|Persistence Bias]]                                                                                                                             | 2026-07-26 13:44 |
+| [[03-DATABANKS/Atoms/Persistence (Metastable State Property)\|Persistence (Metastable State Property)]]                                                                               | 2026-07-26 13:44 |
+| [[03-DATABANKS/Atoms/Ontic\|Ontic]]                                                                                                                                                   | 2026-07-26 13:44 |
+| [[03-DATABANKS/Atoms/Noise\|Noise]]                                                                                                                                                   | 2026-07-26 13:44 |
+| [[03-DATABANKS/Atoms/Existence\|Existence]]                                                                                                                                           | 2026-07-26 13:44 |
+| [[03-DATABANKS/Atoms/Epistemic\|Epistemic]]                                                                                                                                           | 2026-07-26 13:44 |
+| [[03-DATABANKS/Atoms/Entropy\|Entropy]]                                                                                                                                               | 2026-07-26 13:44 |
+| [[03-DATABANKS/Atoms/Distinction\|Distinction]]                                                                                                                                       | 2026-07-26 13:44 |
+| [[03-DATABANKS/Atoms/Constraint\|Constraint]]                                                                                                                                         | 2026-07-26 13:44 |
 
 { .block-language-dataview}
 -----

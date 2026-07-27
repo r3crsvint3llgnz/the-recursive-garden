@@ -1,0 +1,31 @@
+---
+{"dg-publish":true,"kind":"claim","status":"draft","topics":["Recursive Distinction Dynamics"],"tags":["claim"],"created":"2025-12-29","updated":"2025-12-29","permalink":"/01-active/recursive-distinction-dynamics/claims-and-hypotheses/coarse-graining-determines-which-distinctions-exist/","dgPassFrontmatter":true,"dg-note-properties":{"kind":"claim","status":"draft","topics":["Recursive Distinction Dynamics"],"tags":["claim"],"created":"2025-12-29","updated":"2025-12-29"}}
+---
+
+# Coarse graining determines which distinctions exist
+
+## Claim
+A distinction may exist at one effective coarse graining while disappearing at another, without any change to underlying microdynamics.
+
+## Definitions used
+- [[Coarse Graining\|Coarse Graining]]
+- [[03-DATABANKS/Atoms/State Space\|State Space]]
+- [[03-DATABANKS/Atoms/Distinction\|Distinction]]
+
+## Predictions
+1. A partition predictive at fine resolution loses predictive power when coarse grained.
+2. Entropy production increases as distinctions vanish under coarse graining.
+
+## Operationalization
+- System: stochastic dynamical system with multiple scales
+- State variables: micro vs macro observables
+- Partition: defined at micro scale
+- Metric: predictive divergence of future ensembles
+- Timescale: across relaxation hierarchy
+
+## Disconfirming outcomes
+- Predictive distinctions remain invariant across coarse graining.
+- Coarse graining never alters causal relevance.
+
+## Candidate experiments / examples
+- [[Example – Coarse graining erases distinctions\|Example – Coarse graining erases distinctions]]

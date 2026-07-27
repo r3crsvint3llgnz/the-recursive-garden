@@ -33,6 +33,10 @@ Epistemic describes how reality is accessed, not how it is made.
 ## Links
 
 ### Related atoms
+- [[03-DATABANKS/Atoms/Distinction\|Distinction]]
+- [[03-DATABANKS/Atoms/Epistemic\|Epistemic]]
+- [[03-DATABANKS/Atoms/Perspective\|Perspective]]
+- [[03-DATABANKS/Atoms/Umwelt\|Umwelt]]
 
 { .block-language-dataview}`
 ### Used in molecules
@@ -55,7 +59,7 @@ Epistemic describes how reality is accessed, not how it is made.
     - **Use here:** Illustrates epistemic models as constrained mappings onto underlying dynamics without teleological causation.
         
 - **Source:** Dennett, D. C. (1987). _The Intentional Stance_.
-    - **Key:** [[@dennettIntentionalStance1987\|@dennettIntentionalStance1987]]
+    - **Key:** [[03-DATABANKS/Sources/Literature Sources/@dennettIntentionalStance1987\|@dennettIntentionalStance1987]]
     - **Use here:** Distinguishes explanatory stances without reifying them as physical causes.
 
 ---

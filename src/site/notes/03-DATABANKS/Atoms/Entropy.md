@@ -35,6 +35,8 @@ Entropy measures how easily a system forgets its past.
 ## Links
 
 ### Related atoms
+- [[03-DATABANKS/Atoms/Potential\|Potential]]
+- [[03-DATABANKS/Atoms/Time\|Time]]
 
 { .block-language-dataview}
 ### Used in molecules
