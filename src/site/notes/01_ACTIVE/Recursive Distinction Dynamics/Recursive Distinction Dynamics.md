@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"title":"Recursive Distinction Dynamics — Project Hub","section":"hubs","kind_pm":["Project"],"project":["[[Recursive Distinction Dynamics]]"],"status":"Active","priority":"High","tags":["rdd","philosophy","formalism","project"],"cover":"https://raw.githubusercontent.com/r3crsvint3llgnz/the-recursive-garden/main/src/site/img/user/01_ACTIVE/The%20Recursive%20Garden/_assets/rdd.png","description":"A computational ontology defining reality via Potential, Distinction, and Recursion.","topics":["distinctions","recursion","entropy","gravity","perspective","consciousness","Philosophy","Recursive Distinction Dynamics"],"summary":"Central command for the RDD framework and its axiomatic definitions.","permalink":"/01-active/recursive-distinction-dynamics/recursive-distinction-dynamics/","dgPassFrontmatter":true,"dg-note-properties":{"title":"Recursive Distinction Dynamics — Project Hub","section":"hubs","kind_pm":["Project"],"project":["[[Recursive Distinction Dynamics]]"],"status":"Active","priority":"High","tags":["rdd","philosophy","formalism","project"],"cover":"https://raw.githubusercontent.com/r3crsvint3llgnz/the-recursive-garden/main/src/site/img/user/01_ACTIVE/The%20Recursive%20Garden/_assets/rdd.png","description":"A computational ontology defining reality via Potential, Distinction, and Recursion.","topics":["distinctions","recursion","entropy","gravity","perspective","consciousness","Philosophy","Recursive Distinction Dynamics"],"summary":"Central command for the RDD framework and its axiomatic definitions."}}
+{"dg-publish":true,"title":"Recursive Distinction Dynamics — Project Hub","section":"hubs","kind_pm":["Project"],"project":["[[Recursive Distinction Dynamics]]"],"status":"Active","priority":"High","tags":["rdd","philosophy","formalism","project"],"cover":"https://raw.githubusercontent.com/r3crsvint3llgnz/the-recursive-garden/main/src/site/img/user/01_ACTIVE/The%20Recursive%20Garden/_assets/rdd.png","hub_order":20,"description":"A computational ontology defining reality via Potential, Distinction, and Recursion.","topics":["distinctions","recursion","entropy","gravity","perspective","consciousness","Philosophy","Recursive Distinction Dynamics"],"summary":"Central command for the RDD framework and its axiomatic definitions.","permalink":"/01-active/recursive-distinction-dynamics/recursive-distinction-dynamics/","dgPassFrontmatter":true,"dg-note-properties":{"title":"Recursive Distinction Dynamics — Project Hub","section":"hubs","kind_pm":["Project"],"project":["[[Recursive Distinction Dynamics]]"],"status":"Active","priority":"High","tags":["rdd","philosophy","formalism","project"],"cover":"https://raw.githubusercontent.com/r3crsvint3llgnz/the-recursive-garden/main/src/site/img/user/01_ACTIVE/The%20Recursive%20Garden/_assets/rdd.png","hub_order":20,"description":"A computational ontology defining reality via Potential, Distinction, and Recursion.","topics":["distinctions","recursion","entropy","gravity","perspective","consciousness","Philosophy","Recursive Distinction Dynamics"],"summary":"Central command for the RDD framework and its axiomatic definitions."}}
 ---
 
 ![rdd.png](/img/user/01_ACTIVE/The%20Recursive%20Garden/_assets/rdd.png)
@@ -47,6 +47,7 @@
 > [!example]+ Latest Changes
 >  | Note                                                                                                                                                                                     | status | Updated    |
 > | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | ---------- |
+> | [[01_ACTIVE/Recursive Distinction Dynamics/Recursive Distinction Dynamics\|Recursive Distinction Dynamics]]                                                                           | Active | 2026-07-26 |
 > | [[01_ACTIVE/Recursive Distinction Dynamics/Experiments/Coarse graining erases distinctions\|Coarse graining erases distinctions]]                                                     | draft  | 2026-07-26 |
 > | [[01_ACTIVE/Recursive Distinction Dynamics/Experiments/Readout-induced decay of records\|Readout-induced decay of records]]                                                           | draft  | 2026-07-26 |
 > | [[01_ACTIVE/Recursive Distinction Dynamics/Experiments/Bistable potential and Kramers escape\|Bistable potential and Kramers escape]]                                                 | draft  | 2026-07-26 |
@@ -58,7 +59,6 @@
 > | [[03-DATABANKS/Atoms/Ontic\|Ontic]]                                                                                                                                                   | draft  | 2026-07-26 |
 > | [[03-DATABANKS/Atoms/Noise\|Noise]]                                                                                                                                                   | draft  | 2026-07-26 |
 > | [[03-DATABANKS/Atoms/Existence\|Existence]]                                                                                                                                           | draft  | 2026-07-26 |
-> | [[03-DATABANKS/Atoms/Epistemic\|Epistemic]]                                                                                                                                           | draft  | 2026-07-26 |
 > 
 { .block-language-dataview}
 ---
@@ -134,6 +134,7 @@
 
 | Changed                                                                                                                                                                                  | When             |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------- |
+| [[01_ACTIVE/Recursive Distinction Dynamics/Recursive Distinction Dynamics\|Recursive Distinction Dynamics]]                                                                           | 2026-07-26 20:01 |
 | [[01_ACTIVE/Recursive Distinction Dynamics/Experiments/Coarse graining erases distinctions\|Coarse graining erases distinctions]]                                                     | 2026-07-26 18:00 |
 | [[01_ACTIVE/Recursive Distinction Dynamics/Experiments/Readout-induced decay of records\|Readout-induced decay of records]]                                                           | 2026-07-26 18:00 |
 | [[01_ACTIVE/Recursive Distinction Dynamics/Experiments/Bistable potential and Kramers escape\|Bistable potential and Kramers escape]]                                                 | 2026-07-26 18:00 |
@@ -148,7 +149,6 @@
 | [[03-DATABANKS/Atoms/Epistemic\|Epistemic]]                                                                                                                                           | 2026-07-26 13:44 |
 | [[03-DATABANKS/Atoms/Entropy\|Entropy]]                                                                                                                                               | 2026-07-26 13:44 |
 | [[03-DATABANKS/Atoms/Distinction\|Distinction]]                                                                                                                                       | 2026-07-26 13:44 |
-| [[03-DATABANKS/Atoms/Constraint\|Constraint]]                                                                                                                                         | 2026-07-26 13:44 |
 
 { .block-language-dataview}
 -----
