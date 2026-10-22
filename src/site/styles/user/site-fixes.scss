@@ -1,0 +1,42 @@
+/* Custom (not plugin-managed) fixes, loaded via the user styles slot. */
+
+/* Links to notes that aren't published point at /404.
+   Show them as plain text instead of a broken link. */
+.internal-link.is-unresolved {
+  pointer-events: none;
+  cursor: default;
+  color: var(--text-muted) !important;
+  text-decoration: none !important;
+  text-shadow: none !important;
+}
+
+/* Footer link back to the business site.
+   Margins mirror .content in digital-garden-base.scss so it lines up with the page text. */
+.ri-site-footer {
+  max-width: var(--dg-content-max-width);
+  margin-left: max(
+    calc(var(--dg-filetree-min-width) + var(--dg-filetree-gap)),
+    min(
+      calc((100vw - var(--dg-content-max-width)) / 2),
+      calc(100vw - var(--dg-content-max-width) - var(--dg-sidebar-max-width) - var(--dg-sidebar-gap) - 20px)
+    )
+  );
+  margin-right: auto;
+  padding: 0 0 40px;
+  font-size: 0.9em;
+
+  @media (max-width: 1400px) {
+    margin-left: calc(var(--dg-filetree-width) + 20px);
+    max-width: calc(100vw - var(--dg-filetree-width) - 50px);
+  }
+
+  @media (max-width: 1000px) {
+    margin-left: auto;
+    max-width: var(--dg-content-max-width);
+    padding: 0 20px 40px;
+  }
+}
+
+.ri-site-footer-link {
+  color: var(--interactive-accent, #ff6600);
+}
